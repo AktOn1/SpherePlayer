@@ -1,0 +1,719 @@
+[
+ {
+  "id": "StVsSgMKBVI",
+  "orig": "FINAL FANTASY XIII プレリュード",
+  "title": "Prelude to FINAL FANTASY XIII",
+  "seconds": 176,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JNkI08t4rqM",
+  "orig": "FINAL FANTASY XIII ～誓い～",
+  "title": "FINAL FANTASY XIII ~The Promise~",
+  "seconds": 93,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "XRukhi1c1Wk",
+  "orig": "第13日",
+  "title": "The Thirteenth Day",
+  "seconds": 54,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "eO1699uZh3Y",
+  "orig": "運命への反逆",
+  "title": "Defiers of Fate",
+  "seconds": 144,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "TXEB8gdkpqM",
+  "orig": "ブレイズエッジ",
+  "title": "Saber's Edge",
+  "seconds": 194,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "msjwMjuaS_Q",
+  "orig": "封鎖区画ハングドエッジ",
+  "title": "The Hanging Edge",
+  "seconds": 206,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "city"
+  ]
+ },
+ {
+  "id": "HqWXuhcB5ww",
+  "orig": "パージされる者たち",
+  "title": "Those Who Would Be Purged",
+  "seconds": 185,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tQknZ_C7Tbg",
+  "orig": "帰るための戦い",
+  "title": "Fighting to Go Home",
+  "seconds": 213,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Rwr8CBHYa3A",
+  "orig": "下界のファルシ",
+  "title": "The Pulse Fal'Cie",
+  "seconds": 74,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "P7OvyHcsZ6I",
+  "orig": "逃げてもいいの",
+  "title": "Is It Okay to Run Away?",
+  "seconds": 55,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zxunixS1MSA",
+  "orig": "スノウのテーマ",
+  "title": "Snow's Theme",
+  "seconds": 228,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RVIhsdTl1XA",
+  "orig": "異跡",
+  "title": "The Vestige",
+  "seconds": 169,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "3-Lp2WfNmac",
+  "orig": "ラグナロク",
+  "title": "Ragnarok",
+  "seconds": 227,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "G3BvGOro1Xw",
+  "orig": "あの日の空",
+  "title": "The Sky of That Day",
+  "seconds": 85,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ly7oOVJ_rhQ",
+  "orig": "永遠の誓い",
+  "title": "Eternal Promise",
+  "seconds": 145,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PaP2LNWKn0w",
+  "orig": "Eternal Love (Short Version)",
+  "title": "Eternal Love (Short Version)",
+  "seconds": 207,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Ah7FCB-o070",
+  "orig": "ビルジ湖",
+  "title": "Lake Bresha",
+  "seconds": 252,
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "water"
+  ]
+ },
+ {
+  "id": "S1O72pAADXM",
+  "orig": "下界のルシたち",
+  "title": "The Pulse l'Cie",
+  "seconds": 98,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xtjX2Tz4HGY",
+  "orig": "召喚獣",
+  "title": "The Eidolons",
+  "seconds": 171,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "WyTRg-DJ99M",
+  "orig": "閃光",
+  "title": "Blinded By Light",
+  "seconds": 175,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "FbV2HkaE9-E",
+  "orig": "バトルリザルト",
+  "title": "Battle Results",
+  "seconds": 76,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "f_cuBiyvZEY",
+  "orig": "つかのまの安息",
+  "title": "A Brief Respite",
+  "seconds": 129,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5fAsA1uAimc",
+  "orig": "騎兵隊のテーマ",
+  "title": "The Cavalry Theme",
+  "seconds": 158,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-YYxyQ3jRaQ",
+  "orig": "脱出",
+  "title": "Escape",
+  "seconds": 119,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gCChLrvMHKE",
+  "orig": "撃墜",
+  "title": "Shot Down",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rVZv9gARIic",
+  "orig": "アフロブルース",
+  "title": "Sazh's Afro Blues",
+  "seconds": 268,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JHc9VthwCbw",
+  "orig": "遺棄領域ヴァイルピークス",
+  "title": "The Vile Peaks",
+  "seconds": 183,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial",
+   "mountain"
+  ]
+ },
+ {
+  "id": "wH0hVkOr_3g",
+  "orig": "ライトニングのテーマ",
+  "title": "Lightning's Theme",
+  "seconds": 147,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "7dpr4uaNoKk",
+  "orig": "サッズのテーマ",
+  "title": "Sazh's Theme",
+  "seconds": 206,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VZw9O0julsA",
+  "orig": "ドレッドノート大爆進!",
+  "title": "Dreadnought's Rampage",
+  "seconds": 152,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "HUb6wzFIzbM",
+  "orig": "ガプラ樹林",
+  "title": "Gapra Whitewood",
+  "seconds": 165,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "industrial"
+  ]
+ },
+ {
+  "id": "XNI5nfCa05Q",
+  "orig": "緊迫",
+  "title": "Tension",
+  "seconds": 209,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "i7Nswg0Z7hE",
+  "orig": "果てなき疾走",
+  "title": "Endless Flight",
+  "seconds": 110,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tbktye3f0oo",
+  "orig": "サンレス水郷",
+  "title": "Sunleth Waterscape",
+  "seconds": 227,
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ {
+  "id": "Nt68CaccZ24",
+  "orig": "見失った希望",
+  "title": "Lost Hope",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EK5t6itMKp4",
+  "orig": "ルシ狩り作戦",
+  "title": "The l'Cie Hunt",
+  "seconds": 161,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9Lqb5li5SMQ",
+  "orig": "希望なき闘争",
+  "title": "Desperate Struggle",
+  "seconds": 125,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "DuQqxQkTTag",
+  "orig": "恩讐の果て",
+  "title": "The End of Vengeance",
+  "seconds": 159,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VzvJbecaNPc",
+  "orig": "グラン=パルスのルシ",
+  "title": "The Gran Pulse l'Cie",
+  "seconds": 253,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "k9yCnVXkYlY",
+  "orig": "セラのテーマ",
+  "title": "Serah's Theme",
+  "seconds": 90,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2PzmXtAy6AY",
+  "orig": "父ちゃん奮闘だぁ!",
+  "title": "Daddy's Got the Blues",
+  "seconds": 320,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5GXP_JqBoRQ",
+  "orig": "PSICOM",
+  "title": "PSICOM",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jMpBNGLL_f0",
+  "orig": "ホープのテーマ",
+  "title": "Hope's Theme",
+  "seconds": 211,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RQ90mjsilD4",
+  "orig": "おまえの家はここだ",
+  "title": "This Is Your Home",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9PsZqeWmn1o",
+  "orig": "償い",
+  "title": "Atonement",
+  "seconds": 264,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PY6qbW0i_uk",
+  "orig": "ヴァニラのテーマ",
+  "title": "Vanille's Theme",
+  "seconds": 180,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "pne5Gxvb3f8",
+  "orig": "刻限",
+  "title": "Time Limit",
+  "seconds": 43,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5hA1aNFnMxQ",
+  "orig": "ポンパ･サンクタ",
+  "title": "Pompa Sancta",
+  "seconds": 132,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "industrial"
+  ]
+ },
+ {
+  "id": "Cv8lm2ZcAZc",
+  "orig": "歓楽都市ノーチラス",
+  "title": "Nautilus",
+  "seconds": 298,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "jwRo6zv9LuE",
+  "orig": "コクーンdeチョコボ～夢をみようよⅡ～",
+  "title": "Chocobos of Cocoon - Chasing Dreams",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "eV_vsbKRjMM",
+  "orig": "偽りの饗宴",
+  "title": "Feast of Betrayal",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dPkzv7oRoU8",
+  "orig": "夢の終わり",
+  "title": "The Dream's End",
+  "seconds": 217,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ii39VyANhhc",
+  "orig": "ルシの試練",
+  "title": "Trial of the l'Cie",
+  "seconds": 143,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "H9_oKczQLns",
+  "orig": "世界の敵",
+  "title": "Enemy of the World",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "bhU9r5MKiFI",
+  "orig": "ゲームオーバー",
+  "title": "Game Over",
+  "seconds": 75,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RGrdWQZoXXg",
+  "orig": "聖府代表ダイスリー",
+  "title": "Primarch Dysley",
+  "seconds": 183,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ewvxLBX0r7E",
+  "orig": "宿命への抗い",
+  "title": "Defiance of Destiny",
+  "seconds": 148,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xg7TPd4wwV0",
+  "orig": "ルシたちの想い",
+  "title": "Thoughts of the l'Cie",
+  "seconds": 162,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QtX3fJyMEtM",
+  "orig": "継ぎゆく意志",
+  "title": "Will to Fight",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iyblZM26fw4",
+  "orig": "死闘",
+  "title": "Fighting Fate",
+  "seconds": 230,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "7D2EKe0IAjg",
+  "orig": "神秘",
+  "title": "Mysteries",
+  "seconds": 162,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8PijzIDM-n4",
+  "orig": "Choose to Fight",
+  "title": "Choose to Fight",
+  "seconds": 261,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tZM4TW3bPqs",
+  "orig": "ファングのテーマ",
+  "title": "Fang's Theme",
+  "seconds": 212,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "njU_MZey7lk",
+  "orig": "異境大陸グラン=パルス",
+  "title": "The Gran Pulse",
+  "seconds": 138,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "IZAO6ntwHrE",
+  "orig": "アルカキルティ大平原",
+  "title": "Archylte Steppe",
+  "seconds": 265,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "Dj99s74smPI",
+  "orig": "パルスdeチョコボ",
+  "title": "Chocobos of Pulse",
+  "seconds": 259,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "L8HK7hNJGRE",
+  "orig": "ヤシャス山",
+  "title": "Mah'habara Subterra / Yaschas Massif",
+  "seconds": 131,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "AwaKonW5mIM",
+  "orig": "優しい思い出",
+  "title": "Gentle Memories",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "sq-4SvGAJsE",
+  "orig": "スーリヤ湖",
+  "title": "Lake Surya",
+  "seconds": 205,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "poFNdmGNX1o",
+  "orig": "テージンタワー",
+  "title": "Taejin's Tower",
+  "seconds": 189,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "FFQRJHh3VNc",
+  "orig": "色のない世界",
+  "title": "Dust to Dust",
+  "seconds": 229,
+  "kind": "town",
+  "tags": [
+   "ruins",
+   "town"
+  ]
+ },
+ {
+  "id": "xfzUJydZyhE",
+  "orig": "帰郷",
+  "title": "Homecoming",
+  "seconds": 67,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "n703D-oHyPc",
+  "orig": "カウントダウン",
+  "title": "Countdown",
+  "seconds": 203,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VOT9y7P5cL4",
+  "orig": "動乱のエデン",
+  "title": "Eden Under Siege",
+  "seconds": 154,
+  "kind": "dungeon",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "c74j57krmxE",
+  "orig": "終焉の揺籃",
+  "title": "Orphan's Cradle",
+  "seconds": 239,
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "id": "TgdxJ7wHqT0",
+  "orig": "降誕",
+  "title": "Born Anew",
+  "seconds": 179,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "36iRTpQlnwc",
+  "orig": "罪深き希望",
+  "title": "Sinful Hope",
+  "seconds": 225,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "UuuglmZ4pVE",
+  "orig": "ファブラ･ノヴァ･クリスタリス",
+  "title": "Fabula Nova Crystallis",
+  "seconds": 160,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "79zyp83bsHo",
+  "orig": "FINAL FANTASY XIII ～奇跡～",
+  "title": "FINAL FANTASY XIII ~Miracle~",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Ki7Mi6aWG28",
+  "orig": "使命",
+  "title": "Mission",
+  "seconds": 141,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Bw6ycaCpN7k",
+  "orig": "生誕のレクイエム",
+  "title": "Nascent Requiem",
+  "seconds": 304,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "S1f-jK5A8Eo",
+  "orig": "決意",
+  "title": "Determination",
+  "seconds": 202,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jQKzr6OP45c",
+  "orig": "君がいるから (Long Version)",
+  "title": "Kimi ga Iru Kara (Long Version)",
+  "seconds": 383,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qAnIeZ-6NFk",
+  "orig": "エンディングロール",
+  "title": "Ending Credits",
+  "seconds": 283,
+  "kind": "other",
+  "tags": []
+ }
+]

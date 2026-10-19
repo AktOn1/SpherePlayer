@@ -1,0 +1,468 @@
+[
+ {
+  "id": "-5qt0NK5b9A",
+  "kind": "other",
+  "tags": [],
+  "en": "Liberi Fatali"
+ },
+ {
+  "id": "p2RW8HWNY8M",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Balamb GARDEN"
+ },
+ {
+  "id": "0-x2llAIDAY",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Blue Fields"
+ },
+ {
+  "id": "nZ4Ivp-nTEQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Don't be Afraid"
+ },
+ {
+  "id": "VAixXiXdreY",
+  "kind": "other",
+  "tags": [],
+  "en": "The Winner"
+ },
+ {
+  "id": "iUXj3Pgda3o",
+  "kind": "other",
+  "tags": [],
+  "en": "Find Your Way"
+ },
+ {
+  "id": "KyPFEN8v65A",
+  "kind": "other",
+  "tags": [],
+  "en": "SeeD"
+ },
+ {
+  "id": "YY9QzQdRMbA",
+  "kind": "other",
+  "tags": [],
+  "en": "The Landing"
+ },
+ {
+  "id": "ayCF8s0DFhA",
+  "kind": "other",
+  "tags": [],
+  "en": "Starting Up"
+ },
+ {
+  "id": "ak-AfYL-rfI",
+  "kind": "other",
+  "tags": [],
+  "en": "Force Your Way"
+ },
+ {
+  "id": "LUV67UGl4Z8",
+  "kind": "other",
+  "tags": [],
+  "en": "The Loser"
+ },
+ {
+  "id": "dqlV-lruCic",
+  "kind": "other",
+  "tags": [],
+  "en": "Never Look Back"
+ },
+ {
+  "id": "8FOZZ4XV8hs",
+  "kind": "other",
+  "tags": [],
+  "en": "Dead End"
+ },
+ {
+  "id": "aIg8Rwqt5KA",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "Breezy"
+ },
+ {
+  "id": "OirbhFAmcAQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Shuffle or Boogie"
+ },
+ {
+  "id": "Na0kklT7N4A",
+  "kind": "other",
+  "tags": [],
+  "en": "Waltz for the Moon"
+ },
+ {
+  "id": "mtSMPBMR0WI",
+  "kind": "other",
+  "tags": [],
+  "en": "Tell Me"
+ },
+ {
+  "id": "_Qo0Lda9iYI",
+  "kind": "other",
+  "tags": [],
+  "en": "Fear"
+ },
+ {
+  "id": "KMm7kayDeTU",
+  "kind": "other",
+  "tags": [],
+  "en": "The Man with the Machine Gun"
+ },
+ {
+  "id": "wE6ACd1ia0g",
+  "kind": "other",
+  "tags": [],
+  "en": "Julia"
+ },
+ {
+  "id": "V8OkX0icCOo",
+  "kind": "other",
+  "tags": [],
+  "en": "Roses and Wine"
+ },
+ {
+  "id": "QkXHKpUK49g",
+  "kind": "other",
+  "tags": [],
+  "en": "Junction"
+ },
+ {
+  "id": "MEqmpgtFOnU",
+  "kind": "other",
+  "tags": [],
+  "en": "Timber Owls"
+ },
+ {
+  "id": "uTYqXHL5knQ",
+  "kind": "other",
+  "tags": [],
+  "en": "My Mind"
+ },
+ {
+  "id": "opppjFsEHWU",
+  "kind": "other",
+  "tags": [],
+  "en": "The Mission"
+ },
+ {
+  "id": "rsD8mrKnC0I",
+  "kind": "other",
+  "tags": [],
+  "en": "Martial Law"
+ },
+ {
+  "id": "hTE6735qAu8",
+  "kind": "other",
+  "tags": [],
+  "en": "Cactus Jack (Galbadian Anthem)"
+ },
+ {
+  "id": "xpavufUoCm8",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ],
+  "en": "Only a Plank Between One and Perdition"
+ },
+ {
+  "id": "-L4cwL_RKNI",
+  "kind": "other",
+  "tags": [],
+  "en": "Succession of Witches"
+ },
+ {
+  "id": "PBk0KBCud1M",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Galbadia GARDEN"
+ },
+ {
+  "id": "OAt6vrlqmyg",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "castle"
+  ],
+  "en": "Unrest"
+ },
+ {
+  "id": "1I-pTXNzkrk",
+  "kind": "other",
+  "tags": [],
+  "en": "Under Her Control"
+ },
+ {
+  "id": "aKzPaLhBCjI",
+  "kind": "other",
+  "tags": [],
+  "en": "The Stage is Set"
+ },
+ {
+  "id": "_82OWXTF89A",
+  "kind": "other",
+  "tags": [],
+  "en": "A Sacrifice"
+ },
+ {
+  "id": "fQg94e973jY",
+  "kind": "boss",
+  "tags": [],
+  "en": "Fithos Lusec Wecos Vinosec"
+ },
+ {
+  "id": "6bpB-Hv9hQs",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ],
+  "en": "Intruders"
+ },
+ {
+  "id": "2UypEmBr9Gg",
+  "kind": "other",
+  "tags": [],
+  "en": "Premonition"
+ },
+ {
+  "id": "4-4NtZOGp8U",
+  "kind": "other",
+  "tags": [],
+  "en": "Wounded"
+ },
+ {
+  "id": "Y_ujurU0wOg",
+  "kind": "other",
+  "tags": [],
+  "en": "Fragments of Memories"
+ },
+ {
+  "id": "x5TCoRnNmjg",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ],
+  "en": "Jailed"
+ },
+ {
+  "id": "2O3zaOd1y3g",
+  "kind": "other",
+  "tags": [],
+  "en": "Rivals"
+ },
+ {
+  "id": "7VYCpwxeFT8",
+  "kind": "other",
+  "tags": [],
+  "en": "Ami"
+ },
+ {
+  "id": "O6cS3EjKwBE",
+  "kind": "other",
+  "tags": [],
+  "en": "The Spy"
+ },
+ {
+  "id": "yNBrgAIYd_U",
+  "kind": "other",
+  "tags": [],
+  "en": "Retaliation"
+ },
+ {
+  "id": "AJaRwfECgbU",
+  "kind": "other",
+  "tags": [],
+  "en": "Movin'"
+ },
+ {
+  "id": "GiuZVFiExm8",
+  "kind": "other",
+  "tags": [],
+  "en": "Blue Sky"
+ },
+ {
+  "id": "PlC9gIt56Ng",
+  "kind": "other",
+  "tags": [],
+  "en": "Drifting"
+ },
+ {
+  "id": "lzo-_JiamqM",
+  "kind": "other",
+  "tags": [],
+  "en": "Heresy"
+ },
+ {
+  "id": "YP9in2EqREA",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "Fisherman's Horizon"
+ },
+ {
+  "id": "TZgq1_bMADo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo (Odeka ke Chocobo)"
+ },
+ {
+  "id": "48XNRdB1U84",
+  "kind": "other",
+  "tags": [],
+  "en": "Where I Belong"
+ },
+ {
+  "id": "n7UdnWvKNSg",
+  "kind": "other",
+  "tags": [],
+  "en": "The Oath"
+ },
+ {
+  "id": "WCk1dcIa0JM",
+  "kind": "other",
+  "tags": [],
+  "en": "Slide Show Part 1"
+ },
+ {
+  "id": "EwcF5IfPkuU",
+  "kind": "other",
+  "tags": [],
+  "en": "Slide Show Part 2"
+ },
+ {
+  "id": "bh9HxqY8_j8",
+  "kind": "other",
+  "tags": [],
+  "en": "Love Grows"
+ },
+ {
+  "id": "hrCPzmr5gLo",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "industrial"
+  ],
+  "en": "The Salt Flats"
+ },
+ {
+  "id": "fIJsu1GuOq4",
+  "kind": "other",
+  "tags": [],
+  "en": "Trust Me"
+ },
+ {
+  "id": "AetxEr2TULw",
+  "kind": "other",
+  "tags": [],
+  "en": "Silence and Motion"
+ },
+ {
+  "id": "Hsy7M4HNcy8",
+  "kind": "other",
+  "tags": [],
+  "en": "Dance with the Balamb Fish"
+ },
+ {
+  "id": "vy67gZnfPwU",
+  "kind": "other",
+  "tags": [],
+  "en": "Tears of the Moon"
+ },
+ {
+  "id": "Vds0lW3lFEw",
+  "kind": "other",
+  "tags": [],
+  "en": "Residents"
+ },
+ {
+  "id": "0roq4tX_l5I",
+  "kind": "other",
+  "tags": [],
+  "en": "Mods de Chocobo (featuring N's Telecaster)"
+ },
+ {
+  "id": "pmSKMKgyRhM",
+  "kind": "other",
+  "tags": [],
+  "en": "Ride On"
+ },
+ {
+  "id": "fpOTROdY-_U",
+  "kind": "other",
+  "tags": [],
+  "en": "Truth"
+ },
+ {
+  "id": "irHiKfXGJeM",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ],
+  "en": "Lunatic Pandora"
+ },
+ {
+  "id": "0oH5dksLgv8",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Compression of Time"
+ },
+ {
+  "id": "nAepj6cKllE",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "The Castle"
+ },
+ {
+  "id": "oW61WM0DDUA",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Legendary Beast"
+ },
+ {
+  "id": "NYpkDvfY5n4",
+  "kind": "other",
+  "tags": [],
+  "en": "Maybe I'm a Lion"
+ },
+ {
+  "id": "WFjHWw_w91Q",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Extreme"
+ },
+ {
+  "id": "bWA635zt9nM",
+  "kind": "other",
+  "tags": [],
+  "en": "Overture"
+ }
+]

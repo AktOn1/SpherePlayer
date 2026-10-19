@@ -1,0 +1,6667 @@
+{
+ "128": {
+  "name": "Limsa Lominsa Upper Decks",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "129": {
+  "name": "Limsa Lominsa Lower Decks",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "130": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "131": {
+  "name": "Ul'dah - Steps of Thal",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "132": {
+  "name": "New Gridania",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "133": {
+  "name": "Old Gridania",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "134": {
+  "name": "Middle La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "135": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "136": {
+  "name": "Mist",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ "137": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "138": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "139": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "140": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "141": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "142": {
+  "name": "Halatali",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "144": {
+  "name": "The Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "145": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "146": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "147": {
+  "name": "Northern Thanalan",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "desert"
+  ]
+ },
+ "148": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "151": {
+  "name": "The World of Darkness",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ]
+ },
+ "152": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "153": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "154": {
+  "name": "North Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "155": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "156": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "159": {
+  "name": "The Wanderer's Palace",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "desert"
+  ]
+ },
+ "160": {
+  "name": "Pharos Sirius",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "167": {
+  "name": "Amdapor Keep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "eerie"
+  ]
+ },
+ "171": {
+  "name": "Dzemael Darkhold",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ "172": {
+  "name": "Aurum Vale",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "forest"
+  ]
+ },
+ "174": {
+  "name": "Labyrinth of the Ancients",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "180": {
+  "name": "Outer La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "181": {
+  "name": "Limsa Lominsa",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "182": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "183": {
+  "name": "New Gridania",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "188": {
+  "name": "The Wanderer's Palace",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "desert"
+  ]
+ },
+ "189": {
+  "name": "Amdapor Keep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "eerie"
+  ]
+ },
+ "190": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "191": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "192": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "193": {
+  "name": "IC-06 Central Decks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "194": {
+  "name": "IC-06 Regeneration Grid",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "195": {
+  "name": "IC-06 Main Bridge",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "196": {
+  "name": "The Burning Heart",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "volcano"
+  ]
+ },
+ "214": {
+  "name": "Middle La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "215": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "216": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "219": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "220": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "221": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "222": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "223": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "225": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "226": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "227": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "228": {
+  "name": "North Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "229": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "230": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "231": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "232": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "233": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "234": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "235": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "236": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "237": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "238": {
+  "name": "Old Gridania",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "239": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "240": {
+  "name": "North Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "241": {
+  "name": "Upper Aetheroacoustic Exploratory Site",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ "242": {
+  "name": "Lower Aetheroacoustic Exploratory Site",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ "243": {
+  "name": "The Ragnarok",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "244": {
+  "name": "Ragnarok Drive Cylinder",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "245": {
+  "name": "Ragnarok Central Core",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "248": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "249": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "250": {
+  "name": "Wolves' Den Pier",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "industrial"
+  ]
+ },
+ "251": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "252": {
+  "name": "Middle La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "253": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "254": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "255": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "256": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "257": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "258": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "259": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "260": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "261": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "262": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "263": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "264": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "265": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "266": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "267": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "268": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "269": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "270": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "271": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "272": {
+  "name": "Middle La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "273": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "274": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "275": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "277": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "278": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "279": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "280": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "281": {
+  "name": "The Whorleater",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "285": {
+  "name": "Middle La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "287": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "289": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "290": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "291": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "292": {
+  "name": "Bowl of Embers",
+  "kind": "dungeon",
+  "tags": [
+   "volcano"
+  ]
+ },
+ "293": {
+  "name": "The Navel",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ "294": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "295": {
+  "name": "Bowl of Embers",
+  "kind": "dungeon",
+  "tags": [
+   "volcano"
+  ]
+ },
+ "296": {
+  "name": "The Navel",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ "297": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "298": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "299": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "300": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "301": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "302": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "303": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "304": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "305": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "306": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "307": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "308": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "309": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "310": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "311": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "312": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "313": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "314": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "315": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "316": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "317": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "318": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "319": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "320": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "321": {
+  "name": "North Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "322": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "323": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "324": {
+  "name": "North Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "325": {
+  "name": "Outer La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "326": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "327": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "328": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "329": {
+  "name": "The Wanderer's Palace",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "desert"
+  ]
+ },
+ "330": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "331": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "335": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "339": {
+  "name": "Mist",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ "340": {
+  "name": "The Lavender Beds",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "341": {
+  "name": "The Goblet",
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ]
+ },
+ "348": {
+  "name": "Porta Decumana",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "349": {
+  "name": "Copperbell Mines",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ "350": {
+  "name": "Haukke Manor",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "353": {
+  "name": "Kugane Ohashi",
+  "kind": "dungeon",
+  "tags": [
+   "seaside"
+  ]
+ },
+ "354": {
+  "name": "The Dancing Plague",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal"
+  ]
+ },
+ "355": {
+  "name": "Dalamud's Shadow",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ "356": {
+  "name": "The Outer Coil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "357": {
+  "name": "Central Decks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "358": {
+  "name": "The Holocharts",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "359": {
+  "name": "The Whorleater",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "360": {
+  "name": "Halatali",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "361": {
+  "name": "Hullbreaker Isle",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "362": {
+  "name": "Brayflox's Longstop",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "swamp"
+  ]
+ },
+ "363": {
+  "name": "The Lost City of Amdapor",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "364": {
+  "name": "Thornmarch",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ "365": {
+  "name": "Stone Vigil",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow",
+   "ruins"
+  ]
+ },
+ "366": {
+  "name": "Griffin Crossing",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "367": {
+  "name": "The Sunken Temple of Qarn",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave",
+   "desert"
+  ]
+ },
+ "368": {
+  "name": "The Weeping Saint",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "369": {
+  "name": "Hall of the Bestiarii",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "372": {
+  "name": "Syrcus Tower",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "373": {
+  "name": "The Tam-Tara Deepcroft",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins",
+   "cave"
+  ]
+ },
+ "374": {
+  "name": "The Striking Tree",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "sky"
+  ]
+ },
+ "375": {
+  "name": "The Striking Tree",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "sky"
+  ]
+ },
+ "377": {
+  "name": "Akh Afah Amphitheatre",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "ruins"
+  ]
+ },
+ "378": {
+  "name": "Akh Afah Amphitheatre",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "ruins"
+  ]
+ },
+ "379": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "380": {
+  "name": "Dalamud's Shadow",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ "381": {
+  "name": "The Outer Coil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "382": {
+  "name": "Central Decks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "383": {
+  "name": "The Holocharts",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "387": {
+  "name": "Sastasha",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "seaside",
+   "water"
+  ]
+ },
+ "394": {
+  "name": "South Shroud",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "396": {
+  "name": "Amdapor Keep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "eerie"
+  ]
+ },
+ "397": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "398": {
+  "name": "The Dravanian Forelands",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ "399": {
+  "name": "The Dravanian Hinterlands",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "mountain"
+  ]
+ },
+ "400": {
+  "name": "The Churning Mists",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "401": {
+  "name": "The Sea of Clouds",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "402": {
+  "name": "Azys Lla",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "ruins",
+   "industrial"
+  ]
+ },
+ "403": {
+  "name": "Ala Mhigo",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "404": {
+  "name": "Limsa Lominsa Lower Decks",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "405": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "406": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "408": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "409": {
+  "name": "Limsa Lominsa Upper Decks",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "410": {
+  "name": "Northern Thanalan",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "desert"
+  ]
+ },
+ "411": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "412": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "413": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "414": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "415": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "418": {
+  "name": "Foundation",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "419": {
+  "name": "The Pillars",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "420": {
+  "name": "Neverreap",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "ruins"
+  ]
+ },
+ "430": {
+  "name": "The Fractal Continuum",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ "432": {
+  "name": "Thok ast Thok",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "436": {
+  "name": "The Limitless Blue",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "sky",
+   "water"
+  ]
+ },
+ "437": {
+  "name": "Singularity Reactor",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "442": {
+  "name": "The Fist of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "443": {
+  "name": "The Cuff of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "444": {
+  "name": "The Arm of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "445": {
+  "name": "The Burden of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "446": {
+  "name": "Thok ast Thok",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "447": {
+  "name": "The Limitless Blue",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "sky",
+   "water"
+  ]
+ },
+ "448": {
+  "name": "Singularity Reactor",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "449": {
+  "name": "The Fist of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "450": {
+  "name": "The Cuff of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "451": {
+  "name": "The Arm of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "452": {
+  "name": "The Burden of the Father",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "453": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "454": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "455": {
+  "name": "The Sea of Clouds",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "457": {
+  "name": "Akh Afah Amphitheatre",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "ruins"
+  ]
+ },
+ "458": {
+  "name": "Foundation",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "459": {
+  "name": "Azys Lla",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "ruins",
+   "industrial"
+  ]
+ },
+ "460": {
+  "name": "Halatali",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "461": {
+  "name": "The Sea of Clouds",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "464": {
+  "name": "The Dravanian Forelands",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ "465": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "466": {
+  "name": "Upper La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "467": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "468": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "469": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "470": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "471": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "472": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "473": {
+  "name": "South Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "474": {
+  "name": "Limsa Lominsa Upper Decks",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "475": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "476": {
+  "name": "The Dravanian Hinterlands",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "mountain"
+  ]
+ },
+ "477": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "478": {
+  "name": "Idyllshire",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ "479": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "480": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "481": {
+  "name": "The Dravanian Forelands",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ "482": {
+  "name": "The Dravanian Forelands",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ "483": {
+  "name": "Northern Thanalan",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "desert"
+  ]
+ },
+ "484": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "485": {
+  "name": "The Dravanian Hinterlands",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "mountain"
+  ]
+ },
+ "486": {
+  "name": "Outer La Noscea",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ "487": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "488": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "489": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "490": {
+  "name": "Hullbreaker Isle",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "491": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "492": {
+  "name": "The Sea of Clouds",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "493": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "494": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "495": {
+  "name": "Lower La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "496": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "497": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "498": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "499": {
+  "name": "The Pillars",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "500": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "501": {
+  "name": "The Churning Mists",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "503": {
+  "name": "The Dravanian Hinterlands",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "mountain"
+  ]
+ },
+ "508": {
+  "name": "Void Ark",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "sky"
+  ]
+ },
+ "510": {
+  "name": "Pharos Sirius",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "511": {
+  "name": "Saint Mocianne's Arboretum",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ "512": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "513": {
+  "name": "The Vault",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow"
+  ]
+ },
+ "514": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "515": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "517": {
+  "name": "Containment Bay S1T7",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "519": {
+  "name": "The Lost City of Amdapor",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "520": {
+  "name": "The Fist of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "521": {
+  "name": "The Cuff of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "522": {
+  "name": "The Arm of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "523": {
+  "name": "The Burden of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "524": {
+  "name": "Containment Bay S1T7",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "529": {
+  "name": "The Fist of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "530": {
+  "name": "The Cuff of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "531": {
+  "name": "The Arm of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "532": {
+  "name": "The Burden of the Son",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "533": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "552": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "556": {
+  "name": "The Weeping City of Mhach",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "557": {
+  "name": "Hullbreaker Isle",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "558": {
+  "name": "The Aquapolis",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave"
+  ]
+ },
+ "559": {
+  "name": "Steps of Faith",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "sky",
+   "castle"
+  ]
+ },
+ "560": {
+  "name": "Aetherochemical Research Facility",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "561": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "562": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "563": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "564": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "565": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "566": {
+  "name": "Steps of Faith",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "sky",
+   "castle"
+  ]
+ },
+ "569": {
+  "name": "Steps of Faith",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "sky",
+   "castle"
+  ]
+ },
+ "570": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "576": {
+  "name": "Containment Bay P1T6",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "577": {
+  "name": "Containment Bay P1T6",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "578": {
+  "name": "The Great Gubal Library",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "580": {
+  "name": "Eyes of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "581": {
+  "name": "Breath of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "582": {
+  "name": "Heart of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "583": {
+  "name": "Soul of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "584": {
+  "name": "Eyes of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "585": {
+  "name": "Breath of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "586": {
+  "name": "Heart of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "587": {
+  "name": "Soul of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "588": {
+  "name": "Heart of the Creator",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "592": {
+  "name": "Bowl of Embers",
+  "kind": "dungeon",
+  "tags": [
+   "volcano"
+  ]
+ },
+ "593": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "594": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "595": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "596": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "597": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "598": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "599": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "600": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "601": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "602": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "603": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "604": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "605": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "606": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "607": {
+  "name": "The Palace of the Dead",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "612": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "613": {
+  "name": "The Ruby Sea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "614": {
+  "name": "Yanxia",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "617": {
+  "name": "Sohm Al",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "mountain"
+  ]
+ },
+ "620": {
+  "name": "The Peaks",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "industrial"
+  ]
+ },
+ "621": {
+  "name": "The Lochs",
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ "622": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "624": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "625": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "627": {
+  "name": "Dun Scaith",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "628": {
+  "name": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "634": {
+  "name": "Yanxia",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "635": {
+  "name": "Rhalgr's Reach",
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle",
+   "mountain"
+  ]
+ },
+ "637": {
+  "name": "Containment Bay Z1T9",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "638": {
+  "name": "Containment Bay Z1T9",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "640": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "641": {
+  "name": "Shirogane",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ "647": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "648": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "656": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "657": {
+  "name": "The Ruby Sea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "658": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "659": {
+  "name": "Rhalgr's Reach",
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle",
+   "mountain"
+  ]
+ },
+ "662": {
+  "name": "Kugane Castle",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "seaside"
+  ]
+ },
+ "663": {
+  "name": "The Temple of the Fist",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "mountain"
+  ]
+ },
+ "664": {
+  "name": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "665": {
+  "name": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "666": {
+  "name": "Ul'dah - Steps of Thal",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "667": {
+  "name": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "668": {
+  "name": "Eastern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "669": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "670": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "671": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "672": {
+  "name": "Mor Dhona",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ "673": {
+  "name": "Sohm Al",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "mountain"
+  ]
+ },
+ "674": {
+  "name": "The Blessed Treasury",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "675": {
+  "name": "Western La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ "676": {
+  "name": "The Great Gubal Library",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "677": {
+  "name": "The Blessed Treasury",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "678": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "679": {
+  "name": "The Royal Airship Landing",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "sky"
+  ]
+ },
+ "682": {
+  "name": "The Doman Enclave",
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ "684": {
+  "name": "The Lochs",
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ "685": {
+  "name": "Yanxia",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "686": {
+  "name": "The Lochs",
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ "687": {
+  "name": "The Lochs",
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ "688": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "690": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "691": {
+  "name": "Deltascape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "692": {
+  "name": "Deltascape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "693": {
+  "name": "Deltascape V3.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "694": {
+  "name": "Deltascape V4.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "695": {
+  "name": "Deltascape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "696": {
+  "name": "Deltascape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "697": {
+  "name": "Deltascape V3.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "698": {
+  "name": "Deltascape V4.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "699": {
+  "name": "Coerthas Central Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "700": {
+  "name": "Foundation",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "702": {
+  "name": "Aetherochemical Research Facility",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "703": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "704": {
+  "name": "Dalamud's Shadow",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ "705": {
+  "name": "Ul'dah - Steps of Thal",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "706": {
+  "name": "Ul'dah - Steps of Thal",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "707": {
+  "name": "The Weeping City of Mhach",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "709": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "710": {
+  "name": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ "711": {
+  "name": "The Ruby Sea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "712": {
+  "name": "The Lost Canals of Uznair",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave"
+  ]
+ },
+ "713": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "714": {
+  "name": "Bardam's Mettle",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "715": {
+  "name": "The Churning Mists",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "716": {
+  "name": "The Peaks",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "industrial"
+  ]
+ },
+ "717": {
+  "name": "Wolves' Den Pier",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "industrial"
+  ]
+ },
+ "718": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "719": {
+  "name": "Emanation",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "720": {
+  "name": "Emanation",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "721": {
+  "name": "Amdapor Keep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "eerie"
+  ]
+ },
+ "722": {
+  "name": "The Lost City of Amdapor",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "723": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "724": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "725": {
+  "name": "The Lost Canals of Uznair",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave"
+  ]
+ },
+ "726": {
+  "name": "The Ruby Sea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "730": {
+  "name": "Transparency",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "732": {
+  "name": "Eureka Anemos",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "734": {
+  "name": "The Royal City of Rabanastre",
+  "kind": "dungeon",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ "739": {
+  "name": "The Doman Enclave",
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ "743": {
+  "name": "The Fractal Continuum",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ "746": {
+  "name": "The Jade Stoa",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "748": {
+  "name": "Sigmascape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "749": {
+  "name": "Sigmascape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "750": {
+  "name": "Sigmascape V3.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "751": {
+  "name": "Sigmascape V4.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "752": {
+  "name": "Sigmascape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "753": {
+  "name": "Sigmascape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "754": {
+  "name": "Sigmascape V3.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "755": {
+  "name": "Sigmascape V4.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "756": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "757": {
+  "name": "The Ruby Sea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ "758": {
+  "name": "The Jade Stoa",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "759": {
+  "name": "The Doman Enclave",
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ "760": {
+  "name": "The Fringes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest",
+   "ruins"
+  ]
+ },
+ "761": {
+  "name": "The Great Hunt",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "plains"
+  ]
+ },
+ "762": {
+  "name": "The Great Hunt",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "plains"
+  ]
+ },
+ "763": {
+  "name": "Eureka Pagos",
+  "kind": "field",
+  "tags": [
+   "snow"
+  ]
+ },
+ "768": {
+  "name": "The Swallow's Compass",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "mountain"
+  ]
+ },
+ "770": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "771": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "772": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "773": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "774": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "775": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "776": {
+  "name": "The Ridorana Lighthouse",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ "778": {
+  "name": "Castrum Fluminis",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "779": {
+  "name": "Castrum Fluminis",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "780": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "782": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "783": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "784": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "785": {
+  "name": "Heaven-on-High",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ "786": {
+  "name": "Castrum Fluminis",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "788": {
+  "name": "Saint Mocianne's Arboretum",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ "790": {
+  "name": "Ul'dah - Steps of Nald",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "794": {
+  "name": "The Shifting Altars of Uznair",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ]
+ },
+ "795": {
+  "name": "Eureka Pyros",
+  "kind": "field",
+  "tags": [
+   "volcano"
+  ]
+ },
+ "797": {
+  "name": "The Azim Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ "798": {
+  "name": "Psiscape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "799": {
+  "name": "Psiscape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "800": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "801": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "802": {
+  "name": "Psiscape V1.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "803": {
+  "name": "Psiscape V2.0",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "804": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "805": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "806": {
+  "name": "Kugane Ohashi",
+  "kind": "dungeon",
+  "tags": [
+   "seaside"
+  ]
+ },
+ "807": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "808": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "812": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "813": {
+  "name": "Lakeland",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "814": {
+  "name": "Kholusia",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "815": {
+  "name": "Amh Araeng",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "816": {
+  "name": "Il Mheg",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "forest"
+  ]
+ },
+ "817": {
+  "name": "The Rak'tika Greatwood",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "818": {
+  "name": "The Tempest",
+  "kind": "field",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "819": {
+  "name": "The Crystarium",
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ]
+ },
+ "820": {
+  "name": "Eulmore",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ "821": {
+  "name": "Dohn Mheg",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "forest"
+  ]
+ },
+ "822": {
+  "name": "Mt. Gulg",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "823": {
+  "name": "The Qitana Ravel",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "jungle"
+  ]
+ },
+ "824": {
+  "name": "The Wreath of Snakes",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "825": {
+  "name": "The Wreath of Snakes",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "826": {
+  "name": "The Orbonne Monastery",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "827": {
+  "name": "Eureka Hydatos",
+  "kind": "field",
+  "tags": [
+   "water",
+   "crystal"
+  ]
+ },
+ "830": {
+  "name": "The Ghimlyt Dark",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "832": {
+  "name": "The Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "833": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "834": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "836": {
+  "name": "Malikah's Well",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ]
+ },
+ "837": {
+  "name": "Holminster Switch",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "castle"
+  ]
+ },
+ "838": {
+  "name": "Amaurot",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "839": {
+  "name": "East Shroud",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ "840": {
+  "name": "The Twinning",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "841": {
+  "name": "Akadaemia Anyder",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "water"
+  ]
+ },
+ "845": {
+  "name": "The Dancing Plague",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal"
+  ]
+ },
+ "846": {
+  "name": "The Crown of the Immaculate",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "castle"
+  ]
+ },
+ "847": {
+  "name": "The Dying Gasp",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ]
+ },
+ "848": {
+  "name": "The Crown of the Immaculate",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "castle"
+  ]
+ },
+ "849": {
+  "name": "The Core",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "850": {
+  "name": "The Halo",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "851": {
+  "name": "The Nereus Trench",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "crystal"
+  ]
+ },
+ "852": {
+  "name": "Atlas Peak",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "crystal"
+  ]
+ },
+ "853": {
+  "name": "The Core",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "854": {
+  "name": "The Halo",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "855": {
+  "name": "The Nereus Trench",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "crystal"
+  ]
+ },
+ "856": {
+  "name": "Atlas Peak",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "crystal"
+  ]
+ },
+ "857": {
+  "name": "The Core",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "858": {
+  "name": "The Dancing Plague",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal"
+  ]
+ },
+ "860": {
+  "name": "Amh Araeng",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "861": {
+  "name": "Lakeland",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "862": {
+  "name": "Lakeland",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "863": {
+  "name": "Eulmore",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ "864": {
+  "name": "Kholusia",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "865": {
+  "name": "Old Gridania",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ "866": {
+  "name": "Coerthas Western Highlands",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ "867": {
+  "name": "Eastern La Noscea",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "868": {
+  "name": "The Peaks",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "industrial"
+  ]
+ },
+ "869": {
+  "name": "Il Mheg",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "forest"
+  ]
+ },
+ "870": {
+  "name": "Kholusia",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ "871": {
+  "name": "The Rak'tika Greatwood",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "872": {
+  "name": "Amh Araeng",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "873": {
+  "name": "The Dancing Plague",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal"
+  ]
+ },
+ "874": {
+  "name": "The Rak'tika Greatwood",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "875": {
+  "name": "The Rak'tika Greatwood",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ "877": {
+  "name": "Lakeland",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ "879": {
+  "name": "The Dungeons of Lyhe Ghiah",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ "880": {
+  "name": "The Crown of the Immaculate",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "castle"
+  ]
+ },
+ "881": {
+  "name": "The Dying Gasp",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ]
+ },
+ "882": {
+  "name": "The Copied Factory",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "884": {
+  "name": "The Grand Cosmos",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "885": {
+  "name": "The Dying Gasp",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ]
+ },
+ "886": {
+  "name": "The Firmament",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ "896": {
+  "name": "The Copied Factory",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "897": {
+  "name": "Cinder Drift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "volcano"
+  ]
+ },
+ "898": {
+  "name": "Anamnesis Anyder",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "901": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "902": {
+  "name": "The Gandof Thunder Plains",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "plains"
+  ]
+ },
+ "903": {
+  "name": "Ashfall",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "crystal"
+  ]
+ },
+ "904": {
+  "name": "The Halo",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "905": {
+  "name": "Great Glacier",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "crystal"
+  ]
+ },
+ "906": {
+  "name": "The Gandof Thunder Plains",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "plains"
+  ]
+ },
+ "907": {
+  "name": "Ashfall",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "crystal"
+  ]
+ },
+ "908": {
+  "name": "The Halo",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "909": {
+  "name": "Great Glacier",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "crystal"
+  ]
+ },
+ "912": {
+  "name": "Cinder Drift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "volcano"
+  ]
+ },
+ "913": {
+  "name": "Transmission Control",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "916": {
+  "name": "The Heroes' Gauntlet",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "917": {
+  "name": "The Puppets' Bunker",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "918": {
+  "name": "Anamnesis Anyder",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "920": {
+  "name": "Bozjan Southern Front",
+  "kind": "field",
+  "tags": [
+   "ruins",
+   "plains"
+  ]
+ },
+ "922": {
+  "name": "The Seat of Sacrifice",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "923": {
+  "name": "The Seat of Sacrifice",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "924": {
+  "name": "The Shifting Oubliettes of Lyhe Ghiah",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ "928": {
+  "name": "The Puppets' Bunker",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "929": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "931": {
+  "name": "The Seat of Sacrifice",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "932": {
+  "name": "The Tempest",
+  "kind": "field",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "933": {
+  "name": "Matoya's Relict",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ]
+ },
+ "934": {
+  "name": "Castrum Marinum Drydocks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "seaside"
+  ]
+ },
+ "935": {
+  "name": "Castrum Marinum Drydocks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "seaside"
+  ]
+ },
+ "936": {
+  "name": "Delubrum Reginae",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "937": {
+  "name": "Delubrum Reginae",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "938": {
+  "name": "Paglth'an",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ "939": {
+  "name": "The Diadem",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "942": {
+  "name": "Sphere of Naught",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "943": {
+  "name": "Laxan Loft",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "sky"
+  ]
+ },
+ "944": {
+  "name": "Bygone Gaol",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "945": {
+  "name": "The Garden of Nowhere",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "946": {
+  "name": "Sphere of Naught",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "947": {
+  "name": "Laxan Loft",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "sky"
+  ]
+ },
+ "948": {
+  "name": "Bygone Gaol",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "949": {
+  "name": "The Garden of Nowhere",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "950": {
+  "name": "G-Savior Deck",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "sky"
+  ]
+ },
+ "951": {
+  "name": "G-Savior Deck",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "sky"
+  ]
+ },
+ "952": {
+  "name": "The Tower of Zot",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "954": {
+  "name": "The Navel",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ "956": {
+  "name": "Labyrinthos",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "ruins"
+  ]
+ },
+ "957": {
+  "name": "Thavnair",
+  "kind": "field",
+  "tags": [
+   "jungle",
+   "seaside"
+  ]
+ },
+ "958": {
+  "name": "Garlemald",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "industrial"
+  ]
+ },
+ "959": {
+  "name": "Mare Lamentorum",
+  "kind": "field",
+  "tags": [
+   "eerie",
+   "crystal",
+   "industrial"
+  ]
+ },
+ "960": {
+  "name": "Ultima Thule",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "961": {
+  "name": "Elpis",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "crystal",
+   "plains"
+  ]
+ },
+ "962": {
+  "name": "Old Sharlayan",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside",
+   "mountain"
+  ]
+ },
+ "963": {
+  "name": "Radz-at-Han",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside",
+   "desert"
+  ]
+ },
+ "966": {
+  "name": "The Tower at Paradigm's Breach",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "sky"
+  ]
+ },
+ "967": {
+  "name": "Castrum Marinum Drydocks",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "seaside"
+  ]
+ },
+ "969": {
+  "name": "The Tower of Babil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "970": {
+  "name": "Vanaspati",
+  "kind": "dungeon",
+  "tags": [
+   "jungle",
+   "ruins"
+  ]
+ },
+ "973": {
+  "name": "The Dead Ends",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "974": {
+  "name": "Ktisis Hyperboreia",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "975": {
+  "name": "Zadnor",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "976": {
+  "name": "Smileton",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ "978": {
+  "name": "The Aitiascope",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "979": {
+  "name": "Empyreum",
+  "kind": "town",
+  "tags": [
+   "town",
+   "snow",
+   "mountain"
+  ]
+ },
+ "986": {
+  "name": "The Stigma Dreamscape",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ "991": {
+  "name": "G-Savior Deck",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "sky"
+  ]
+ },
+ "992": {
+  "name": "The Dark Inside",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "993": {
+  "name": "The Dark Inside",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "995": {
+  "name": "The Mothercrystal",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "mountain"
+  ]
+ },
+ "996": {
+  "name": "The Mothercrystal",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "mountain"
+  ]
+ },
+ "997": {
+  "name": "The Final Day",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "998": {
+  "name": "The Final Day",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1000": {
+  "name": "The Excitatron 6000",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1002": {
+  "name": "The Gates of Pandæmonium",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1003": {
+  "name": "The Gates of Pandæmonium",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1004": {
+  "name": "The Stagnant Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1005": {
+  "name": "The Stagnant Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1006": {
+  "name": "The Fervid Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1007": {
+  "name": "The Fervid Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1008": {
+  "name": "The Sanguine Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1009": {
+  "name": "The Sanguine Limbo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1011": {
+  "name": "Garlemald",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "industrial"
+  ]
+ },
+ "1014": {
+  "name": "Elpis",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "crystal",
+   "plains"
+  ]
+ },
+ "1015": {
+  "name": "Central Shroud",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ "1016": {
+  "name": "Sastasha",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "seaside",
+   "water"
+  ]
+ },
+ "1017": {
+  "name": "The Swallow's Compass",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "mountain"
+  ]
+ },
+ "1018": {
+  "name": "The Vault",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow"
+  ]
+ },
+ "1019": {
+  "name": "The Peaks",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "industrial"
+  ]
+ },
+ "1021": {
+  "name": "Dusk Vigil",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow"
+  ]
+ },
+ "1022": {
+  "name": "Saint Mocianne's Arboretum",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ "1023": {
+  "name": "The Dravanian Forelands",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ "1025": {
+  "name": "The Gates of Pandæmonium",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ "1027": {
+  "name": "Ultima Thule",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1028": {
+  "name": "The Dark Inside",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1029": {
+  "name": "The Final Day",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1030": {
+  "name": "The Mothercrystal",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "mountain"
+  ]
+ },
+ "1036": {
+  "name": "Sastasha",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "seaside",
+   "water"
+  ]
+ },
+ "1037": {
+  "name": "The Tam-Tara Deepcroft",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins",
+   "cave"
+  ]
+ },
+ "1038": {
+  "name": "Copperbell Mines",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ "1039": {
+  "name": "The Thousand Maws of Toto-Rak",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "1040": {
+  "name": "Haukke Manor",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1041": {
+  "name": "Brayflox's Longstop",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "swamp"
+  ]
+ },
+ "1042": {
+  "name": "Stone Vigil",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow",
+   "ruins"
+  ]
+ },
+ "1043": {
+  "name": "Castrum Meridianum",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "1044": {
+  "name": "The Praetorium",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "1045": {
+  "name": "Bowl of Embers",
+  "kind": "dungeon",
+  "tags": [
+   "volcano"
+  ]
+ },
+ "1046": {
+  "name": "The Navel",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ "1047": {
+  "name": "The Howling Eye",
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ "1048": {
+  "name": "Porta Decumana",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "1049": {
+  "name": "Western Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "1050": {
+  "name": "Alzadaal's Legacy",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ "1051": {
+  "name": "The Tower of Babil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1054": {
+  "name": "Aglaia",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "1055": {
+  "name": "Unnamed Island",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ "1056": {
+  "name": "Alzadaal's Legacy",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ "1062": {
+  "name": "Snowcloak",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "cave"
+  ]
+ },
+ "1063": {
+  "name": "The Keeper of the Lake",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "1064": {
+  "name": "Sohm Al",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "mountain"
+  ]
+ },
+ "1065": {
+  "name": "The Aery",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ "1066": {
+  "name": "The Vault",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow"
+  ]
+ },
+ "1067": {
+  "name": "Thornmarch",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ "1068": {
+  "name": "Steps of Faith",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "sky",
+   "castle"
+  ]
+ },
+ "1069": {
+  "name": "The Sil'dihn Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins",
+   "desert"
+  ]
+ },
+ "1070": {
+  "name": "The Fell Court of Troia",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1071": {
+  "name": "Storm's Crown",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "1072": {
+  "name": "Storm's Crown",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "1075": {
+  "name": "Another Sil'dihn Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins",
+   "desert"
+  ]
+ },
+ "1076": {
+  "name": "Another Sil'dihn Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins",
+   "desert"
+  ]
+ },
+ "1079": {
+  "name": "The Aitiascope",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "1081": {
+  "name": "The Caustic Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1082": {
+  "name": "The Caustic Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1083": {
+  "name": "The Pestilent Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1084": {
+  "name": "The Pestilent Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1085": {
+  "name": "The Hollow Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1086": {
+  "name": "The Hollow Purgatory",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1087": {
+  "name": "Stygian Insenescence Cells",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1088": {
+  "name": "Stygian Insenescence Cells",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1089": {
+  "name": "The Fell Court of Troia",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1091": {
+  "name": "The Fell Court of Troia",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1092": {
+  "name": "Storm's Crown",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ "1093": {
+  "name": "Stygian Insenescence Cells",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ "1095": {
+  "name": "Mount Ordeals",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "1096": {
+  "name": "Mount Ordeals",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "1097": {
+  "name": "Lapis Manalis",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ]
+ },
+ "1099": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1100": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1101": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1102": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1103": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1104": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1105": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1106": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1107": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1108": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1109": {
+  "name": "The Great Gubal Library",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "1110": {
+  "name": "Aetherochemical Research Facility",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1111": {
+  "name": "The Antitower",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ "1112": {
+  "name": "Sohr Khai",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "sky",
+   "ruins"
+  ]
+ },
+ "1113": {
+  "name": "Xelphatol",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ "1114": {
+  "name": "Baelsar's Wall",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1115": {
+  "name": "The Tower of Babil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1118": {
+  "name": "Euphrosyne",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ]
+ },
+ "1119": {
+  "name": "Lapis Manalis",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ]
+ },
+ "1120": {
+  "name": "Garlemald",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "industrial"
+  ]
+ },
+ "1122": {
+  "name": "The Interdimensional Rift",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ "1123": {
+  "name": "The Shifting Gymnasion Agonon",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "1124": {
+  "name": "Eureka Orthos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ]
+ },
+ "1126": {
+  "name": "The Aetherfont",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "seaside"
+  ]
+ },
+ "1137": {
+  "name": "Mount Rokkon",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "castle"
+  ]
+ },
+ "1140": {
+  "name": "The Voidcast Dais",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1141": {
+  "name": "The Voidcast Dais",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1142": {
+  "name": "The Sirensong Sea",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "water",
+   "eerie"
+  ]
+ },
+ "1143": {
+  "name": "Bardam's Mettle",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "1144": {
+  "name": "Doma Castle",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "1145": {
+  "name": "Castrum Abania",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "1146": {
+  "name": "Ala Mhigo",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "1147": {
+  "name": "The Aetherial Slough",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1148": {
+  "name": "The Aetherial Slough",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1149": {
+  "name": "The Dæmons' Nest",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1150": {
+  "name": "The Dæmons' Nest",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1151": {
+  "name": "The Chamber of Fourteen",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1152": {
+  "name": "The Chamber of Fourteen",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1153": {
+  "name": "Ascension",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1154": {
+  "name": "Ascension",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1155": {
+  "name": "Another Mount Rokkon",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "castle"
+  ]
+ },
+ "1156": {
+  "name": "Another Mount Rokkon",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "castle"
+  ]
+ },
+ "1158": {
+  "name": "The Dæmons' Nest",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "crystal"
+  ]
+ },
+ "1159": {
+  "name": "The Voidcast Dais",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1164": {
+  "name": "The Lunar Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave"
+  ]
+ },
+ "1167": {
+  "name": "Ihuykatumu",
+  "kind": "dungeon",
+  "tags": [
+   "jungle",
+   "ruins"
+  ]
+ },
+ "1168": {
+  "name": "The Abyssal Fracture",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "crystal"
+  ]
+ },
+ "1169": {
+  "name": "The Abyssal Fracture",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "crystal"
+  ]
+ },
+ "1172": {
+  "name": "The Drowned City of Skalla",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ "1174": {
+  "name": "The Ghimlyt Dark",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ "1176": {
+  "name": "Aloalo Island",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ "1177": {
+  "name": "The Aetherfont",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "seaside"
+  ]
+ },
+ "1178": {
+  "name": "Thaleia",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "1179": {
+  "name": "Another Aloalo Island",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ "1180": {
+  "name": "Another Aloalo Island",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ "1181": {
+  "name": "The Abyssal Fracture",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "crystal"
+  ]
+ },
+ "1182": {
+  "name": "Thaleia",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "1184": {
+  "name": "The Lunar Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave"
+  ]
+ },
+ "1185": {
+  "name": "Tuliyollal",
+  "kind": "town",
+  "tags": [
+   "city",
+   "jungle",
+   "seaside"
+  ]
+ },
+ "1186": {
+  "name": "Solution Nine",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "crystal"
+  ]
+ },
+ "1187": {
+  "name": "Urqopacha",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "mountain"
+  ]
+ },
+ "1188": {
+  "name": "Kozama'uka",
+  "kind": "field",
+  "tags": [
+   "jungle",
+   "water"
+  ]
+ },
+ "1189": {
+  "name": "Yak T'el",
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ "1190": {
+  "name": "Shaaloani",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "1191": {
+  "name": "Heritage Found",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins",
+   "industrial"
+  ]
+ },
+ "1192": {
+  "name": "Living Memory",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "cave",
+   "ruins"
+  ]
+ },
+ "1193": {
+  "name": "Worqor Zormor",
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "ruins"
+  ]
+ },
+ "1194": {
+  "name": "The Skydeep Cenote",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "1195": {
+  "name": "Worqor Lar Dor",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "1196": {
+  "name": "Worqor Lar Dor",
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ "1198": {
+  "name": "Vanguard",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1199": {
+  "name": "Alexandria",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "industrial"
+  ]
+ },
+ "1200": {
+  "name": "Summit of Everkeep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "1201": {
+  "name": "Summit of Everkeep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "1202": {
+  "name": "Interphos",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1203": {
+  "name": "Tender Valley",
+  "kind": "dungeon",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ "1204": {
+  "name": "Strayborough",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1208": {
+  "name": "Origenics",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1209": {
+  "name": "Cenote Ja Ja Gural",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "1211": {
+  "name": "Yak T'el",
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ "1212": {
+  "name": "Yak T'el",
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ "1213": {
+  "name": "Solution Nine",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "crystal"
+  ]
+ },
+ "1214": {
+  "name": "The Sea of Clouds",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ "1215": {
+  "name": "Brayflox's Longstop",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "swamp"
+  ]
+ },
+ "1216": {
+  "name": "Bardam's Mettle",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ "1217": {
+  "name": "Ala Mhigo",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "1219": {
+  "name": "Vanguard",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1220": {
+  "name": "Summit of Everkeep",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ "1221": {
+  "name": "Interphos",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1225": {
+  "name": "Scratching Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1226": {
+  "name": "Scratching Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1227": {
+  "name": "Lovely Lovering",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1228": {
+  "name": "Lovely Lovering",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1229": {
+  "name": "Blasting Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1230": {
+  "name": "Blasting Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1231": {
+  "name": "The Thundering",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1232": {
+  "name": "The Thundering",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1235": {
+  "name": "Central Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ "1236": {
+  "name": "Southern Thanalan",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ "1241": {
+  "name": "Sphere of Naught",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1242": {
+  "name": "Yuweyawata",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "jungle"
+  ]
+ },
+ "1243": {
+  "name": "Interphos",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ "1244": {
+  "name": "Shaaloani",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ "1245": {
+  "name": "Halatali",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ "1248": {
+  "name": "Jeuno: The First Walk",
+  "kind": "dungeon",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ "1252": {
+  "name": "South Horn",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "ruins",
+   "eerie"
+  ]
+ },
+ "1254": {
+  "name": "Yuweyawata",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "jungle"
+  ]
+ },
+ "1256": {
+  "name": "Groovy Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1257": {
+  "name": "Groovy Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1258": {
+  "name": "Rebel Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1259": {
+  "name": "Rebel Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1260": {
+  "name": "Demolition Site",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1261": {
+  "name": "Demolition Site",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1262": {
+  "name": "Hunter's Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1263": {
+  "name": "Hunter's Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1266": {
+  "name": "The Underkeep",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ "1267": {
+  "name": "The Sunken Temple of Qarn",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave",
+   "desert"
+  ]
+ },
+ "1270": {
+  "name": "Recollection",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1271": {
+  "name": "Recollection",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1275": {
+  "name": "Recollection",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1276": {
+  "name": "Demolition Site",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1279": {
+  "name": "Vault Oneiron",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ "1280": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1281": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1282": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1283": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1284": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1285": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1286": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1287": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1288": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1289": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1290": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1292": {
+  "name": "The Meso Terminal",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1295": {
+  "name": "The Ageless Necropolis",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ]
+ },
+ "1296": {
+  "name": "The Ageless Necropolis",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ]
+ },
+ "1300": {
+  "name": "The Windward Wilds",
+  "kind": "dungeon",
+  "tags": [
+   "plains"
+  ]
+ },
+ "1301": {
+  "name": "The Windward Wilds",
+  "kind": "dungeon",
+  "tags": [
+   "plains"
+  ]
+ },
+ "1304": {
+  "name": "San d'Oria: The Second Walk",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "1306": {
+  "name": "The Windward Wilds",
+  "kind": "dungeon",
+  "tags": [
+   "plains"
+  ]
+ },
+ "1307": {
+  "name": "Hell on Rails",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ]
+ },
+ "1308": {
+  "name": "Hell on Rails",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ]
+ },
+ "1311": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1312": {
+  "name": "The Ageless Necropolis",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ]
+ },
+ "1314": {
+  "name": "Mistwake",
+  "kind": "dungeon",
+  "tags": [
+   "jungle",
+   "ruins"
+  ]
+ },
+ "1315": {
+  "name": "The Merchant's Tale",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "1316": {
+  "name": "The Merchant's Tale",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "1317": {
+  "name": "Another Merchant's Tale",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ "1320": {
+  "name": "Ring Noir",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1321": {
+  "name": "Ring Noir",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1322": {
+  "name": "The X-Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1323": {
+  "name": "The X-Ring",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1324": {
+  "name": "The Crown",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1325": {
+  "name": "The Crown",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1326": {
+  "name": "Arcadia",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1327": {
+  "name": "Arcadia",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ "1330": {
+  "name": "Dzemael Darkhold",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ "1331": {
+  "name": "Aurum Vale",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "forest"
+  ]
+ },
+ "1333": {
+  "name": "Pilgrim's Traverse",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ "1335": {
+  "name": "The Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "1345": {
+  "name": "The Clyteum",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle"
+  ]
+ },
+ "1346": {
+  "name": "North Horn",
+  "kind": "field",
+  "tags": [
+   "cave",
+   "ruins",
+   "eerie"
+  ]
+ },
+ "1359": {
+  "name": "The Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ "1361": {
+  "name": "The Unmaking",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1362": {
+  "name": "The Unmaking",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ "1363": {
+  "name": "Sigmascape V4.0",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie",
+   "industrial"
+  ]
+ },
+ "1366": {
+  "name": "Dusk Vigil",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "snow"
+  ]
+ },
+ "1367": {
+  "name": "Shisui of the Violet Tides",
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "water",
+   "cave"
+  ]
+ },
+ "1368": {
+  "name": "Windurst: The Third Walk",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "city"
+  ]
+ },
+ "1372": {
+  "name": "Transparency",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ "1373": {
+  "name": "The Unmaking",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ }
+}

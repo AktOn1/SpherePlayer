@@ -1,0 +1,424 @@
+[
+ {
+  "id": "WyDWU0Xx_P8",
+  "kind": "other",
+  "tags": [],
+  "en": "Omen"
+ },
+ {
+  "id": "PpStsYdLTxQ",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "mountain",
+   "snow"
+  ],
+  "en": "The Mines of Narshe"
+ },
+ {
+  "id": "iZM6Lmb5tuw",
+  "kind": "other",
+  "tags": [],
+  "en": "Awakening"
+ },
+ {
+  "id": "JLrsUOA4Vb4",
+  "kind": "other",
+  "tags": [],
+  "en": "Locke's Theme"
+ },
+ {
+  "id": "92MCwVeTiYU",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle"
+ },
+ {
+  "id": "1iMwxNvgfdg",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory Fanfare"
+ },
+ {
+  "id": "I7gxfe0h4TY",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "desert"
+  ],
+  "en": "Edgar & Sabin's Theme"
+ },
+ {
+  "id": "oPDbe9YI7-M",
+  "kind": "other",
+  "tags": [],
+  "en": "Kefka"
+ },
+ {
+  "id": "QxPlWU0UqHU",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ],
+  "en": "Mt. Kolts"
+ },
+ {
+  "id": "AQ0p6ZHgwW8",
+  "kind": "town",
+  "tags": [
+   "cave",
+   "forest"
+  ],
+  "en": "The Returners"
+ },
+ {
+  "id": "WSGpg777M0M",
+  "kind": "other",
+  "tags": [],
+  "en": "Shadow's Theme"
+ },
+ {
+  "id": "w7CoVG7tkcE",
+  "kind": "other",
+  "tags": [],
+  "en": "Troops March On"
+ },
+ {
+  "id": "SRq67UE40WQ",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "town"
+  ],
+  "en": "Cyan's Theme"
+ },
+ {
+  "id": "zFtgxUrcRY4",
+  "kind": "other",
+  "tags": [],
+  "en": "The Unforgiven"
+ },
+ {
+  "id": "3f6Ld7gLRLE",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ],
+  "en": "Phantom Forest"
+ },
+ {
+  "id": "eCcaFkQEAcU",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Phantom Train"
+ },
+ {
+  "id": "2XDbQJN8Mlo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "The Veldt"
+ },
+ {
+  "id": "30CpyDOxVnE",
+  "kind": "other",
+  "tags": [],
+  "en": "Gau's Theme"
+ },
+ {
+  "id": "D2AN1Yx2ThU",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave",
+   "seaside"
+  ],
+  "en": "The Serpent Trench"
+ },
+ {
+  "id": "lAOKk8m3Uro",
+  "kind": "other",
+  "tags": [],
+  "en": "Kids Run Through the City"
+ },
+ {
+  "id": "PgbJ9lJUyQU",
+  "kind": "other",
+  "tags": [],
+  "en": "Under Martial Law"
+ },
+ {
+  "id": "ZRoE9cVRMkg",
+  "kind": "other",
+  "tags": [],
+  "en": "Celes's Theme"
+ },
+ {
+  "id": "o2b4DMy8Xhk",
+  "kind": "other",
+  "tags": [],
+  "en": "Protect the Espers!"
+ },
+ {
+  "id": "8ksnA3Qjx5Q",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Decisive Battle"
+ },
+ {
+  "id": "TTn96QsP6_Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Metamorphosis"
+ },
+ {
+  "id": "ObccgHQdos0",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Terra's Theme"
+ },
+ {
+  "id": "mFIR_oATiIk",
+  "kind": "other",
+  "tags": [],
+  "en": "Coin of Fate"
+ },
+ {
+  "id": "I3kIaPIJBrE",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Techno de Chocobo"
+ },
+ {
+  "id": "LWfdEj9jHDM",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Rachel"
+ },
+ {
+  "id": "gUDqUozYYKg",
+  "kind": "other",
+  "tags": [],
+  "en": "Slam Shuffle"
+ },
+ {
+  "id": "wL5lX_xwtdM",
+  "kind": "other",
+  "tags": [],
+  "en": "Spinach Rag"
+ },
+ {
+  "id": "hfwJQoVj5Dc",
+  "kind": "other",
+  "tags": [],
+  "en": "Overture"
+ },
+ {
+  "id": "iqZiSqIaBag",
+  "kind": "other",
+  "tags": [],
+  "en": "Aria di Mezzo Carattere"
+ },
+ {
+  "id": "gvRViF-3rJQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Wedding Waltz - Duel"
+ },
+ {
+  "id": "z-0DtmPjOSg",
+  "kind": "other",
+  "tags": [],
+  "en": "Grand Finale"
+ },
+ {
+  "id": "Fo4Z5jaRAVM",
+  "kind": "other",
+  "tags": [],
+  "en": "Setzer's Theme"
+ },
+ {
+  "id": "V8COREpn0gc",
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "en": "Johnny C. Bad"
+ },
+ {
+  "id": "mBpZEo0G68I",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "industrial"
+  ],
+  "en": "The Gestahl Empire"
+ },
+ {
+  "id": "Iq0ntBagBQY",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ],
+  "en": "Magitek Research Facility"
+ },
+ {
+  "id": "7fb7cSoRFP8",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "The Airship Blackjack"
+ },
+ {
+  "id": "gy4sSNX_Mck",
+  "kind": "other",
+  "tags": [],
+  "en": "What?"
+ },
+ {
+  "id": "yS5IxNLkI5M",
+  "kind": "other",
+  "tags": [],
+  "en": "Mog's Theme"
+ },
+ {
+  "id": "9A9d2xDIML0",
+  "kind": "other",
+  "tags": [],
+  "en": "Strago's Theme"
+ },
+ {
+  "id": "gRRVStgkgSw",
+  "kind": "other",
+  "tags": [],
+  "en": "Relm's Theme"
+ },
+ {
+  "id": "_4bwGSx6ZZc",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave",
+   "eerie"
+  ],
+  "en": "Esper World"
+ },
+ {
+  "id": "FgG6c0bF31U",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins",
+   "crystal"
+  ],
+  "en": "Floating Continent"
+ },
+ {
+  "id": "idX3OaecYcY",
+  "kind": "field",
+  "tags": [
+   "ruins",
+   "desert"
+  ],
+  "en": "Catastrophe"
+ },
+ {
+  "id": "DpWvIpAtPd4",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle to the Death"
+ },
+ {
+  "id": "hCBuwn2qNg4",
+  "kind": "other",
+  "tags": [],
+  "en": "Rest in Peace"
+ },
+ {
+  "id": "dfO5CSZ4qbk",
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie",
+   "ruins"
+  ],
+  "en": "Dark World"
+ },
+ {
+  "id": "sk2iuN1A_Ek",
+  "kind": "other",
+  "tags": [],
+  "en": "From That Day On..."
+ },
+ {
+  "id": "XEO7RCD7jVg",
+  "kind": "other",
+  "tags": [],
+  "en": "Searching for Friends"
+ },
+ {
+  "id": "UVrQSchm6ho",
+  "kind": "other",
+  "tags": [],
+  "en": "Gogo's Theme"
+ },
+ {
+  "id": "TQSodUr13rI",
+  "kind": "other",
+  "tags": [],
+  "en": "Epitaph"
+ },
+ {
+  "id": "uQyf1FBUy5A",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "The Magic House"
+ },
+ {
+  "id": "VHgPvGAFxPk",
+  "kind": "other",
+  "tags": [],
+  "en": "Umaro's Theme"
+ },
+ {
+  "id": "u3_6hcLqMWw",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "The Fanatics"
+ },
+ {
+  "id": "sdbb_wvx91g",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins",
+   "industrial"
+  ],
+  "en": "Kefka's Tower"
+ },
+ {
+  "id": "sJ0HeCZYAhI",
+  "kind": "boss",
+  "tags": [],
+  "en": "Dancing Mad"
+ }
+]

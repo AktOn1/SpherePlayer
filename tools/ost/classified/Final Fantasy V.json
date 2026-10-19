@@ -1,0 +1,464 @@
+[
+ {
+  "id": "UYIafOKKo-I",
+  "orig": "[Video Soundtrack] Main Theme of Final Fantasy V [FINAL FANTASY V]",
+  "title": "Main Theme of Final Fantasy V",
+  "seconds": 154,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "eLqQiWcvwQ8",
+  "orig": "[Video Soundtrack] Opening Theme [FINAL FANTASY V]",
+  "title": "Opening Theme",
+  "seconds": 267,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "IcbQyCFnjzA",
+  "orig": "[Video Soundtrack] Four Hearts [FINAL FANTASY V]",
+  "title": "Four Hearts",
+  "seconds": 104,
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ {
+  "id": "r200BPW_cm8",
+  "orig": "[Video Soundtrack] Hurry! Hurry! [FINAL FANTASY V]",
+  "title": "Hurry! Hurry!",
+  "seconds": 44,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "pJVIWGbBKf8",
+  "orig": "[Video Soundtrack] Reina's Theme [FINAL FANTASY V]",
+  "title": "Lenna's Theme",
+  "seconds": 119,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Ar_J3WjTPzc",
+  "orig": "[Video Soundtrack] Dungeon [FINAL FANTASY V]",
+  "title": "Dungeon",
+  "seconds": 151,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "8ayGsMPF-9M",
+  "orig": "[Video Soundtrack] Battle 1 [FINAL FANTASY V]",
+  "title": "Battle 1",
+  "seconds": 76,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "KVO5uIXrcWc",
+  "orig": "[Video Soundtrack] Victory Fanfare [FINAL FANTASY V]",
+  "title": "Victory Fanfare",
+  "seconds": 44,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_DCpMKRnvKM",
+  "orig": "[Video Soundtrack] Requiem [FINAL FANTASY V]",
+  "title": "Requiem",
+  "seconds": 28,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DYlAGogNqBg",
+  "orig": "[Video Soundtrack] Pirates Ahoy [FINAL FANTASY V]",
+  "title": "Pirates Ahoy",
+  "seconds": 125,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "Puh-0-Kricg",
+  "orig": "[Video Soundtrack] Town Theme [FINAL FANTASY V]",
+  "title": "Town Theme",
+  "seconds": 142,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "oE_F72I5xDI",
+  "orig": "[Video Soundtrack] Sealed Away [FINAL FANTASY V]",
+  "title": "Sealed Away",
+  "seconds": 109,
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "seaside"
+  ]
+ },
+ {
+  "id": "Jx9T88UE8VY",
+  "orig": "[Video Soundtrack] Cursed Lands [FINAL FANTASY V]",
+  "title": "Cursed Lands",
+  "seconds": 112,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "f1iQJrPeCO8",
+  "orig": "[Video Soundtrack] Deception [FINAL FANTASY V]",
+  "title": "Deception",
+  "seconds": 80,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xrKpVJ1_PP8",
+  "orig": "[Video Soundtrack] Harvest [FINAL FANTASY V]",
+  "title": "Harvest",
+  "seconds": 108,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "aFUPHdIbF9E",
+  "orig": "[Video Soundtrack] To the North Mountain [FINAL FANTASY V]",
+  "title": "To the North Mountain",
+  "seconds": 117,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "zQpzNNHRJjA",
+  "orig": "[Video Soundtrack] Close Call [FINAL FANTASY V]",
+  "title": "Close Call",
+  "seconds": 85,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RlTISk3zyzg",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY V]",
+  "title": "Battle 2",
+  "seconds": 150,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "cyz3bQDmd9A",
+  "orig": "[Video Soundtrack] Spreading Grand Wings [FINAL FANTASY V]",
+  "title": "Spreading Grand Wings",
+  "seconds": 108,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "nC17caBG0Zw",
+  "orig": "[Video Soundtrack] Royal Palace [FINAL FANTASY V]",
+  "title": "Royal Palace",
+  "seconds": 102,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "8aK5ZWBc40Y",
+  "orig": "[Video Soundtrack] Fire Ship [FINAL FANTASY V]",
+  "title": "Fire Ship",
+  "seconds": 103,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "wG3VWaZpAxs",
+  "orig": "[Video Soundtrack] Run! [FINAL FANTASY V]",
+  "title": "Run!",
+  "seconds": 53,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "st1CHsrTxww",
+  "orig": "[Video Soundtrack] Sorrows of Parting [FINAL FANTASY V]",
+  "title": "Sorrows of Parting",
+  "seconds": 157,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "oy5Z3fSVGQQ",
+  "orig": "[Video Soundtrack] Library of Ancients [FINAL FANTASY V]",
+  "title": "Library of Ancients",
+  "seconds": 156,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "_EBRy5wq4Fc",
+  "orig": "[Video Soundtrack] Reminiscence [FINAL FANTASY V]",
+  "title": "Reminiscence",
+  "seconds": 99,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "UX42Yw2xh6c",
+  "orig": "[Video Soundtrack] Musica Machina [FINAL FANTASY V]",
+  "title": "Musica Machina",
+  "seconds": 111,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ {
+  "id": "XBNODEj1mBI",
+  "orig": "[Video Soundtrack] The Day Will Come [FINAL FANTASY V]",
+  "title": "The Day Will Come",
+  "seconds": 115,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EsaKR8h0bd4",
+  "orig": "[Video Soundtrack] What? [FINAL FANTASY V]",
+  "title": "What?",
+  "seconds": 56,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1tm-vGawzjQ",
+  "orig": "[Video Soundtrack] Mambo de Chocobo [FINAL FANTASY V]",
+  "title": "Mambo de Chocobo",
+  "seconds": 73,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "xevXndEHzyo",
+  "orig": "[Video Soundtrack] Home, Sweet Home [FINAL FANTASY V]",
+  "title": "Home, Sweet Home",
+  "seconds": 162,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "W2L-WxJA7AU",
+  "orig": "[Video Soundtrack] Music Box [FINAL FANTASY V]",
+  "title": "Music Box",
+  "seconds": 112,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MPu_ya7QUYg",
+  "orig": "[Video Soundtrack] The Airship [FINAL FANTASY V]",
+  "title": "The Airship",
+  "seconds": 123,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "6xaM1I5WECc",
+  "orig": "[Video Soundtrack] The Evil Lord Exdeath [FINAL FANTASY V]",
+  "title": "The Evil Lord Exdeath",
+  "seconds": 145,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RMU3zRVEnIk",
+  "orig": "[Video Soundtrack] Exdeath's Castle [FINAL FANTASY V]",
+  "title": "Exdeath's Castle",
+  "seconds": 143,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "oO-2EnPDmr4",
+  "orig": "[Video Soundtrack] The Dawn Warriors [FINAL FANTASY V]",
+  "title": "The Dawn Warriors",
+  "seconds": 138,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jH-Pddk-_4w",
+  "orig": "[Video Soundtrack] Battle at the Big Bridge [FINAL FANTASY V]",
+  "title": "Battle at the Big Bridge",
+  "seconds": 151,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "eEBBGsgMjeI",
+  "orig": "[Video Soundtrack] Unknown Lands [FINAL FANTASY V]",
+  "title": "Unknown Lands",
+  "seconds": 145,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "Mm72C7ZF7T8",
+  "orig": "[Video Soundtrack] Moogles' Theme [FINAL FANTASY V]",
+  "title": "Moogles' Theme",
+  "seconds": 89,
+  "kind": "town",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "gQdSMZe0Lms",
+  "orig": "[Video Soundtrack] The Castle of Dawn [FINAL FANTASY V]",
+  "title": "The Castle of Dawn",
+  "seconds": 124,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "wv_6AuRJ8W8",
+  "orig": "[Video Soundtrack] Beyond the Deep Blue Sea [FINAL FANTASY V]",
+  "title": "Beyond the Deep Blue Sea",
+  "seconds": 108,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "gUekhNMQAT8",
+  "orig": "[Video Soundtrack] Legend of the Deep Forest [FINAL FANTASY V]",
+  "title": "Legend of the Deep Forest",
+  "seconds": 157,
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "CmdB6Cr2Dyo",
+  "orig": "[Video Soundtrack] Tycoon Waltz [FINAL FANTASY V]",
+  "title": "Tycoon Waltz",
+  "seconds": 138,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "fc7HxyBUTZI",
+  "orig": "[Video Soundtrack] Boko's Theme [FINAL FANTASY V]",
+  "title": "Boko's Theme",
+  "seconds": 76,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "2K_KvugBQpo",
+  "orig": "[Video Soundtrack] A New World [FINAL FANTASY V]",
+  "title": "A New World",
+  "seconds": 137,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "FuavX43uyMM",
+  "orig": "[Video Soundtrack] Sealed Book [FINAL FANTASY V]",
+  "title": "Sealed Book",
+  "seconds": 110,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1UHisX1QBHs",
+  "orig": "[Video Soundtrack] Slumber of Ancient Earth [FINAL FANTASY V]",
+  "title": "Slumber of Ancient Earth",
+  "seconds": 148,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "Qoh7GyAm6UI",
+  "orig": "[Video Soundtrack] Prelude to the Void [FINAL FANTASY V]",
+  "title": "Prelude to the Void",
+  "seconds": 238,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "HKVbdo66rVo",
+  "orig": "[Video Soundtrack] In Search of Light [FINAL FANTASY V]",
+  "title": "In Search of Light",
+  "seconds": 103,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "Ajq7huc-9Sg",
+  "orig": "[Video Soundtrack] The Decisive Battle [FINAL FANTASY V]",
+  "title": "The Decisive Battle",
+  "seconds": 268,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "oyzsRJW3Xxw",
+  "orig": "[Video Soundtrack] The Final Battle [FINAL FANTASY V]",
+  "title": "The Final Battle",
+  "seconds": 246,
+  "kind": "boss",
+  "tags": []
+ }
+]

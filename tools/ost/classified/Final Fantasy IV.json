@@ -1,0 +1,415 @@
+[
+ {
+  "id": "IxKeM7GHCxM",
+  "orig": "[Video Soundtrack] The Prelude [FINAL FANTASY IV]",
+  "title": "Prelude",
+  "seconds": 141,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DKNoHCLI-TM",
+  "orig": "[Video Soundtrack] The Red Wings [FINAL FANTASY IV]",
+  "title": "The Red Wings",
+  "seconds": 150,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rZ5hQEiTxuw",
+  "orig": "[Video Soundtrack] Kingdom of Baron [FINAL FANTASY IV]",
+  "title": "Kingdom of Baron",
+  "seconds": 103,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "bLkS2vvcCw8",
+  "orig": "[Video Soundtrack] Theme of Love [FINAL FANTASY IV]",
+  "title": "Theme of Love",
+  "seconds": 155,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yA1jriZNmyQ",
+  "orig": "[Video Soundtrack] Prologue [FINAL FANTASY IV]",
+  "title": "Prologue",
+  "seconds": 125,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ZPrel8i7RV8",
+  "orig": "[Video Soundtrack] Welcome to Our Town! [FINAL FANTASY IV]",
+  "title": "Welcome to Our Town!",
+  "seconds": 97,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "lLWCyvqgZIs",
+  "orig": "[Video Soundtrack] Main Theme of FINAL FANTASY IV [FINAL FANTASY IV]",
+  "title": "Main Theme of Final Fantasy IV",
+  "seconds": 177,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "biMiTu8PGT8",
+  "orig": "[Video Soundtrack] Battle 1 [FINAL FANTASY IV]",
+  "title": "Battle 1",
+  "seconds": 118,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "m6EY76Xst5E",
+  "orig": "[Video Soundtrack] Fanfare [FINAL FANTASY IV]",
+  "title": "Fanfare",
+  "seconds": 48,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "O4KfA_ANJ5w",
+  "orig": "[Video Soundtrack] Enter Fat Chocobo! [FINAL FANTASY IV]",
+  "title": "Enter the Fat Chocobo!",
+  "seconds": 39,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "R_XnVQnKTng",
+  "orig": "[Video Soundtrack] Chocobo Chocobo [FINAL FANTASY IV]",
+  "title": "Chocobo-Chocobo",
+  "seconds": 70,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "8PZS1qdNLhE",
+  "orig": "[Video Soundtrack] Into the Darkness [FINAL FANTASY IV]",
+  "title": "Into the Darkness",
+  "seconds": 125,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "FQYEF_TShPU",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY IV]",
+  "title": "Battle 2",
+  "seconds": 146,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "4P95O7uZ9Kg",
+  "orig": "[Video Soundtrack] Bomb Ring [FINAL FANTASY IV]",
+  "title": "Bomb Ring",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BC8vFHgzqC8",
+  "orig": "[Video Soundtrack] Rydia [FINAL FANTASY IV]",
+  "title": "Rydia",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wRYCI3RoVDw",
+  "orig": "[Video Soundtrack] Damcyan Castle [FINAL FANTASY IV]",
+  "title": "Damcyan Castle",
+  "seconds": 92,
+  "kind": "town",
+  "tags": [
+   "castle",
+   "desert"
+  ]
+ },
+ {
+  "id": "4coBAyTCc6U",
+  "orig": "[Video Soundtrack] Sorrow and Loss [FINAL FANTASY IV]",
+  "title": "Sorrow and Loss",
+  "seconds": 132,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Wbz6gSWAAN4",
+  "orig": "[Video Soundtrack] Edward's Harp [FINAL FANTASY IV]",
+  "title": "Edward's Harp",
+  "seconds": 111,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "nwFTMF7oPqE",
+  "orig": "[Video Soundtrack] Mt. Ordeals [FINAL FANTASY IV]",
+  "title": "Mt. Ordeals",
+  "seconds": 118,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "83XIWIhVXto",
+  "orig": "[Video Soundtrack] Fabul [FINAL FANTASY IV]",
+  "title": "Fabul",
+  "seconds": 136,
+  "kind": "town",
+  "tags": [
+   "castle",
+   "mountain"
+  ]
+ },
+ {
+  "id": "GfdBz2wyAqc",
+  "orig": "[Video Soundtrack] Run! [FINAL FANTASY IV]",
+  "title": "Run!",
+  "seconds": 39,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ifp3QIXh3q4",
+  "orig": "[Video Soundtrack] Suspicion [FINAL FANTASY IV]",
+  "title": "Suspicion",
+  "seconds": 79,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6Ljuo_3w4y0",
+  "orig": "[Video Soundtrack] Golbez, Clad In Darkness [FINAL FANTASY IV]",
+  "title": "Golbez, Clad in Darkness",
+  "seconds": 128,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "KwmRV9_7kas",
+  "orig": "[Video Soundtrack] Hey, Cid! [FINAL FANTASY IV]",
+  "title": "Hey, Cid!",
+  "seconds": 88,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gbkhX7vawEs",
+  "orig": "[Video Soundtrack] Mystic Mysidia [FINAL FANTASY IV]",
+  "title": "Mystic Mysidia",
+  "seconds": 110,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "Qt3ttuH3gjc",
+  "orig": "[Video Soundtrack] A Long Way to Go [FINAL FANTASY IV]",
+  "title": "A Long Way to Go",
+  "seconds": 89,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JGEtLH3usco",
+  "orig": "[Video Soundtrack] Palom & Porom [FINAL FANTASY IV]",
+  "title": "Palom and Porom",
+  "seconds": 58,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9fBOQdbWcRY",
+  "orig": "[Video Soundtrack] Battle With the Four Fiends [FINAL FANTASY IV]",
+  "title": "Battle with the Four Fiends",
+  "seconds": 198,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "UBuBMBUYo84",
+  "orig": "[Video Soundtrack] The Airship [FINAL FANTASY IV]",
+  "title": "The Airship",
+  "seconds": 69,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "KDRVex_tqhw",
+  "orig": "[Video Soundtrack] Troian Beauty [FINAL FANTASY IV]",
+  "title": "Troian Beauty",
+  "seconds": 118,
+  "kind": "town",
+  "tags": [
+   "castle",
+   "forest"
+  ]
+ },
+ {
+  "id": "S_JqVp-lMzQ",
+  "orig": "[Video Soundtrack] Samba de Chocobo! [FINAL FANTASY IV]",
+  "title": "Samba de Chocobo!",
+  "seconds": 78,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "af0A1UpSGPI",
+  "orig": "[Video Soundtrack] Tower of Bab-il [FINAL FANTASY IV]",
+  "title": "Tower of Babil",
+  "seconds": 132,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "KyJpb_65Y44",
+  "orig": "[Video Soundtrack] Somewhere In the World… [FINAL FANTASY IV]",
+  "title": "Somewhere in the World",
+  "seconds": 67,
+  "kind": "town",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "TMEJxbw4tB4",
+  "orig": "[Video Soundtrack] Land of Dwarves [FINAL FANTASY IV]",
+  "title": "Land of the Dwarves",
+  "seconds": 125,
+  "kind": "field",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "Ui7mx17OHrw",
+  "orig": "[Video Soundtrack] Giott, King of the Dwarves [FINAL FANTASY IV]",
+  "title": "Giott, King of the Dwarves",
+  "seconds": 84,
+  "kind": "town",
+  "tags": [
+   "castle",
+   "cave"
+  ]
+ },
+ {
+  "id": "cRGD6AzwHos",
+  "orig": "[Video Soundtrack] Dancing Calbrena [FINAL FANTASY IV]",
+  "title": "Dancing Calcabrina",
+  "seconds": 78,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "RQMDkx1jZAk",
+  "orig": "[Video Soundtrack] Tower of Zot [FINAL FANTASY IV]",
+  "title": "Tower of Zot",
+  "seconds": 101,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "industrial"
+  ]
+ },
+ {
+  "id": "BiDlE_3WnAU",
+  "orig": "[Video Soundtrack] The Land of Summons [FINAL FANTASY IV]",
+  "title": "Land of Summons",
+  "seconds": 108,
+  "kind": "town",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "7KTaKUPfJZ0",
+  "orig": "[Video Soundtrack] Lunar Whale [FINAL FANTASY IV]",
+  "title": "Lunar Whale",
+  "seconds": 84,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "lNIXRKRsqOo",
+  "orig": "[Video Soundtrack] Another Moon [FINAL FANTASY IV]",
+  "title": "Another Moon",
+  "seconds": 136,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "WW597fhx0pQ",
+  "orig": "[Video Soundtrack] The Lunarians [FINAL FANTASY IV]",
+  "title": "The Lunarians",
+  "seconds": 142,
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ {
+  "id": "jGzBMDDBl5Q",
+  "orig": "[Video Soundtrack] Within the Giant [FINAL FANTASY IV]",
+  "title": "Within the Giant",
+  "seconds": 146,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "Fd_FyPn6SuQ",
+  "orig": "[Video Soundtrack] The Final Battle [FINAL FANTASY IV]",
+  "title": "The Final Battle",
+  "seconds": 172,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "BVfFfms6zUw",
+  "orig": "[Video Soundtrack] Chocobo Forest [FINAL FANTASY IV]",
+  "title": "Chocobo Forest",
+  "seconds": 36,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "CRkNFPSFbCk",
+  "orig": "[Video Soundtrack] The Serpent Road [FINAL FANTASY IV]",
+  "title": "The Serpent Road",
+  "seconds": 36,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ }
+]

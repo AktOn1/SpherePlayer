@@ -1,0 +1,8456 @@
+[
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "cijssP1dnQg",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "q4jA-bNip50",
+  "title": "Opening Theme"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "lYcmyozDzAc",
+  "title": "Menu Screen"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "battle",
+  "id": "Hrz5HryadIA",
+  "title": "Battle"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "ZSdNARyfaZY",
+  "title": "Victory"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "2OH4vKhuzNw",
+  "title": "Game Over"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "7_ztaHxLIQI",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "battle",
+  "id": "C2iNe7FVJJY",
+  "title": "Battle Theme 1"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "r1F8gj5y-Kg",
+  "title": "Revival"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "WyQtMXllON4",
+  "title": "The Imperial Army"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "_WTDBgzSQl0",
+  "title": "The Emperor's Rebirth"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "boss",
+  "id": "5lx9MaiScZQ",
+  "title": "Battle Theme 2"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "1DPc-M8drjM",
+  "title": "Victory"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "Vvv2pvocGC0",
+  "title": "Game Over"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "boss",
+  "id": "9BjkwYAhb2Q",
+  "title": "Battle Theme 3"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "BdsbRJ06qYk",
+  "title": "The Prelude"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "battle",
+  "id": "UoWc_cpkkWo",
+  "title": "Battle 1"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "GGVoJFBP3d8",
+  "title": "Opening Theme"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "e2uPp-g0RQg",
+  "title": "Return of the Warrior"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "boss",
+  "id": "oJgU63ONfPU",
+  "title": "Battle 2"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "aBq5wUknxpQ",
+  "title": "The Requiem"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "srjrAkL2teM",
+  "title": "Elia, the Maiden of Water"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "-2JYUSyr__8",
+  "title": "Swift Twist"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "uIjpAjfUdy0",
+  "title": "Good Ol' Fellows"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "hGplNxh-kF4",
+  "title": "Let Me Know the Truth"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "aFjzAxkr_6s",
+  "title": "Good Morning!"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "boss",
+  "id": "0mCNpo0EkNo",
+  "title": "This Is the Last Battle"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "IxKeM7GHCxM",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "DKNoHCLI-TM",
+  "title": "The Red Wings"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "bLkS2vvcCw8",
+  "title": "Theme of Love"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "yA1jriZNmyQ",
+  "title": "Prologue"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "battle",
+  "id": "biMiTu8PGT8",
+  "title": "Battle 1"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "m6EY76Xst5E",
+  "title": "Fanfare"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "O4KfA_ANJ5w",
+  "title": "Enter the Fat Chocobo!"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "boss",
+  "id": "FQYEF_TShPU",
+  "title": "Battle 2"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "4P95O7uZ9Kg",
+  "title": "Bomb Ring"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "BC8vFHgzqC8",
+  "title": "Rydia"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "4coBAyTCc6U",
+  "title": "Sorrow and Loss"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "Wbz6gSWAAN4",
+  "title": "Edward's Harp"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "GfdBz2wyAqc",
+  "title": "Run!"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "ifp3QIXh3q4",
+  "title": "Suspicion"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "6Ljuo_3w4y0",
+  "title": "Golbez, Clad in Darkness"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "KwmRV9_7kas",
+  "title": "Hey, Cid!"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "Qt3ttuH3gjc",
+  "title": "A Long Way to Go"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "JGEtLH3usco",
+  "title": "Palom and Porom"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "boss",
+  "id": "9fBOQdbWcRY",
+  "title": "Battle with the Four Fiends"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "boss",
+  "id": "cRGD6AzwHos",
+  "title": "Dancing Calcabrina"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "boss",
+  "id": "Fd_FyPn6SuQ",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "eLqQiWcvwQ8",
+  "title": "Opening Theme"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "IcbQyCFnjzA",
+  "title": "Four Hearts"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "r200BPW_cm8",
+  "title": "Hurry! Hurry!"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "pJVIWGbBKf8",
+  "title": "Lenna's Theme"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "battle",
+  "id": "8ayGsMPF-9M",
+  "title": "Battle 1"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "KVO5uIXrcWc",
+  "title": "Victory Fanfare"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "_DCpMKRnvKM",
+  "title": "Requiem"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "f1iQJrPeCO8",
+  "title": "Deception"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "zQpzNNHRJjA",
+  "title": "Close Call"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "boss",
+  "id": "RlTISk3zyzg",
+  "title": "Battle 2"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "wG3VWaZpAxs",
+  "title": "Run!"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "st1CHsrTxww",
+  "title": "Sorrows of Parting"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "_EBRy5wq4Fc",
+  "title": "Reminiscence"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "XBNODEj1mBI",
+  "title": "The Day Will Come"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "EsaKR8h0bd4",
+  "title": "What?"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "W2L-WxJA7AU",
+  "title": "Music Box"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "6xaM1I5WECc",
+  "title": "The Evil Lord Exdeath"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "oO-2EnPDmr4",
+  "title": "The Dawn Warriors"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "boss",
+  "id": "jH-Pddk-_4w",
+  "title": "Battle at the Big Bridge"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "FuavX43uyMM",
+  "title": "Sealed Book"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "boss",
+  "id": "Ajq7huc-9Sg",
+  "title": "The Decisive Battle"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "boss",
+  "id": "oyzsRJW3Xxw",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "WyDWU0Xx_P8",
+  "title": "Omen"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "iZM6Lmb5tuw",
+  "title": "Awakening"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "JLrsUOA4Vb4",
+  "title": "Locke's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "battle",
+  "id": "92MCwVeTiYU",
+  "title": "Battle"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "1iMwxNvgfdg",
+  "title": "Victory Fanfare"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "oPDbe9YI7-M",
+  "title": "Kefka"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "WSGpg777M0M",
+  "title": "Shadow's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "w7CoVG7tkcE",
+  "title": "Troops March On"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "zFtgxUrcRY4",
+  "title": "The Unforgiven"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "30CpyDOxVnE",
+  "title": "Gau's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "ZRoE9cVRMkg",
+  "title": "Celes's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "o2b4DMy8Xhk",
+  "title": "Protect the Espers!"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "boss",
+  "id": "8ksnA3Qjx5Q",
+  "title": "The Decisive Battle"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "TTn96QsP6_Q",
+  "title": "Metamorphosis"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "mFIR_oATiIk",
+  "title": "Coin of Fate"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "LWfdEj9jHDM",
+  "title": "Forever Rachel"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "wL5lX_xwtdM",
+  "title": "Spinach Rag"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "hfwJQoVj5Dc",
+  "title": "Overture"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "iqZiSqIaBag",
+  "title": "Aria di Mezzo Carattere"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "gvRViF-3rJQ",
+  "title": "Wedding Waltz - Duel"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "z-0DtmPjOSg",
+  "title": "Grand Finale"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "Fo4Z5jaRAVM",
+  "title": "Setzer's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "gy4sSNX_Mck",
+  "title": "What? 2"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "yS5IxNLkI5M",
+  "title": "Mog's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "gRRVStgkgSw",
+  "title": "Relm's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "idX3OaecYcY",
+  "title": "Catastrophe"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "boss",
+  "id": "DpWvIpAtPd4",
+  "title": "Battle to the Death"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "hCBuwn2qNg4",
+  "title": "Rest in Peace"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "UVrQSchm6ho",
+  "title": "Gogo's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "TQSodUr13rI",
+  "title": "Epitaph"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "VHgPvGAFxPk",
+  "title": "Umaro's Theme"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "boss",
+  "id": "sJ0HeCZYAhI",
+  "title": "Dancing Mad"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "FabUYfFBs3s",
+  "title": "The Prelude"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "NoWU28L_ZmQ",
+  "title": "Opening - Bombing Mission"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "W_UWkWlvbFw",
+  "title": "Tifa's Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "8vA1UHQSJPM",
+  "title": "Barret's Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "QAOfIrNnSYk",
+  "title": "Hurry!"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "battle",
+  "id": "U_lqfaQIZH4",
+  "title": "Let the Battles Begin!"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "gWmFWglM3iQ",
+  "title": "Fanfare"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "Gcv2h_4RQww",
+  "title": "Turks' Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "n2G9qkkrNQI",
+  "title": "Who... Are You?"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "QYPgLFyrYoc",
+  "title": "Still More Fighting"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "5Fn5NUb5IQs",
+  "title": "Red XIII's Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "gkpGeizADV0",
+  "title": "Crazy Motorcycle"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "B4xS1tXRV6Y",
+  "title": "Holding My Thoughts in My Heart"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "v4h9SkfZNwk",
+  "title": "On Our Way"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "qF6n0WskLBo",
+  "title": "Good Night, Until Tomorrow"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "DGrLXt-Uvmk",
+  "title": "Waltz de Chocobo"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "Nic2YoebTDU",
+  "title": "Cinco de Chocobo"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "b_GJ5zDsGN0",
+  "title": "Rufus' Welcoming Ceremony"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "jhC8Es56cvg",
+  "title": "Trail of Blood"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "zs0JGX4dD3g",
+  "title": "J-E-N-O-V-A"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "DucA0D0jt6w",
+  "title": "Continue"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "1eE3Of5i6jw",
+  "title": "Cait Sith's Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "D-KY7Luly5M",
+  "title": "Life Stream"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "UYTfSkxcglE",
+  "title": "Great Warrior"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "-a0OMl263Uc",
+  "title": "Descendant of Shinobi"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "A5h5o6gsCJc",
+  "title": "Those Chosen by the Planet"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "NqsyXPYYXbM",
+  "title": "Steal the Tiny Bronco!"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "KH7G7QYp_Fs",
+  "title": "Stolen Materia"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "6Ub4Xpgz58c",
+  "title": "Racing Chocobos - Place Your Bets"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "2Tp6u08To90",
+  "title": "Jackpot"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "MsGMFppMDX8",
+  "title": "Tango of Tears"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "HhxFbu0C4dI",
+  "title": "Debut"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "75JQ82GSScw",
+  "title": "Words Drowned by Fireworks"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "6ok91l9qOFE",
+  "title": "Reunion"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "cPkeZ7ymFRk",
+  "title": "Who Am I"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "81BX76SN_Ig",
+  "title": "ShinRa Army Wages a Full-Scale Attack"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "asxyJpPhx_s",
+  "title": "Weapon Raid"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "m_xqvNW4LCY",
+  "title": "From the Edge of Despair"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "lChlASQwL0A",
+  "title": "Hurry Faster!"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "CgdaBqLPSWk",
+  "title": "Sending a Dream into the Universe"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "6I_yUvT23u8",
+  "title": "Countdown"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "gkAdEczQLsg",
+  "title": "Open Your Heart"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "SOPV4hsrusI",
+  "title": "Mako Cannon - The Destruction of Shinra"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "IPpV3czE4K8",
+  "title": "Jenova Complete"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "lVQYrc1WzI4",
+  "title": "Birth of a God"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "boss",
+  "id": "IYMTzLxGv3M",
+  "title": "One-Winged Angel"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "lX-HzYKFFoA",
+  "title": "Staff Roll"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "-5qt0NK5b9A",
+  "title": "Liberi Fatali"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "battle",
+  "id": "nZ4Ivp-nTEQ",
+  "title": "Don't be Afraid"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "VAixXiXdreY",
+  "title": "The Winner"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "KyPFEN8v65A",
+  "title": "SeeD"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "YY9QzQdRMbA",
+  "title": "The Landing"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "ayCF8s0DFhA",
+  "title": "Starting Up"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "boss",
+  "id": "ak-AfYL-rfI",
+  "title": "Force Your Way"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "LUV67UGl4Z8",
+  "title": "The Loser"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "dqlV-lruCic",
+  "title": "Never Look Back"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "8FOZZ4XV8hs",
+  "title": "Dead End"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "OirbhFAmcAQ",
+  "title": "Shuffle or Boogie"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "Na0kklT7N4A",
+  "title": "Waltz for the Moon"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "mtSMPBMR0WI",
+  "title": "Tell Me"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "battle",
+  "id": "KMm7kayDeTU",
+  "title": "The Man with the Machine Gun"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "wE6ACd1ia0g",
+  "title": "Julia"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "QkXHKpUK49g",
+  "title": "Junction"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "uTYqXHL5knQ",
+  "title": "My Mind"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "opppjFsEHWU",
+  "title": "The Mission"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "hTE6735qAu8",
+  "title": "Cactus Jack (Galbadian Anthem)"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "-L4cwL_RKNI",
+  "title": "Succession of Witches"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "OAt6vrlqmyg",
+  "title": "Unrest"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "1I-pTXNzkrk",
+  "title": "Under Her Control"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "aKzPaLhBCjI",
+  "title": "The Stage is Set"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "_82OWXTF89A",
+  "title": "A Sacrifice"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "fQg94e973jY",
+  "title": "FITHOS LUSEC WECOS VINOSEC"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "boss",
+  "id": "2UypEmBr9Gg",
+  "title": "Premonition"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "4-4NtZOGp8U",
+  "title": "Wounded"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "2O3zaOd1y3g",
+  "title": "Rivals"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "7VYCpwxeFT8",
+  "title": "Ami"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "O6cS3EjKwBE",
+  "title": "The Spy"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "yNBrgAIYd_U",
+  "title": "Retaliation"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "AJaRwfECgbU",
+  "title": "Movin'"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "GiuZVFiExm8",
+  "title": "Blue Sky"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "PlC9gIt56Ng",
+  "title": "Drifting"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "lzo-_JiamqM",
+  "title": "Heresy"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "48XNRdB1U84",
+  "title": "Where I Belong"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "n7UdnWvKNSg",
+  "title": "The Oath"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "WCk1dcIa0JM",
+  "title": "Slide Show Part 1"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "EwcF5IfPkuU",
+  "title": "Slide Show Part 2"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "bh9HxqY8_j8",
+  "title": "Love Grows"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "fIJsu1GuOq4",
+  "title": "Trust Me"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "Hsy7M4HNcy8",
+  "title": "Dance with the Balamb-fish"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "vy67gZnfPwU",
+  "title": "Tears of the Moon"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "fpOTROdY-_U",
+  "title": "Truth"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "boss",
+  "id": "oW61WM0DDUA",
+  "title": "The Legendary Beast"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "boss",
+  "id": "NYpkDvfY5n4",
+  "title": "Maybe I'm a Lion"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "boss",
+  "id": "WFjHWw_w91Q",
+  "title": "The Extreme"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "bWA635zt9nM",
+  "title": "Overture"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "VdxC7FqoNQw",
+  "title": "A Place to Call Home"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "leFi1KPzRVw",
+  "title": "Memory Erased by a Storm"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "VqZf21Rxfc0",
+  "title": "The Meeting"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "mBl1gO4v6oE",
+  "title": "Sky of Alexandria"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "DQevG_6xpmo",
+  "title": "Vivi's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "UGZ7y89w0xo",
+  "title": "Swords of Fury"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "d1ti-JU4EnQ",
+  "title": "Vamo'alla flamenco"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "3Ofcdstotfw",
+  "title": "Find the Princess"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "9mZD60iH3WI",
+  "title": "Court Jesters"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "jXEZodSQMOE",
+  "title": "Steiner's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "0HGGFejTWaY",
+  "title": "Prima Vista Orchestra"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "cXnRfXyfeUM",
+  "title": "Eye to Eye"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "WclVPI_NxFk",
+  "title": "Thy Warmth"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "tCZrR7iF4ro",
+  "title": "Tragic Love"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "CJUr3TaY5Qw",
+  "title": "The Evil Within"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "battle",
+  "id": "8B1opY1K8tk",
+  "title": "Battle 1"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "5MtiYOL_u-c",
+  "title": "Fanfare"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "1jYhf2QXxXQ",
+  "title": "Distant Memory"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "boss",
+  "id": "DEMkS-9wa5w",
+  "title": "Battle 2"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "FlD7aTqqUdw",
+  "title": "Game Over"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "64AM4ilmkmI",
+  "title": "Run!"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "NAGLY7rMJU4",
+  "title": "Beyond the Twilight"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "fcFznW5drEI",
+  "title": "Steiner's Delusion"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "gugG8w76NIE",
+  "title": "Fleeting Life"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "7h68pHE9oRQ",
+  "title": "Zidane's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "boss",
+  "id": "cxC8kFIkL-c",
+  "title": "The Black Waltz"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "39gCzsSYQUw",
+  "title": "Cid's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "CIJ7VFy1_34",
+  "title": "Out of the Frying Pan"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "Q2n1EQApfVc",
+  "title": "A Song From Her Memory"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "0B-qFx0CiWw",
+  "title": "Festival of the Hunt"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "aEZmd2141cI",
+  "title": "Quina's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "m4HEsGvE1gk",
+  "title": "Freya's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "boss",
+  "id": "FyQOW5RuYnE",
+  "title": "Faerie Battle"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "btffDWK97Og",
+  "title": "Unforgettable Silhouette"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "ejqjfqelUGA",
+  "title": "Kuja's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "RfrPbb6XpuE",
+  "title": "The Wavering Blade"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "RSsr-Uz8LNM",
+  "title": "Tantalus's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "vJCTB36ML0E",
+  "title": "Wicked Melody"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "grv0UPAgZoI",
+  "title": "Garnet's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "OgXQfW_oHeA",
+  "title": "Eternal Harvest"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "gdHB6DUX9og",
+  "title": "Mourning the Sky"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "e4RdFVSve7k",
+  "title": "The Extraction"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "R2Hot5SJUok",
+  "title": "City Under Siege"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "QOJUxX6tvjw",
+  "title": "Roses of May"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "I32BfXkq6TE",
+  "title": "Unrequited Love"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "g3_h1sWk3FU",
+  "title": "Before the Altar"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "yoeUHQTtX_E",
+  "title": "Eiko's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "DXARwq3sH0k",
+  "title": "Amarant's Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "ve-_t6k0mMQ",
+  "title": "Devil's Ambition"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "yxpMjtHepOo",
+  "title": "Outlaws"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "55AHq2X90oc",
+  "title": "Foolproof Love Letter Scheme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "26KGry1eV2M",
+  "title": "Tetra Master"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "Hp9ymj7D-Do",
+  "title": "Moogles' Theme"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "tWH4MBW_grs",
+  "title": "Something to Protect"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "5_pCTIN5Bkc",
+  "title": "Light of Destiny"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "PivGdNgGU9Q",
+  "title": "Master of Time"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "pHf8l9SV3AI",
+  "title": "Look Back, See the Frog!"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "S6TFHL56rbw",
+  "title": "Broken Spell, Healed Hearts"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "1-plX0kp3uY",
+  "title": "The Four Mirrors"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "Kr9IBPjFwVs",
+  "title": "Guardians"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "eqw0yS7W06U",
+  "title": "Not Alone"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "eobb-Li2RsY",
+  "title": "Unforgettable Sorrow"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "s3uHt6kCyqE",
+  "title": "Another Nightmare"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "keVdnXRuzNE",
+  "title": "Silver Dragon"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "boss",
+  "id": "d4AQ7kRcn_A",
+  "title": "The Darkness of Eternity"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "boss",
+  "id": "3IXijnKO8Ow",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "L0eCNYv1Fmc",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "LSz-WtATsL8",
+  "title": "Melodies of Life (The Layers of Harmony)"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "QQq0zv_JXEk",
+  "title": "To Zanarkand"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "QBfjQWkhwFE",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "qk0MG4hdvME",
+  "title": "Tidus's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "KO6fvJrsTsE",
+  "title": "Otherworld"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "AmtZbNWxOzY",
+  "title": "Run!!"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "u4ffC3p10lU",
+  "title": "This Is Your Story"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "battle",
+  "id": "0yuV3H-LPQw",
+  "title": "Battle Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "nd6YbpWWbP8",
+  "title": "Victory Fanfare"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "BEz8m2pfubE",
+  "title": "Game Over"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "Ue1fRipeWBc",
+  "title": "Out of the Frying Pan"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "MID_Z9XyZqk",
+  "title": "Leap in the Dark"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "QnnPwqOxc1Y",
+  "title": "Oui Are Al Bhed"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "36C5SJ-zYSc",
+  "title": "Enemy Attack"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "b584gNLzfLM",
+  "title": "The Blitzers"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "qdJFnBwIAWs",
+  "title": "Hum of the Fayth"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "42aOxDec5lE",
+  "title": "Hymn - Valefor"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "GpW7cTfqz04",
+  "title": "The Summoning"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "TRvW8Pb0t44",
+  "title": "Braska's Daughter"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "h4RLvBSfz70",
+  "title": "Yuna's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "guqV6l8tCOc",
+  "title": "The Sending"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "pxp3B3Ol6tE",
+  "title": "Calm Before the Storm"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "4Q_d6I8cu40",
+  "title": "Hymn - Ifrit"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "AXpI5onZlZw",
+  "title": "Grand Maester Mika"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "fRIXJoKYMuI",
+  "title": "Decision on the Dock"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "qZkSsrZnjSY",
+  "title": "The Splendid Performance"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "kThd_h1Nzvw",
+  "title": "Face Off"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "q55PKZF62GY",
+  "title": "Blitz Off!"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "KwBv6cD9Z5U",
+  "title": "Auron's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "52snYQ6i72Q",
+  "title": "They May Pass"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "U-_qCrxom9g",
+  "title": "Seymour's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "zf5tJHbY5Tg",
+  "title": "Twilight"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "suwqt4QLPUQ",
+  "title": "Hymn - Ixion"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "D8YV6i50gIw",
+  "title": "Rikku's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "IuHLaT_kAUM",
+  "title": "Jecht's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "jY-F4fvLhqk",
+  "title": "The Void"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "jllwR_WOvpU",
+  "title": "The Temple Players"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "xLnWGMCTGlY",
+  "title": "Seymour's Ambition"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "O0nvvxOF-mM",
+  "title": "Hymn - Shiva"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "r58mugkmfIs",
+  "title": "Pursuit"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "5c9Uue-NA8k",
+  "title": "The Truth Revealed"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "18uARerZeVg",
+  "title": "Launch"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "QAR17f9TRP8",
+  "title": "The Wedding"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "qR7jLqkmu4o",
+  "title": "Assault"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "wod4CShsBwY",
+  "title": "Tragedy"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "aMEIUWbrpww",
+  "title": "Believe"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "0TUNElKM1rE",
+  "title": "Hymn - Bahamut"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "pR4AEBcqdFw",
+  "title": "Moment of Truth"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "gmETYgrzthE",
+  "title": "Patricide"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "Ze6w1sLvymM",
+  "title": "Suteki da ne (Isn't It Wonderful?)"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "b68JCouP2xs",
+  "title": "Yuna's Decision"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "IUUT886SPWw",
+  "title": "Lulu's Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "rY2-9hwAYUk",
+  "title": "Bravely Forward"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "UZJdKP47O5k",
+  "title": "Hymn - Yojimbo"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "w0NeLAcSb2s",
+  "title": "Hymn - The Ronso"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "JV36UXyjyso",
+  "title": "A Fleeting Dream"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "E0VR-CbYd94",
+  "title": "Hymn - Yunalesca"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "6PKx_51pWYg",
+  "title": "Challenge"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "ePl26plerW8",
+  "title": "Beyond the Darkness"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "N9y4gtx-SXo",
+  "title": "Hymn - Spira"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "NaESaEtUsrE",
+  "title": "The Unsent Laugh"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "8nWHoYXIHeU",
+  "title": "Fight with Seymour"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "QbqFOAFSx2g",
+  "title": "Hymn - Anima"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "anDVwHI0oe0",
+  "title": "A Contest of Aeons"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "boss",
+  "id": "fm3QyFStsQw",
+  "title": "Final Battle"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "VQQcVluN0Dc",
+  "title": "Ending Theme"
+ },
+ {
+  "game": "Final Fantasy X",
+  "category": "other",
+  "id": "z18ZPK9aTcM",
+  "title": "Suteki da ne (Isn't It Wonderful?) Orchestra Version"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "BrSBIrGCmKc",
+  "title": "Rhapsodies of Vana'diel"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "v1dAw8FE5XY",
+  "title": "Wail of the Void"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "N4KnSJy5E-Y",
+  "title": "The Boundless Black"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "WxrhJS5sBXg",
+  "title": "Iroha"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "GLFAIbpsm40",
+  "title": "Rhapsodies of Vana'diel (EP Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "KH1ub2AHcTg",
+  "title": "Distant Worlds (Instrumental Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "JNEde38oMFk",
+  "title": "Forever Today"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "nq0gVNKjYu0",
+  "title": "The Divine"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "vid5C4BpaEg",
+  "title": "Forever Today (EP Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "udZ6s1rodf8",
+  "title": "The Price"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "0INjvYvZmXY",
+  "title": "Monstrosity"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "UnG4E_meyMc",
+  "title": "Worlds Away"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "-yTGdVIu0To",
+  "title": "Forever Today (Instrumental Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "R9ZVExRcNbg",
+  "title": "Seekers of Adoulin"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "3cpTjw0xCmw",
+  "title": "Wings of the Goddess"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "2fgx9f_H-CA",
+  "title": "Treasures of Aht Urhgan"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "usGmRVMYeg8",
+  "title": "Chains of Promathia"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "yYCF16vnJHQ",
+  "title": "Rise of the Zilart"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "KDYseb_2eOM",
+  "title": "Home Away from Home"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "ExZaxUH8j2A",
+  "title": "The Darkness Without"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "AAgsEwe4Ls0",
+  "title": "On Fate's Wings"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "EAcNkLRB3eI",
+  "title": "The Brine"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "dQ0JCCe-eKA",
+  "title": "From Industry to Nature"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "qP8DCyDRgZQ",
+  "title": "Footsteps through the Aether"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "e8214J5r_tU",
+  "title": "Through the Woods and Over the Highlands"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "yKhBB2NIiLc",
+  "title": "FFXI Opening Theme"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "4pr7pB-nJkg",
+  "title": "Vana'diel March"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "auAYd1EN3jY",
+  "title": "Battle Theme"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "RIw9MHrSKz0",
+  "title": "Battle in the Dungeon"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "JONfOZHJlkI",
+  "title": "Battle Theme #2"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "UYfSwaF9pkE",
+  "title": "Prelude"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "b7BmWT5ecLE",
+  "title": "Regeneracy"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "2Iwz6rfmeU8",
+  "title": "Hume Male"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "OCyRRTOm0Dg",
+  "title": "Hume Female"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "PZnjI-FRRok",
+  "title": "Elvaan Male"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "qHMWQ2dnJ-c",
+  "title": "Elvaan Female"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "5QGyLEpOjL8",
+  "title": "Tarutaru Male"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "9jB0gjh4tDE",
+  "title": "Tarutaru Female"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "7LhvX4oFzB4",
+  "title": "Mithra"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "MXC19B-VNLQ",
+  "title": "Galka"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "vgzXmBbinpU",
+  "title": "Recollection"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "NdyhxslhLnU",
+  "title": "Anxiety"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "wICBCPty3Fs",
+  "title": "Battle in the Dungeon #2"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "gbMWKpe7bDY",
+  "title": "Blackout"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "T7D0V2JR0l8",
+  "title": "Hopelessness"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "fsKhrRVlPXk",
+  "title": "Fury"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "nL9kxhmuwss",
+  "title": "Tough Battle"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "kQOh4SEoDWk",
+  "title": "Sorrow"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "kZAWWl5ToNY",
+  "title": "Sometime, Somewhere"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "ppij6LvACqw",
+  "title": "Despair (Memoro de la Ŝtono)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "0WJ4oSxtYao",
+  "title": "Shadow Lord"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "S9M_3nNUufU",
+  "title": "Awakening"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "GkZeE1gySA8",
+  "title": "Repression (Memoro de la Ŝtono)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "jz4C9qzL_lg",
+  "title": "Wings of Dawn"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "O1TJdn7fu08",
+  "title": "Echoes of Creation"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "r_K1Pu3RcbY",
+  "title": "Main Theme - FINAL FANTASY XI Version"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "UIvhaqiEyYQ",
+  "title": "Feast of the Ladies"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "n4-yiZpK81g",
+  "title": "Melodies Errant"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "x_XQmblQl3Q",
+  "title": "Shinryu"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "ddQN2fnwlds",
+  "title": "Summers Lost"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "mU6KeUUIlH4",
+  "title": "Goddess Divine"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "-J7-TrMpc9E",
+  "title": "Everlasting Bonds"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "m9C4cuu1mJM",
+  "title": "An Ode to Heroes Fallen"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "QksAnFht2eQ",
+  "title": "POL Opening"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "StRF4hfCSSM",
+  "title": "Space"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "rXwNVR3dw70",
+  "title": "Jazz 1"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "t_2op_ABy1g",
+  "title": "Silver Pocket Watch"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "6-OFqTuKEmA",
+  "title": "Fairy Dance"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "PoTU0HeXDMg",
+  "title": "Tranquility"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "mNasGop_Cjs",
+  "title": "Jungle"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "oJwh4lpV_xM",
+  "title": "Odd Time Signature"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "C0uF0B8Ek58",
+  "title": "Dance"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "cc8u0aXp83g",
+  "title": "Heartwarming"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "wbsXC2xdKUw",
+  "title": "Jazz 2"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "MFtaPCimSpg",
+  "title": "Dolphin"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "N3wlpa9aKy4",
+  "title": "Great Voyage"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "XwFlmWb-ODU",
+  "title": "Fluffy"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "h3QKg0OBTmQ",
+  "title": "Funky Monkey"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "o_0jyo0AjHA",
+  "title": "Solid Wax"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "j6j_mWUlBjw",
+  "title": "Filter Branch"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "JleT3mM_Wj8",
+  "title": "Baby Herbie"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "ggWFnEpJPnw",
+  "title": "Technorider"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "p8MbhRFf43w",
+  "title": "P'z"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "s6zv32te4Z8",
+  "title": "Foster Family"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "p_cUmlJKhEM",
+  "title": "Caterpillar"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "pzHb4qaKn0A",
+  "title": "Beyond the Hill"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "57F43fNyS8Q",
+  "title": "Payload Pacific"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "RKZapcQSWw4",
+  "title": "Reminiscence"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "KVucmk6iGdQ",
+  "title": "Light"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "U06k4NacLUI",
+  "title": "Blessing"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "w-E1zEyb9tw",
+  "title": "Harvest"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "dLuEP_VzX9U",
+  "title": "Battle Theme #3"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "B4DzA0fsuXg",
+  "title": "Battle in the Dungeon #3"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "sez_0E7_-Ro",
+  "title": "Grav'iton"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "b-iwM-R5GOM",
+  "title": "Tough Battle #2"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "4mLq11SLOxQ",
+  "title": "Fighters of the Crystal"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "Xhzs6e3bLfk",
+  "title": "Eald'narche"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "Vp-XC5G52-Q",
+  "title": "Belief"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "8vST0LRr-18",
+  "title": "End Theme"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "NQbEB1YEuSo",
+  "title": "Unity"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "vyzpQF03MBw",
+  "title": "Depths of the Soul"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "DnQ9w-o5c3Q",
+  "title": "Currents of Time"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "R-TofW_g04E",
+  "title": "First Ode: Nocturne of the Gods"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "kc1pSiLzudk",
+  "title": "Onslaught"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "LKqZeNEF1os",
+  "title": "Second Ode: Distant Promises"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "QUi-__J_gXk",
+  "title": "The Ruler of the Skies"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "qVO92y14NLY",
+  "title": "Turmoil"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "Gi75a8Usb-I",
+  "title": "Third Ode: Memoria de la S^tona"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "B-ZhXT6cJ44",
+  "title": "Happily Ever After"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "cgp_Tf2VkRo",
+  "title": "Conflict: You Want to Live Forever?"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "cU7Bv-0Bbok",
+  "title": "Conflict: March of the Hero"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "nNVJbVASvlM",
+  "title": "Fourth Ode: Clouded Dawn"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "Isa4qc0LpiA",
+  "title": "Fifth Ode: A Time for Prayer"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "xsq0NZEcu8Y",
+  "title": "Dusk and Dawn"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "FuWFd97EIh8",
+  "title": "A New Morning"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "Nuq847z9NeI",
+  "title": "Mercenaries' Delight"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "QGaPK-hjhcw",
+  "title": "Rapid Onslaught -Assault-"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "lSfPriE19iQ",
+  "title": "Fated Strife -Besieged-"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "kgIkG3EdmSg",
+  "title": "Delve"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "zii_YXVVaJ4",
+  "title": "Whispers of the Gods"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "2gGTgP8zdYk",
+  "title": "Circuit de Chocobo"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "_fxqjb1LZ4g",
+  "title": "Run Chocobo, Run!"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "x1gXAh3wa80",
+  "title": "The Colosseum"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "ifqD7HKZsBQ",
+  "title": "Black Coffin"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "5MYBVlGOvr0",
+  "title": "A Puppet's Slumber"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "73QdJy3wmcM",
+  "title": "Ever-Turning Wheels"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "QGIEjBByxrg",
+  "title": "Hellriders"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "-MzmQ-FdJOk",
+  "title": "Eternal Gravestone"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "DTZuu-XFRZE",
+  "title": "Vana'diel March #4"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "0Us2sIZCMyE",
+  "title": "March of the Allied Forces"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "yfapfgb3iKg",
+  "title": "Flowers on the Battlefield"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "JKwgcqpGenk",
+  "title": "Roar of the Battle Drums"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "E7ssZdsZBMY",
+  "title": "Clash of Standards"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "eyLu8iyGTRc",
+  "title": "Encampment Dreams"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "giolVdArf1M",
+  "title": "The Cosmic Wheel"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "qSaBvtXxAqM",
+  "title": "Stargazing"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "yD_2nReyLWU",
+  "title": "On this Blade"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "J27mvnnPmow",
+  "title": "Young Griffons in Flight"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "WouaHyXeNU4",
+  "title": "Run Maggot, Run!"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "oPq_dYDZt40",
+  "title": "Royal Wanderlust"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "qp8shTML0bs",
+  "title": "Kindred Cry"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "2BmGDrf6OWc",
+  "title": "Troubled Shadows"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "Dms-pZixhJk",
+  "title": "Wings of the Goddess"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "-tsAf-xfOvk",
+  "title": "Iron Colossus"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "UehvdgLoTWA",
+  "title": "Ragnarok"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "WlNEwZFxIXQ",
+  "title": "An Invisible Crown"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "qIwNix59ijc",
+  "title": "A New Direction"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "hfeaToi2Zsw",
+  "title": "The Pioneers"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "-C5ODnH52Qs",
+  "title": "Steel Sings, Blades Dance"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "AdVbYglYulA",
+  "title": "Arciela"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "hPzSUU14vPU",
+  "title": "Water's Umbral Knell"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "0uNqxyxhtpg",
+  "title": "Hades"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "hiraUWcOrVQ",
+  "title": "Keepers of the Wild"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "iNDbw-8pLIo",
+  "title": "Where it All Begins"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "VvCSOy43HmA",
+  "title": "Provenance Watcher"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "pajtGgmXBDM",
+  "title": "Forever Today"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "cOHZolZjSqQ",
+  "title": "Worlds Away"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "du_9TfUI5yM",
+  "title": "Monstrosity"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "mIzd4u_mmho",
+  "title": "The Price"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "doQjGbwzKWw",
+  "title": "Forever Today ep ver."
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "zZ8fpfSgAaM",
+  "title": "The Divine"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "r9IrtudNeWs",
+  "title": "We Are Vana'diel"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "gRLc5mEr-kc",
+  "title": "Goddesspeed"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "FPLfGXMd_eA",
+  "title": "Good Fortune"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "2GCD5SW_XAc",
+  "title": "The Voracious Resurgence"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "SRIyti-xRsY",
+  "title": "The Devoured"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "s4PLI1cmApc",
+  "title": "The Destiny Destroyers"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "BFhx587vpqs",
+  "title": "All Smiles"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "x09sMQw-_yA",
+  "title": "Sojourner"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "HOWKINBZT90",
+  "title": "Black Stars Rise"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "8Run4wNjIJk",
+  "title": "Devils' Delight"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "tiNiO8Q9UGw",
+  "title": "Valhalla"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "battle",
+  "id": "9b-TVM0RyDo",
+  "title": "Encroaching Perils"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "6uUuRFPwtbo",
+  "title": "All-Consuming Chaos"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "jUebw4Qu-FQ",
+  "title": "Your Choice"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "InQCyVJZem4",
+  "title": "For a Friend"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "yORV_e5Dqd0",
+  "title": "Times Grow Tense"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "RI7L7h81eUE",
+  "title": "Disjoined One"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "wS03KTFokwc",
+  "title": "Winds of Change"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "MIk-fNYuxus",
+  "title": "Forever Today (instrumental Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "K5JUNMHe1wk",
+  "title": "Distant Worlds (instrumental Version)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "BBSnUHqGntU",
+  "title": "Rhapsodies of Vana'diel ep ver."
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "rVKnljU1Bgg",
+  "title": "Iroha"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "boss",
+  "id": "gFhPVxk86V8",
+  "title": "Wail of the Void"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "TzEaCgcv2Bw",
+  "title": "Rhapsodies of Vana'diel"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "nYITru9U-bM",
+  "title": "Loop Demo"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "FlqzuHsmlq4",
+  "title": "FINAL FANTASY ~FFXII Version~"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "svfMQ4nr4Pc",
+  "title": "Opening Movie (Theme of FINAL FANTASY XII)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "E0BKfJ1mUl8",
+  "title": "Infiltration"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "mLQQauaGsuU",
+  "title": "Boss Battle"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "f7JmzE4FmRY",
+  "title": "Auditory Hallucination"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "kR-rWUDqGyQ",
+  "title": "Secret Practice"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "3ULO1rAIb0w",
+  "title": "Penelo's Theme"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "DbWdiuFaIUQ",
+  "title": "Dream of Becoming a Sky Pirate"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "V6bjz63ec3A",
+  "title": "Petty Villain"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "sE14vaezy5M",
+  "title": "Childlike Heart"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "nHkvzNkb-Ig",
+  "title": "Coexistence (Empire Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "6q4Zctb_e0s",
+  "title": "Signs of Change"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "rqOKNDdFKkg",
+  "title": "Silent Determination"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "ffk4IthPxTE",
+  "title": "Parting from Penelo"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "-zEgiI6MVA8",
+  "title": "Omen"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "Wxyd9wFzdec",
+  "title": "Tumult"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "P5Z_kLDgL0g",
+  "title": "Phantom of the Princess"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "battle",
+  "id": "8xb-yEMxFkM",
+  "title": "Clash of Swords"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "TcZJHIzW9-w",
+  "title": "Victory Fanfare ~FFXII Version~"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "tzyT29Yjut4",
+  "title": "Dark Clouds (Empire Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "g5UsAvZ8dUw",
+  "title": "Promise with Balthier"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "3ujMETIK1vc",
+  "title": "Barbarians"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "b7FT5NTNzVY",
+  "title": "Battle Drums"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "YPnMd26jwrU",
+  "title": "Theme of the Empire"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "fSpT4uk0JNc",
+  "title": "Chocobo FFXII Arrange Ver.1 (Unused Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "S7lvUOtrjV8",
+  "title": "Sorrow (Resistance Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "UOHBrNTuXew",
+  "title": "Basch's Recollection"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "97CPcafKwr4",
+  "title": "Coexistence (Resistance Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "3QpkzvRaLyE",
+  "title": "Secret of the Magicite"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "wBFgqC_A2CM",
+  "title": "Dark Night (Empire Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "OYsW2sjBxF4",
+  "title": "Wordless Battle"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "YOKRjRMs-no",
+  "title": "Challenge to the Empire"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "Z-I9zwLPjtI",
+  "title": "Urgent Situation"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "0dCGK8pt9uo",
+  "title": "Upheaval (Empire Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "Vm0t57jH9n4",
+  "title": "Esper Battle"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "q8D1fb0mA9k",
+  "title": "Sorrow (Empire Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "nbANqINeQjA",
+  "title": "Power Sought"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "8WJz2c_Bz5g",
+  "title": "Desperate Fight"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "L20GU5gXNvQ",
+  "title": "Approaching Threat"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "LlD1j4LMxpQ",
+  "title": "Clash on the Big Bridge ~FFXII Version~"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "3VzT1eojLDE",
+  "title": "Abandoned Power"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "4lgEKD6mf1Q",
+  "title": "Time of Rest"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "4HZpYfI3IZE",
+  "title": "The White Room"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "VSsp-NXojiQ",
+  "title": "Fate"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "g8wJdU_JDzg",
+  "title": "A Moment's Rest"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "5gVs94HZsKQ",
+  "title": "Summon"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "imxfNNTwZaU",
+  "title": "Ashe's Theme"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "jBIWWx9U3lg",
+  "title": "Beginning of the End"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "eQQC2umidXo",
+  "title": "Bahamut Shaking"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "boss",
+  "id": "fJ0YjdHezCE",
+  "title": "Fight for Freedom"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "a6MANrW8V34",
+  "title": "Conclusion of the Battle"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "pD_Cmpm-nVA",
+  "title": "Ending Movie"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "tDYEYZL8IjE",
+  "title": "Kiss Me Good-Bye -featured in FINAL FANTASY XII-"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "gNjaY7NmWJQ",
+  "title": "Theme of Final Fantasy XII (Press Conference Version)"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "StVsSgMKBVI",
+  "title": "Prelude to FINAL FANTASY XIII"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "JNkI08t4rqM",
+  "title": "FINAL FANTASY XIII ~The Promise~"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "XRukhi1c1Wk",
+  "title": "The Thirteenth Day"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "eO1699uZh3Y",
+  "title": "Defiers of Fate"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "TXEB8gdkpqM",
+  "title": "Saber's Edge"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "HqWXuhcB5ww",
+  "title": "Those Who Would Be Purged"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "tQknZ_C7Tbg",
+  "title": "Fighting to Go Home"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "Rwr8CBHYa3A",
+  "title": "The Pulse Fal'Cie"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "P7OvyHcsZ6I",
+  "title": "Is It Okay to Run Away?"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "zxunixS1MSA",
+  "title": "Snow's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "3-Lp2WfNmac",
+  "title": "Ragnarok"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "G3BvGOro1Xw",
+  "title": "The Sky of That Day"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "ly7oOVJ_rhQ",
+  "title": "Eternal Promise"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "PaP2LNWKn0w",
+  "title": "Eternal Love (Short Version)"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "S1O72pAADXM",
+  "title": "The Pulse l'Cie"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "xtjX2Tz4HGY",
+  "title": "The Eidolons"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "battle",
+  "id": "WyTRg-DJ99M",
+  "title": "Blinded By Light"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "FbV2HkaE9-E",
+  "title": "Battle Results"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "f_cuBiyvZEY",
+  "title": "A Brief Respite"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "5fAsA1uAimc",
+  "title": "The Cavalry Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "-YYxyQ3jRaQ",
+  "title": "Escape"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "gCChLrvMHKE",
+  "title": "Shot Down"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "rVZv9gARIic",
+  "title": "Sazh's Afro Blues"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "wH0hVkOr_3g",
+  "title": "Lightning's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "7dpr4uaNoKk",
+  "title": "Sazh's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "VZw9O0julsA",
+  "title": "Dreadnought's Rampage"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "XNI5nfCa05Q",
+  "title": "Tension"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "i7Nswg0Z7hE",
+  "title": "Endless Flight"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "Nt68CaccZ24",
+  "title": "Lost Hope"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "EK5t6itMKp4",
+  "title": "The l'Cie Hunt"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "9Lqb5li5SMQ",
+  "title": "Desperate Struggle"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "DuQqxQkTTag",
+  "title": "The End of Vengeance"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "VzvJbecaNPc",
+  "title": "The Gran Pulse l'Cie"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "k9yCnVXkYlY",
+  "title": "Serah's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "2PzmXtAy6AY",
+  "title": "Daddy's Got the Blues"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "5GXP_JqBoRQ",
+  "title": "PSICOM"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "jMpBNGLL_f0",
+  "title": "Hope's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "RQ90mjsilD4",
+  "title": "This Is Your Home"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "9PsZqeWmn1o",
+  "title": "Atonement"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "PY6qbW0i_uk",
+  "title": "Vanille's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "pne5Gxvb3f8",
+  "title": "Time Limit"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "5hA1aNFnMxQ",
+  "title": "Pompa Sancta"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "jwRo6zv9LuE",
+  "title": "Chocobos of Cocoon - Chasing Dreams"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "eV_vsbKRjMM",
+  "title": "Feast of Betrayal"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "dPkzv7oRoU8",
+  "title": "The Dream's End"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "ii39VyANhhc",
+  "title": "Trial of the l'Cie"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "H9_oKczQLns",
+  "title": "Enemy of the World"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "bhU9r5MKiFI",
+  "title": "Game Over"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "RGrdWQZoXXg",
+  "title": "Primarch Dysley"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "ewvxLBX0r7E",
+  "title": "Defiance of Destiny"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "xg7TPd4wwV0",
+  "title": "Thoughts of the l'Cie"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "QtX3fJyMEtM",
+  "title": "Will to Fight"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "iyblZM26fw4",
+  "title": "Fighting Fate"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "7D2EKe0IAjg",
+  "title": "Mysteries"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "8PijzIDM-n4",
+  "title": "Choose to Fight"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "tZM4TW3bPqs",
+  "title": "Fang's Theme"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "AwaKonW5mIM",
+  "title": "Gentle Memories"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "xfzUJydZyhE",
+  "title": "Homecoming"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "n703D-oHyPc",
+  "title": "Countdown"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "TgdxJ7wHqT0",
+  "title": "Born Anew"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "36iRTpQlnwc",
+  "title": "Sinful Hope"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "UuuglmZ4pVE",
+  "title": "Fabula Nova Crystallis"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "79zyp83bsHo",
+  "title": "FINAL FANTASY XIII ~Miracle~"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "Ki7Mi6aWG28",
+  "title": "Mission"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "boss",
+  "id": "Bw6ycaCpN7k",
+  "title": "Nascent Requiem"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "S1f-jK5A8Eo",
+  "title": "Determination"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "jQKzr6OP45c",
+  "title": "Kimi ga Iru Kara (Long Version)"
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "category": "other",
+  "id": "qAnIeZ-6NFk",
+  "title": "Ending Credits"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "l6rKIu8u5UE",
+  "title": "Everything Burns"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "TnevVo2JP5k",
+  "title": "Dawntrail"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "UOPKW7mtlOc",
+  "title": "Prelude - Dawntrail"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "S17ghgIzTFA",
+  "title": "Taco Party!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4qnCb0zioKM",
+  "title": "To Protect Their Smiles"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "27AGn_plX4Y",
+  "title": "An Exhilarating Gambit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "FK67SdgAe-A",
+  "title": "A Merry Life"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "H5XK_b1fi8o",
+  "title": "A Jolly Commotion"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "sx3TgfV1kyw",
+  "title": "Playful Antics"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "JAKCQlM3q6U",
+  "title": "Those Who Block the Path"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "f2YUCCY2QOs",
+  "title": "Days Piled Upon Days"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "sY8F0wTKKg8",
+  "title": "Engraved Memories"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yP1skR3eRKI",
+  "title": "The Skyruin - Valigarmanda"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2i_WW3xfca8",
+  "title": "Dawntrail (Instrumental)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zaqg4nIzMf4",
+  "title": "Coffee Break"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "a2N6ifzmrqk",
+  "title": "Those Who Clear the Path"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "oOqA6q7g1a8",
+  "title": "People of the Wilds"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "-sLPOvfomqo",
+  "title": "Pebbles in the Dark"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "mFmpNVj_FPc",
+  "title": "Trampled Hearts"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1p-ZExRQes4",
+  "title": "The Prima Vista Orchestra"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "WHSuaJy4OA8",
+  "title": "Tantalus Theme - Dawntrail"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "oiisbyMWXQQ",
+  "title": "Your Warmth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "EmY2vdrdc_g",
+  "title": "Endwalker - Footfalls (Extended)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Nh69pw1PmyE",
+  "title": "Raison d'Être - Zoraal Ja"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "SX4w8v9Zpc0",
+  "title": "Melted Magic and Hearts"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "D7ailCh7168",
+  "title": "Looking Up at the Dawn Sky"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "k2saxeEfCkc",
+  "title": "Limited Time"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "IFUfTtsnWrc",
+  "title": "On This Blade"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "FDw_3J5tCV8",
+  "title": "That Which Must Be Protected"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "TCPO9yAw49g",
+  "title": "Undying Sorrow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "5lLPH-peQ04",
+  "title": "One Path - The Eternal Queen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "YLJzjt0LdNE",
+  "title": "Two Paths - The Eternal Queen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "rDKZ8m8_Xo8",
+  "title": "To Each Their Journey"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2ulx4YhvY-k",
+  "title": "Smile"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0B04O-dtsBo",
+  "title": "Open Sky - The Theme from Dawntrail"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "NC0pNbUtt-I",
+  "title": "Battle 1 from FINAL FANTASY IX"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "F05xrw5b288",
+  "title": "Fairy Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "itYlyyhh8As",
+  "title": "Jesters of the Moon - Dawntrail"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "VIAEqFRFfok",
+  "title": "The Ring's Reprieve"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "9aZDfNsMiyE",
+  "title": "It's Showtime! - AAC Light-heavyweight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yATUTJPC3XY",
+  "title": "Bee My Honey - AAC Light-heavyweight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ooKTFwRHMWM",
+  "title": "Burning Souls - AAC Light-heavyweight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "9Fzso0nXWdg",
+  "title": "Give it All - AAC Light-heavyweight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "82xjFFCRXvQ",
+  "title": "A Risky Bet - AAC Light-heavyweight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "66mVngZ16No",
+  "title": "The Realm of Beginnings"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yJYph0aVsss",
+  "title": "Majesty - Aglaia"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "m87C0xmcqgw",
+  "title": "Scales of Life - Aglaia"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "MJmKYBp7gm8",
+  "title": "Hippo Riders"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "QAun_D8ASys",
+  "title": "Battle 2 (FINAL FANTASY IV) - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "OFx4YMMGDTw",
+  "title": "Meanwhile - Stirring Ambitions"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Uon5udYRLo4",
+  "title": "Battle with the Four Fiends - Forbidden Memories"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "exave9PbZIE",
+  "title": "Trembling Blade"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ot0ExVeejL8",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "uVkZY-fs_uE",
+  "title": "Follow the Hero"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "PW30bxUI704",
+  "title": "Shining Star of the Cradle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "lwIR8s8FoXQ",
+  "title": "Silent Scream - Pandæmonium: Abyssos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "h8tIHASlAgc",
+  "title": "Scream - Pandæmonium: Abyssos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "0D2fTCnHAT4",
+  "title": "Embers - Pandæmonium: Abyssos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "_DJawjle1HE",
+  "title": "White Stone Black - Pandæmonium: Abyssos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Bq4D6E-TYss",
+  "title": "Warming Up - Crystalline Conflict"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "xJhYgZimlhI",
+  "title": "Hunter's Chance - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "mGLsfNRnqew",
+  "title": "Run! - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ggJszVt40eM",
+  "title": "The Heavens' Ward"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "MXFx3dvxXX0",
+  "title": "Heroes - The Minstrel's Ballad: Thordan's Reign"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "c-8_LdwW9OI",
+  "title": "Dread Wyrm's Assault - The Final Steps of Faith"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "fu1fs-sMxRQ",
+  "title": "Strife"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "FjOXeanXTcQ",
+  "title": "Heavensward"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1V3eW5MKfAQ",
+  "title": "Dragonsong"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "bwY1ncMAdWY",
+  "title": "The Primal Dragon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hhaWWFkvTYo",
+  "title": "Revenge of the Horde (Orchestral Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-VnhXgiH-xo",
+  "title": "Favor of the Gods - Euphrosyne"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "h1QY2WXLkx0",
+  "title": "When the Moon Is Full - Euphrosyne"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "5MSwJ95dGJE",
+  "title": "Dreamwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "C5eA_9CeBP8",
+  "title": "No Way Out"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "YB2JVeFIDag",
+  "title": "Forged in Crimson"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "SB1B_Tj9BAk",
+  "title": "Fiend (Pulse) - Containment Bay P1T6"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "vDIQBZUa0XQ",
+  "title": "Oblivion (Pulse) - The Akh Afah Amphitheatre"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "gHzqXjh-zbk",
+  "title": "Deltascape - Omega: Deltascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "MCM_vKIeNeg",
+  "title": "Heartless - Omega: Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "zSIqfqKdTio",
+  "title": "From the Heavens (Orchestral Version) - Omega: Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "LxO4TwLTtAQ",
+  "title": "Escape - Omega: Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "m6uctU7rLkQ",
+  "title": "Answers from Above (Concert Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "6QxZtyw6-74",
+  "title": "Prelude Demastered"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "vqQ7SD-sRLE",
+  "title": "Heartbeat of Rebirth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "KccgV1pZrIs",
+  "title": "Pom from Above"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "P9V4yJKO95w",
+  "title": "Victory Fanfare Demastered"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "z8FcPV5npD0",
+  "title": "Battle 2 from FINAL FANTASY III"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "2aa2iHtr1EY",
+  "title": "Imperium"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6zhfaKTBvNw",
+  "title": "One Amongst the Weary - Pandæmonium: Anabaseios"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xTVxJVRFZ9Y",
+  "title": "Fleeting Moment - Pandæmonium: Anabaseios"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-VLUPO2yLkA",
+  "title": "Athena, the Tireless One - Pandæmonium: Anabaseios"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ZMs4_9bSudI",
+  "title": "Ultema The Perfect Body! - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "OEod5-XuJVg",
+  "title": "Frontier Melee"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "GI-m8Q2o_Rk",
+  "title": "Storm of Blood"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "lEKBQR52Tgs",
+  "title": "Battle Cry"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "WHQtJYpHDW8",
+  "title": "Another Moon - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "dri0mYfoJJE",
+  "title": "Savior of the Void"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Eph8-LBrHmE",
+  "title": "Theme of Sorrow - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "5KtnKde7p9g",
+  "title": "The Final Battle (FINAL FANTASY IV) - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "jEWz5_c2pUY",
+  "title": "Red Wings - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_OSo2Dz2l-g",
+  "title": "Tonitrua ex Machina"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zTxCW_yCVwI",
+  "title": "Idylls of the Empire"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "70YZvrFEeSc",
+  "title": "The State of the Realm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "I1dlB-mU1UM",
+  "title": "Away (Refrain)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fHFIcwf5gks",
+  "title": "Find the Flame"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "hmaJ1LxyTVo",
+  "title": "Who I Really Am"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "EOwgOfnbUuA",
+  "title": "Land of Eikons"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "iw92e-r9vgo",
+  "title": "Hunting Festival of the Divine Child - Another Aloalo Island"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "CEX5kW32Fek",
+  "title": "Thus Spake the Alien"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "XGG6T5fzVnw",
+  "title": "Theme of the Good Old Troubleshooter"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "XdW_v3USuqk",
+  "title": "Gentlemanly Escort"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xjivoxA0e5o",
+  "title": "Torrent of Passion - Thaleia"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "sJV1KhfAPSk",
+  "title": "Myths of the Realm - Thaleia"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-vJn7MXRBX4",
+  "title": "Endwalker - Footfalls"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "P5_zzXmKG-4",
+  "title": "The Power That Moves Hearts"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dEsSlg39CQ0",
+  "title": "Close in the Distance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "rqbLbYGJb8I",
+  "title": "Flow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "GFulM_9OSSg",
+  "title": "ENDCALLER - The Dark Inside"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-R87yV59fW4",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "2N0G2wHcq8o",
+  "title": "Your Answer - The Mothercrystal"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2izeleaXxJo",
+  "title": "Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "tC_nYXvzJ-8",
+  "title": "Flow Together"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "7K4UhkfHiG4",
+  "title": "Here Lies the Lion - Pandæmonium: Asphodelos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "oWlxof6nGZI",
+  "title": "Fragments of Dynamis"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "lSVu11piESg",
+  "title": "Answers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QGMJ0G58UNE",
+  "title": "Answers - Piano"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "lnR4RjoDQeo",
+  "title": "Endwalker Prelude"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "tZlKV8sZPKE",
+  "title": "Words Passed Down"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "bkSzaeZ5HLA",
+  "title": "Someday, Surely - Endwalker"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0YbaC6JWVLI",
+  "title": "A Small Life"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "aq02oj93Yzw",
+  "title": "Escape (Journeys) - Omega: Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "FiMcWOLS7vo",
+  "title": "Deep Down (Scions & Sinners) - The Tempest"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "iZBLGM45TOY",
+  "title": "Echoes in the Distance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "iTY4dCbl-ec",
+  "title": "Close in the Distance - Instrumental"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "kdXL4CUWRII",
+  "title": "Resistance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "WDmfjZwlEcY",
+  "title": "A Tale of Stars and Life"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "qU3rYSqnt3g",
+  "title": "Battle 1 from FINAL FANTASY IV"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "EtF_rqp5EDY",
+  "title": "At the End of Despair"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Qx8X2cziexo",
+  "title": "Return Beyond the Horizon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zBi7oAq4p4c",
+  "title": "A Smiling Ghost"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "2LHue8M12_Q",
+  "title": "Last Stand"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oIw66A7cTu8",
+  "title": "Chains of Binding ~ Pandæmonium: Asphodelos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "9sHd0lMTi-I",
+  "title": "All of Demons"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QMoWeGM0FUE",
+  "title": "A Life Worth Protecting"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "SkKCgCraMus",
+  "title": "Power Risen from the Earth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "VwbL29gmZP8",
+  "title": "Born of Ash"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DW8FFEMrE7U",
+  "title": "Endwalker (Chiptune Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "f741Dr3W5Hk",
+  "title": "Wave of Terror"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "HJck43ENcRs",
+  "title": "Racing Through the Journey"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6IiG4vo9k9U",
+  "title": "To the Edge"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "wfgfFKNlRKk",
+  "title": "Shadowbringers ~ Eden's Verse"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "aBXP1VQsXGA",
+  "title": "Kainé / Final Fantasy Main Theme Version"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "cpJwyd0AEvA",
+  "title": "The Extreme ~ Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gPSOaSwdEaE",
+  "title": "Weight of the World / Prelude Version"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "a6EHphuIGlo",
+  "title": "Song of the Ancients / Atonement (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RZhztWL9QzA",
+  "title": "Greed (Scions & Sinners)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "3k4HC9FSjYU",
+  "title": "Ultimate Fantasy (Scions & Sinners)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Om1-wCDcT9U",
+  "title": "Rise (Journeys) ~ Alexander: The Eyes of the Creator"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "I7a--TmXUFU",
+  "title": "Power Descended from the Heavens ~ The Black Giant that Destroys All / Medley Version"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "54JJp1YjRx0",
+  "title": "Metal: Brute Justice Mode (Journeys)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "NlqTypXycT0",
+  "title": "Locus (Duality) ~ Alexander: Gordias"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "SmPQ5jE3eDE",
+  "title": "The Black Wolf Stalks Again ~ The Emerald Weapon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "D0eIO32QuH8",
+  "title": "Eternal Wind ~ Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "zQ4xWbsi42s",
+  "title": "A Promise Unbroken ~ Eden's Promise"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "g0PsTVTHn-o",
+  "title": "Thunderous Strike ~ Eden's Verse"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "2qao3EsYgDg",
+  "title": "Bipolar Nightmare (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "eOEHgaSwN8A",
+  "title": "Moebius (Orchestral Version) ~ Alexander: The Eyes of the Creator"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oSq__aFIlZk",
+  "title": "Footprints in the Snow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "uef7K6qzcmM",
+  "title": "Grandma / Destruction (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "9TkrORjWgzU",
+  "title": "End of the Unknown (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yPiAU9MUk1k",
+  "title": "Emil / Despair (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "qOIlKosR0bA",
+  "title": "Battle of the Orphans ~ The Diamond Weapon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "jCzYc9a_--U",
+  "title": "Those Who Seek Love"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "STF4_NQnH3U",
+  "title": "The Legendary Beast ~ Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "evvIy1tJ58E",
+  "title": "Angry Demon ~ The Dalriada"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4aS8PPXRaCw",
+  "title": "Weight of the World / Instrumental Version (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "Qpwnu6feoeU",
+  "title": "Don't be Afraid ~ Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hrEei5uMlsU",
+  "title": "Possessed by Disease (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Sga4RAPvB3A",
+  "title": "The Queen Reborn ~ Delubrum Reginae"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "o0mGitt_8Wg",
+  "title": "Collapse of Delusion (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "t0cBY9kIRPM",
+  "title": "Alien Manifestation (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "qPWLn9AvFHw",
+  "title": "Warrior's Offense ~ PvP Frontline"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "lV1HW6o1yQU",
+  "title": "Sound the Bell (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "5XP2XDR7hr0",
+  "title": "Not Alone"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "7zej7VMbcMk",
+  "title": "Primal Fallen Angel ~ Eden's Verse"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "_ka6xCP8_MA",
+  "title": "Warrior's Defense ~ PvP Frontline"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "bI3LcQqK2Tc",
+  "title": "The Silver Bird of Ill Omen Takes Flight (Orchestral Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0sNk_AZXYd8",
+  "title": "Meaning / Nothing (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "JWyTKRMZqPw",
+  "title": "Where All Roads Lead ~ Norvrandt"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-A7WSA6aXBs",
+  "title": "Sound of the End: Version 4 (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "f8ZEsEc1_XY",
+  "title": "Mourning (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "H0xTLczYxJA",
+  "title": "Starlight de Chocobo"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "8rJYRGGhGIg",
+  "title": "Divided Light - Eden's Verse"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QXlZc_UH4hE",
+  "title": "Ami - Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zoI-3yQwm9Y",
+  "title": "Broken Heart (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "CrdVr1gL8ng",
+  "title": "Battle with an Esper (Zodiac Age Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "vJla3R4h6wY",
+  "title": "Beautiful Memories - Eden's Promise"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "xMW5UGljqa0",
+  "title": "Unrest - Imperial Version (Zodiac Age Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aRZKKrF2Nfg",
+  "title": "Starlight de Chocobo?"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "YXcrTETl-d4",
+  "title": "Shuffle or Boogie - Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Mb6kiygNJmQ",
+  "title": "Color of Sorrow (From NieR:Automata)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "PYV4fyLVOh4",
+  "title": "Fight to the Death (Zodiac Age Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "Z1h96nM-XjE",
+  "title": "Clash of Swords (Zodiac Age Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "WVz0HpmgsPE",
+  "title": "Battle Without Words (Zodiac Age Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "0gsJ0_m4Hkk",
+  "title": "Gogo's Theme"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "JFLOjcsCMH4",
+  "title": "Song of Celebration - Ishgard Restoration"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aPdbWyBn4ls",
+  "title": "Song of Celebration: Passionate - Ishgard Restoration"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "6ugtWT_iNqw",
+  "title": "Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_4lJsmCqvCI",
+  "title": "Tomorrow and Tomorrow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "18q19BPYEJE",
+  "title": "Greed"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RlriIMunwJQ",
+  "title": "Shadowbringers - Hades"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "YZB3vI6svJ4",
+  "title": "A Thousand Dawns - Suzaku"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hUVAJ60Erfo",
+  "title": "The Awakening Envoy - Titania"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xRHVX2A8L5s",
+  "title": "Escape - Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6DyHx3YlYbo",
+  "title": "Force Your Way - Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ATJwVBcpJ0Q",
+  "title": "Unbreakable Will - Hades"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "cMTRc9oAJog",
+  "title": "Insanity - Innocence"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "IRpKZkPjC2g",
+  "title": "From the Heavens - Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "HYmLtTRWym4",
+  "title": "Landslide - Eden's Gate"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "XGhBEsyIb64",
+  "title": "Treason"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4HTYhiw3DzA",
+  "title": "Vamo' alla Flamenco - Shadowbringers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "j4PE_UWh4r8",
+  "title": "Shining Blue - Eden's Gate"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6yFvNEi9KPw",
+  "title": "Clouds and Dragons - Seiryu"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "CTCiD5Ra1G4",
+  "title": "Battle Scene - Alphascape"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "HgIvgo9eVPI",
+  "title": "Edge of Unrest"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "mCaUSmyURHY",
+  "title": "Repeating Tomorrow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ZYcNR4OchzI",
+  "title": "Somewhere Nowhere"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "qXq7K0bkNHM",
+  "title": "Confrontation"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "S_aKIR3Y7bs",
+  "title": "Through Fourfold Observation"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "BODBOFanYvk",
+  "title": "Ultema The Perfect Body!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "KX_woxHZORo",
+  "title": "Dreams on Wings"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "-mmf9iBJDy8",
+  "title": "Astonishing Truth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "D3ruv9kior8",
+  "title": "A Thousand Twilights - Suzaku"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "45P8BsNKIb8",
+  "title": "The Mismatched Piece"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oEu4Wr9HE4E",
+  "title": "Onslaught"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "5kAfKeERf2s",
+  "title": "Journey of Fate"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DV9peC4PZ0U",
+  "title": "Ending"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "NBNfRQDsq-Y",
+  "title": "Under The Stars"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "CrNPZQDZwYE",
+  "title": "Unspeakable Sorrow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "feClf2yg2IY",
+  "title": "Antipyretic"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Jc6zy-NZdBc",
+  "title": "Song of the Starlight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "RjYIhpgFMqI",
+  "title": "Dangerous Words"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dQmm3z4N3qE",
+  "title": "Predicament in the Heavens"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "M3ibCPj34Rk",
+  "title": "The Pain of Pleasure"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ll8iUzD0yf0",
+  "title": "Tears in the Rain"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "YT6YagKGoYg",
+  "title": "Eastern Games"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "RNi26jQ4alo",
+  "title": "Tension 1"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xe0E-u77kzg",
+  "title": "Turmoil"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "M_QG3_XjYKQ",
+  "title": "Song of Despair"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "h0CUH8atq9w",
+  "title": "The Misshapen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aeEZL5f0nCI",
+  "title": "A Better Tomorrow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "c3mk3zPQ_l8",
+  "title": "Bloody Excrement"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "yAU2qWrhuz0",
+  "title": "A Modest Life"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ITSQ1KU5KBE",
+  "title": "A Reason to Live"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "-eMCgNZZuUA",
+  "title": "Advent"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "t46GljXz3Kg",
+  "title": "Saint Ajora's Theme"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "qzlf1G9gBpo",
+  "title": "Noah's Lute (Shadowbringers)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aavxcP0Vhg4",
+  "title": "Brave Story"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QQg1tg8Wiuw",
+  "title": "Antipathy"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "T1DW8W00ppc",
+  "title": "Alma's Theme"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "WvXk92sef8w",
+  "title": "Staff Credit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Rf05kDpkJNA",
+  "title": "Chapel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "LTH0LpWA6Qo",
+  "title": "Epilogue Movie"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4aWKVhx2J4A",
+  "title": "Fur and Bone Merchant"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xx10iSmVMo0",
+  "title": "Lunar Higanbana"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "kNe-ZNBHWWM",
+  "title": "Tail of the Dragon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "rk4xBUj30CU",
+  "title": "Revolutions"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "U_Ebye5vJi0",
+  "title": "Beauty's Wicked Wiles"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "whqHpkVlbPQ",
+  "title": "Ultimate Illusion (Orchestral Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "P7DPJyQv3IY",
+  "title": "Under the Weight (From Astral to Umbral)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "JPydZlOCyJU",
+  "title": "Amatsukaze"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "IOukdWKrAWk",
+  "title": "The Decisive Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "LepoYu7gZGA",
+  "title": "Dancing Mad - Movement IV"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "VMpASeBf9Ds",
+  "title": "Fallen Angel (From Astral to Umbral)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "OiAj33L0mX0",
+  "title": "Melee on the Frontier"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "bD0krOh44jM",
+  "title": "Our Dominion"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "o0n8v4QmMHk",
+  "title": "Wayward Daughter"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "DAe3Q4W5Xc4",
+  "title": "Penitus"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "mwJFl57Jky0",
+  "title": "Prelude in Violet"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "KU_BB4midl8",
+  "title": "Revelation"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2ip7V4FJh2Q",
+  "title": "Pa-Paya Demastered"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "EAXFkjpjGj4",
+  "title": "Cyan's Theme (Stormblood)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "h3HtWXgAjB0",
+  "title": "Moonlit Madness"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "HokvxeI87Xk",
+  "title": "Beauty's Wicked Wiles (Oasis Mix)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "TN6tzTASyn0",
+  "title": "Beginning and End"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fR7e3SUDfWM",
+  "title": "Where the Fist Reaches"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ui7hpUFrpkg",
+  "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "GRoLAMuUKYM",
+  "title": "Farewell"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "S0dt5KJe2GI",
+  "title": "It's a Festival"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "WuJzestF-3U",
+  "title": "Dancing Mad - Movement I"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "LflkmSqD8P8",
+  "title": "Dancing Mad - Movement III"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "OR1HgNLw9UI",
+  "title": "Dangerous Feats"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "25PFJYo5OV0",
+  "title": "Battle 2"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "GAhavny-n84",
+  "title": "The Road to Peace"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "6k8dZVWwhXY",
+  "title": "The Siren's Call"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "1ixQdTqOCdE",
+  "title": "Boss Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "2dTcexRdqvU",
+  "title": "The Hardened"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "dex0cgcSpYM",
+  "title": "The Decisive Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "7O23nHAC3cY",
+  "title": "Trisection"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gyfeAKJnCrg",
+  "title": "Beneath the Peaks"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "9JGR27wPut8",
+  "title": "Cradle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "0OHcHtUUVdk",
+  "title": "Dancing Mad - Movement II"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "qeNF29BCnMA",
+  "title": "Eastern Lands"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Ne07nHYAC3w",
+  "title": "Warrior of the Blood Storm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "h200olFSAi4",
+  "title": "Namazu Ondo"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6TGy2m6ZmZo",
+  "title": "Battle on the Big Bridge"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "CnoN-GacB8Q",
+  "title": "Primal Judgment (From Astral to Umbral) ~ The Bowl of Embers ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "bmWnA_rSUQI",
+  "title": "Hero's Theme"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "T4zb2SQxDXM",
+  "title": "Battlefield Carapace"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "YQO9DwVek4c",
+  "title": "Wings of Prayer"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RueAoNGOyVA",
+  "title": "Apoplexy"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "pYTSjM_IfMI",
+  "title": "Harmony"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "kxkhA38SwQ8",
+  "title": "Ultema the Nice Body"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hHuO7HZoKrk",
+  "title": "Flash of the Blade"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "QBWHx1y8dDA",
+  "title": "Feast of Birds ~ Rival Wings ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "AxTQ8zCotlA",
+  "title": "Phantom Train ~ Omega: Sigmascape ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "H1-Jc3llPeI",
+  "title": "Flames of Rebirth ~ The Unending Coil of Bahamut ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Nk-2wL2ZEEc",
+  "title": "Wizardry"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "PssDWbHKKU0",
+  "title": "Iroha"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2zj25h4Q2m8",
+  "title": "Wasshoi Wasshoi"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "RrwJepo07kk",
+  "title": "Gate of the Astral"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2RSl9f-av80",
+  "title": "Character Creation"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "_NxKYpVKLh8",
+  "title": "No Quarter"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "nx8K9mwPPv0",
+  "title": "Rival Wings ~ Astragalos ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "lieUd3aFAlQ",
+  "title": "Amatsu Kazeyo ~ The Jade Stoa ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "mhCx43_VTTo",
+  "title": "Victory Fanfare ~ FFXII Version ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "6wP3E6RGTpg",
+  "title": "Data Screen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ugAFD0ljTTY",
+  "title": "A Chapel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "1wT6j1heDs8",
+  "title": "Roar ~ The Jade Stoa (Extreme) ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QWmiuueiIzM",
+  "title": "Backborn Story"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Xb8IrJ47jDE",
+  "title": "We Are the Border Guard"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zPoLsgydiqU",
+  "title": "The Cursed Skull"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "DqRtqhBHYuA",
+  "title": "Enemy Attack"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1-3eY6AiHOw",
+  "title": "Battle End"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_e54Zcc1rRg",
+  "title": "To the Summit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0uIZY96ZhnM",
+  "title": "The Mystery of Gilvegan"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hSF67DheS04",
+  "title": "Roar of Revenge"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "MfNoBEb0ul8",
+  "title": "Fiend ~ Containment Bay S1T7 ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "XO2F7Oqr4wk",
+  "title": "Rise ~ Alexander: Midas ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "JhW51WVmugM",
+  "title": "Goddess ~ Containment Bay P1T6 ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "kJ6wCX4P90k",
+  "title": "Revenge of the Horde ~ The Final Steps of Faith ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Ixvb2ZJZERU",
+  "title": "Metal: Brute Justice Mode ~ Alexander: The Creator ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Bf0wHXtXmsU",
+  "title": "Exponential Entropy ~ Alexander: Midas ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "eMj6q37HhNI",
+  "title": "Moebius ~ Alexander: Midas ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "BI0FV4n10SQ",
+  "title": "Silver Scales and Steel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ddse7wYNKlI",
+  "title": "Black Edda"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "0Cgn2OYtvDc",
+  "title": "Heavensward (Mortal Combat)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "xSBY4xo7O0U",
+  "title": "Gauntlet"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "vkQmPHkL3rg",
+  "title": "Infinite Stop ~ Alexander: Midas ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "NrsVADCNt2g",
+  "title": "Demi-god ~ Containment Bay Z1T9 ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "RHlHvf7ux9Q",
+  "title": "Starved Wolves ~ The Feast ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "FaNYvw2y7VA",
+  "title": "Onslaught to Victory"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "f1VafzJx2KE",
+  "title": "Dance of the Puppet Calcabrina ~ Heavensward ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "-09Nf84SlqQ",
+  "title": "Hyper Rainbow Z"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "o8PENa83pjQ",
+  "title": "Tenets of the War God ~ The Defense of Ishgard ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yzfBTUbXYgA",
+  "title": "Penultimania ~ Containment Bay Z1T9 ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "EBVAn4EASZg",
+  "title": "The Divided"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ce0prjUOSE4",
+  "title": "Kiss of True Love"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "m965X3_xlRY",
+  "title": "Only the Dead See"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "xVHfBCuXqmk",
+  "title": "Merry Wanderer Waltz"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dfUkpExh3yY",
+  "title": "Fragments of Eternity"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "shOXxktcgcU",
+  "title": "Sandstorm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "he6VC2e_2Mk",
+  "title": "Out of Time ~ Alexander: Midas ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "yGPyS5Lpijg",
+  "title": "The Night I Couldn't Go to the Bathroom"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "oINFCTGJ0vo",
+  "title": "The Connected"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "m6F7y4nrJaw",
+  "title": "On Free Winds"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "S0Vved7ERFw",
+  "title": "Holy Advisor"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ClyGkj3FJOc",
+  "title": "The Great Piper"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_WYkjgzsyXs",
+  "title": "Death Report"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "AvqFh1lr_mM",
+  "title": "In a Dream of Pale Light"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fGCv4ELDOGc",
+  "title": "Party Till Morning"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "b8JMG-RhL4U",
+  "title": "Locus ~ Alexander: Gordias ~"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "YFQbYbpDKgI",
+  "title": "Metal"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hbkD2c5_-CU",
+  "title": "Heroes Never Die"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "wYUADZ_px_w",
+  "title": "Unbending Steel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DKZfLGxo32I",
+  "title": "Ominous Prognisticks"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Gna_PhhjPlI",
+  "title": "Fiend"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "AMx8_RD5wlY",
+  "title": "Snowfall"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "h-B1aXv3RdY",
+  "title": "Battle to the Death"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "8uSGdQDuk6o",
+  "title": "Heat of Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ZxjxIhcaIu8",
+  "title": "Mad Calamity"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dVh-rev5Jq8",
+  "title": "Stone and Steel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "WpvTGPBd-_w",
+  "title": "Delusion"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "wbLuoNyGzUM",
+  "title": "For the Heavens"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Z4EZ97iyIUs",
+  "title": "Endless Blue"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "04lRHZc1YSw",
+  "title": "Together We're Not Afraid"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "W6-0PKL2c8Q",
+  "title": "Is It Love, Kupo?"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "w8PHPSBbIS8",
+  "title": "Origin"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "16P4xd-Et3M",
+  "title": "Lurker in the Abyss"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "c_XuBDw_btU",
+  "title": "The Promised Land"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "K7BuPr1oZhM",
+  "title": "Like a Thunderstorm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "NdZVse2WKns",
+  "title": "Oblivion"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "iISFBMJlZe8",
+  "title": "Pa-Paya"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "MJVuXfpns4I",
+  "title": "Battle on the Big Bridge (A Realm Reborn)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "W_mtc2VMF-g",
+  "title": "Eternal Wind (A Realm Reborn)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DX7Doyjkrag",
+  "title": "Answers - Reprise"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RGoiFB5SxWI",
+  "title": "Through the Maelstrom"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Rn8bylpP65c",
+  "title": "Thunder Rolls"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "geDtqev_vKY",
+  "title": "Through the Maelstrom (Female Version)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "NuGgl-E8soM",
+  "title": "The Primeval Dragon"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "w0t830unC_c",
+  "title": "A Wreck for Sailors"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "w7qsTN9F5Aw",
+  "title": "The Final Battle (A Realm Reborn)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "vSdNxRKyc2s",
+  "title": "Doga and Unei"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4CofNw00fY4",
+  "title": "Invasion"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "EbircLWPhM0",
+  "title": "A Magitek Friend"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ELkj96pZJGc",
+  "title": "The Silver Bird Soars"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "cq_d9P4pH6U",
+  "title": "Turmoil"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "O0-De5OjWfo",
+  "title": "Chocobo Race"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "wFl0hZpftAo",
+  "title": "Heaven's Door"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RERj_5JKoRY",
+  "title": "Unyielding Challenge"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "YxmOQVUpYqk",
+  "title": "Blood for Blood"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "mIdbIzJmoyA",
+  "title": "The Thicker the Blade"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "cg51UJzoXd4",
+  "title": "Angry Gods"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fW1p_v2ThgE",
+  "title": "Game Theory"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "g47TJsJ5p4c",
+  "title": "Meteor"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oZV3KsTmG0E",
+  "title": "Shinobi's Blade"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0tX8MBI9seI",
+  "title": "Moonfire Faire"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "rIdOHSZGRFs",
+  "title": "Novv's Crew"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QcJBMRcysa8",
+  "title": "Song of the Scrap Iron"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "34afG8QvdLQ",
+  "title": "Caravan Escort ~ Halatali (Hard)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "E35GeZFA1vc",
+  "title": "Lance and Banner"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "otzOF6psZso",
+  "title": "Archenemy ~ Defense of Ishgard"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0RxT_v-m8EM",
+  "title": "Higher Than All"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "wTQPsssKtVk",
+  "title": "Prelude to a Deadly Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "wdrN4_heT5Q",
+  "title": "War Council"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "cxR_oEoyjQs",
+  "title": "All Hands, Draw Swords!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "kpYcqYxANvU",
+  "title": "Eternal Vow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "GFqtpATE6To",
+  "title": "Time Slips Away"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Xskwr6OoxeI",
+  "title": "Archbishop"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "QK-kOJs3aso",
+  "title": "Torn from the Heavens"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "K-9c17fbTxY",
+  "title": "Ultima"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "uHmFVkIxEKU",
+  "title": "A World Without Gods"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aU3q08jC6os",
+  "title": "Her Majesty the Dreaming Queen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "KkNNM0uM1N8",
+  "title": "Prelude ~ Discoveries"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "6PGrJczAO-A",
+  "title": "Under the Weight ~ The Navel (Hard)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "p__uF4z-rGw",
+  "title": "Destiny"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zb2L-zwvtqE",
+  "title": "Prelude ~ Glimmer of Rebirth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "wCK7jLGcN7I",
+  "title": "Thunder Rolls"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "2JTtZsVjCFI",
+  "title": "And to the World"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "xw8nOFNMbPE",
+  "title": "Victory Fanfare ~ A Realm Reborn (Full)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "_9EYQ6brwpo",
+  "title": "The Fallen Angel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "TNWC4kTynNQ",
+  "title": "Nemesis"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "8SwPB2-NAVg",
+  "title": "Good King Moggle Mog XII"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "0rgW-Cbbtc0",
+  "title": "Pulse of the Wilds"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "tFpQmiH2ZZw",
+  "title": "On Honor's Wager"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "PL2D4l1Ppy8",
+  "title": "Power Beyond the Trials"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "dzjewdFEwjo",
+  "title": "Battle Scene 1.X"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gCu9Vq2TbUE",
+  "title": "Ball of the Fireflies"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Zxx3bSKX6t8",
+  "title": "Gift of Life"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "jQTJD9f8KRA",
+  "title": "Indomitable Spirit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "gDOBP-T4ORE",
+  "title": "Spiral"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fV-lVkV6ZJg",
+  "title": "Fleeting Joy"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "0KVJravl_Ew",
+  "title": "Pulse of the Land"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "QAFMW-ZGmaI",
+  "title": "Loyalty"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Cln4Sm2lgtE",
+  "title": "And You! ~ A Realm Reborn Medley"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "It09J-8aOq4",
+  "title": "Triumphant Return of the Hero"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "yB2WQrRfcvU",
+  "title": "Ominous Presence"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "XBJUTYQfUCc",
+  "title": "Fleeting Radiance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "EDMSiBo06lc",
+  "title": "Will of the Elementals"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "GXVuizEdxG0",
+  "title": "Comrades in Arms"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "PmMOqNfvOKI",
+  "title": "Pulse of the Forest"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "KE3mZnfGXSI",
+  "title": "Eternal Farewell"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "iD3Q-O-PzFY",
+  "title": "The Valiant"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "NtLpBa_klEQ",
+  "title": "Guardians of Eorzea"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "r1qPdyG_kX8",
+  "title": "Primal Judgment"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DAbdQlO1aCw",
+  "title": "Dawn of a New Era"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "5B8G9PoUKMQ",
+  "title": "Burst, Heat-Resistant Gear!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "BYwDsXAnyIs",
+  "title": "Crystal Rain"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Iq_g0uIvoBw",
+  "title": "Titan's Lament"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "Echt4HeUXSw",
+  "title": "Warrior's Instinct"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Qw3q1PJUpO8",
+  "title": "The Black Wolf Stalks Again"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "X8qUpoh5-O0",
+  "title": "Beyond the Limit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Uc2X1WW8u9Q",
+  "title": "Arrogance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "xNEKvweJ_zk",
+  "title": "That Thing of the Troubleshooter"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "jy1FMV9U1Ug",
+  "title": "Little Mischief Makers"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0nMg0yTnHCo",
+  "title": "Bloodline"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_HqdjvWhkJU",
+  "title": "In Search of Truth"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "PCzk_-CAWwo",
+  "title": "Embrace of Darkness"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "f9zktl7V5W4",
+  "title": "Tides"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "juDl5hy3mbQ",
+  "title": "The Seventh Umbral Era"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "BGHdY0Q6tg0",
+  "title": "Titan's Fury"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "iBGEdwCyqsU",
+  "title": "To the Heavens"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "CefspGlIlEE",
+  "title": "Pulse of the Crystal"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "-PHOhHb_YvM",
+  "title": "The Black Devil"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "HNS8ZbPG5ns",
+  "title": "Titan's Quake"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Ns1meSkFpbw",
+  "title": "Reflection"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1rLpeqDzB-E",
+  "title": "Smoldering Ashes"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "19E5p4od1vc",
+  "title": "Slash"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "S_w5S1UqAAU",
+  "title": "Magitek Legions"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zBPACp94-58",
+  "title": "Maiden's Lament"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Xp8bEeXMNyk",
+  "title": "Heart of Titan"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "RUfT-aUJGmE",
+  "title": "Embers of the Inferno"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "B6BAOZ0flnk",
+  "title": "I Offer My Soul"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "GL3vQUWBkq8",
+  "title": "Light in the Gloom"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1V8W8lqzSY4",
+  "title": "Going in Circles"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "pe-AGviZ82U",
+  "title": "Tears of the Tonberry"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "SpmkpZrjEao",
+  "title": "Crossroads"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dASBSY30oIk",
+  "title": "Treachery"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "HxFlsiFwM5E",
+  "title": "Whispers of the Star"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "P2bbcrNpzSg",
+  "title": "A Most Peculiar Nuisance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Dwl9DaaGUdM",
+  "title": "Finale"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "9-5yhHLlNiY",
+  "title": "Council of War"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "SsbZUjJHMAY",
+  "title": "Premonition of Chaos"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gr1LAEmivZA",
+  "title": "Faith of Steel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "vAUYLvTkRkg",
+  "title": "Dragon's Requiem"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "jE1N6RZDhq8",
+  "title": "A Thousand Screams"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "_tQPeWLzXec",
+  "title": "Swift as Silver, Hard as Stone"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gkfBXa-HAjU",
+  "title": "Blessing of Light"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oFjUxkvo_n8",
+  "title": "To the Sword of the Fierce Storm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "DwYNdvSgUVQ",
+  "title": "Echoes of Days Past"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "aL1ENv0Wh-Y",
+  "title": "The Camp Jester"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "L1oBub-kng8",
+  "title": "Kiss of Darkness"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "9ZLsJ_TsV0M",
+  "title": "The Only Path"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "0NQHJfaLWgM",
+  "title": "Ruin"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "fo_7QUxLZL0",
+  "title": "Hatred"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ipVNS2DtOxY",
+  "title": "The Miser's Folly"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "itfj1PUmpiU",
+  "title": "The Fallen"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "hxloV6X0vfE",
+  "title": "Ideals of Steel"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "yJaNpV_vDwE",
+  "title": "Good King Moggle Mog XII"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "Abnc8aSX5ic",
+  "title": "Prelude - Glimmer of Remembrance"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "MgHcg_UOPCw",
+  "title": "The Silver Harbinger Takes Flight"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "sFKL3uEWcyg",
+  "title": "Turmoil of War"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "oC8ei478StU",
+  "title": "Heavenly Wedge"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "4vR0wo911N0",
+  "title": "Opening Theme"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "vvAOfnnYSmQ",
+  "title": "Beyond the Limit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "sTTRa1Et3jU",
+  "title": "A Quiet Moment"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "PJ8oZWqrxEk",
+  "title": "Spear and Banner"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "T9xlp84WGWg",
+  "title": "Dreaming of Distant Skies"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "dZ5O6c7oFRo",
+  "title": "Rumbling"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "SyPQR5vZFlM",
+  "title": "That Troubleshooter Thing"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "o0ybjhRHavg",
+  "title": "Victory Fanfare - Song of Triumph (Long)"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "rySBhoOulXk",
+  "title": "Song of Prayer"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "I7CJS-a0DnY",
+  "title": "Under the Crimson Banner"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "_lEcvCyDY5c",
+  "title": "By Design"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Idued9Al7eU",
+  "title": "Primal Judgment"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "-r4EPE719Es",
+  "title": "Moogle March"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "JUqvA2QK-Xg",
+  "title": "Imperial Will"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "R0naQZKI2Xg",
+  "title": "Starlight Celebration"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "uLhOJDJwOtM",
+  "title": "No Quarter"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "dRE5CYzbKNQ",
+  "title": "Melancholy"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "JXxtvNy220E",
+  "title": "Restless Journey"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "rOrruHErdJI",
+  "title": "Gambit"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1-rgIfXBs0E",
+  "title": "Aetherial Slumber"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "cB0z1QM34jM",
+  "title": "Ancient Jobs"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "N2_nkFkkNCg",
+  "title": "Meteor"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "j85y3Lii03k",
+  "title": "In a Dream of Pale Light"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "GE34Mvb71pQ",
+  "title": "All Squads Forward!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "XlSykT5NIo4",
+  "title": "Harbinger"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "5Q6nasSwgXo",
+  "title": "Working Up a Sweat"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "RvXCe_TgkOw",
+  "title": "All by These Hands"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "w67RHXcFlS8",
+  "title": "Nemesis"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "ewjzN9rbC4w",
+  "title": "Wrath"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "EPvlKBG_K6Y",
+  "title": "Trial by Battle"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "xSiA9O8nEog",
+  "title": "A Place to Return"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "j9etk7aWOZI",
+  "title": "In the Heat of the Crimson Flame"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "sRxgSE0hbcs",
+  "title": "A Pure Heart"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "Wd_utvo4wpY",
+  "title": "Wrath of the Gods"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "1wpmpu4iLT8",
+  "title": "Eternal Vow"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "JB5uo6b8KMc",
+  "title": "Valor"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "ktbMiDA5UPE",
+  "title": "From Here, Once More"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "hkLTnvL64o0",
+  "title": "The Seven Jesters"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "gvkuuz8rvvM",
+  "title": "Dreams Still..."
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "zGdUwemAvoo",
+  "title": "Guided by Fate"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "boss",
+  "id": "WwkWrV9bh0s",
+  "title": "Swift as Silver, Solid as Stone"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "petUUrVMJJY",
+  "title": "By the Sword of the Raging Storm"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "MVMzecleSzI",
+  "title": "Run Away!"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "other",
+  "id": "VPFgdUigpfo",
+  "title": "To the Skies"
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "category": "battle",
+  "id": "EeX9U6PhwGA",
+  "title": "Caravan Escort"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "xh2O-qJSpys",
+  "title": "Somnus (Instrumental Version)"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "3UYBFevrTTI",
+  "title": "Departure"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "kOOedc-GSHk",
+  "title": "Broken Down"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "Rc_QjKyzf4Y",
+  "title": "Stand Your Ground"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "AAVxIrIZ4kA",
+  "title": "Horizon"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "7gfUvhBuScQ",
+  "title": "Hunt or Be Hunted"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "keK1thPMUeE",
+  "title": "CINDY"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "U7-R4Ak1dCk",
+  "title": "Love Lost"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "7o9vVgwOZuY",
+  "title": "ARDYN"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "27U_-TFaSz8",
+  "title": "The Aggressors"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "cNec9-0LY4I",
+  "title": "NOX AETERNA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "hkD9P24KBJg",
+  "title": "Daemons"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "F0HWNvDoWGw",
+  "title": "The Niflheim Empire"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "JGHSnxp6EcI",
+  "title": "Veiled in Black"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "AJyzjV50tS8",
+  "title": "Valse di Fantastica"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "4YLKfhpcVaE",
+  "title": "Reel Rumble"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "aZjgH7qyLhQ",
+  "title": "The Fight Is On!"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "jChnIrI1ks8",
+  "title": "Don't Panic!"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "vzgEpQ0cLX4",
+  "title": "APOCALYPSIS NOCTIS"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "twS7tnRgbA8",
+  "title": "Cosmogony"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "G9xHcodbQLw",
+  "title": "Melancholia"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "4jP_U2VNgZU",
+  "title": "A Premonition"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "fjc1LWmPx3M",
+  "title": "NOX DIVINA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "seLt_pV4VEs",
+  "title": "Veiled in Black (Arrangement)"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "6KNZDLlqaLc",
+  "title": "Invidia"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "JAIpZ3nyeXk",
+  "title": "Sorrow Without Solace"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "2E1lSY4GdSc",
+  "title": "Sunset Waltz"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "CBlCU0xqQQc",
+  "title": "Disquiet"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "CvIM574L-AM",
+  "title": "OMNIS LACRIMA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "wP0VdQ9jQoY",
+  "title": "Rodeo de Chocobo"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "1nptHD5KQQY",
+  "title": "Listen Up"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "rPitOt89ErU",
+  "title": "Up for the Challenge"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "ZfOQkqp6QgU",
+  "title": "NOCTIS"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "DuM2IjUcFfE",
+  "title": "Starlit Waltz"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "0WzcrpdVfV0",
+  "title": "Prayer de LUNA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "U5PX5WmqEh0",
+  "title": "No Time Left"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "-Nj5AbgUNoA",
+  "title": "Song of the Stars"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "HcRzYCnRzT8",
+  "title": "The Hydraean's Wrath"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "xq55UsZ7tes",
+  "title": "ARDYN II"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "1qzl3RtIRXk",
+  "title": "LUNA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "nBZDiflij00",
+  "title": "APOCALYPSIS AQUARIUS"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "QKq4CFf1TyQ",
+  "title": "Broken Bonds"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "IeNX_j7vkQ4",
+  "title": "Relax and Reflect - Pensive"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "b6lSXIU-Fns",
+  "title": "Careening Into Danger"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "battle",
+  "id": "h5zTCLYhO0g",
+  "title": "Horrors of the Night"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "dqEPBa4SoL4",
+  "title": "End of the Road"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "9_-hE0lDKqI",
+  "title": "RAVUS AETERNA"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "YQ-TZCoKybE",
+  "title": "In the Light of the Crystal"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "UMs5ak0IRwI",
+  "title": "A World Unwaking"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "RfWhjJvPxjo",
+  "title": "Homecoming"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "TGiZnfKSkPI",
+  "title": "Somnus"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "0NcWsdQ3eNc",
+  "title": "Hellfire"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "1kEpY2R3Xmc",
+  "title": "Dawn"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "boss",
+  "id": "ZqlEOAthcS4",
+  "title": "Somnus Ultima"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "RPqyOtQBFM0",
+  "title": "Dewdrops at Dawn"
+ },
+ {
+  "game": "Final Fantasy XV",
+  "category": "other",
+  "id": "h1XLVOTga78",
+  "title": "Main Theme from FINAL FANTASY"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Hdl6rZBlvYM",
+  "title": "Land of Eikons"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "BJeG676hNFo",
+  "title": "Away (Overture)"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "dXCGsJxoeUE",
+  "title": "Shattered"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "CviFkbIEhG0",
+  "title": "A Rose Is a Rose"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "OR9R26uydmg",
+  "title": "Return of the Archduke"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "rerkRvtIkhY",
+  "title": "My Lady"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "xHSpuxEUYsI",
+  "title": "Sixteen Bells"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "-kShO2eQ7IA",
+  "title": "There His Quarry Lies"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Jtbg3K6ha1k",
+  "title": "On the Wind Borne - The Rosarian Ducal Anthem"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "9jDLYcktijs",
+  "title": "Duty"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "TC24pjIx7PE",
+  "title": "Twin Flames"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "xTObz9owPxM",
+  "title": "Time and Death"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "trMbv1wANKs",
+  "title": "The Match"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "ZfIXHgAq6Kw",
+  "title": "Away"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "TxuE6_-tm2g",
+  "title": "Tonitrua ex Machina"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Gb0m15beuFM",
+  "title": "Gathering Clouds"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "mlQinpfWMCw",
+  "title": "Too Bloody Quiet"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Cp_DTAW2B0A",
+  "title": "The Chase"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "4XkZyTSSLN8",
+  "title": "Words to the Wise"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "K8TkA5bSEqk",
+  "title": "Domina"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "0w2mNwtsP_0",
+  "title": "Thunderstorm"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "vgAmoq_6vKU",
+  "title": "The Shepherd's Lament"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "SnLI28hYNFM",
+  "title": "A Land in Peril"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "3nDkugb97Oo",
+  "title": "Brothers"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "O8qXEVIAw8E",
+  "title": "Downburst"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "N5S06mO5LYE",
+  "title": "Vengeance Found"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "BFXQ-vcocbI",
+  "title": "Calling"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "NSlDkqEozFI",
+  "title": "Control"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "yJ4A6dO7hVs",
+  "title": "Fall from Grace"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "X0oS4iqGNXI",
+  "title": "A Pendant Darkly"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "2vN_XX0Mju4",
+  "title": "The Battle of Belenus Tor"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "hyboOI1Ok0Q",
+  "title": "On the Shoulders of Giants"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "BuDIUamkfdc",
+  "title": "A Long Way Down"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "pcgh84s4XQQ",
+  "title": "Aligned"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "zZnAtnEJJFE",
+  "title": "Happier Times"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "NR8EONaGu8w",
+  "title": "A Prayer to Metia"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "tapfIRA0paQ",
+  "title": "We Are You"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "MyeMoYIK3FE",
+  "title": "Away (Refrain)"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "sDc_8eeKFFY",
+  "title": "Press On"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "8RPnAc71fTU",
+  "title": "Find the Flame"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "2V2QiUIK8iE",
+  "title": "Who I Really Am"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "XYLqEvygPj0",
+  "title": "The Se7enth Sin"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "YbJlSDlqCZ0",
+  "title": "A Mother's Madness"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "tSFRRHM5CnY",
+  "title": "Unforgiven"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "7w-HRj4g28w",
+  "title": "Acceptance"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "9Msh4PpHThg",
+  "title": "The Journey Begins"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Qcoy-p_-izw",
+  "title": "Will of the Goddess"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "dEbJxwhovLQ",
+  "title": "Sway"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "KmIE6jpKb2s",
+  "title": "Deliver Us Thunder"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "ElJ34Ttr8TI",
+  "title": "Babel of Savage Screams"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "IgAJqiHoRaw",
+  "title": "Catacecaumene"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "OcWX7xlxIRs",
+  "title": "The Outlaw"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "8I8QoEcZqnc",
+  "title": "In Ashen Grip"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "OwWNvKuG77I",
+  "title": "Evening the Odds"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "AGhB6CTzGy4",
+  "title": "Our Terms"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "_8FVYWD_HI4",
+  "title": "The State of the Realm"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "1b9Swca-HqA",
+  "title": "And Melancholy Marked Him"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "07Q8CDCy_2U",
+  "title": "Death Looks Down"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "g_IueD_bjbI",
+  "title": "Ghosts of the Past"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "RIef1Kemhls",
+  "title": "An Unexpected Visit"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "oQ3z5MHKqoM",
+  "title": "An Outlaw's Uncle"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "fq9-0sQrzU0",
+  "title": "Currents"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "ulSfY1adA3g",
+  "title": "Out of the Frying Pan"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "_xmqT6-c1cE",
+  "title": "The Promise"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "C14ghAz6Ihw",
+  "title": "Màtham Sanomh"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "2qWe9lU2n9M",
+  "title": "Monster"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "Mst4aMAax4s",
+  "title": "Fire and Ice"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "uGXZHVXHkqs",
+  "title": "Hamartia"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "C-jErVFxd9o",
+  "title": "In the Light of the Mothercrystal"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "9rywKlqPSu4",
+  "title": "Azure Skies"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "diDP-4-9G-Q",
+  "title": "Desert Ministrations"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "battle",
+  "id": "LFaaXl4i2Ek",
+  "title": "Beasts among Beasts"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "F_I2Cte-rHc",
+  "title": "Fenris Kindir"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "wM8rkHNoLwQ",
+  "title": "The Host"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "ryTrjEVItQs",
+  "title": "King of the World"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "KwFacgW3eic",
+  "title": "To Sail Forbidden Seas"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Gpuu_2Q4y4E",
+  "title": "A Guest Most Welcome"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "Hsk2PHVp6ss",
+  "title": "Vive l'Empire"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "65VNLIv6sbQ",
+  "title": "Courage"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "fB8IudsNoSE",
+  "title": "Visions of Wind"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "AxeKOVEA0Pc",
+  "title": "Do or Die"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "efWK6fhQdCI",
+  "title": "Titan Lost"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "xDbkkIT7Nm4",
+  "title": "Heart of Stone"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "IyX5DBg5zUM",
+  "title": "Consciousness"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "sLtPzhYdQU4",
+  "title": "Champion of the Empire"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "-v4PS-LGAyA",
+  "title": "Uninvited"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "x1JcNUALTuM",
+  "title": "From the Shadows"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "gup8GATn0dE",
+  "title": "My Decree"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "ESfjxceqsy8",
+  "title": "Dreadwyrm"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "tInXSVpeAG0",
+  "title": "Bloodlines"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "DjYyIjnuSeQ",
+  "title": "The Flame Alights"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "YhUQMd4CIFw",
+  "title": "Fiery Resolve"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "opfilyMzFMk",
+  "title": "Beyond the Heavens"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "rogKdcO7t3A",
+  "title": "Ascension"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "labH3pc82d4",
+  "title": "Brotherhood"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "kKkYEz2jqKM",
+  "title": "Kinslayer"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "dUrg_xRUuMY",
+  "title": "Miséricorde"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "QbyvR_GdYmI",
+  "title": "The Final Temptation"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "cUmpPwkrIeQ",
+  "title": "Twilight"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "0lyHTNOACTQ",
+  "title": "Dark Designs"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "1pXv4DvtTeY",
+  "title": "We Travel Together"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "n_AnXi5U4LI",
+  "title": "Undying"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "VshL6s1N3kc",
+  "title": "Furor"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "vD8as9H0F8k",
+  "title": "The World Won't Save Itself"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "battle",
+  "id": "ri_iUO8MJMI",
+  "title": "No Risk, No Reward"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "EemIoU-7mjI",
+  "title": "The Parting Sea"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "kOwLCHRteOw",
+  "title": "Army of One - The Einherjar"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "8LLVQHR-inA",
+  "title": "Mighty Acts of God"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "o8PyUNd97io",
+  "title": "Not Alone"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "7JyVN8HioMg",
+  "title": "Heal"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "kFC8ZUw_-hg",
+  "title": "Salvation"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "Q5asIRTTlro",
+  "title": "Sever"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "4ciFXuqCGos",
+  "title": "The Riddle"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "lTKYl1vknUk",
+  "title": "One with God"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "battle",
+  "id": "-mD0iY5EM4M",
+  "title": "Fighting Fate"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "O6WtmOQzDTs",
+  "title": "To Boldly Go"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "ELt5yn5aMX8",
+  "title": "A Debt Repaid"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "3q6fbt-bLRY",
+  "title": "Rapture"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "tdGQ2T9TZCI",
+  "title": "Bow"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "vQxEpGGovJo",
+  "title": "Death Shall Me Devour"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "SShQNJNcx9w",
+  "title": "Once More"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "RQWjDQgqkQI",
+  "title": "Eschaton"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "MjXT7B9vGgQ",
+  "title": "A Better World"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "xBuLYnt8Osw",
+  "title": "Final Farewells"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "ek7GTHLT33E",
+  "title": "Only Forgiveness"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "uu4pnoaOcYM",
+  "title": "Faith"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "ZxqXLdX1a0g",
+  "title": "Logos"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "D8FsTyrFsRM",
+  "title": "Hymn of the Penitent"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "wdaFNdfZib0",
+  "title": "All as One"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "VsEkVlO83Cc",
+  "title": "Horizons"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "2i6eMJGw8rs",
+  "title": "Holos"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "gQhi0tw1SO8",
+  "title": "My Star"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "dgXXQJnx76o",
+  "title": "A New Beginning"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "-sxHeT9Gn18",
+  "title": "Land of Eikons (Reprise)"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "s8DR26lbGJ4",
+  "title": "The Worm Mounts"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "X0T6ZR4ea4E",
+  "title": "Eikonoklasm"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "4vJLLt-7_7U",
+  "title": "Our Mothers' Sky"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "3_IdTUSPJQg",
+  "title": "From Spire to Sea"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "yoxkhg8_-PU",
+  "title": "Writ in Water"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "YAKwiPIZfqo",
+  "title": "Unforgivable"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "other",
+  "id": "OM8JFUHljig",
+  "title": "O Call Back Yesterday"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "ASoIHnpr30A",
+  "title": "Black and Gold"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "QzQCfFI9boA",
+  "title": "Never to Break"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "6CdN5fPgwU0",
+  "title": "A Most Profaned Fragment"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "rSboR8zV-3Y",
+  "title": "High Tide"
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "category": "boss",
+  "id": "BoyJcvGrDQ4",
+  "title": "Cascade"
+ }
+]

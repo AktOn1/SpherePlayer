@@ -1,0 +1,694 @@
+[
+ {
+  "id": "VdxC7FqoNQw",
+  "kind": "other",
+  "tags": [],
+  "en": "A Place to Call Home"
+ },
+ {
+  "id": "leFi1KPzRVw",
+  "kind": "other",
+  "tags": [],
+  "en": "Memory Erased by a Storm"
+ },
+ {
+  "id": "VqZf21Rxfc0",
+  "kind": "other",
+  "tags": [],
+  "en": "The Meeting"
+ },
+ {
+  "id": "mBl1gO4v6oE",
+  "kind": "other",
+  "tags": [],
+  "en": "Sky of Alexandria (Night in Alexandria)"
+ },
+ {
+  "id": "DQevG_6xpmo",
+  "kind": "other",
+  "tags": [],
+  "en": "Vivi's Theme"
+ },
+ {
+  "id": "UGZ7y89w0xo",
+  "kind": "other",
+  "tags": [],
+  "en": "Swords of Fury"
+ },
+ {
+  "id": "d1ti-JU4EnQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Vamo'alla Flamenco"
+ },
+ {
+  "id": "3Ofcdstotfw",
+  "kind": "other",
+  "tags": [],
+  "en": "Find the Princess"
+ },
+ {
+  "id": "9mZD60iH3WI",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Court Jesters"
+ },
+ {
+  "id": "jXEZodSQMOE",
+  "kind": "other",
+  "tags": [],
+  "en": "Steiner's Theme"
+ },
+ {
+  "id": "0HGGFejTWaY",
+  "kind": "other",
+  "tags": [],
+  "en": "Prima Vista Orchestra"
+ },
+ {
+  "id": "cXnRfXyfeUM",
+  "kind": "other",
+  "tags": [],
+  "en": "Eye to Eye"
+ },
+ {
+  "id": "WclVPI_NxFk",
+  "kind": "other",
+  "tags": [],
+  "en": "Thy Warmth"
+ },
+ {
+  "id": "tCZrR7iF4ro",
+  "kind": "other",
+  "tags": [],
+  "en": "Tragic Love"
+ },
+ {
+  "id": "CJUr3TaY5Qw",
+  "kind": "other",
+  "tags": [],
+  "en": "The Evil Within"
+ },
+ {
+  "id": "VE6ivyYzBdk",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ],
+  "en": "Danger in the Forest"
+ },
+ {
+  "id": "8B1opY1K8tk",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 1"
+ },
+ {
+  "id": "5MtiYOL_u-c",
+  "kind": "other",
+  "tags": [],
+  "en": "Fanfare"
+ },
+ {
+  "id": "1jYhf2QXxXQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Distant Memory"
+ },
+ {
+  "id": "DEMkS-9wa5w",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle 2"
+ },
+ {
+  "id": "FlD7aTqqUdw",
+  "kind": "other",
+  "tags": [],
+  "en": "Game Over"
+ },
+ {
+  "id": "64AM4ilmkmI",
+  "kind": "other",
+  "tags": [],
+  "en": "Run!"
+ },
+ {
+  "id": "NcllQRpnLXQ",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Over the Hill"
+ },
+ {
+  "id": "KyoqaXSd1oQ",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ],
+  "en": "Ice Cavern"
+ },
+ {
+  "id": "pnjo3UUa30E",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Village of Dali"
+ },
+ {
+  "id": "NAGLY7rMJU4",
+  "kind": "other",
+  "tags": [],
+  "en": "Beyond the Twilight"
+ },
+ {
+  "id": "fcFznW5drEI",
+  "kind": "other",
+  "tags": [],
+  "en": "Steiner's Delusion"
+ },
+ {
+  "id": "gugG8w76NIE",
+  "kind": "other",
+  "tags": [],
+  "en": "Fleeting Life"
+ },
+ {
+  "id": "7h68pHE9oRQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Zidane's Theme"
+ },
+ {
+  "id": "cxC8kFIkL-c",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Black Waltz"
+ },
+ {
+  "id": "39gCzsSYQUw",
+  "kind": "other",
+  "tags": [],
+  "en": "Cid's Theme"
+ },
+ {
+  "id": "CIJ7VFy1_34",
+  "kind": "other",
+  "tags": [],
+  "en": "Out of the Frying Pan"
+ },
+ {
+  "id": "knJn5JOdUGU",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "Lindblum"
+ },
+ {
+  "id": "Q2n1EQApfVc",
+  "kind": "other",
+  "tags": [],
+  "en": "A Song From Her Memory"
+ },
+ {
+  "id": "0B-qFx0CiWw",
+  "kind": "other",
+  "tags": [],
+  "en": "Festival of the Hunt"
+ },
+ {
+  "id": "OZznCNWFLuc",
+  "kind": "dungeon",
+  "tags": [
+   "swamp",
+   "forest"
+  ],
+  "en": "Qu's Marsh"
+ },
+ {
+  "id": "aEZmd2141cI",
+  "kind": "other",
+  "tags": [],
+  "en": "Quina's Theme"
+ },
+ {
+  "id": "8vSY0BpDR40",
+  "kind": "other",
+  "tags": [],
+  "en": "Aloha de Chocobo"
+ },
+ {
+  "id": "glm7DS4V-x8",
+  "kind": "other",
+  "tags": [],
+  "en": "Ukulele de Chocobo"
+ },
+ {
+  "id": "m4HEsGvE1gk",
+  "kind": "other",
+  "tags": [],
+  "en": "Freya's Theme"
+ },
+ {
+  "id": "gq8QRvDV154",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "South Gate"
+ },
+ {
+  "id": "FyQOW5RuYnE",
+  "kind": "other",
+  "tags": [],
+  "en": "Faerie Battle"
+ },
+ {
+  "id": "ZLiCd300sgE",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water"
+  ],
+  "en": "Kingdom of Burmecia"
+ },
+ {
+  "id": "btffDWK97Og",
+  "kind": "other",
+  "tags": [],
+  "en": "Unforgettable Silhouette"
+ },
+ {
+  "id": "ejqjfqelUGA",
+  "kind": "other",
+  "tags": [],
+  "en": "Kuja's Theme"
+ },
+ {
+  "id": "RfrPbb6XpuE",
+  "kind": "other",
+  "tags": [],
+  "en": "The Wavering Blade"
+ },
+ {
+  "id": "4Cq-h677Zt4",
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ],
+  "en": "Dark City Treno"
+ },
+ {
+  "id": "RSsr-Uz8LNM",
+  "kind": "other",
+  "tags": [],
+  "en": "Tantalus's Theme"
+ },
+ {
+  "id": "vJCTB36ML0E",
+  "kind": "other",
+  "tags": [],
+  "en": "Wicked Melody"
+ },
+ {
+  "id": "grv0UPAgZoI",
+  "kind": "other",
+  "tags": [],
+  "en": "Garnet's Theme"
+ },
+ {
+  "id": "HVcRkY8m4vY",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "forest"
+  ],
+  "en": "Gargan Roo"
+ },
+ {
+  "id": "fzV-cEw6Xko",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "sky"
+  ],
+  "en": "Cleyra's Trunk"
+ },
+ {
+  "id": "d9Mng2g6z9c",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "town"
+  ],
+  "en": "Cleyra Settlement"
+ },
+ {
+  "id": "OgXQfW_oHeA",
+  "kind": "other",
+  "tags": [],
+  "en": "Eternal Harvest"
+ },
+ {
+  "id": "gdHB6DUX9og",
+  "kind": "other",
+  "tags": [],
+  "en": "Mourning the Sky"
+ },
+ {
+  "id": "e4RdFVSve7k",
+  "kind": "other",
+  "tags": [],
+  "en": "The Extraction"
+ },
+ {
+  "id": "R2Hot5SJUok",
+  "kind": "other",
+  "tags": [],
+  "en": "City Under Siege"
+ },
+ {
+  "id": "QOJUxX6tvjw",
+  "kind": "other",
+  "tags": [],
+  "en": "Roses of May"
+ },
+ {
+  "id": "I09n9AdhFfs",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ],
+  "en": "Fossil Roo"
+ },
+ {
+  "id": "nf3r97wj_TU",
+  "kind": "town",
+  "tags": [
+   "city",
+   "mountain",
+   "snow"
+  ],
+  "en": "Conde Petie"
+ },
+ {
+  "id": "arbdFt1x3A4",
+  "kind": "town",
+  "tags": [
+   "forest"
+  ],
+  "en": "Black Mage Village"
+ },
+ {
+  "id": "I32BfXkq6TE",
+  "kind": "other",
+  "tags": [],
+  "en": "Unrequited Love"
+ },
+ {
+  "id": "g3_h1sWk3FU",
+  "kind": "other",
+  "tags": [],
+  "en": "Before the Altar"
+ },
+ {
+  "id": "yoeUHQTtX_E",
+  "kind": "other",
+  "tags": [],
+  "en": "Eiko's Theme"
+ },
+ {
+  "id": "2Beif8OaeIY",
+  "kind": "town",
+  "tags": [
+   "town",
+   "ruins",
+   "forest"
+  ],
+  "en": "Madain Sari, Village of the Lost Summoners"
+ },
+ {
+  "id": "2jXCzP71Eo4",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ],
+  "en": "Eidolon Wall"
+ },
+ {
+  "id": "5iGDeFa97Zc",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ],
+  "en": "Iifa, the Ancient Tree of Life"
+ },
+ {
+  "id": "DXARwq3sH0k",
+  "kind": "boss",
+  "tags": [],
+  "en": "Amarant's Theme"
+ },
+ {
+  "id": "ve-_t6k0mMQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Devil's Ambition"
+ },
+ {
+  "id": "yxpMjtHepOo",
+  "kind": "other",
+  "tags": [],
+  "en": "Outlaws"
+ },
+ {
+  "id": "55AHq2X90oc",
+  "kind": "other",
+  "tags": [],
+  "en": "Foolproof Love Letter Scheme"
+ },
+ {
+  "id": "26KGry1eV2M",
+  "kind": "other",
+  "tags": [],
+  "en": "Tetra Master"
+ },
+ {
+  "id": "Hp9ymj7D-Do",
+  "kind": "other",
+  "tags": [],
+  "en": "Moogles' Theme"
+ },
+ {
+  "id": "tWH4MBW_grs",
+  "kind": "other",
+  "tags": [],
+  "en": "Something to Protect"
+ },
+ {
+  "id": "5_pCTIN5Bkc",
+  "kind": "other",
+  "tags": [],
+  "en": "Light of Destiny"
+ },
+ {
+  "id": "PivGdNgGU9Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Master of Time"
+ },
+ {
+  "id": "TXqj7HKQR2E",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Oeilvert"
+ },
+ {
+  "id": "fq_bWhFjoXI",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Chamber of a Thousand Faces"
+ },
+ {
+  "id": "pHf8l9SV3AI",
+  "kind": "other",
+  "tags": [],
+  "en": "Look Back, See the Frog!"
+ },
+ {
+  "id": "VnQ7G90fxiA",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "mountain",
+   "ruins"
+  ],
+  "en": "Esto Gaza"
+ },
+ {
+  "id": "KezSYuvBBwg",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave",
+   "eerie"
+  ],
+  "en": "Mount Gulug"
+ },
+ {
+  "id": "S6TFHL56rbw",
+  "kind": "other",
+  "tags": [],
+  "en": "Broken Spell, Healed Hearts"
+ },
+ {
+  "id": "Dp9qemWod1k",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "Aboard the Hilda Garde"
+ },
+ {
+  "id": "nmg6iavgcvA",
+  "kind": "town",
+  "tags": [
+   "city",
+   "cave"
+  ],
+  "en": "Daguerreo, the Hermit's Library"
+ },
+ {
+  "id": "7pnW7SS3POM",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Ipsen's Castle"
+ },
+ {
+  "id": "1-plX0kp3uY",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "en": "The Four Mirrors"
+ },
+ {
+  "id": "Kr9IBPjFwVs",
+  "kind": "other",
+  "tags": [],
+  "en": "Guardians"
+ },
+ {
+  "id": "h5wQCuGAi-o",
+  "kind": "other",
+  "tags": [],
+  "en": "Terra"
+ },
+ {
+  "id": "XdyTAX8swFI",
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ],
+  "en": "Bran Bal, the Soulless Village"
+ },
+ {
+  "id": "sVLVAw3NlVs",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Pandemonium"
+ },
+ {
+  "id": "eqw0yS7W06U",
+  "kind": "other",
+  "tags": [],
+  "en": "Not Alone"
+ },
+ {
+  "id": "eobb-Li2RsY",
+  "kind": "other",
+  "tags": [],
+  "en": "Unforgettable Sorrow"
+ },
+ {
+  "id": "s3uHt6kCyqE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Another Nightmare"
+ },
+ {
+  "id": "keVdnXRuzNE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Silver Dragon"
+ },
+ {
+  "id": "sJWfn71tkLM",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "Memoria"
+ },
+ {
+  "id": "YERChDDR4bM",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "en": "Crystal World"
+ },
+ {
+  "id": "d4AQ7kRcn_A",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Darkness of Eternity"
+ },
+ {
+  "id": "3IXijnKO8Ow",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Final Battle"
+ },
+ {
+  "id": "L0eCNYv1Fmc",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "LSz-WtATsL8",
+  "kind": "other",
+  "tags": [],
+  "en": "Melodies of Life (The Layers of Harmony)"
+ }
+]

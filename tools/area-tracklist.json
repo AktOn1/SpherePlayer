@@ -1,0 +1,1994 @@
+[
+ {
+  "game": "Final Fantasy",
+  "track": "Main Theme",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Ship",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Airship",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Town",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Matoya's Cave",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Temple of Fiends",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy",
+  "track": "Dungeon",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Main Theme",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Town",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Dungeon",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Ship",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Airship",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy II",
+  "track": "Pandaemonium",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Main Theme",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Crystal Cave",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Town",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Dungeon",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Invincible",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Crystal Tower",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy III",
+  "track": "Forbidden Land Eureka",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Main Theme of Final Fantasy IV",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Kingdom of Baron",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Welcome to Our Town!",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Mysidia",
+  "kind": "town",
+  "tags": [
+   "town",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Troia Castle",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Underworld",
+  "kind": "field",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Within the Giant",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Giant of Babil",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Lunar Subterrane",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Into the Darkness",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Chocobo Forest",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "The Airship",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Sealed Cave",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Main Theme of Final Fantasy V",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Home, Sweet Home",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Mambo de Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Library of the Ancients",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Exdeath's Castle",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy V",
+  "track": "Dungeon",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Kids Run Through the City",
+  "kind": "town",
+  "tags": [
+   "town",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Zozo",
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Under Martial Law",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Phantom Forest",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "The Phantom Train",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Searching for Friends",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Techno de Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "The Veldt",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Terra",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Magitek Research Facility",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Devil's Lab",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Kefka's Tower",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Mt. Kolts",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Costa del Sol",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Mako Reactor",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Oppressed People",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Underneath the Rotting Pizza",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Cosmo Canyon",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Bombing Mission",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Forgotten City",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Mining Town",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "mountain",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Wutai",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "The Highwind Takes to the Skies",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Main Theme of Final Fantasy VII",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Electric de Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Fiddle de Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Temple of the Ancients",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Whirlwind Maze",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "The Nightmare Begins",
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Cry of the Planet",
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Honeybee Inn",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Fort Condor",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "Cinco de Chocobo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VII",
+  "track": "A Secret, Sleeping in the Deep Sea",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Balamb Garden",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Blue Fields",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Breezy",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Fisherman's Horizon",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Galbadia Garden",
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Deling City",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "Lunatic Pandora",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "track": "The Salt Flats",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Lindblum",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Dali",
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Burmecia",
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Cleyra's Trunk",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Cleyra's Settlement",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Alexandria Castle",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Evil Forest",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "swamp",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Ice Cavern",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Gizamaluke's Grotto",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Fossil Roo",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Memoria",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Madain Sari",
+  "kind": "town",
+  "tags": [
+   "ruins",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Black Mage Village",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Conde Petie",
+  "kind": "town",
+  "tags": [
+   "mountain",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Treno",
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Chocobo's Forest",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Lifa Tree",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Qu's Marsh",
+  "kind": "field",
+  "tags": [
+   "swamp"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Oeilvert",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Desert Palace",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Ipsen's Castle",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Besaid Island",
+  "kind": "town",
+  "tags": [
+   "jungle",
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Kilika",
+  "kind": "town",
+  "tags": [
+   "jungle",
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Luca",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Mi'ihen Highroad",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Djose Temple",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Guadosalam",
+  "kind": "town",
+  "tags": [
+   "forest",
+   "eerie",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Thunder Plains",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Macalania Woods",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Bevelle",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Calm Lands",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Mount Gagazet",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Zanarkand",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Via Purifico",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Moonflow",
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Bikanel Island",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Home",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "industrial",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Sunken Cave",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Ronfaure",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Gustaberg",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Sarutabaruta",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Bastok Markets",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Windurst Woods",
+  "kind": "town",
+  "tags": [
+   "forest",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "San d'Oria",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Selbina",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Rabao",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Norg",
+  "kind": "town",
+  "tags": [
+   "cave",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Mhaura",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Kazham",
+  "kind": "town",
+  "tags": [
+   "jungle",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Ru'Lude Gardens",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "sky"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Lower Jeuno",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Rolanberry Fields",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Valkurm Dunes",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Sauromugue Champaign",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Ordelle's Caves",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Tavnazian Safehold",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Rabanastre",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Giza Plains",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Dalmasca Estersand",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Golmore Jungle",
+  "kind": "dungeon",
+  "tags": [
+   "jungle",
+   "forest",
+   "swamp"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Nalbina Fortress",
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Phon Coast",
+  "kind": "field",
+  "tags": [
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Bhujerba",
+  "kind": "town",
+  "tags": [
+   "city",
+   "sky",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Mt. Bur-Omisace",
+  "kind": "town",
+  "tags": [
+   "mountain",
+   "snow",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Ozmone Plain",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Barheim Passage",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Henne Mines",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Tomb of Raithwall",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Salikawood",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Eruyt Village",
+  "kind": "town",
+  "tags": [
+   "forest",
+   "jungle",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Nabudis",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Archades",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Nam-Yensa Sandsea",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Sunleth Waterscape",
+  "kind": "field",
+  "tags": [
+   "water",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Gapra Whitewood",
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Archylte Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Mah'habara Subterra",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Nautilus",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Orphan's Cradle",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Oerba",
+  "kind": "town",
+  "tags": [
+   "town",
+   "jungle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Taejin's Tower",
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Torn from the Heavens",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Ul'dah",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Limsa Lominsa",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Gridania",
+  "kind": "town",
+  "tags": [
+   "forest",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Kugane",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "The Crystarium",
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Old Sharlayan",
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Ishgard",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Idyllshire",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Foundation",
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Rhalgr's Reach",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Ultima Thule",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Lestallum",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Hammerhead",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Altissia",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water",
+   "seaside"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Insomnia",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Cape Caem",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Gralea",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Duscae",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Leide",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Cleigne",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Tenebrae",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "crystal"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Mount Ravatogh",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Costlemark Tower",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Vesperpool",
+  "kind": "field",
+  "tags": [
+   "swamp",
+   "water"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Cartanica",
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Hideaway",
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Rosaria",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Drake's Head",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Dhalmekia",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Lostwing",
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Northreach",
+  "kind": "town",
+  "tags": [
+   "snow",
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "track": "Martha's Rest",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Mt. Gulug",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Ifrit's Cauldron",
+  "kind": "dungeon",
+  "tags": [
+   "volcano",
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Mushroom Rock Road",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ {
+  "game": "Final Fantasy X",
+  "track": "Macalania Temple",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "snow",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Wiz Chocobo Post",
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Duscae Region",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy IV",
+  "track": "Mt. Ordeals",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "snow"
+  ]
+ },
+ {
+  "game": "Final Fantasy VI",
+  "track": "Edgar and Sabin",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy IX",
+  "track": "Gargan Roo",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "jungle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Giruvegan",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Pharos",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Sochen Cave Palace",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Cerobi Steppe",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Mosphoran Highwastes",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "desert"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Lowtown",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XII",
+  "track": "Feywood",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "swamp",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Yhoator Jungle",
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Dangruf Wadi",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Ro'Maeve",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "ruins"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Zulkheim",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "castle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XI",
+  "track": "Aragoneu",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "track": "Yaschas Massif",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "jungle"
+  ]
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "track": "Gold Saucer",
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Hallowed Marsh",
+  "kind": "dungeon",
+  "tags": [
+   "swamp",
+   "eerie"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Taelpar Rocks",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Galdin Quay",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Fodina Caverns",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "game": "Final Fantasy XV",
+  "track": "Steyliff Grove",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "ruins"
+  ]
+ }
+]

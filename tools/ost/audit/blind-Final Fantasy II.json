@@ -1,0 +1,144 @@
+[
+ {
+  "id": "7_ztaHxLIQI",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "C2iNe7FVJJY",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle Theme 1"
+ },
+ {
+  "id": "r1F8gj5y-Kg",
+  "kind": "other",
+  "tags": [],
+  "en": "Revival"
+ },
+ {
+  "id": "fPaqiLZ7mlg",
+  "kind": "other",
+  "tags": [],
+  "en": "The Rebel Army"
+ },
+ {
+  "id": "agXKicphGiM",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Town"
+ },
+ {
+  "id": "pGon-8yS9xI",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Main Theme"
+ },
+ {
+  "id": "GANINrVaM-g",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Castle Pandemonium"
+ },
+ {
+  "id": "WyQtMXllON4",
+  "kind": "other",
+  "tags": [],
+  "en": "The Imperial Army"
+ },
+ {
+  "id": "vj5PWi2k2Xc",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo Theme"
+ },
+ {
+  "id": "if7gXi2GCiw",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Tower of the Magi"
+ },
+ {
+  "id": "BpOqO6hJmK8",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle"
+  ],
+  "en": "Ancient Castle"
+ },
+ {
+  "id": "wrHM5f02crc",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ],
+  "en": "Dungeon"
+ },
+ {
+  "id": "_WTDBgzSQl0",
+  "kind": "other",
+  "tags": [],
+  "en": "The Emperor's Rebirth"
+ },
+ {
+  "id": "5lx9MaiScZQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle Theme 2"
+ },
+ {
+  "id": "1DPc-M8drjM",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory"
+ },
+ {
+  "id": "Vvv2pvocGC0",
+  "kind": "other",
+  "tags": [],
+  "en": "Game Over"
+ },
+ {
+  "id": "NByyITBkMWY",
+  "kind": "other",
+  "tags": [],
+  "en": "Shop"
+ },
+ {
+  "id": "pNjV0bwp2q8",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "Airship"
+ },
+ {
+  "id": "9BjkwYAhb2Q",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle Theme 3"
+ },
+ {
+  "id": "d5bauBwLoGs",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "Dungeon"
+ }
+]

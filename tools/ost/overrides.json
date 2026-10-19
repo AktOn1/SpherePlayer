@@ -1,0 +1,2473 @@
+{
+ "WyQtMXllON4": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "title": "The Imperial Army",
+  "game": "Final Fantasy II"
+ },
+ "ubzzMNnjRYg": {
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "title": "Sailing Enterprise",
+  "game": "Final Fantasy III"
+ },
+ "jblNgM6CB5E": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Big Chocobo!",
+  "game": "Final Fantasy III"
+ },
+ "EOScbqbj46k": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "title": "Tower of Owen",
+  "game": "Final Fantasy III"
+ },
+ "KDRVex_tqhw": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "forest"
+   ]
+  },
+  "title": "Troian Beauty",
+  "game": "Final Fantasy IV"
+ },
+ "S_JqVp-lMzQ": {
+  "kind": "field",
+  "tags": [
+   "forest",
+   "plains"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "title": "Samba de Chocobo!",
+  "game": "Final Fantasy IV"
+ },
+ "KyJpb_65Y44": {
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "cave"
+   ]
+  },
+  "title": "Somewhere in the World",
+  "game": "Final Fantasy IV"
+ },
+ "TMEJxbw4tB4": {
+  "kind": "town",
+  "tags": [
+   "cave",
+   "city"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "cave"
+   ]
+  },
+  "title": "Land of the Dwarves",
+  "game": "Final Fantasy IV"
+ },
+ "DQevG_6xpmo": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  },
+  "title": "Vivi's Theme",
+  "game": "Final Fantasy IX"
+ },
+ "UGZ7y89w0xo": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Swords of Fury",
+  "game": "Final Fantasy IX"
+ },
+ "8vSY0BpDR40": {
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "Aloha de Chocobo",
+  "game": "Final Fantasy IX"
+ },
+ "ZLiCd300sgE": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "city"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "city",
+    "water"
+   ]
+  },
+  "title": "Kingdom of Burmecia",
+  "game": "Final Fantasy IX"
+ },
+ "nmg6iavgcvA": {
+  "kind": "town",
+  "tags": [
+   "water",
+   "ruins"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "water"
+   ]
+  },
+  "title": "Daguerreo, the Hermit's Library",
+  "game": "Final Fantasy IX"
+ },
+ "Kr9IBPjFwVs": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Guardians",
+  "game": "Final Fantasy IX"
+ },
+ "sJWfn71tkLM": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Memoria (Video Soundtrack)",
+  "game": "Final Fantasy IX"
+ },
+ "YERChDDR4bM": {
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Crystal World (Video Soundtrack)",
+  "game": "Final Fantasy IX"
+ },
+ "d4AQ7kRcn_A": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Darkness of Eternity (Video Soundtrack)",
+  "game": "Final Fantasy IX"
+ },
+ "3IXijnKO8Ow": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Final Battle (Video Soundtrack)",
+  "game": "Final Fantasy IX"
+ },
+ "IcbQyCFnjzA": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "title": "Four Hearts",
+  "game": "Final Fantasy V"
+ },
+ "lAOKk8m3Uro": {
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "city",
+    "seaside"
+   ]
+  },
+  "title": "Kids Run Through the City",
+  "game": "Final Fantasy VI"
+ },
+ "_4bwGSx6ZZc": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "title": "Esper World",
+  "game": "Final Fantasy VI"
+ },
+ "ctR4PQ3hnIs": {
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Flowers Blooming in the Church",
+  "game": "Final Fantasy VII"
+ },
+ "Yq-NcvBYHO8": {
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Don of the Slums",
+  "game": "Final Fantasy VII"
+ },
+ "-cWRS0kRpds": {
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "water"
+   ]
+  },
+  "title": "It's Difficult to Stand on Both Feet, Isn't It",
+  "game": "Final Fantasy VII"
+ },
+ "OPyDi2pN6G0": {
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Fiddle de Chocobo",
+  "game": "Final Fantasy VII"
+ },
+ "qztmKj1axKA": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "snow"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "snow"
+   ]
+  },
+  "title": "Buried in the Snow",
+  "game": "Final Fantasy VII"
+ },
+ "ZeHm5JHphI0": {
+  "kind": "field",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  },
+  "title": "Judgement Day",
+  "game": "Final Fantasy VII"
+ },
+ "p2RW8HWNY8M": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Balamb GARDEN",
+  "game": "Final Fantasy VIII"
+ },
+ "aIg8Rwqt5KA": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Breezy",
+  "game": "Final Fantasy VIII"
+ },
+ "xpavufUoCm8": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "industrial"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Only a Plank Between One and Perdition",
+  "game": "Final Fantasy VIII"
+ },
+ "PBk0KBCud1M": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Galbadia GARDEN",
+  "game": "Final Fantasy VIII"
+ },
+ "1I-pTXNzkrk": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "title": "Under Her Control",
+  "game": "Final Fantasy VIII"
+ },
+ "6bpB-Hv9hQs": {
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Intruders",
+  "game": "Final Fantasy VIII"
+ },
+ "Y_ujurU0wOg": {
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "ruins"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Fragments of Memories",
+  "game": "Final Fantasy VIII"
+ },
+ "O6cS3EjKwBE": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "title": "The Spy",
+  "game": "Final Fantasy VIII"
+ },
+ "PlC9gIt56Ng": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "water",
+    "seaside"
+   ]
+  },
+  "title": "Drifting",
+  "game": "Final Fantasy VIII"
+ },
+ "lzo-_JiamqM": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "title": "Heresy",
+  "game": "Final Fantasy VIII"
+ },
+ "Hsy7M4HNcy8": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  },
+  "title": "Dance with the Balamb-fish",
+  "game": "Final Fantasy VIII"
+ },
+ "FUaEswxj-6o": {
+  "kind": "field",
+  "tags": [
+   "forest",
+   "jungle"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "forest",
+    "jungle"
+   ]
+  },
+  "title": "Movement in Green",
+  "game": "Final Fantasy X"
+ },
+ "pxp3B3Ol6tE": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "title": "Calm Before the Storm",
+  "game": "Final Fantasy X"
+ },
+ "4o05wBcsOCQ": {
+  "kind": "town",
+  "tags": [
+   "mountain"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Djose Temple",
+  "game": "Final Fantasy X"
+ },
+ "khfqA7F9gBA": {
+  "kind": "field",
+  "tags": [
+   "forest",
+   "crystal"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "title": "Macalania Woods",
+  "game": "Final Fantasy X"
+ },
+ "0INjvYvZmXY": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Monstrosity",
+  "game": "Final Fantasy XI"
+ },
+ "fsKhrRVlPXk": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Fury",
+  "game": "Final Fantasy XI"
+ },
+ "Rskax76-XLs": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Vana'diel March #2",
+  "game": "Final Fantasy XI"
+ },
+ "O1TJdn7fu08": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Echoes of Creation",
+  "game": "Final Fantasy XI"
+ },
+ "vSWnOg44AlY": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": []
+  },
+  "title": "Dash de Chocobo",
+  "game": "Final Fantasy XI"
+ },
+ "sez_0E7_-Ro": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Grav'iton",
+  "game": "Final Fantasy XI"
+ },
+ "vyzpQF03MBw": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Depths of the Soul",
+  "game": "Final Fantasy XI"
+ },
+ "1omGnKhDyLw": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "ruins",
+   "seaside"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "ruins"
+   ]
+  },
+  "title": "The Forgotten City - Tavnazian Safehold",
+  "game": "Final Fantasy XI"
+ },
+ "qVO92y14NLY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Turmoil",
+  "game": "Final Fantasy XI"
+ },
+ "C6qXjfP7bt8": {
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "title": "Eastward Bound...",
+  "game": "Final Fantasy XI"
+ },
+ "XkD4jnvvV5A": {
+  "kind": "field",
+  "tags": [
+   "forest",
+   "jungle"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "jungle"
+   ]
+  },
+  "title": "Jeweled Boughs",
+  "game": "Final Fantasy XI"
+ },
+ "M3VAQlt8K8s": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Forbidden Seal",
+  "game": "Final Fantasy XI"
+ },
+ "yfapfgb3iKg": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Flowers on the Battlefield",
+  "game": "Final Fantasy XI"
+ },
+ "FlscFPLfPPk": {
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "title": "Autumn Footfalls",
+  "game": "Final Fantasy XI"
+ },
+ "eyLu8iyGTRc": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "forest"
+   ]
+  },
+  "title": "Encampment Dreams",
+  "game": "Final Fantasy XI"
+ },
+ "qSaBvtXxAqM": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Stargazing",
+  "game": "Final Fantasy XI"
+ },
+ "J27mvnnPmow": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Young Griffons in Flight",
+  "game": "Final Fantasy XI"
+ },
+ "hPzSUU14vPU": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "eerie"
+   ]
+  },
+  "title": "Water's Umbral Knell",
+  "game": "Final Fantasy XI"
+ },
+ "hiraUWcOrVQ": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Keepers of the Wild",
+  "game": "Final Fantasy XI"
+ },
+ "iNDbw-8pLIo": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "Where it All Begins",
+  "game": "Final Fantasy XI"
+ },
+ "x09sMQw-_yA": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "Sojourner",
+  "game": "Final Fantasy XI"
+ },
+ "yORV_e5Dqd0": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Times Grow Tense",
+  "game": "Final Fantasy XI"
+ },
+ "InmmiSURH1M": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "The Boundless Black",
+  "game": "Final Fantasy XI"
+ },
+ "ShirDoancBU": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Abyss",
+  "game": "Final Fantasy XII"
+ },
+ "b7FT5NTNzVY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Battle Drums",
+  "game": "Final Fantasy XII"
+ },
+ "FGpbBLmXVo8": {
+  "kind": "field",
+  "tags": [
+   "water",
+   "forest"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "By the Water",
+  "game": "Final Fantasy XII"
+ },
+ "5gVs94HZsKQ": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Summon",
+  "game": "Final Fantasy XII"
+ },
+ "On9lK3KRob4": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Land of Remembrance",
+  "game": "Final Fantasy XII"
+ },
+ "9evzpqfSdHg": {
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "crystal"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "To the Place of the Gods",
+  "game": "Final Fantasy XII"
+ },
+ "p4tbkMaeMB8": {
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "castle"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "To the Summit",
+  "game": "Final Fantasy XII"
+ },
+ "3-Lp2WfNmac": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Ragnarok",
+  "game": "Final Fantasy XIII"
+ },
+ "5hA1aNFnMxQ": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "sky",
+    "industrial"
+   ]
+  },
+  "title": "Pompa Sancta",
+  "game": "Final Fantasy XIII"
+ },
+ "L8HK7hNJGRE": {
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "title": "Mah'habara Subterra / Yaschas Massif",
+  "game": "Final Fantasy XIII"
+ },
+ "sq-4SvGAJsE": {
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "crystal"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "title": "Lake Surya",
+  "game": "Final Fantasy XIII"
+ },
+ "FFQRJHh3VNc": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "ruins",
+    "town"
+   ]
+  },
+  "title": "Dust to Dust",
+  "game": "Final Fantasy XIII"
+ },
+ "UuuglmZ4pVE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Fabula Nova Crystallis",
+  "game": "Final Fantasy XIII"
+ },
+ "uVkZY-fs_uE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Follow the Hero",
+  "game": "Final Fantasy XIV"
+ },
+ "bwY1ncMAdWY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Primal Dragon",
+  "game": "Final Fantasy XIV"
+ },
+ "YB2JVeFIDag": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Forged in Crimson",
+  "game": "Final Fantasy XIV"
+ },
+ "dri0mYfoJJE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Savior of the Void",
+  "game": "Final Fantasy XIV"
+ },
+ "L41Llt4JbLc": {
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Kingdom of Baron - Endwalker",
+  "game": "Final Fantasy XIV"
+ },
+ "MhWUn-JD42o": {
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "To Sail Forbidden Seas",
+  "game": "Final Fantasy XIV"
+ },
+ "P5_zzXmKG-4": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Power That Moves Hearts",
+  "game": "Final Fantasy XIV"
+ },
+ "rqbLbYGJb8I": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Flow",
+  "game": "Final Fantasy XIV"
+ },
+ "FiMcWOLS7vo": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "title": "Deep Down (Scions & Sinners) - The Tempest",
+  "game": "Final Fantasy XIV"
+ },
+ "j6UurE_5J0s": {
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  },
+  "title": "Ancient Starry Sky ~ Elpis: Night",
+  "game": "Final Fantasy XIV"
+ },
+ "kdXL4CUWRII": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Resistance",
+  "game": "Final Fantasy XIV"
+ },
+ "qU3rYSqnt3g": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Battle 1 from FINAL FANTASY IV",
+  "game": "Final Fantasy XIV"
+ },
+ "a6EHphuIGlo": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  },
+  "title": "Song of the Ancients / Atonement (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "LmXmAs-0ha0": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Faltering Prayer / Freezing Rain (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "t20RfxiZd0A": {
+  "kind": "field",
+  "tags": [
+   "plains",
+   "ruins"
+  ],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Bozja's Bloody Wind",
+  "game": "Final Fantasy XIV"
+ },
+ "lV1HW6o1yQU": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "eerie"
+   ]
+  },
+  "title": "Sound the Bell (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "6_D0l1SlMdI": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "title": "Gangos",
+  "game": "Final Fantasy XIV"
+ },
+ "JWyTKRMZqPw": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "title": "Where All Roads Lead ~ Norvrandt",
+  "game": "Final Fantasy XIV"
+ },
+ "pJYQqB6VqHQ": {
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "ruins"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "title": "Fortress of Lies (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "LQCUZeSLQeQ": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Stagnant Prayer / Dawn Wind (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "T4G5pKsuJ4M": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Hopal Old Board",
+  "game": "Final Fantasy XIV"
+ },
+ "p-05SLBwMek": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Vast Sickness (From NieR:Automata)",
+  "game": "Final Fantasy XIV"
+ },
+ "BZKfyapcTX4": {
+  "kind": "town",
+  "tags": [
+   "industrial",
+   "town"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Wattshammer Garage",
+  "game": "Final Fantasy XIV"
+ },
+ "EAtelq7Sp3U": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Echoes in the Dark",
+  "game": "Final Fantasy XIV"
+ },
+ "18q19BPYEJE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Greed",
+  "game": "Final Fantasy XIV"
+ },
+ "XGhBEsyIb64": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Treason",
+  "game": "Final Fantasy XIV"
+ },
+ "feClf2yg2IY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Antipyretic",
+  "game": "Final Fantasy XIV"
+ },
+ "c3mk3zPQ_l8": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Bloody Excrement",
+  "game": "Final Fantasy XIV"
+ },
+ "rk4xBUj30CU": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Revolutions",
+  "game": "Final Fantasy XIV"
+ },
+ "GTzY2hSpGUc": {
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Deltascape ~ Omega: Deltascape ~",
+  "game": "Final Fantasy XIV"
+ },
+ "T4zb2SQxDXM": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Battlefield Carapace",
+  "game": "Final Fantasy XIV"
+ },
+ "BI0FV4n10SQ": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Silver Scales and Steel",
+  "game": "Final Fantasy XIV"
+ },
+ "jvdJmMT7RjY": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Shadow ~ Dun Scaith ~",
+  "game": "Final Fantasy XIV"
+ },
+ "ClyGkj3FJOc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Great Piper",
+  "game": "Final Fantasy XIV"
+ },
+ "qBssyR2cze0": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "A Thousand Faces ~ Mhach ~",
+  "game": "Final Fantasy XIV"
+ },
+ "UhMxpT1Pt6k": {
+  "kind": "town",
+  "tags": [
+   "cave"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "cave"
+   ]
+  },
+  "title": "Matoya's Cave (Heavensward)",
+  "game": "Final Fantasy XIV"
+ },
+ "dVh-rev5Jq8": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Stone and Steel",
+  "game": "Final Fantasy XIV"
+ },
+ "W_mtc2VMF-g": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "Eternal Wind (A Realm Reborn)",
+  "game": "Final Fantasy XIV"
+ },
+ "_JFkoMUp6yg": {
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "ruins"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Shatter",
+  "game": "Final Fantasy XIV"
+ },
+ "kpHuFoI-HoE": {
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Darkness",
+  "game": "Final Fantasy XIV"
+ },
+ "ELkj96pZJGc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "title": "The Silver Bird Soars",
+  "game": "Final Fantasy XIV"
+ },
+ "cq_d9P4pH6U": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Turmoil",
+  "game": "Final Fantasy XIV"
+ },
+ "RERj_5JKoRY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Unyielding Challenge",
+  "game": "Final Fantasy XIV"
+ },
+ "g47TJsJ5p4c": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Meteor",
+  "game": "Final Fantasy XIV"
+ },
+ "oZV3KsTmG0E": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Shinobi's Blade",
+  "game": "Final Fantasy XIV"
+ },
+ "rIdOHSZGRFs": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Novv's Crew",
+  "game": "Final Fantasy XIV"
+ },
+ "E35GeZFA1vc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Lance and Banner",
+  "game": "Final Fantasy XIV"
+ },
+ "wdrN4_heT5Q": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "title": "War Council",
+  "game": "Final Fantasy XIV"
+ },
+ "5N5Zjgh0AwA": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "forest"
+   ]
+  },
+  "title": "Wailers and Waterwheels",
+  "game": "Final Fantasy XIV"
+ },
+ "tFpQmiH2ZZw": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "On Honor's Wager",
+  "game": "Final Fantasy XIV"
+ },
+ "gCu9Vq2TbUE": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "title": "Ball of the Fireflies",
+  "game": "Final Fantasy XIV"
+ },
+ "jQTJD9f8KRA": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Indomitable Spirit",
+  "game": "Final Fantasy XIV"
+ },
+ "gDOBP-T4ORE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  },
+  "title": "Spiral",
+  "game": "Final Fantasy XIV"
+ },
+ "GXVuizEdxG0": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Comrades in Arms",
+  "game": "Final Fantasy XIV"
+ },
+ "ph83TTJr0Sk": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "In Search of Hidden Treasure",
+  "game": "Final Fantasy XIV"
+ },
+ "CefspGlIlEE": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Pulse of the Crystal",
+  "game": "Final Fantasy XIV"
+ },
+ "2J-bPsJUjUw": {
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Azure Wings",
+  "game": "Final Fantasy XIV"
+ },
+ "19E5p4od1vc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Slash",
+  "game": "Final Fantasy XIV"
+ },
+ "hvgzF4BtY34": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Disturbed Slumber",
+  "game": "Final Fantasy XIV"
+ },
+ "_tQPeWLzXec": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Swift as Silver, Hard as Stone",
+  "game": "Final Fantasy XIV"
+ },
+ "oFjUxkvo_n8": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "To the Sword of the Fierce Storm",
+  "game": "Final Fantasy XIV"
+ },
+ "XuFZiIYZzdk": {
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "industrial"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Frozen Front",
+  "game": "Final Fantasy XIV"
+ },
+ "hxloV6X0vfE": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Ideals of Steel",
+  "game": "Final Fantasy XIV"
+ },
+ "oC8ei478StU": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Heavenly Wedge",
+  "game": "Final Fantasy XIV"
+ },
+ "PJ8oZWqrxEk": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Spear and Banner",
+  "game": "Final Fantasy XIV"
+ },
+ "HLf0OXOfe8g": {
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Home of the Heart",
+  "game": "Final Fantasy XIV"
+ },
+ "SmtYRLsb0Hs": {
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "forest"
+   ]
+  },
+  "title": "Labyrinth of the Black Shroud",
+  "game": "Final Fantasy XIV"
+ },
+ "dZ5O6c7oFRo": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Rumbling",
+  "game": "Final Fantasy XIV"
+ },
+ "I7CJS-a0DnY": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Under the Crimson Banner",
+  "game": "Final Fantasy XIV"
+ },
+ "zkNAxllpxZQ": {
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Sunlit Spot",
+  "game": "Final Fantasy XIV"
+ },
+ "JUqvA2QK-Xg": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Imperial Will",
+  "game": "Final Fantasy XIV"
+ },
+ "2pB5OG2nyLA": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Embrace of Darkness",
+  "game": "Final Fantasy XIV"
+ },
+ "N2_nkFkkNCg": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Meteor",
+  "game": "Final Fantasy XIV"
+ },
+ "jLOdZxUTwss": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Nature's Bounty",
+  "game": "Final Fantasy XIV"
+ },
+ "rlOFB-zgUrw": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Dewdrops and Moonlight",
+  "game": "Final Fantasy XIV"
+ },
+ "s0iPw_uT1yE": {
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Embers of Hellfire",
+  "game": "Final Fantasy XIV"
+ },
+ "vsC41TL7y9M": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Kiss of Darkness",
+  "game": "Final Fantasy XIV"
+ },
+ "WwkWrV9bh0s": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Swift as Silver, Solid as Stone",
+  "game": "Final Fantasy XIV"
+ },
+ "w8zceKuRE7I": {
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "ruins"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Secrets of the Sands",
+  "game": "Final Fantasy XIV"
+ },
+ "EErP2e8_w9E": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Encroaching Fear",
+  "game": "Final Fantasy XV"
+ },
+ "rtJIIQs-gaw": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Lurking Danger",
+  "game": "Final Fantasy XV"
+ },
+ "-373ARVkSWg": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "desert"
+   ]
+  },
+  "title": "A Quick Pit Stop",
+  "game": "Final Fantasy XV"
+ },
+ "v2l1AhgQGWY": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Bros on the Road",
+  "game": "Final Fantasy XV"
+ },
+ "XsQTAX9vT3s": {
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave",
+   "snow"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "title": "Crystalline Chill",
+  "game": "Final Fantasy XV"
+ },
+ "twS7tnRgbA8": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Cosmogony",
+  "game": "Final Fantasy XV"
+ },
+ "6KNZDLlqaLc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "forest",
+    "eerie"
+   ]
+  },
+  "title": "Invidia",
+  "game": "Final Fantasy XV"
+ },
+ "etHvSiuWOFo": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "forest"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Creeping Shadows",
+  "game": "Final Fantasy XV"
+ },
+ "TCYP2kYPPA0": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Impending Peril",
+  "game": "Final Fantasy XV"
+ },
+ "odnI6kMsvAc": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Bros on the Road II",
+  "game": "Final Fantasy XV"
+ },
+ "xq55UsZ7tes": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "ARDYN II",
+  "game": "Final Fantasy XV"
+ },
+ "LIdlPqwi1zU": {
+  "kind": "town",
+  "tags": [
+   "town",
+   "industrial"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  },
+  "title": "Cartanica",
+  "game": "Final Fantasy XV"
+ },
+ "IeNX_j7vkQ4": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "Relax and Reflect - Pensive",
+  "game": "Final Fantasy XV"
+ },
+ "8-R5bryjbWc": {
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "forest"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "forest"
+   ]
+  },
+  "title": "Tenebrae",
+  "game": "Final Fantasy XV"
+ },
+ "h5zTCLYhO0g": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "eerie"
+   ]
+  },
+  "title": "Horrors of the Night",
+  "game": "Final Fantasy XV"
+ },
+ "CviFkbIEhG0": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "castle"
+   ]
+  },
+  "title": "A Rose Is a Rose",
+  "game": "Final Fantasy XVI"
+ },
+ "LcOQoZAIn-A": {
+  "kind": "dungeon",
+  "tags": [
+   "swamp",
+   "eerie"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "swamp"
+   ]
+  },
+  "title": "Into the Mire - Stillwind",
+  "game": "Final Fantasy XVI"
+ },
+ "xHSpuxEUYsI": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Sixteen Bells",
+  "game": "Final Fantasy XVI"
+ },
+ "TxuE6_-tm2g": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Tonitrua ex Machina",
+  "game": "Final Fantasy XVI"
+ },
+ "1YEEdupdrCo": {
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "was": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "title": "Idylls of the Empire",
+  "game": "Final Fantasy XVI"
+ },
+ "K8TkA5bSEqk": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Domina",
+  "game": "Final Fantasy XVI"
+ },
+ "0w2mNwtsP_0": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Thunderstorm",
+  "game": "Final Fantasy XVI"
+ },
+ "SnLI28hYNFM": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "A Land in Peril",
+  "game": "Final Fantasy XVI"
+ },
+ "O8qXEVIAw8E": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Downburst",
+  "game": "Final Fantasy XVI"
+ },
+ "9kdfMPbwi-o": {
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Against the Wind - The Eye of the Tempest",
+  "game": "Final Fantasy XVI"
+ },
+ "2vN_XX0Mju4": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "The Battle of Belenus Tor",
+  "game": "Final Fantasy XVI"
+ },
+ "sDc_8eeKFFY": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "battle",
+   "tags": []
+  },
+  "title": "Press On",
+  "game": "Final Fantasy XVI"
+ },
+ "XYLqEvygPj0": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "The Se7enth Sin",
+  "game": "Final Fantasy XVI"
+ },
+ "sORvPKrf93E": {
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "title": "Treading Lightly - The Glass Gate",
+  "game": "Final Fantasy XVI"
+ },
+ "ElJ34Ttr8TI": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Babel of Savage Screams",
+  "game": "Final Fantasy XVI"
+ },
+ "IgAJqiHoRaw": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  },
+  "title": "Catacecaumene",
+  "game": "Final Fantasy XVI"
+ },
+ "2qWe9lU2n9M": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Monster",
+  "game": "Final Fantasy XVI"
+ },
+ "Mst4aMAax4s": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Fire and Ice",
+  "game": "Final Fantasy XVI"
+ },
+ "LFaaXl4i2Ek": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Beasts among Beasts",
+  "game": "Final Fantasy XVI"
+ },
+ "F_I2Cte-rHc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Fenris Kindir",
+  "game": "Final Fantasy XVI"
+ },
+ "ryTrjEVItQs": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "King of the World",
+  "game": "Final Fantasy XVI"
+ },
+ "TESBm2MJKfI": {
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "The Thousand Tables",
+  "game": "Final Fantasy XVI"
+ },
+ "AxeKOVEA0Pc": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Do or Die",
+  "game": "Final Fantasy XVI"
+ },
+ "ESfjxceqsy8": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Dreadwyrm",
+  "game": "Final Fantasy XVI"
+ },
+ "ri_iUO8MJMI": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "No Risk, No Reward",
+  "game": "Final Fantasy XVI"
+ },
+ "-mD0iY5EM4M": {
+  "kind": "battle",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Fighting Fate",
+  "game": "Final Fantasy XVI"
+ },
+ "E5k5jSttSd8": {
+  "kind": "field",
+  "tags": [
+   "plains",
+   "castle"
+  ],
+  "was": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "title": "In Darkness Hope - The Holy Empire of Sanbreque",
+  "game": "Final Fantasy XVI"
+ },
+ "uu4pnoaOcYM": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Faith",
+  "game": "Final Fantasy XVI"
+ },
+ "OM8JFUHljig": {
+  "kind": "other",
+  "tags": [],
+  "was": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  },
+  "title": "O Call Back Yesterday",
+  "game": "Final Fantasy XVI"
+ },
+ "ASoIHnpr30A": {
+  "kind": "boss",
+  "tags": [],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Black and Gold",
+  "game": "Final Fantasy XVI"
+ },
+ "ZbrtpYithTE": {
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "was": {
+   "kind": "other",
+   "tags": []
+  },
+  "title": "Eternal Vigil",
+  "game": "Final Fantasy XVI"
+ },
+ "5n6EZ7hgpQw": {
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "eerie",
+   "cave"
+  ],
+  "was": {
+   "kind": "boss",
+   "tags": []
+  },
+  "title": "Immersion",
+  "game": "Final Fantasy XVI"
+ }
+}

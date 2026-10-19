@@ -1,0 +1,388 @@
+[
+ {
+  "id": "BdsbRJ06qYk",
+  "orig": "[Video Soundtrack] The Prelude [FINAL FANTASY III]",
+  "title": "The Prelude",
+  "seconds": 52,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Jdw55Qw3cDU",
+  "orig": "[Video Soundtrack] Crystal Cave [FINAL FANTASY III]",
+  "title": "Crystal Cave",
+  "seconds": 103,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ]
+ },
+ {
+  "id": "UoWc_cpkkWo",
+  "orig": "[Video Soundtrack] Battle 1 ~Fanfare [FINAL FANTASY III]",
+  "title": "Battle 1",
+  "seconds": 116,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "XbVlqVmM0P8",
+  "orig": "[Video Soundtrack] Crystal Room [FINAL FANTASY III]",
+  "title": "Crystal Room",
+  "seconds": 31,
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ {
+  "id": "GGVoJFBP3d8",
+  "orig": "[Video Soundtrack] Opening Theme [FINAL FANTASY III]",
+  "title": "Opening Theme",
+  "seconds": 89,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "76QgEus1khE",
+  "orig": "[Video Soundtrack] My Home Town [FINAL FANTASY III]",
+  "title": "My Home Town",
+  "seconds": 106,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "79iWS0reUGA",
+  "orig": "[Video Soundtrack] Eternal Wind [FINAL FANTASY III]",
+  "title": "Eternal Wind",
+  "seconds": 130,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "jRLPcxQsEpM",
+  "orig": "[Video Soundtrack] Jinn, the Fire [FINAL FANTASY III]",
+  "title": "Jinn, the Fire",
+  "seconds": 77,
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ]
+ },
+ {
+  "id": "-l-qiObX-LQ",
+  "orig": "[Video Soundtrack] The Dungeon [FINAL FANTASY III]",
+  "title": "The Dungeon",
+  "seconds": 70,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "e2uPp-g0RQg",
+  "orig": "[Video Soundtrack] Return of the Warrior [FINAL FANTASY III]",
+  "title": "Return of the Warrior",
+  "seconds": 66,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "cNW36LJcXdM",
+  "orig": "[Video Soundtrack] The Way to the Top [FINAL FANTASY III]",
+  "title": "The Way to the Top",
+  "seconds": 44,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "v1jMqxssNRk",
+  "orig": "[Video Soundtrack] Tozus [FINAL FANTASY III]",
+  "title": "Tozus",
+  "seconds": 63,
+  "kind": "town",
+  "tags": [
+   "town",
+   "cave"
+  ]
+ },
+ {
+  "id": "iVoHHdJhovI",
+  "orig": "[Video Soundtrack] Shrine of Nept [FINAL FANTASY III]",
+  "title": "Shrine of Nept",
+  "seconds": 60,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ {
+  "id": "ubzzMNnjRYg",
+  "orig": "[Video Soundtrack] Sailing Enterprise [FINAL FANTASY III]",
+  "title": "Sailing Enterprise",
+  "seconds": 65,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "vMPGnuOmvCM",
+  "orig": "[Video Soundtrack] Living Forest [FINAL FANTASY III]",
+  "title": "Living Forest",
+  "seconds": 46,
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "gY_WDGiB4Js",
+  "orig": "[Video Soundtrack] Time Remains [FINAL FANTASY III]",
+  "title": "Time Remains",
+  "seconds": 108,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "hyszjIMTgxQ",
+  "orig": "[Video Soundtrack] Chocobos! [FINAL FANTASY III]",
+  "title": "Chocobos!",
+  "seconds": 41,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "jblNgM6CB5E",
+  "orig": "[Video Soundtrack] Big Chocobo! [FINAL FANTASY III]",
+  "title": "Big Chocobo!",
+  "seconds": 32,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EOScbqbj46k",
+  "orig": "[Video Soundtrack] Tower of Owen [FINAL FANTASY III]",
+  "title": "Tower of Owen",
+  "seconds": 68,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "tjxRwYU-SOE",
+  "orig": "[Video Soundtrack] Vegies of Geasal [FINAL FANTASY III]",
+  "title": "Vegies of Geasal",
+  "seconds": 47,
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ {
+  "id": "I_xam9gxqFQ",
+  "orig": "[Video Soundtrack] Castle of Hain [FINAL FANTASY III]",
+  "title": "Castle of Hain",
+  "seconds": 85,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "oJgU63ONfPU",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY III]",
+  "title": "Battle 2",
+  "seconds": 103,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "aBq5wUknxpQ",
+  "orig": "[Video Soundtrack] The Requiem [FINAL FANTASY III]",
+  "title": "The Requiem",
+  "seconds": 41,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FxLidaondM0",
+  "orig": "[Video Soundtrack] Go above the Clouds! [FINAL FANTASY III]",
+  "title": "Go Above the Clouds!",
+  "seconds": 47,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "fQqGbzGNr_c",
+  "orig": "[Video Soundtrack] The Boundless Ocean [FINAL FANTASY III]",
+  "title": "The Boundless Ocean",
+  "seconds": 81,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "srjrAkL2teM",
+  "orig": "[Video Soundtrack] Elia, the Maiden of Water [FINAL FANTASY III]",
+  "title": "Elia, the Maiden of Water",
+  "seconds": 84,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "lplzH2BlCRs",
+  "orig": "[Video Soundtrack] Town of Water [FINAL FANTASY III]",
+  "title": "Town of Water",
+  "seconds": 69,
+  "kind": "town",
+  "tags": [
+   "town",
+   "water",
+   "seaside"
+  ]
+ },
+ {
+  "id": "-2JYUSyr__8",
+  "orig": "[Video Soundtrack] Swift Twist [FINAL FANTASY III]",
+  "title": "Swift Twist",
+  "seconds": 41,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "uIjpAjfUdy0",
+  "orig": "[Video Soundtrack] Good ol' Fellows [FINAL FANTASY III]",
+  "title": "Good Ol' Fellows",
+  "seconds": 37,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GbOeg6aGS9A",
+  "orig": "[Video Soundtrack] In the Covert Town [FINAL FANTASY III]",
+  "title": "In the Covert Town",
+  "seconds": 63,
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "id": "fLV00j1pSag",
+  "orig": "[Video Soundtrack] Salonia [FINAL FANTASY III]",
+  "title": "Salonia",
+  "seconds": 103,
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "id": "18cIBK-jsFI",
+  "orig": "[Video Soundtrack] Deep under the Water [FINAL FANTASY III]",
+  "title": "Deep Under the Water",
+  "seconds": 116,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "Fgy6L0SLpLE",
+  "orig": "[Video Soundtrack] Beneath the Horizon [FINAL FANTASY III]",
+  "title": "Beneath the Horizon",
+  "seconds": 89,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "hGplNxh-kF4",
+  "orig": "[Video Soundtrack] Let Me Know the Truth [FINAL FANTASY III]",
+  "title": "Let Me Know the Truth",
+  "seconds": 58,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aFjzAxkr_6s",
+  "orig": "[Video Soundtrack] Good Morning! [FINAL FANTASY III]",
+  "title": "Good Morning!",
+  "seconds": 33,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "t85xn0e8j7E",
+  "orig": "[Video Soundtrack] The Invincible [FINAL FANTASY III]",
+  "title": "The Invincible",
+  "seconds": 87,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "3Yfq3GFCleo",
+  "orig": "[Video Soundtrack] Forbidden Land [FINAL FANTASY III]",
+  "title": "Forbidden Land",
+  "seconds": 52,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "zqYxwYhSRkQ",
+  "orig": "[Video Soundtrack] The Crystal Tower [FINAL FANTASY III]",
+  "title": "The Crystal Tower",
+  "seconds": 77,
+  "kind": "dungeon",
+  "tags": [
+   "crystal"
+  ]
+ },
+ {
+  "id": "PaxHDqM7WIU",
+  "orig": "[Video Soundtrack] The Dark Crystals [FINAL FANTASY III]",
+  "title": "The Dark Crystals",
+  "seconds": 106,
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "id": "0mCNpo0EkNo",
+  "orig": "[Video Soundtrack] This is the Last Battle [FINAL FANTASY III]",
+  "title": "This Is the Last Battle",
+  "seconds": 144,
+  "kind": "boss",
+  "tags": []
+ }
+]

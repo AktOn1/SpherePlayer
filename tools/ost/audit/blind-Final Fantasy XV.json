@@ -1,0 +1,669 @@
+[
+ {
+  "id": "xh2O-qJSpys",
+  "kind": "other",
+  "tags": [],
+  "en": "Somnus (Instrumental Version)"
+ },
+ {
+  "id": "3UYBFevrTTI",
+  "kind": "other",
+  "tags": [],
+  "en": "Departure"
+ },
+ {
+  "id": "kOOedc-GSHk",
+  "kind": "other",
+  "tags": [],
+  "en": "Broken Down"
+ },
+ {
+  "id": "KoDtL6BhYbk",
+  "kind": "town",
+  "tags": [
+   "town",
+   "industrial",
+   "desert"
+  ],
+  "en": "Hammerhead"
+ },
+ {
+  "id": "LqsNVB4_R1c",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Wanderlust"
+ },
+ {
+  "id": "EErP2e8_w9E",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "en": "Encroaching Fear"
+ },
+ {
+  "id": "Rc_QjKyzf4Y",
+  "kind": "battle",
+  "tags": [],
+  "en": "Stand Your Ground"
+ },
+ {
+  "id": "wzxvjcjg-Y0",
+  "kind": "other",
+  "tags": [],
+  "en": "Relax and Reflect"
+ },
+ {
+  "id": "AAVxIrIZ4kA",
+  "kind": "other",
+  "tags": [],
+  "en": "Horizon"
+ },
+ {
+  "id": "MzZ_cACPBnA",
+  "kind": "other",
+  "tags": [],
+  "en": "Safe Haven"
+ },
+ {
+  "id": "rtJIIQs-gaw",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "en": "Lurking Danger"
+ },
+ {
+  "id": "7gfUvhBuScQ",
+  "kind": "battle",
+  "tags": [],
+  "en": "Hunt or Be Hunted"
+ },
+ {
+  "id": "keK1thPMUeE",
+  "kind": "other",
+  "tags": [],
+  "en": "Cindy"
+ },
+ {
+  "id": "nB_3G6Mnq44",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "Urban Chrome"
+ },
+ {
+  "id": "-373ARVkSWg",
+  "kind": "town",
+  "tags": [
+   "town",
+   "industrial"
+  ],
+  "en": "A Quick Pit Stop"
+ },
+ {
+  "id": "U7-R4Ak1dCk",
+  "kind": "other",
+  "tags": [],
+  "en": "Love Lost"
+ },
+ {
+  "id": "ABiH0gX3Gdc",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Galdin Quay"
+ },
+ {
+  "id": "7o9vVgwOZuY",
+  "kind": "other",
+  "tags": [],
+  "en": "Ardyn"
+ },
+ {
+  "id": "27U_-TFaSz8",
+  "kind": "battle",
+  "tags": [],
+  "en": "The Aggressors"
+ },
+ {
+  "id": "cNec9-0LY4I",
+  "kind": "other",
+  "tags": [],
+  "en": "Nox Aeterna"
+ },
+ {
+  "id": "axBstFxToew",
+  "kind": "battle",
+  "tags": [],
+  "en": "The Hunters"
+ },
+ {
+  "id": "ydmiQc9Y2ww",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "en": "What Lies Within"
+ },
+ {
+  "id": "hkD9P24KBJg",
+  "kind": "battle",
+  "tags": [],
+  "en": "Daemons"
+ },
+ {
+  "id": "v2l1AhgQGWY",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Bros on the Road"
+ },
+ {
+  "id": "F0HWNvDoWGw",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ],
+  "en": "The Niflheim Empire"
+ },
+ {
+  "id": "JGHSnxp6EcI",
+  "kind": "boss",
+  "tags": [],
+  "en": "Veiled in Black"
+ },
+ {
+  "id": "AJyzjV50tS8",
+  "kind": "boss",
+  "tags": [],
+  "en": "Valse di Fantastica"
+ },
+ {
+  "id": "XsQTAX9vT3s",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave",
+   "snow"
+  ],
+  "en": "Crystalline Chill"
+ },
+ {
+  "id": "XfFNnfHhMDI",
+  "kind": "other",
+  "tags": [],
+  "en": "What a Hoot"
+ },
+ {
+  "id": "fvRBLC-sEvg",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Blues de Chocobo"
+ },
+ {
+  "id": "4YLKfhpcVaE",
+  "kind": "other",
+  "tags": [],
+  "en": "Reel Rumble"
+ },
+ {
+  "id": "aZjgH7qyLhQ",
+  "kind": "battle",
+  "tags": [],
+  "en": "The Fight Is On!"
+ },
+ {
+  "id": "ShlJtE6XHh0",
+  "kind": "town",
+  "tags": [
+   "city",
+   "town"
+  ],
+  "en": "Lestallum"
+ },
+ {
+  "id": "HedKg-YK09c",
+  "kind": "town",
+  "tags": [
+   "town",
+   "city"
+  ],
+  "en": "Welcome to the Leville"
+ },
+ {
+  "id": "CN9N4s84sso",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "en": "Unsettling Aura"
+ },
+ {
+  "id": "jChnIrI1ks8",
+  "kind": "other",
+  "tags": [],
+  "en": "Don't Panic!"
+ },
+ {
+  "id": "vzgEpQ0cLX4",
+  "kind": "boss",
+  "tags": [],
+  "en": "Apocalypsis Noctis"
+ },
+ {
+  "id": "twS7tnRgbA8",
+  "kind": "boss",
+  "tags": [],
+  "en": "Cosmogony"
+ },
+ {
+  "id": "G9xHcodbQLw",
+  "kind": "other",
+  "tags": [],
+  "en": "Melancholia"
+ },
+ {
+  "id": "4jP_U2VNgZU",
+  "kind": "other",
+  "tags": [],
+  "en": "A Premonition"
+ },
+ {
+  "id": "fjc1LWmPx3M",
+  "kind": "other",
+  "tags": [],
+  "en": "Nox Divina"
+ },
+ {
+  "id": "sRCy3tNUXSo",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "cave"
+  ],
+  "en": "Labyrinthine"
+ },
+ {
+  "id": "whB4yTugnUw",
+  "kind": "other",
+  "tags": [],
+  "en": "Flying R"
+ },
+ {
+  "id": "ucVOapKwFvM",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ],
+  "en": "Imperial Infiltration"
+ },
+ {
+  "id": "seLt_pV4VEs",
+  "kind": "boss",
+  "tags": [],
+  "en": "Veiled in Black (Arrangement)"
+ },
+ {
+  "id": "6KNZDLlqaLc",
+  "kind": "boss",
+  "tags": [],
+  "en": "Invidia"
+ },
+ {
+  "id": "JAIpZ3nyeXk",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrow Without Solace"
+ },
+ {
+  "id": "2E1lSY4GdSc",
+  "kind": "other",
+  "tags": [],
+  "en": "Sunset Waltz"
+ },
+ {
+  "id": "CBlCU0xqQQc",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "en": "Disquiet"
+ },
+ {
+  "id": "CvIM574L-AM",
+  "kind": "other",
+  "tags": [],
+  "en": "Omnis Lacrima"
+ },
+ {
+  "id": "wP0VdQ9jQoY",
+  "kind": "other",
+  "tags": [],
+  "en": "Rodeo de Chocobo"
+ },
+ {
+  "id": "1nptHD5KQQY",
+  "kind": "other",
+  "tags": [],
+  "en": "Listen Up"
+ },
+ {
+  "id": "etHvSiuWOFo",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "forest"
+  ],
+  "en": "Creeping Shadows"
+ },
+ {
+  "id": "TCYP2kYPPA0",
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ],
+  "en": "Impending Peril"
+ },
+ {
+  "id": "rPitOt89ErU",
+  "kind": "battle",
+  "tags": [],
+  "en": "Up for the Challenge"
+ },
+ {
+  "id": "sq4b465IvC4",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Cape Caem"
+ },
+ {
+  "id": "yowXa09Q8Jg",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Cape Caem - Our New Home"
+ },
+ {
+  "id": "kfU-6LWZ81g",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "cave",
+   "town"
+  ],
+  "en": "Cape Caem - Hidden Harbor"
+ },
+ {
+  "id": "odnI6kMsvAc",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Bros on the Road II"
+ },
+ {
+  "id": "ZfOQkqp6QgU",
+  "kind": "other",
+  "tags": [],
+  "en": "Noctis"
+ },
+ {
+  "id": "YRDQtFuF9_4",
+  "kind": "other",
+  "tags": [],
+  "en": "Over the Waves"
+ },
+ {
+  "id": "Z_8DRxGR0aM",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water",
+   "seaside"
+  ],
+  "en": "Altissia"
+ },
+ {
+  "id": "FtiiyM7y46w",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water",
+   "seaside"
+  ],
+  "en": "Altissia - Gondola Ride"
+ },
+ {
+  "id": "kIvAh-xxI3Q",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ],
+  "en": "Welcome to the Royal Suite"
+ },
+ {
+  "id": "DuM2IjUcFfE",
+  "kind": "other",
+  "tags": [],
+  "en": "Starlit Waltz"
+ },
+ {
+  "id": "0WzcrpdVfV0",
+  "kind": "other",
+  "tags": [],
+  "en": "Prayer de LUNA"
+ },
+ {
+  "id": "U5PX5WmqEh0",
+  "kind": "other",
+  "tags": [],
+  "en": "No Time Left"
+ },
+ {
+  "id": "-Nj5AbgUNoA",
+  "kind": "other",
+  "tags": [],
+  "en": "Song of the Stars"
+ },
+ {
+  "id": "HcRzYCnRzT8",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Hydraean's Wrath"
+ },
+ {
+  "id": "xq55UsZ7tes",
+  "kind": "boss",
+  "tags": [],
+  "en": "ARDYN II"
+ },
+ {
+  "id": "1qzl3RtIRXk",
+  "kind": "other",
+  "tags": [],
+  "en": "LUNA"
+ },
+ {
+  "id": "nBZDiflij00",
+  "kind": "boss",
+  "tags": [],
+  "en": "APOCALYPSIS AQUARIUS"
+ },
+ {
+  "id": "QKq4CFf1TyQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Broken Bonds"
+ },
+ {
+  "id": "5hlcnQKxH7g",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Dining Car"
+ },
+ {
+  "id": "LIdlPqwi1zU",
+  "kind": "town",
+  "tags": [
+   "town",
+   "industrial"
+  ],
+  "en": "Cartanica"
+ },
+ {
+  "id": "IeNX_j7vkQ4",
+  "kind": "other",
+  "tags": [],
+  "en": "Relax and Reflect - Pensive"
+ },
+ {
+  "id": "b6lSXIU-Fns",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Careening Into Danger"
+ },
+ {
+  "id": "8-R5bryjbWc",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Tenebrae"
+ },
+ {
+  "id": "h5zTCLYhO0g",
+  "kind": "battle",
+  "tags": [],
+  "en": "Horrors of the Night"
+ },
+ {
+  "id": "dqEPBa4SoL4",
+  "kind": "other",
+  "tags": [],
+  "en": "End of the Road"
+ },
+ {
+  "id": "vmZx7bpaWOU",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "ruins",
+   "castle"
+  ],
+  "en": "An Empire in Ruins"
+ },
+ {
+  "id": "9_-hE0lDKqI",
+  "kind": "boss",
+  "tags": [],
+  "en": "RAVUS AETERNA"
+ },
+ {
+  "id": "YQ-TZCoKybE",
+  "kind": "other",
+  "tags": [],
+  "en": "In the Light of the Crystal"
+ },
+ {
+  "id": "UMs5ak0IRwI",
+  "kind": "other",
+  "tags": [],
+  "en": "A World Unwaking"
+ },
+ {
+  "id": "BLNG96-dXcM",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Neverending Nightmare"
+ },
+ {
+  "id": "RfWhjJvPxjo",
+  "kind": "other",
+  "tags": [],
+  "en": "Homecoming"
+ },
+ {
+  "id": "tGwHq4-3fuc",
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ],
+  "en": "Hammerhead - The Last Bastion"
+ },
+ {
+  "id": "TGiZnfKSkPI",
+  "kind": "other",
+  "tags": [],
+  "en": "Somnus"
+ },
+ {
+  "id": "0NcWsdQ3eNc",
+  "kind": "boss",
+  "tags": [],
+  "en": "Hellfire"
+ },
+ {
+  "id": "j91ZDQWDQjY",
+  "kind": "dungeon",
+  "tags": [
+   "city",
+   "castle",
+   "ruins"
+  ],
+  "en": "Magna Insomnia"
+ },
+ {
+  "id": "1kEpY2R3Xmc",
+  "kind": "other",
+  "tags": [],
+  "en": "Dawn"
+ },
+ {
+  "id": "ZqlEOAthcS4",
+  "kind": "other",
+  "tags": [],
+  "en": "Somnus Ultima"
+ },
+ {
+  "id": "RPqyOtQBFM0",
+  "kind": "other",
+  "tags": [],
+  "en": "Dewdrops at Dawn"
+ },
+ {
+  "id": "h1XLVOTga78",
+  "kind": "other",
+  "tags": [],
+  "en": "Main Theme from FINAL FANTASY"
+ }
+]

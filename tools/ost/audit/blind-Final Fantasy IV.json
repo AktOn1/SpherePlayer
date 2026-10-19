@@ -1,0 +1,320 @@
+[
+ {
+  "id": "IxKeM7GHCxM",
+  "kind": "other",
+  "tags": [],
+  "en": "The Prelude"
+ },
+ {
+  "id": "DKNoHCLI-TM",
+  "kind": "other",
+  "tags": [],
+  "en": "The Red Wings"
+ },
+ {
+  "id": "rZ5hQEiTxuw",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Kingdom of Baron"
+ },
+ {
+  "id": "bLkS2vvcCw8",
+  "kind": "other",
+  "tags": [],
+  "en": "Theme of Love"
+ },
+ {
+  "id": "yA1jriZNmyQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Prologue"
+ },
+ {
+  "id": "ZPrel8i7RV8",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Welcome to Our Town!"
+ },
+ {
+  "id": "lLWCyvqgZIs",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Main Theme of Final Fantasy IV"
+ },
+ {
+  "id": "biMiTu8PGT8",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 1"
+ },
+ {
+  "id": "m6EY76Xst5E",
+  "kind": "other",
+  "tags": [],
+  "en": "Fanfare"
+ },
+ {
+  "id": "O4KfA_ANJ5w",
+  "kind": "other",
+  "tags": [],
+  "en": "Enter Fat Chocobo!"
+ },
+ {
+  "id": "R_XnVQnKTng",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo Chocobo"
+ },
+ {
+  "id": "8PZS1qdNLhE",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "en": "Into the Darkness"
+ },
+ {
+  "id": "FQYEF_TShPU",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 2"
+ },
+ {
+  "id": "4P95O7uZ9Kg",
+  "kind": "other",
+  "tags": [],
+  "en": "Bomb Ring"
+ },
+ {
+  "id": "BC8vFHgzqC8",
+  "kind": "other",
+  "tags": [],
+  "en": "Rydia"
+ },
+ {
+  "id": "wRYCI3RoVDw",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "desert"
+  ],
+  "en": "Damcyan Castle"
+ },
+ {
+  "id": "4coBAyTCc6U",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrow and Loss"
+ },
+ {
+  "id": "Wbz6gSWAAN4",
+  "kind": "other",
+  "tags": [],
+  "en": "Edward's Harp"
+ },
+ {
+  "id": "nwFTMF7oPqE",
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ],
+  "en": "Mt. Ordeals"
+ },
+ {
+  "id": "83XIWIhVXto",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Fabul"
+ },
+ {
+  "id": "GfdBz2wyAqc",
+  "kind": "other",
+  "tags": [],
+  "en": "Run!"
+ },
+ {
+  "id": "ifp3QIXh3q4",
+  "kind": "other",
+  "tags": [],
+  "en": "Suspicion"
+ },
+ {
+  "id": "6Ljuo_3w4y0",
+  "kind": "boss",
+  "tags": [],
+  "en": "Golbez, Clad in Darkness"
+ },
+ {
+  "id": "KwmRV9_7kas",
+  "kind": "other",
+  "tags": [],
+  "en": "Hey, Cid!"
+ },
+ {
+  "id": "gbkhX7vawEs",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Mystic Mysidia"
+ },
+ {
+  "id": "Qt3ttuH3gjc",
+  "kind": "other",
+  "tags": [],
+  "en": "A Long Way to Go"
+ },
+ {
+  "id": "JGEtLH3usco",
+  "kind": "other",
+  "tags": [],
+  "en": "Palom & Porom"
+ },
+ {
+  "id": "9fBOQdbWcRY",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle with the Four Fiends"
+ },
+ {
+  "id": "UBuBMBUYo84",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "The Airship"
+ },
+ {
+  "id": "KDRVex_tqhw",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Troian Beauty"
+ },
+ {
+  "id": "S_JqVp-lMzQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Samba de Chocobo!"
+ },
+ {
+  "id": "af0A1UpSGPI",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ],
+  "en": "Tower of Bab-il"
+ },
+ {
+  "id": "KyJpb_65Y44",
+  "kind": "other",
+  "tags": [],
+  "en": "Somewhere in the World…"
+ },
+ {
+  "id": "TMEJxbw4tB4",
+  "kind": "town",
+  "tags": [
+   "cave",
+   "city"
+  ],
+  "en": "Land of Dwarves"
+ },
+ {
+  "id": "Ui7mx17OHrw",
+  "kind": "other",
+  "tags": [],
+  "en": "Giott, King of the Dwarves"
+ },
+ {
+  "id": "cRGD6AzwHos",
+  "kind": "other",
+  "tags": [],
+  "en": "Dancing Calbrena"
+ },
+ {
+  "id": "RQMDkx1jZAk",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "industrial"
+  ],
+  "en": "Tower of Zot"
+ },
+ {
+  "id": "BiDlE_3WnAU",
+  "kind": "town",
+  "tags": [
+   "eerie",
+   "cave"
+  ],
+  "en": "The Land of Summons"
+ },
+ {
+  "id": "7KTaKUPfJZ0",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "Lunar Whale"
+ },
+ {
+  "id": "lNIXRKRsqOo",
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "mountain"
+  ],
+  "en": "Another Moon"
+ },
+ {
+  "id": "WW597fhx0pQ",
+  "kind": "other",
+  "tags": [],
+  "en": "The Lunarians"
+ },
+ {
+  "id": "jGzBMDDBl5Q",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Within the Giant"
+ },
+ {
+  "id": "Fd_FyPn6SuQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Final Battle"
+ },
+ {
+  "id": "BVfFfms6zUw",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ],
+  "en": "Chocobo Forest"
+ },
+ {
+  "id": "CRkNFPSFbCk",
+  "kind": "other",
+  "tags": [],
+  "en": "The Serpent Road"
+ }
+]

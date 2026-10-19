@@ -1,0 +1,603 @@
+[
+ {
+  "id": "QQq0zv_JXEk",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water"
+  ],
+  "en": "Zanarkand"
+ },
+ {
+  "id": "QBfjQWkhwFE",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "qk0MG4hdvME",
+  "kind": "other",
+  "tags": [],
+  "en": "Tidus's Theme"
+ },
+ {
+  "id": "KO6fvJrsTsE",
+  "kind": "other",
+  "tags": [],
+  "en": "Otherworld"
+ },
+ {
+  "id": "AmtZbNWxOzY",
+  "kind": "other",
+  "tags": [],
+  "en": "Run!!"
+ },
+ {
+  "id": "u4ffC3p10lU",
+  "kind": "other",
+  "tags": [],
+  "en": "This Is Your Story"
+ },
+ {
+  "id": "3hwuOzk99Ig",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Creep"
+ },
+ {
+  "id": "0yuV3H-LPQw",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle Theme"
+ },
+ {
+  "id": "nd6YbpWWbP8",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory Fanfare"
+ },
+ {
+  "id": "BEz8m2pfubE",
+  "kind": "other",
+  "tags": [],
+  "en": "Game Over"
+ },
+ {
+  "id": "Ue1fRipeWBc",
+  "kind": "other",
+  "tags": [],
+  "en": "Out of the Frying Pan"
+ },
+ {
+  "id": "MID_Z9XyZqk",
+  "kind": "other",
+  "tags": [],
+  "en": "Leap in the Dark"
+ },
+ {
+  "id": "YKJ8nCUjdRc",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "water",
+   "eerie"
+  ],
+  "en": "Underwater Ruins"
+ },
+ {
+  "id": "QnnPwqOxc1Y",
+  "kind": "other",
+  "tags": [],
+  "en": "Oui are Al Bhed"
+ },
+ {
+  "id": "36C5SJ-zYSc",
+  "kind": "boss",
+  "tags": [],
+  "en": "Enemy Attack"
+ },
+ {
+  "id": "b584gNLzfLM",
+  "kind": "other",
+  "tags": [],
+  "en": "The Blitzers"
+ },
+ {
+  "id": "MpGBoaW9aow",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside",
+   "jungle"
+  ],
+  "en": "Besaid"
+ },
+ {
+  "id": "dKZ7vVIbK7s",
+  "kind": "other",
+  "tags": [],
+  "en": "Spira Unplugged"
+ },
+ {
+  "id": "qdJFnBwIAWs",
+  "kind": "other",
+  "tags": [],
+  "en": "Hum of the Fayth"
+ },
+ {
+  "id": "NhlbVwEv9-o",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Phantoms"
+ },
+ {
+  "id": "nXDizLvkL_c",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "The Trials"
+ },
+ {
+  "id": "42aOxDec5lE",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Valefor"
+ },
+ {
+  "id": "GpW7cTfqz04",
+  "kind": "other",
+  "tags": [],
+  "en": "The Summoning"
+ },
+ {
+  "id": "TRvW8Pb0t44",
+  "kind": "other",
+  "tags": [],
+  "en": "Braska's Daughter"
+ },
+ {
+  "id": "h4RLvBSfz70",
+  "kind": "other",
+  "tags": [],
+  "en": "Yuna's Theme"
+ },
+ {
+  "id": "FUaEswxj-6o",
+  "kind": "field",
+  "tags": [
+   "forest",
+   "plains"
+  ],
+  "en": "Movement in Green"
+ },
+ {
+  "id": "guqV6l8tCOc",
+  "kind": "other",
+  "tags": [],
+  "en": "The Sending"
+ },
+ {
+  "id": "pxp3B3Ol6tE",
+  "kind": "other",
+  "tags": [],
+  "en": "Calm Before the Storm"
+ },
+ {
+  "id": "4Q_d6I8cu40",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Ifrit"
+ },
+ {
+  "id": "rHXc7IzzHLg",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ],
+  "en": "Luca"
+ },
+ {
+  "id": "AXpI5onZlZw",
+  "kind": "other",
+  "tags": [],
+  "en": "Grand Maester Mika"
+ },
+ {
+  "id": "fRIXJoKYMuI",
+  "kind": "other",
+  "tags": [],
+  "en": "Decision on the Dock"
+ },
+ {
+  "id": "qZkSsrZnjSY",
+  "kind": "other",
+  "tags": [],
+  "en": "The Splendid Performance"
+ },
+ {
+  "id": "kThd_h1Nzvw",
+  "kind": "other",
+  "tags": [],
+  "en": "Face Off"
+ },
+ {
+  "id": "q55PKZF62GY",
+  "kind": "other",
+  "tags": [],
+  "en": "Blitz Off!"
+ },
+ {
+  "id": "KwBv6cD9Z5U",
+  "kind": "other",
+  "tags": [],
+  "en": "Auron's Theme"
+ },
+ {
+  "id": "Y7bCQbQ-tjA",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ],
+  "en": "Mi'ihen Highroad"
+ },
+ {
+  "id": "ZUcKCkyYV1o",
+  "kind": "other",
+  "tags": [],
+  "en": "Chocobo Jam"
+ },
+ {
+  "id": "xBevRVNSNeE",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "The Travel Agency"
+ },
+ {
+  "id": "52snYQ6i72Q",
+  "kind": "other",
+  "tags": [],
+  "en": "They May Pass"
+ },
+ {
+  "id": "U-_qCrxom9g",
+  "kind": "other",
+  "tags": [],
+  "en": "Seymour's Theme"
+ },
+ {
+  "id": "zf5tJHbY5Tg",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "Twilight"
+ },
+ {
+  "id": "4o05wBcsOCQ",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "mountain"
+  ],
+  "en": "Djose Temple"
+ },
+ {
+  "id": "suwqt4QLPUQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Ixion"
+ },
+ {
+  "id": "Qckn-mew__w",
+  "kind": "field",
+  "tags": [
+   "water",
+   "jungle"
+  ],
+  "en": "Ride the Shoopuf?"
+ },
+ {
+  "id": "D8YV6i50gIw",
+  "kind": "other",
+  "tags": [],
+  "en": "Rikku's Theme"
+ },
+ {
+  "id": "WDY16yK87mg",
+  "kind": "town",
+  "tags": [
+   "city",
+   "cave"
+  ],
+  "en": "Guadosalam"
+ },
+ {
+  "id": "dkugU4qqHKo",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "eerie"
+  ],
+  "en": "Thunder Plains"
+ },
+ {
+  "id": "IuHLaT_kAUM",
+  "kind": "other",
+  "tags": [],
+  "en": "Jecht's Theme"
+ },
+ {
+  "id": "khfqA7F9gBA",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "crystal",
+   "snow"
+  ],
+  "en": "Macalania Woods"
+ },
+ {
+  "id": "jY-F4fvLhqk",
+  "kind": "other",
+  "tags": [],
+  "en": "The Void"
+ },
+ {
+  "id": "jllwR_WOvpU",
+  "kind": "other",
+  "tags": [],
+  "en": "The Temple Players"
+ },
+ {
+  "id": "xLnWGMCTGlY",
+  "kind": "other",
+  "tags": [],
+  "en": "Seymour's Ambition"
+ },
+ {
+  "id": "O0nvvxOF-mM",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Shiva"
+ },
+ {
+  "id": "r58mugkmfIs",
+  "kind": "boss",
+  "tags": [],
+  "en": "Pursuit"
+ },
+ {
+  "id": "oJNhCp8Mye0",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ],
+  "en": "The Burning Sands"
+ },
+ {
+  "id": "prTA77ZJNCI",
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "ruins",
+   "eerie"
+  ],
+  "en": "Peril"
+ },
+ {
+  "id": "5c9Uue-NA8k",
+  "kind": "other",
+  "tags": [],
+  "en": "The Truth Revealed"
+ },
+ {
+  "id": "18uARerZeVg",
+  "kind": "other",
+  "tags": [],
+  "en": "Launch"
+ },
+ {
+  "id": "QAR17f9TRP8",
+  "kind": "other",
+  "tags": [],
+  "en": "The Wedding"
+ },
+ {
+  "id": "qR7jLqkmu4o",
+  "kind": "boss",
+  "tags": [],
+  "en": "Assault"
+ },
+ {
+  "id": "wod4CShsBwY",
+  "kind": "other",
+  "tags": [],
+  "en": "Tragedy"
+ },
+ {
+  "id": "aMEIUWbrpww",
+  "kind": "other",
+  "tags": [],
+  "en": "Believe"
+ },
+ {
+  "id": "MSaF8VJwKmI",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Via Purifico"
+ },
+ {
+  "id": "0TUNElKM1rE",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Bahamut"
+ },
+ {
+  "id": "pR4AEBcqdFw",
+  "kind": "other",
+  "tags": [],
+  "en": "Moment of Truth"
+ },
+ {
+  "id": "gmETYgrzthE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Patricide"
+ },
+ {
+  "id": "Ze6w1sLvymM",
+  "kind": "other",
+  "tags": [],
+  "en": "Suteki da ne (Isn't It Wonderful?)"
+ },
+ {
+  "id": "b68JCouP2xs",
+  "kind": "other",
+  "tags": [],
+  "en": "Yuna's Decision"
+ },
+ {
+  "id": "IUUT886SPWw",
+  "kind": "other",
+  "tags": [],
+  "en": "Lulu's Theme"
+ },
+ {
+  "id": "rY2-9hwAYUk",
+  "kind": "other",
+  "tags": [],
+  "en": "Bravely Forward"
+ },
+ {
+  "id": "UZJdKP47O5k",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Yojimbo"
+ },
+ {
+  "id": "NI9D6_I2_WY",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave",
+   "eerie"
+  ],
+  "en": "Servants of the Mountain"
+ },
+ {
+  "id": "w0NeLAcSb2s",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - The Ronso"
+ },
+ {
+  "id": "4NnfdaN-P6E",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "desert"
+  ],
+  "en": "Wandering"
+ },
+ {
+  "id": "JV36UXyjyso",
+  "kind": "other",
+  "tags": [],
+  "en": "A Fleeting Dream"
+ },
+ {
+  "id": "E0VR-CbYd94",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Yunalesca"
+ },
+ {
+  "id": "6PKx_51pWYg",
+  "kind": "battle",
+  "tags": [],
+  "en": "Challenge"
+ },
+ {
+  "id": "ePl26plerW8",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Beyond the Darkness"
+ },
+ {
+  "id": "pXykA0m0f9Q",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Gloom"
+ },
+ {
+  "id": "N9y4gtx-SXo",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Spira"
+ },
+ {
+  "id": "NaESaEtUsrE",
+  "kind": "other",
+  "tags": [],
+  "en": "The Unsent Laugh"
+ },
+ {
+  "id": "8nWHoYXIHeU",
+  "kind": "boss",
+  "tags": [],
+  "en": "Fight with Seymour"
+ },
+ {
+  "id": "QbqFOAFSx2g",
+  "kind": "other",
+  "tags": [],
+  "en": "Hymn - Anima"
+ },
+ {
+  "id": "anDVwHI0oe0",
+  "kind": "boss",
+  "tags": [],
+  "en": "A Contest of Aeons"
+ },
+ {
+  "id": "fm3QyFStsQw",
+  "kind": "boss",
+  "tags": [],
+  "en": "Final Battle"
+ },
+ {
+  "id": "VQQcVluN0Dc",
+  "kind": "other",
+  "tags": [],
+  "en": "Ending Theme"
+ },
+ {
+  "id": "z18ZPK9aTcM",
+  "kind": "other",
+  "tags": [],
+  "en": "Suteki da ne (Isn't It Wonderful?) Orchestra Version"
+ }
+]

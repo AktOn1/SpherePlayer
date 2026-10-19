@@ -1,0 +1,887 @@
+[
+ {
+  "id": "VdxC7FqoNQw",
+  "orig": "[Video Soundtrack] A Place to Call Home [FINAL FANTASY IX]",
+  "title": "A Place to Call Home",
+  "seconds": 130,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "leFi1KPzRVw",
+  "orig": "[Video Soundtrack] Memory Erased by a Storm [FINAL FANTASY IX]",
+  "title": "Memory Erased by a Storm",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VqZf21Rxfc0",
+  "orig": "[Video Soundtrack] The Meeting [FINAL FANTASY IX]",
+  "title": "The Meeting",
+  "seconds": 100,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mBl1gO4v6oE",
+  "orig": "[Video Soundtrack] Sky of Alexandria (Night in alexandria) [FINAL FANTASY IX]",
+  "title": "Sky of Alexandria",
+  "seconds": 54,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DQevG_6xpmo",
+  "orig": "[Video Soundtrack] Vivi's Theme [FINAL FANTASY IX]",
+  "title": "Vivi's Theme",
+  "seconds": 193,
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ]
+ },
+ {
+  "id": "UGZ7y89w0xo",
+  "orig": "[Video Soundtrack] Swords of Fury [FINAL FANTASY IX]",
+  "title": "Swords of Fury",
+  "seconds": 165,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "d1ti-JU4EnQ",
+  "orig": "[Video Soundtrack] Vamo'alla flamenco [FINAL FANTASY IX]",
+  "title": "Vamo'alla flamenco",
+  "seconds": 115,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "3Ofcdstotfw",
+  "orig": "[Video Soundtrack] Find the Princess [FINAL FANTASY IX]",
+  "title": "Find the Princess",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9mZD60iH3WI",
+  "orig": "[Video Soundtrack] Court Jesters [FINAL FANTASY IX]",
+  "title": "Court Jesters",
+  "seconds": 203,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jXEZodSQMOE",
+  "orig": "[Video Soundtrack] Steiner's Theme [FINAL FANTASY IX]",
+  "title": "Steiner's Theme",
+  "seconds": 149,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0HGGFejTWaY",
+  "orig": "[Video Soundtrack] Prima Vista Orchestra [FINAL FANTASY IX]",
+  "title": "Prima Vista Orchestra",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "cXnRfXyfeUM",
+  "orig": "[Video Soundtrack] Eye to Eye [FINAL FANTASY IX]",
+  "title": "Eye to Eye",
+  "seconds": 173,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WclVPI_NxFk",
+  "orig": "[Video Soundtrack] Thy Warmth [FINAL FANTASY IX]",
+  "title": "Thy Warmth",
+  "seconds": 37,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tCZrR7iF4ro",
+  "orig": "[Video Soundtrack] Tragic Love [FINAL FANTASY IX]",
+  "title": "Tragic Love",
+  "seconds": 218,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CJUr3TaY5Qw",
+  "orig": "[Video Soundtrack] The Evil Within [FINAL FANTASY IX]",
+  "title": "The Evil Within",
+  "seconds": 94,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VE6ivyYzBdk",
+  "orig": "[Video Soundtrack] Danger in the Forest [FINAL FANTASY IX]",
+  "title": "Danger in the Forest",
+  "seconds": 151,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ {
+  "id": "8B1opY1K8tk",
+  "orig": "[Video Soundtrack] Battle 1 [FINAL FANTASY IX]",
+  "title": "Battle 1",
+  "seconds": 164,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "5MtiYOL_u-c",
+  "orig": "[Video Soundtrack] Fanfare [FINAL FANTASY IX]",
+  "title": "Fanfare",
+  "seconds": 59,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1jYhf2QXxXQ",
+  "orig": "[Video Soundtrack] Distant Memory [FINAL FANTASY IX]",
+  "title": "Distant Memory",
+  "seconds": 150,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DEMkS-9wa5w",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY IX]",
+  "title": "Battle 2",
+  "seconds": 248,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "FlD7aTqqUdw",
+  "orig": "[Video Soundtrack] Game Over [FINAL FANTASY IX]",
+  "title": "Game Over",
+  "seconds": 118,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "64AM4ilmkmI",
+  "orig": "[Video Soundtrack] Run! [FINAL FANTASY IX]",
+  "title": "Run!",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "NcllQRpnLXQ",
+  "orig": "[Video Soundtrack] Over the Hill [FINAL FANTASY IX]",
+  "title": "Over the Hill",
+  "seconds": 162,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "KyoqaXSd1oQ",
+  "orig": "[Video Soundtrack] Ice Cavern [FINAL FANTASY IX]",
+  "title": "Ice Cavern",
+  "seconds": 182,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ]
+ },
+ {
+  "id": "pnjo3UUa30E",
+  "orig": "[Video Soundtrack] Village of Dali [FINAL FANTASY IX]",
+  "title": "Village of Dali",
+  "seconds": 152,
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ {
+  "id": "NAGLY7rMJU4",
+  "orig": "[Video Soundtrack] Beyond the Twilight [FINAL FANTASY IX]",
+  "title": "Beyond the Twilight",
+  "seconds": 190,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fcFznW5drEI",
+  "orig": "[Video Soundtrack] Steiner's Delusion [FINAL FANTASY IX]",
+  "title": "Steiner's Delusion",
+  "seconds": 167,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gugG8w76NIE",
+  "orig": "[Video Soundtrack] Fleeting Life [FINAL FANTASY IX]",
+  "title": "Fleeting Life",
+  "seconds": 187,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "7h68pHE9oRQ",
+  "orig": "[Video Soundtrack] Zidane's Theme [FINAL FANTASY IX]",
+  "title": "Zidane's Theme",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "cxC8kFIkL-c",
+  "orig": "[Video Soundtrack] The Black Waltz [FINAL FANTASY IX]",
+  "title": "The Black Waltz",
+  "seconds": 104,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "39gCzsSYQUw",
+  "orig": "[Video Soundtrack] Cid's Theme [FINAL FANTASY IX]",
+  "title": "Cid's Theme",
+  "seconds": 243,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CIJ7VFy1_34",
+  "orig": "[Video Soundtrack] Out of the Frying Pan [FINAL FANTASY IX]",
+  "title": "Out of the Frying Pan",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "knJn5JOdUGU",
+  "orig": "[Video Soundtrack] Lindblum [FINAL FANTASY IX]",
+  "title": "Lindblum",
+  "seconds": 135,
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "castle"
+  ]
+ },
+ {
+  "id": "Q2n1EQApfVc",
+  "orig": "[Video Soundtrack] A Song From Her Memory [FINAL FANTASY IX]",
+  "title": "A Song From Her Memory",
+  "seconds": 115,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0B-qFx0CiWw",
+  "orig": "[Video Soundtrack] Festival of the Hunt [FINAL FANTASY IX]",
+  "title": "Festival of the Hunt",
+  "seconds": 230,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "OZznCNWFLuc",
+  "orig": "[Video Soundtrack] Qu's Marsh [FINAL FANTASY IX]",
+  "title": "Qu's Marsh",
+  "seconds": 199,
+  "kind": "field",
+  "tags": [
+   "swamp"
+  ]
+ },
+ {
+  "id": "aEZmd2141cI",
+  "orig": "[Video Soundtrack] Quina's Theme [FINAL FANTASY IX]",
+  "title": "Quina's Theme",
+  "seconds": 235,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8vSY0BpDR40",
+  "orig": "[Video Soundtrack] Aloha de Chocobo [FINAL FANTASY IX]",
+  "title": "Aloha de Chocobo",
+  "seconds": 178,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "glm7DS4V-x8",
+  "orig": "[Video Soundtrack] Ukulele de Chocobo [FINAL FANTASY IX]",
+  "title": "Ukulele de Chocobo",
+  "seconds": 145,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "m4HEsGvE1gk",
+  "orig": "[Video Soundtrack] Freya's Theme [FINAL FANTASY IX]",
+  "title": "Freya's Theme",
+  "seconds": 187,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gq8QRvDV154",
+  "orig": "[Video Soundtrack] South Gate [FINAL FANTASY IX]",
+  "title": "South Gate",
+  "seconds": 179,
+  "kind": "town",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "FyQOW5RuYnE",
+  "orig": "[Video Soundtrack] Faerie Battle [FINAL FANTASY IX]",
+  "title": "Faerie Battle",
+  "seconds": 151,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ZLiCd300sgE",
+  "orig": "[Video Soundtrack] Kingdom of Burmecia [FINAL FANTASY IX]",
+  "title": "Kingdom of Burmecia",
+  "seconds": 238,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "city",
+   "water"
+  ]
+ },
+ {
+  "id": "btffDWK97Og",
+  "orig": "[Video Soundtrack] Unforgettable Silhouette [FINAL FANTASY IX]",
+  "title": "Unforgettable Silhouette",
+  "seconds": 207,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ejqjfqelUGA",
+  "orig": "[Video Soundtrack] Kuja's Theme [FINAL FANTASY IX]",
+  "title": "Kuja's Theme",
+  "seconds": 149,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RfrPbb6XpuE",
+  "orig": "[Video Soundtrack] The Wavering Blade [FINAL FANTASY IX]",
+  "title": "The Wavering Blade",
+  "seconds": 200,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4Cq-h677Zt4",
+  "orig": "[Video Soundtrack] Dark City Treno [FINAL FANTASY IX]",
+  "title": "Dark City Treno",
+  "seconds": 175,
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "id": "RSsr-Uz8LNM",
+  "orig": "[Video Soundtrack] Tantalus's Theme [FINAL FANTASY IX]",
+  "title": "Tantalus's Theme",
+  "seconds": 143,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "vJCTB36ML0E",
+  "orig": "[Video Soundtrack] Wicked Melody [FINAL FANTASY IX]",
+  "title": "Wicked Melody",
+  "seconds": 148,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "grv0UPAgZoI",
+  "orig": "[Video Soundtrack] Garnet's Theme [FINAL FANTASY IX]",
+  "title": "Garnet's Theme",
+  "seconds": 163,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "HVcRkY8m4vY",
+  "orig": "[Video Soundtrack] Gargan Roo [FINAL FANTASY IX]",
+  "title": "Gargan Roo",
+  "seconds": 110,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "fzV-cEw6Xko",
+  "orig": "[Video Soundtrack] Cleyra's Trunk [FINAL FANTASY IX]",
+  "title": "Cleyra's Trunk",
+  "seconds": 165,
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "forest"
+  ]
+ },
+ {
+  "id": "d9Mng2g6z9c",
+  "orig": "[Video Soundtrack] Cleyra Settlement [FINAL FANTASY IX]",
+  "title": "Cleyra Settlement",
+  "seconds": 145,
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ]
+ },
+ {
+  "id": "OgXQfW_oHeA",
+  "orig": "[Video Soundtrack] Eternal Harvest [FINAL FANTASY IX]",
+  "title": "Eternal Harvest",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gdHB6DUX9og",
+  "orig": "[Video Soundtrack] Mourning the Sky [FINAL FANTASY IX]",
+  "title": "Mourning the Sky",
+  "seconds": 158,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "e4RdFVSve7k",
+  "orig": "[Video Soundtrack] The Extraction [FINAL FANTASY IX]",
+  "title": "The Extraction",
+  "seconds": 80,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "R2Hot5SJUok",
+  "orig": "[Video Soundtrack] City Under Siege [FINAL FANTASY IX]",
+  "title": "City Under Siege",
+  "seconds": 146,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QOJUxX6tvjw",
+  "orig": "[Video Soundtrack] Roses of May [FINAL FANTASY IX]",
+  "title": "Roses of May",
+  "seconds": 157,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "I09n9AdhFfs",
+  "orig": "[Video Soundtrack] Fossil Roo [FINAL FANTASY IX]",
+  "title": "Fossil Roo",
+  "seconds": 153,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "nf3r97wj_TU",
+  "orig": "[Video Soundtrack] Conde Petie [FINAL FANTASY IX]",
+  "title": "Conde Petie",
+  "seconds": 225,
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "id": "arbdFt1x3A4",
+  "orig": "[Video Soundtrack] Black Mage Village [FINAL FANTASY IX]",
+  "title": "Black Mage Village",
+  "seconds": 205,
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "id": "I32BfXkq6TE",
+  "orig": "[Video Soundtrack] Unrequited Love [FINAL FANTASY IX]",
+  "title": "Unrequited Love",
+  "seconds": 229,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "g3_h1sWk3FU",
+  "orig": "[Video Soundtrack] Before the Altar [FINAL FANTASY IX]",
+  "title": "Before the Altar",
+  "seconds": 133,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yoeUHQTtX_E",
+  "orig": "[Video Soundtrack] Eiko's Theme [FINAL FANTASY IX]",
+  "title": "Eiko's Theme",
+  "seconds": 221,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2Beif8OaeIY",
+  "orig": "[Video Soundtrack] Madain Sari, Village of the Lost Summoners [FINAL FANTASY IX]",
+  "title": "Madain Sari, Village of the Lost Summoners",
+  "seconds": 232,
+  "kind": "town",
+  "tags": [
+   "ruins",
+   "seaside"
+  ]
+ },
+ {
+  "id": "2jXCzP71Eo4",
+  "orig": "[Video Soundtrack] Eidolon Wall [FINAL FANTASY IX]",
+  "title": "Eidolon Wall",
+  "seconds": 154,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "5iGDeFa97Zc",
+  "orig": "[Video Soundtrack] Iifa, the Ancient Tree of Life [FINAL FANTASY IX]",
+  "title": "Iifa, the Ancient Tree of Life",
+  "seconds": 152,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ {
+  "id": "DXARwq3sH0k",
+  "orig": "[Video Soundtrack] Amarant's Theme [FINAL FANTASY IX]",
+  "title": "Amarant's Theme",
+  "seconds": 152,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ve-_t6k0mMQ",
+  "orig": "[Video Soundtrack] Devil's Ambition [FINAL FANTASY IX]",
+  "title": "Devil's Ambition",
+  "seconds": 143,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yxpMjtHepOo",
+  "orig": "[Video Soundtrack] Outlaws [FINAL FANTASY IX]",
+  "title": "Outlaws",
+  "seconds": 134,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "55AHq2X90oc",
+  "orig": "[Video Soundtrack] Foolproof Love Letter Scheme [FINAL FANTASY IX]",
+  "title": "Foolproof Love Letter Scheme",
+  "seconds": 176,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "26KGry1eV2M",
+  "orig": "[Video Soundtrack] Tetra Master [FINAL FANTASY IX]",
+  "title": "Tetra Master",
+  "seconds": 222,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Hp9ymj7D-Do",
+  "orig": "[Video Soundtrack] Moogles' Theme [FINAL FANTASY IX]",
+  "title": "Moogles' Theme",
+  "seconds": 120,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tWH4MBW_grs",
+  "orig": "[Video Soundtrack] Something to Protect [FINAL FANTASY IX]",
+  "title": "Something to Protect",
+  "seconds": 145,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5_pCTIN5Bkc",
+  "orig": "[Video Soundtrack] Light of Destiny [FINAL FANTASY IX]",
+  "title": "Light of Destiny",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PivGdNgGU9Q",
+  "orig": "[Video Soundtrack] Master of Time [FINAL FANTASY IX]",
+  "title": "Master of Time",
+  "seconds": 167,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "TXqj7HKQR2E",
+  "orig": "[Video Soundtrack] Oeilvert [FINAL FANTASY IX]",
+  "title": "Oeilvert",
+  "seconds": 139,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "fq_bWhFjoXI",
+  "orig": "[Video Soundtrack] Chamber of a Thousand Faces [FINAL FANTASY IX]",
+  "title": "Chamber of a Thousand Faces",
+  "seconds": 175,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "pHf8l9SV3AI",
+  "orig": "[Video Soundtrack] Look Back, See the Frog ! [FINAL FANTASY IX]",
+  "title": "Look Back, See the Frog!",
+  "seconds": 126,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VnQ7G90fxiA",
+  "orig": "[Video Soundtrack] Esto Gaza [FINAL FANTASY IX]",
+  "title": "Esto Gaza",
+  "seconds": 232,
+  "kind": "town",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "KezSYuvBBwg",
+  "orig": "[Video Soundtrack] Mount Gulug [FINAL FANTASY IX]",
+  "title": "Mount Gulug",
+  "seconds": 129,
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "id": "S6TFHL56rbw",
+  "orig": "[Video Soundtrack] Broken Spell, Healed Hearts [FINAL FANTASY IX]",
+  "title": "Broken Spell, Healed Hearts",
+  "seconds": 128,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Dp9qemWod1k",
+  "orig": "[Video Soundtrack] Aboard the Hilda Garde [FINAL FANTASY IX]",
+  "title": "Aboard the Hilda Garde",
+  "seconds": 249,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "nmg6iavgcvA",
+  "orig": "[Video Soundtrack] Daguerreo, the Hermit's Library [FINAL FANTASY IX]",
+  "title": "Daguerreo, the Hermit's Library",
+  "seconds": 128,
+  "kind": "town",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "7pnW7SS3POM",
+  "orig": "[Video Soundtrack] Ipsen's Castle [FINAL FANTASY IX]",
+  "title": "Ipsen's Castle",
+  "seconds": 121,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "1-plX0kp3uY",
+  "orig": "[Video Soundtrack] The Four Mirrors [FINAL FANTASY IX]",
+  "title": "The Four Mirrors",
+  "seconds": 167,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Kr9IBPjFwVs",
+  "orig": "[Video Soundtrack] Guardians [FINAL FANTASY IX]",
+  "title": "Guardians",
+  "seconds": 124,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "h5wQCuGAi-o",
+  "orig": "[Video Soundtrack] Terra [FINAL FANTASY IX]",
+  "title": "Terra",
+  "seconds": 132,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "XdyTAX8swFI",
+  "orig": "[Video Soundtrack] Bran Bal, the Soulless Village [FINAL FANTASY IX]",
+  "title": "Bran Bal, the Soulless Village",
+  "seconds": 194,
+  "kind": "town",
+  "tags": [
+   "town",
+   "eerie"
+  ]
+ },
+ {
+  "id": "sVLVAw3NlVs",
+  "orig": "[Video Soundtrack] Pandemonium [FINAL FANTASY IX]",
+  "title": "Pandemonium",
+  "seconds": 185,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "eqw0yS7W06U",
+  "orig": "[Video Soundtrack] Not Alone [FINAL FANTASY IX]",
+  "title": "Not Alone (Video Soundtrack)",
+  "seconds": 159,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "eobb-Li2RsY",
+  "orig": "[Video Soundtrack] Unforgettable Sorrow [FINAL FANTASY IX]",
+  "title": "Unforgettable Sorrow (Video Soundtrack)",
+  "seconds": 213,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "s3uHt6kCyqE",
+  "orig": "[Video Soundtrack] Another Nightmare [FINAL FANTASY IX]",
+  "title": "Another Nightmare (Video Soundtrack)",
+  "seconds": 150,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "keVdnXRuzNE",
+  "orig": "[Video Soundtrack] Silver Dragon [FINAL FANTASY IX]",
+  "title": "Silver Dragon (Video Soundtrack)",
+  "seconds": 230,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "sJWfn71tkLM",
+  "orig": "[Video Soundtrack] Memoria [FINAL FANTASY IX]",
+  "title": "Memoria (Video Soundtrack)",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YERChDDR4bM",
+  "orig": "[Video Soundtrack] Crystal World [FINAL FANTASY IX]",
+  "title": "Crystal World (Video Soundtrack)",
+  "seconds": 228,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "d4AQ7kRcn_A",
+  "orig": "[Video Soundtrack] The Darkness of Eternity [FINAL FANTASY IX]",
+  "title": "The Darkness of Eternity (Video Soundtrack)",
+  "seconds": 286,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "3IXijnKO8Ow",
+  "orig": "[Video Soundtrack] The Final Battle [FINAL FANTASY IX]",
+  "title": "The Final Battle (Video Soundtrack)",
+  "seconds": 378,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "L0eCNYv1Fmc",
+  "orig": "[Video Soundtrack] Prelude [FINAL FANTASY IX]",
+  "title": "Prelude (Video Soundtrack)",
+  "seconds": 166,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "LSz-WtATsL8",
+  "orig": "[Video Soundtrack] Melodies of Life (The Layers of Harmony) [FINAL FANTASY IX]",
+  "title": "Melodies of Life (The Layers of Harmony) (Video Soundtrack)",
+  "seconds": 203,
+  "kind": "other",
+  "tags": []
+ }
+]

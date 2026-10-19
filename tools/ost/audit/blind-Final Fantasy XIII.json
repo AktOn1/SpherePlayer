@@ -1,0 +1,562 @@
+[
+ {
+  "id": "StVsSgMKBVI",
+  "kind": "other",
+  "tags": [],
+  "en": "Final Fantasy XIII Prelude"
+ },
+ {
+  "id": "JNkI08t4rqM",
+  "kind": "other",
+  "tags": [],
+  "en": "Final Fantasy XIII ~Promise~"
+ },
+ {
+  "id": "XRukhi1c1Wk",
+  "kind": "other",
+  "tags": [],
+  "en": "The 13th Day"
+ },
+ {
+  "id": "eO1699uZh3Y",
+  "kind": "other",
+  "tags": [],
+  "en": "Defiance of Fate"
+ },
+ {
+  "id": "TXEB8gdkpqM",
+  "kind": "boss",
+  "tags": [],
+  "en": "Blaze Edge"
+ },
+ {
+  "id": "msjwMjuaS_Q",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "Sealed Sector Hanged Edge"
+ },
+ {
+  "id": "HqWXuhcB5ww",
+  "kind": "other",
+  "tags": [],
+  "en": "The Purged"
+ },
+ {
+  "id": "tQknZ_C7Tbg",
+  "kind": "battle",
+  "tags": [],
+  "en": "Fight to Return"
+ },
+ {
+  "id": "Rwr8CBHYa3A",
+  "kind": "other",
+  "tags": [],
+  "en": "Fal'Cie of the Lowerworld"
+ },
+ {
+  "id": "P7OvyHcsZ6I",
+  "kind": "other",
+  "tags": [],
+  "en": "Is It Okay to Run Away"
+ },
+ {
+  "id": "zxunixS1MSA",
+  "kind": "other",
+  "tags": [],
+  "en": "Snow's Theme"
+ },
+ {
+  "id": "RVIhsdTl1XA",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Vestige"
+ },
+ {
+  "id": "3-Lp2WfNmac",
+  "kind": "boss",
+  "tags": [],
+  "en": "Ragnarok"
+ },
+ {
+  "id": "G3BvGOro1Xw",
+  "kind": "other",
+  "tags": [],
+  "en": "Sky of That Day"
+ },
+ {
+  "id": "ly7oOVJ_rhQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Eternal Vow"
+ },
+ {
+  "id": "PaP2LNWKn0w",
+  "kind": "other",
+  "tags": [],
+  "en": "Eternal Love (Short Version)"
+ },
+ {
+  "id": "Ah7FCB-o070",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave"
+  ],
+  "en": "Lake Bresha"
+ },
+ {
+  "id": "S1O72pAADXM",
+  "kind": "other",
+  "tags": [],
+  "en": "The Lowerworld L'Cie"
+ },
+ {
+  "id": "xtjX2Tz4HGY",
+  "kind": "boss",
+  "tags": [],
+  "en": "Eidolon"
+ },
+ {
+  "id": "WyTRg-DJ99M",
+  "kind": "battle",
+  "tags": [],
+  "en": "Flash"
+ },
+ {
+  "id": "FbV2HkaE9-E",
+  "kind": "other",
+  "tags": [],
+  "en": "Battle Results"
+ },
+ {
+  "id": "f_cuBiyvZEY",
+  "kind": "other",
+  "tags": [],
+  "en": "Fleeting Respite"
+ },
+ {
+  "id": "5fAsA1uAimc",
+  "kind": "other",
+  "tags": [],
+  "en": "Cavalry Theme"
+ },
+ {
+  "id": "-YYxyQ3jRaQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Escape"
+ },
+ {
+  "id": "gCChLrvMHKE",
+  "kind": "other",
+  "tags": [],
+  "en": "Shot Down"
+ },
+ {
+  "id": "rVZv9gARIic",
+  "kind": "other",
+  "tags": [],
+  "en": "Afro Blues"
+ },
+ {
+  "id": "JHc9VthwCbw",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins",
+   "eerie"
+  ],
+  "en": "Abandoned Zone Vile Peaks"
+ },
+ {
+  "id": "wH0hVkOr_3g",
+  "kind": "other",
+  "tags": [],
+  "en": "Lightning's Theme"
+ },
+ {
+  "id": "7dpr4uaNoKk",
+  "kind": "other",
+  "tags": [],
+  "en": "Sazh's Theme"
+ },
+ {
+  "id": "VZw9O0julsA",
+  "kind": "boss",
+  "tags": [],
+  "en": "Dreadnought Charge!"
+ },
+ {
+  "id": "HUb6wzFIzbM",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "jungle"
+  ],
+  "en": "Gapra Whitewood"
+ },
+ {
+  "id": "XNI5nfCa05Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Tension"
+ },
+ {
+  "id": "i7Nswg0Z7hE",
+  "kind": "other",
+  "tags": [],
+  "en": "Endless Run"
+ },
+ {
+  "id": "tbktye3f0oo",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "forest"
+  ],
+  "en": "Sunleth Waterscape"
+ },
+ {
+  "id": "Nt68CaccZ24",
+  "kind": "other",
+  "tags": [],
+  "en": "Lost Hope"
+ },
+ {
+  "id": "EK5t6itMKp4",
+  "kind": "other",
+  "tags": [],
+  "en": "L'Cie Hunt Operation"
+ },
+ {
+  "id": "9Lqb5li5SMQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Hopeless Struggle"
+ },
+ {
+  "id": "DuQqxQkTTag",
+  "kind": "boss",
+  "tags": [],
+  "en": "Aftermath of Vengeance"
+ },
+ {
+  "id": "VzvJbecaNPc",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ],
+  "en": "Gran Pulse L'Cie"
+ },
+ {
+  "id": "k9yCnVXkYlY",
+  "kind": "other",
+  "tags": [],
+  "en": "Serah's Theme"
+ },
+ {
+  "id": "2PzmXtAy6AY",
+  "kind": "other",
+  "tags": [],
+  "en": "Papa's Doing His Best!"
+ },
+ {
+  "id": "5GXP_JqBoRQ",
+  "kind": "other",
+  "tags": [],
+  "en": "PSICOM"
+ },
+ {
+  "id": "jMpBNGLL_f0",
+  "kind": "other",
+  "tags": [],
+  "en": "Hope's Theme"
+ },
+ {
+  "id": "RQ90mjsilD4",
+  "kind": "other",
+  "tags": [],
+  "en": "This Is Your Home"
+ },
+ {
+  "id": "9PsZqeWmn1o",
+  "kind": "other",
+  "tags": [],
+  "en": "Atonement"
+ },
+ {
+  "id": "PY6qbW0i_uk",
+  "kind": "other",
+  "tags": [],
+  "en": "Vanille's Theme"
+ },
+ {
+  "id": "pne5Gxvb3f8",
+  "kind": "other",
+  "tags": [],
+  "en": "Time Limit"
+ },
+ {
+  "id": "5hA1aNFnMxQ",
+  "kind": "town",
+  "tags": [
+   "city",
+   "sky"
+  ],
+  "en": "Pompa Sancta"
+ },
+ {
+  "id": "Cv8lm2ZcAZc",
+  "kind": "town",
+  "tags": [
+   "city",
+   "water"
+  ],
+  "en": "Nautilus Amusement Park"
+ },
+ {
+  "id": "jwRo6zv9LuE",
+  "kind": "other",
+  "tags": [],
+  "en": "Chocobo de Cocoon ~Let's Dream II~"
+ },
+ {
+  "id": "eV_vsbKRjMM",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "False Feast"
+ },
+ {
+  "id": "dPkzv7oRoU8",
+  "kind": "other",
+  "tags": [],
+  "en": "End of the Dream"
+ },
+ {
+  "id": "ii39VyANhhc",
+  "kind": "other",
+  "tags": [],
+  "en": "L'Cie Trial"
+ },
+ {
+  "id": "H9_oKczQLns",
+  "kind": "other",
+  "tags": [],
+  "en": "Enemy of the World"
+ },
+ {
+  "id": "bhU9r5MKiFI",
+  "kind": "other",
+  "tags": [],
+  "en": "Game Over"
+ },
+ {
+  "id": "RGrdWQZoXXg",
+  "kind": "boss",
+  "tags": [],
+  "en": "Sanctum Representative Dysley"
+ },
+ {
+  "id": "ewvxLBX0r7E",
+  "kind": "boss",
+  "tags": [],
+  "en": "Resisting Destiny"
+ },
+ {
+  "id": "xg7TPd4wwV0",
+  "kind": "other",
+  "tags": [],
+  "en": "The L'Cie's Thoughts"
+ },
+ {
+  "id": "QtX3fJyMEtM",
+  "kind": "other",
+  "tags": [],
+  "en": "Inherited Will"
+ },
+ {
+  "id": "iyblZM26fw4",
+  "kind": "boss",
+  "tags": [],
+  "en": "Desperate Fight"
+ },
+ {
+  "id": "7D2EKe0IAjg",
+  "kind": "other",
+  "tags": [],
+  "en": "Mystery"
+ },
+ {
+  "id": "8PijzIDM-n4",
+  "kind": "battle",
+  "tags": [],
+  "en": "Choose to Fight"
+ },
+ {
+  "id": "tZM4TW3bPqs",
+  "kind": "other",
+  "tags": [],
+  "en": "Fang's Theme"
+ },
+ {
+  "id": "njU_MZey7lk",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ],
+  "en": "The Land of Gran Pulse"
+ },
+ {
+  "id": "IZAO6ntwHrE",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Archylte Steppe"
+ },
+ {
+  "id": "Dj99s74smPI",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo de Pulse"
+ },
+ {
+  "id": "L8HK7hNJGRE",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ],
+  "en": "Yaschas Massif"
+ },
+ {
+  "id": "AwaKonW5mIM",
+  "kind": "other",
+  "tags": [],
+  "en": "Gentle Memories"
+ },
+ {
+  "id": "sq-4SvGAJsE",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "crystal"
+  ],
+  "en": "Lake Bresha"
+ },
+ {
+  "id": "poFNdmGNX1o",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ],
+  "en": "Taejin's Tower"
+ },
+ {
+  "id": "FFQRJHh3VNc",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "The Colorless World"
+ },
+ {
+  "id": "xfzUJydZyhE",
+  "kind": "other",
+  "tags": [],
+  "en": "Homecoming"
+ },
+ {
+  "id": "n703D-oHyPc",
+  "kind": "other",
+  "tags": [],
+  "en": "Countdown"
+ },
+ {
+  "id": "VOT9y7P5cL4",
+  "kind": "town",
+  "tags": [
+   "city",
+   "sky"
+  ],
+  "en": "Eden in Turmoil"
+ },
+ {
+  "id": "c74j57krmxE",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ],
+  "en": "Cradle of the End"
+ },
+ {
+  "id": "TgdxJ7wHqT0",
+  "kind": "boss",
+  "tags": [],
+  "en": "Advent"
+ },
+ {
+  "id": "36iRTpQlnwc",
+  "kind": "boss",
+  "tags": [],
+  "en": "Sinful Hope"
+ },
+ {
+  "id": "UuuglmZ4pVE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Fabula Nova Crystallis"
+ },
+ {
+  "id": "79zyp83bsHo",
+  "kind": "other",
+  "tags": [],
+  "en": "FINAL FANTASY XIII ~Miracle~"
+ },
+ {
+  "id": "Ki7Mi6aWG28",
+  "kind": "other",
+  "tags": [],
+  "en": "Mission"
+ },
+ {
+  "id": "Bw6ycaCpN7k",
+  "kind": "other",
+  "tags": [],
+  "en": "Requiem of Life"
+ },
+ {
+  "id": "S1f-jK5A8Eo",
+  "kind": "other",
+  "tags": [],
+  "en": "Resolve"
+ },
+ {
+  "id": "jQKzr6OP45c",
+  "kind": "other",
+  "tags": [],
+  "en": "My Hands (Long Version)"
+ },
+ {
+  "id": "qAnIeZ-6NFk",
+  "kind": "other",
+  "tags": [],
+  "en": "Ending Roll"
+ }
+]

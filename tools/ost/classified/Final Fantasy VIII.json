@@ -1,0 +1,629 @@
+[
+ {
+  "id": "-5qt0NK5b9A",
+  "orig": "[Video Soundtrack] Liberi Fatali [FINAL FANTASY VIII]",
+  "title": "Liberi Fatali",
+  "seconds": 189,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "p2RW8HWNY8M",
+  "orig": "[Video Soundtrack] Balamb GARDEN [FINAL FANTASY VIII]",
+  "title": "Balamb GARDEN",
+  "seconds": 209,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "0-x2llAIDAY",
+  "orig": "[Video Soundtrack] Blue Fields [FINAL FANTASY VIII]",
+  "title": "Blue Fields",
+  "seconds": 174,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "nZ4Ivp-nTEQ",
+  "orig": "[Video Soundtrack] Don't be Afraid [FINAL FANTASY VIII]",
+  "title": "Don't be Afraid",
+  "seconds": 173,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "VAixXiXdreY",
+  "orig": "[Video Soundtrack] The Winner [FINAL FANTASY VIII]",
+  "title": "The Winner",
+  "seconds": 68,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iUXj3Pgda3o",
+  "orig": "[Video Soundtrack] Find Your Way [FINAL FANTASY VIII]",
+  "title": "Find Your Way",
+  "seconds": 228,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "forest"
+  ]
+ },
+ {
+  "id": "KyPFEN8v65A",
+  "orig": "[Video Soundtrack] SeeD [FINAL FANTASY VIII]",
+  "title": "SeeD",
+  "seconds": 257,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YY9QzQdRMbA",
+  "orig": "[Video Soundtrack] The Landing [FINAL FANTASY VIII]",
+  "title": "The Landing",
+  "seconds": 277,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ayCF8s0DFhA",
+  "orig": "[Video Soundtrack] Starting Up [FINAL FANTASY VIII]",
+  "title": "Starting Up",
+  "seconds": 80,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ak-AfYL-rfI",
+  "orig": "[Video Soundtrack] Force Your Way [FINAL FANTASY VIII]",
+  "title": "Force Your Way",
+  "seconds": 234,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "LUV67UGl4Z8",
+  "orig": "[Video Soundtrack] The Loser [FINAL FANTASY VIII]",
+  "title": "The Loser",
+  "seconds": 87,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dqlV-lruCic",
+  "orig": "[Video Soundtrack] Never Look Back [FINAL FANTASY VIII]",
+  "title": "Never Look Back",
+  "seconds": 204,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8FOZZ4XV8hs",
+  "orig": "[Video Soundtrack] Dead End [FINAL FANTASY VIII]",
+  "title": "Dead End",
+  "seconds": 72,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aIg8Rwqt5KA",
+  "orig": "[Video Soundtrack] Breezy [FINAL FANTASY VIII]",
+  "title": "Breezy",
+  "seconds": 164,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "OirbhFAmcAQ",
+  "orig": "[Video Soundtrack] Shuffle or Boogie [FINAL FANTASY VIII]",
+  "title": "Shuffle or Boogie",
+  "seconds": 125,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Na0kklT7N4A",
+  "orig": "[Video Soundtrack] Waltz for the Moon [FINAL FANTASY VIII]",
+  "title": "Waltz for the Moon",
+  "seconds": 181,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mtSMPBMR0WI",
+  "orig": "[Video Soundtrack] Tell Me [FINAL FANTASY VIII]",
+  "title": "Tell Me",
+  "seconds": 205,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_Qo0Lda9iYI",
+  "orig": "[Video Soundtrack] Fear [FINAL FANTASY VIII]",
+  "title": "Fear",
+  "seconds": 145,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "KMm7kayDeTU",
+  "orig": "[Video Soundtrack] The Man with the Machine Gun [FINAL FANTASY VIII]",
+  "title": "The Man with the Machine Gun",
+  "seconds": 170,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "wE6ACd1ia0g",
+  "orig": "[Video Soundtrack] Julia [FINAL FANTASY VIII]",
+  "title": "Julia",
+  "seconds": 83,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "V8OkX0icCOo",
+  "orig": "[Video Soundtrack] Roses and Wine [FINAL FANTASY VIII]",
+  "title": "Roses and Wine",
+  "seconds": 139,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "QkXHKpUK49g",
+  "orig": "[Video Soundtrack] Junction [FINAL FANTASY VIII]",
+  "title": "Junction",
+  "seconds": 98,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MEqmpgtFOnU",
+  "orig": "[Video Soundtrack] Timber Owls [FINAL FANTASY VIII]",
+  "title": "Timber Owls",
+  "seconds": 172,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "uTYqXHL5knQ",
+  "orig": "[Video Soundtrack] My Mind [FINAL FANTASY VIII]",
+  "title": "My Mind",
+  "seconds": 193,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "opppjFsEHWU",
+  "orig": "[Video Soundtrack] The Mission [FINAL FANTASY VIII]",
+  "title": "The Mission",
+  "seconds": 216,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rsD8mrKnC0I",
+  "orig": "[Video Soundtrack] Martial Law [FINAL FANTASY VIII]",
+  "title": "Martial Law",
+  "seconds": 228,
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "id": "hTE6735qAu8",
+  "orig": "[Video Soundtrack] Cactus Jack (Galbadian Anthem) [FINAL FANTASY VIII]",
+  "title": "Cactus Jack (Galbadian Anthem)",
+  "seconds": 91,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xpavufUoCm8",
+  "orig": "[Video Soundtrack] Only a Plank Between One and Perdition [FINAL FANTASY VIII]",
+  "title": "Only a Plank Between One and Perdition",
+  "seconds": 145,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-L4cwL_RKNI",
+  "orig": "[Video Soundtrack] SUCCESSION OF WITCHES [FINAL FANTASY VIII]",
+  "title": "Succession of Witches",
+  "seconds": 199,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PBk0KBCud1M",
+  "orig": "[Video Soundtrack] Galbadia GARDEN [FINAL FANTASY VIII]",
+  "title": "Galbadia GARDEN",
+  "seconds": 218,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "OAt6vrlqmyg",
+  "orig": "[Video Soundtrack] Unrest [FINAL FANTASY VIII]",
+  "title": "Unrest",
+  "seconds": 157,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1I-pTXNzkrk",
+  "orig": "[Video Soundtrack] Under Her Control [FINAL FANTASY VIII]",
+  "title": "Under Her Control",
+  "seconds": 211,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "aKzPaLhBCjI",
+  "orig": "[Video Soundtrack] The Stage is Set [FINAL FANTASY VIII]",
+  "title": "The Stage is Set",
+  "seconds": 222,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_82OWXTF89A",
+  "orig": "[Video Soundtrack] A Sacrifice [FINAL FANTASY VIII]",
+  "title": "A Sacrifice",
+  "seconds": 208,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fQg94e973jY",
+  "orig": "[Video Soundtrack] FITHOS LUSEC WECOS VINOSEC [FINAL FANTASY VIII]",
+  "title": "FITHOS LUSEC WECOS VINOSEC",
+  "seconds": 273,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6bpB-Hv9hQs",
+  "orig": "[Video Soundtrack] Intruders [FINAL FANTASY VIII]",
+  "title": "Intruders",
+  "seconds": 153,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2UypEmBr9Gg",
+  "orig": "[Video Soundtrack] Premonition [FINAL FANTASY VIII]",
+  "title": "Premonition",
+  "seconds": 277,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "4-4NtZOGp8U",
+  "orig": "[Video Soundtrack] Wounded [FINAL FANTASY VIII]",
+  "title": "Wounded",
+  "seconds": 53,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Y_ujurU0wOg",
+  "orig": "[Video Soundtrack] Fragments of Memories [FINAL FANTASY VIII]",
+  "title": "Fragments of Memories",
+  "seconds": 194,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "x5TCoRnNmjg",
+  "orig": "[Video Soundtrack] Jailed [FINAL FANTASY VIII]",
+  "title": "Jailed",
+  "seconds": 231,
+  "kind": "dungeon",
+  "tags": [
+   "desert",
+   "industrial"
+  ]
+ },
+ {
+  "id": "2O3zaOd1y3g",
+  "orig": "[Video Soundtrack] Rivals [FINAL FANTASY VIII]",
+  "title": "Rivals",
+  "seconds": 210,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "7VYCpwxeFT8",
+  "orig": "[Video Soundtrack] Ami [FINAL FANTASY VIII]",
+  "title": "Ami",
+  "seconds": 278,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "O6cS3EjKwBE",
+  "orig": "[Video Soundtrack] The Spy [FINAL FANTASY VIII]",
+  "title": "The Spy",
+  "seconds": 227,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "yNBrgAIYd_U",
+  "orig": "[Video Soundtrack] Retaliation [FINAL FANTASY VIII]",
+  "title": "Retaliation",
+  "seconds": 46,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "AJaRwfECgbU",
+  "orig": "[Video Soundtrack] Movin' [FINAL FANTASY VIII]",
+  "title": "Movin'",
+  "seconds": 318,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GiuZVFiExm8",
+  "orig": "[Video Soundtrack] Blue Sky [FINAL FANTASY VIII]",
+  "title": "Blue Sky",
+  "seconds": 46,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PlC9gIt56Ng",
+  "orig": "[Video Soundtrack] Drifting [FINAL FANTASY VIII]",
+  "title": "Drifting",
+  "seconds": 177,
+  "kind": "field",
+  "tags": [
+   "water",
+   "seaside"
+  ]
+ },
+ {
+  "id": "lzo-_JiamqM",
+  "orig": "[Video Soundtrack] Heresy [FINAL FANTASY VIII]",
+  "title": "Heresy",
+  "seconds": 251,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "YP9in2EqREA",
+  "orig": "[Video Soundtrack] Fisherman's Horizon [FINAL FANTASY VIII]",
+  "title": "Fisherman's Horizon",
+  "seconds": 217,
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "industrial"
+  ]
+ },
+ {
+  "id": "TZgq1_bMADo",
+  "orig": "[Video Soundtrack] ODEKA ke Chocobo [FINAL FANTASY VIII]",
+  "title": "Odeka ke Chocobo",
+  "seconds": 78,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "48XNRdB1U84",
+  "orig": "[Video Soundtrack] Where I Belong [FINAL FANTASY VIII]",
+  "title": "Where I Belong",
+  "seconds": 220,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "n7UdnWvKNSg",
+  "orig": "[Video Soundtrack] The Oath [FINAL FANTASY VIII]",
+  "title": "The Oath",
+  "seconds": 205,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WCk1dcIa0JM",
+  "orig": "[Video Soundtrack] Slide Show Part1[ [FINAL FANTASY VIII]",
+  "title": "Slide Show Part 1",
+  "seconds": 85,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EwcF5IfPkuU",
+  "orig": "[Video Soundtrack] Slide Show Part2 [FINAL FANTASY VIII]",
+  "title": "Slide Show Part 2",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "bh9HxqY8_j8",
+  "orig": "[Video Soundtrack] Love Grows [FINAL FANTASY VIII]",
+  "title": "Love Grows",
+  "seconds": 269,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hrCPzmr5gLo",
+  "orig": "[Video Soundtrack] The Salt Flats [FINAL FANTASY VIII]",
+  "title": "The Salt Flats",
+  "seconds": 217,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "fIJsu1GuOq4",
+  "orig": "[Video Soundtrack] Trust Me [FINAL FANTASY VIII]",
+  "title": "Trust Me",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "AetxEr2TULw",
+  "orig": "[Video Soundtrack] Silence and Motion [FINAL FANTASY VIII]",
+  "title": "Silence and Motion",
+  "seconds": 349,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "Hsy7M4HNcy8",
+  "orig": "[Video Soundtrack] Dance with the Balamb fish [FINAL FANTASY VIII]",
+  "title": "Dance with the Balamb-fish",
+  "seconds": 220,
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ {
+  "id": "vy67gZnfPwU",
+  "orig": "[Video Soundtrack] Tears of the moon [FINAL FANTASY VIII]",
+  "title": "Tears of the Moon",
+  "seconds": 72,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Vds0lW3lFEw",
+  "orig": "[Video Soundtrack] Residents [FINAL FANTASY VIII]",
+  "title": "Residents",
+  "seconds": 187,
+  "kind": "town",
+  "tags": [
+   "town",
+   "snow"
+  ]
+ },
+ {
+  "id": "0roq4tX_l5I",
+  "orig": "[Video Soundtrack] Mods de Chocobofeaturing N's Telecaster [FINAL FANTASY VIII]",
+  "title": "Mods de Chocobo",
+  "seconds": 145,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "pmSKMKgyRhM",
+  "orig": "[Video Soundtrack] Ride On [FINAL FANTASY VIII]",
+  "title": "Ride On",
+  "seconds": 183,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "fpOTROdY-_U",
+  "orig": "[Video Soundtrack] Truth [FINAL FANTASY VIII]",
+  "title": "Truth",
+  "seconds": 221,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "irHiKfXGJeM",
+  "orig": "【Video Soundtrack】 Lunatic Pandora（FINAL FANTASY VIII）",
+  "title": "Lunatic Pandora",
+  "seconds": 209,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "id": "0oH5dksLgv8",
+  "orig": "[Video Soundtrack] Compression of Time [FINAL FANTASY VIII]",
+  "title": "Compression of Time",
+  "seconds": 274,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "nAepj6cKllE",
+  "orig": "[Video Soundtrack] The Castle [FINAL FANTASY VIII]",
+  "title": "The Castle",
+  "seconds": 319,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "oW61WM0DDUA",
+  "orig": "[Video Soundtrack] The Legendary Beast [FINAL FANTASY VIII]",
+  "title": "The Legendary Beast",
+  "seconds": 351,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "NYpkDvfY5n4",
+  "orig": "[Video Soundtrack] Maybe I'm a Lion [FINAL FANTASY VIII]",
+  "title": "Maybe I'm a Lion",
+  "seconds": 336,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "WFjHWw_w91Q",
+  "orig": "[Video Soundtrack] The Extreme [FINAL FANTASY VIII]",
+  "title": "The Extreme",
+  "seconds": 406,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "bWA635zt9nM",
+  "orig": "[Video Soundtrack] Overture [FINAL FANTASY VIII]",
+  "title": "Overture",
+  "seconds": 219,
+  "kind": "other",
+  "tags": []
+ }
+]

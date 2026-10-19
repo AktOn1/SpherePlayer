@@ -1,0 +1,314 @@
+[
+ {
+  "id": "BdsbRJ06qYk",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "Jdw55Qw3cDU",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ],
+  "en": "Crystal Cave"
+ },
+ {
+  "id": "UoWc_cpkkWo",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 1 ~ Fanfare"
+ },
+ {
+  "id": "XbVlqVmM0P8",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "cave"
+  ],
+  "en": "Crystal Room"
+ },
+ {
+  "id": "GGVoJFBP3d8",
+  "kind": "other",
+  "tags": [],
+  "en": "Opening Theme"
+ },
+ {
+  "id": "76QgEus1khE",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "My Home Town"
+ },
+ {
+  "id": "79iWS0reUGA",
+  "kind": "other",
+  "tags": [],
+  "en": "Eternal Wind"
+ },
+ {
+  "id": "jRLPcxQsEpM",
+  "kind": "boss",
+  "tags": [],
+  "en": "Jinn, the Fire"
+ },
+ {
+  "id": "-l-qiObX-LQ",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "The Dungeon"
+ },
+ {
+  "id": "e2uPp-g0RQg",
+  "kind": "other",
+  "tags": [],
+  "en": "Return of the Warrior"
+ },
+ {
+  "id": "cNW36LJcXdM",
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ],
+  "en": "The Way to the Top"
+ },
+ {
+  "id": "v1jMqxssNRk",
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle"
+  ],
+  "en": "Tozus"
+ },
+ {
+  "id": "iVoHHdJhovI",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ],
+  "en": "Shrine of Nept"
+ },
+ {
+  "id": "ubzzMNnjRYg",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "en": "Sailing Enterprise"
+ },
+ {
+  "id": "vMPGnuOmvCM",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ],
+  "en": "Living Forest"
+ },
+ {
+  "id": "gY_WDGiB4Js",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Time Remains"
+ },
+ {
+  "id": "hyszjIMTgxQ",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Chocobos!"
+ },
+ {
+  "id": "jblNgM6CB5E",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "sky"
+  ],
+  "en": "Big Chocobo!"
+ },
+ {
+  "id": "EOScbqbj46k",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Tower of Owen"
+ },
+ {
+  "id": "tjxRwYU-SOE",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ],
+  "en": "Vegies of Geasal"
+ },
+ {
+  "id": "I_xam9gxqFQ",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Castle of Hain"
+ },
+ {
+  "id": "oJgU63ONfPU",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 2"
+ },
+ {
+  "id": "aBq5wUknxpQ",
+  "kind": "other",
+  "tags": [],
+  "en": "The Requiem"
+ },
+ {
+  "id": "FxLidaondM0",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "Go above the Clouds!"
+ },
+ {
+  "id": "fQqGbzGNr_c",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "en": "The Boundless Ocean"
+ },
+ {
+  "id": "srjrAkL2teM",
+  "kind": "other",
+  "tags": [],
+  "en": "Elia, the Maiden of Water"
+ },
+ {
+  "id": "lplzH2BlCRs",
+  "kind": "town",
+  "tags": [
+   "town",
+   "water"
+  ],
+  "en": "Town of Water"
+ },
+ {
+  "id": "-2JYUSyr__8",
+  "kind": "other",
+  "tags": [],
+  "en": "Swift Twist"
+ },
+ {
+  "id": "uIjpAjfUdy0",
+  "kind": "other",
+  "tags": [],
+  "en": "Good ol' Fellows"
+ },
+ {
+  "id": "GbOeg6aGS9A",
+  "kind": "town",
+  "tags": [
+   "town",
+   "city"
+  ],
+  "en": "In the Covert Town"
+ },
+ {
+  "id": "fLV00j1pSag",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Salonia"
+ },
+ {
+  "id": "18cIBK-jsFI",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "cave"
+  ],
+  "en": "Deep under the Water"
+ },
+ {
+  "id": "Fgy6L0SLpLE",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "sky"
+  ],
+  "en": "Beneath the Horizon"
+ },
+ {
+  "id": "hGplNxh-kF4",
+  "kind": "other",
+  "tags": [],
+  "en": "Let Me Know the Truth"
+ },
+ {
+  "id": "aFjzAxkr_6s",
+  "kind": "other",
+  "tags": [],
+  "en": "Good Morning!"
+ },
+ {
+  "id": "t85xn0e8j7E",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "The Invincible"
+ },
+ {
+  "id": "3Yfq3GFCleo",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Forbidden Land"
+ },
+ {
+  "id": "zqYxwYhSRkQ",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "sky"
+  ],
+  "en": "The Crystal Tower"
+ },
+ {
+  "id": "PaxHDqM7WIU",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "en": "The Dark Crystals"
+ },
+ {
+  "id": "0mCNpo0EkNo",
+  "kind": "boss",
+  "tags": [],
+  "en": "This is the Last Battle"
+ }
+]

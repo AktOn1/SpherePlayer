@@ -1,0 +1,96 @@
+# Sphere Player
+
+<a href='https://ko-fi.com/akton1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+A Dalamud plugin that plays music from the original Final Fantasy I to XVI soundtracks while you play FFXIV, and switches it by what you are doing: town, field, dungeon, battle, boss. Turn the game's own music down and this takes over. The music comes from YouTube, shown in a small video window inside the game.
+
+Unofficial fan project. It is not made by or connected to Square Enix. FINAL FANTASY is a trademark of Square Enix. The name comes from the spheres of Spira that store and replay sound.
+
+## Status, honestly
+
+- **Tested on Linux** under Wine with XIVLauncher.Core. **Not tested on Windows yet**; it should work (Dalamud and the player are normal Windows programs), but I have not seen it run there.
+- **Song labels are guesses.** Every track was sorted into battle, boss, town, field, dungeon or other, with place tags, by an AI model reading the track *title*, not by listening. A second model checked the first and a third settled disagreements, yet expect some wrong ones: a calm piece in the battle list, a forest tune for a desert. You can ban or pin songs in the song list.
+- **Boss detection is a heuristic** (target and duty type). Some bosses will get normal battle music.
+- Needs an internet connection, and a YouTube video must be available to your region. A video taken down by its owner is skipped.
+
+## Install
+
+1. In the game: `/xlsettings` > **Experimental** > **Custom Plugin Repositories**.
+2. Add this URL, tick it, and save:
+   `https://raw.githubusercontent.com/AktOn1/SpherePlayer/main/pluginmaster.json`
+3. Open `/xlplugins`, search for **Sphere Player**, install.
+
+### First start downloads the player
+
+The plugin itself is tiny (0.5 MB). The player is a Chromium browser without a window (CefSharp, about 160 MB to download, 360 MB unpacked), too big to ship inside a plugin. On first start the music window shows a **Download now** button; nothing is downloaded until you click it. Then the plugin downloads it from this project's GitHub releases into its own settings folder (`pluginConfigs/SpherePlayer/host`), checks its SHA-256 against the value built into the plugin, and unpacks it. The window shows the progress. If the network drops it retries twice, then shows a **Try again** button. Nothing else is downloaded, and the download happens again only when a plugin update ships a newer player. To remove everything, uninstall the plugin and delete that folder.
+
+## The music window and YouTube
+
+YouTube lets sites embed its player on the condition that the video is **visible** while its audio plays. So:
+
+- The music window **is open every time the plugin loads**.
+- While the window is open the video is never hidden. It has a minimum size of 200x200 (the smallest window here is 356x200) and the size is configurable up to 480 wide.
+- **In a fight or boss fight** the window shrinks to that minimum. It does not hide.
+- **By default the music keeps playing when you collapse or close the window**, like a browser tab you hide. This is the author's choice and not what YouTube's embed rules ask for; if you want to follow them strictly, turn off **Keep playing when the window is collapsed or closed** in the settings. Then collapsing, closing, or the game hiding its windows (cutscenes, GPose, the UI-hide key) pauses the music, and it continues by itself when the video is visible again.
+- `/sphere` commands (`play`, `next`, `resume`, `playpause`, `songs` ...) always open and expand the window first.
+- The plugin does not remove ads or alter the YouTube page. Clicks on the video go to YouTube's own player, so its buttons work.
+
+## Using it
+
+Chat command `/sphere` (alias `/sphereplayer`), also usable in macros. Without an argument it opens the music window.
+
+| Command | Does |
+|---|---|
+| `settings` | Opens the settings window (mode, fade, resume, video size, opacity) |
+| `songs` | Opens the song list (pin, ban, play, see tags) |
+| `next` / `prev` / `playpause` / `stop` / `pause` / `resume` | Playback (`prev` plays the song before, up to 50 back) |
+| `on` / `off` | Music on or off |
+| `vol 40`, `vol +10`, `vol -10`, `mute` | Volume |
+| `gamemusic`, `gamemusic on`, `gamemusic off` | Mute the game's own music while Sphere Player plays (also a checkbox in the window) |
+| `mode omakase`, `mode random`, `mode` (toggle) | Omakase (default) or random |
+| `fade 3` | Fade seconds between area and battle music |
+| `ban`, `pin`, `unpin`, `now` | Act on the song that is playing |
+| `help` | Lists all of this in chat |
+
+Omakase mode: every area song has place tags (forest, desert, seaside, city ...), and every territory has tags too (`library/area.json`, `plugin/SpherePlayer/territories.json`). The song that fits the territory best is picked. It works per territory, not per sub-area (Costa del Sol is part of Lower La Noscea). A track named after an FFXIV place (the Kugane theme) is tied to it (`home`, from `assign-homes.py`): it is played only there, and always counts as a perfect fit there. If fewer than 6 songs fit, the pool widens to all area songs so one song does not repeat. Random mode picks any song of the right kind. Music also plays on the main menu and character select, and a song for the place takes over once you enter the game. Stop ends the song and stays quiet until Next or Resume; Pause keeps the place in the song.
+
+Timing: a new zone starts its music at once, calm music after a fight waits 4 s, battle music 0.3 s. Battle music fades in over the area music, and after the fight the area song continues where it stopped (switch off in settings).
+
+## Privacy and what it touches
+
+- The plugin **only reads game state** that Dalamud offers (zone, combat flag, target type, duty type) to choose the kind of music. It **sends nothing to the game servers** and does not change game data, packets or memory.
+- The player talks to **YouTube** (to play the video) and to **GitHub** (first-start download). No account, no analytics, no data of mine.
+- A control port listens on `127.0.0.1` only, so a helper on your own machine (the Linux media-key bridge below) can send `next`, `prev`, `playpause`, `play`, `pause`, `stop`. Programs on your machine can use it too. The port number is in `pluginConfigs/SpherePlayer/control.port`.
+- YouTube is embedded through its official IFrame player under its terms: video visible, no ad blocking, no downloading.
+
+## Media keys, clickable video
+
+- **Hardware keys (next / previous / play-pause / stop):** the plugin polls them itself (Windows, or Wine when the key reaches the game; setting "Hardware media keys"). On Linux the desktop usually swallows these keys, so `tools/mpris-bridge/` adds a small service: the bridge connects to the control port and registers an MPRIS player "Sphere Player" on the D-Bus session bus. Then the keys, `playerctl` and desktop media widgets control the plugin. Install once with `tools/mpris-bridge/install.sh` (systemd user service, idle until the game plugin is up). Remove with `systemctl --user disable --now sphere-player-mpris`. The control port accepts one command per line and sends the status as JSON lines.
+- **Video clicks:** mouse moves, clicks and the wheel over the video are passed to the player page, so click-to-pause, the seek bar and YouTube's own buttons work. Links open in the system browser only for YouTube addresses. Setting "Video is clickable". YouTube's own volume button is not tied to the plugin volume; the plugin volume wins on the next song.
+
+## Song library (full original soundtracks)
+
+The library is the original soundtrack of Final Fantasy I to XVI, 2144 tracks, all checked for embedding. Sources are official SQUARE ENIX MUSIC "Video Soundtrack" playlists (I to X, XV, XVI) and YouTube Music auto-generated ("Topic") album playlists where Square Enix has no list (XI to XIV; the XIV list is the 1.0 to 7.0 release playlist). Each track is placed by an AI model from its title into battle, boss, town, field, dungeon or other (with place tags and an English title). A blind second opinion (`audit-ost.py`, 24% disagreed) was settled by an arbiter (`arbitrate-ost.py`): 204 labels were corrected. Expect a few wrong labels left; all are judged from titles, not by listening. "Other" (cutscene, fanfare, character scenes) is never played automatically, only from the song window. The old hand-picked list is in `library/legacy/`.
+
+Rebuild: `tools/fetch-ost.py` (track lists + embed check, playlists are listed at the top), `tools/classify-ost.py` (needs the `claude` CLI), `tools/build-ost-library.py` (writes `library/songs.json` + `area.json`). Add a game or album by adding its playlist id to `SOURCES` and running the three steps. The song window has a game filter, a search box and pages of 40.
+
+After classify: `audit-ost.py`, `arbitrate-ost.py`, `assign-homes.py`, `retag-sparse.py` (volcano, swamp, jungle, snow, crystal), then `build-ost-library.py`. Check the zone pools with `simulate-pools.py` (mirrors the plugin scoring) and `rate-pools.py` (LLM rating per zone, 1 to 5). Some steps call the model and take minutes.
+
+Regenerate other data: `tools/build-territories.py` (territories), `tools/resolve-area.py` (resolves `tools/area-tracklist.json` to YouTube ids, metadata only).
+
+## Building and releasing
+
+Needs the .NET 10 SDK and a Dalamud build (default `~/.xlcore/dalamud/Hooks/dev`, or set `DALAMUD_HOME`).
+
+- `./build.sh` builds the plugin and the player host.
+- `tests/run.sh` runs the logic tests (installer download, checksum, retries, video rules). `tests/run.sh installer` runs just the installer tests, which also work under Wine.
+- Player host: `tools/pack-host.sh OWNER/REPO` zips the host, writes its SHA-256 into `host-manifest.json` (embedded in the plugin), and prints the release to create (`host-<version>` with the zip as asset). Do this only when the player changes.
+- Plugin: `tools/release.sh OWNER/REPO 1.0.1 "what changed"` builds `dist/latest.zip` and rewrites `pluginmaster.json`. Upload the zip to the GitHub release `v1.0.1` (pushing the tag does this through `.github/workflows/release.yml`) and commit `pluginmaster.json`.
+
+## Third-party software
+
+The downloaded player contains [CefSharp](https://github.com/cefsharp/CefSharp) (BSD-3-Clause) and the Chromium Embedded Framework / Chromium (BSD-style, with further components under their own licences). Their licence texts are in the `licenses` folder of the downloaded player. The design of an out-of-process Chromium window for Dalamud is inspired by [Browsingway](https://github.com/Styr1x/Browsingway).
+
+## Support
+
+Free and MIT licensed. If it is useful to you and you want to say thanks, you can [buy me a coffee on Ko-fi](https://ko-fi.com/akton1). Totally optional.

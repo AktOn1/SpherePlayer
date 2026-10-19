@@ -1,0 +1,189 @@
+[
+ {
+  "id": "7_ztaHxLIQI",
+  "orig": "[Video Soundtrack] Prelude [FINAL FANTASY II]",
+  "title": "Prelude",
+  "seconds": 47,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "C2iNe7FVJJY",
+  "orig": "[Video Soundtrack] Battle Theme 1 [FINAL FANTASY II]",
+  "title": "Battle Theme 1",
+  "seconds": 90,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "r1F8gj5y-Kg",
+  "orig": "[Video Soundtrack] Revival [FINAL FANTASY II]",
+  "title": "Revival",
+  "seconds": 25,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fPaqiLZ7mlg",
+  "orig": "[Video Soundtrack] The Rebel Army [FINAL FANTASY II]",
+  "title": "The Rebel Army",
+  "seconds": 76,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "agXKicphGiM",
+  "orig": "[Video Soundtrack] Town [FINAL FANTASY II]",
+  "title": "Town",
+  "seconds": 108,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "pGon-8yS9xI",
+  "orig": "[Video Soundtrack] Main Theme [FINAL FANTASY II]",
+  "title": "Main Theme",
+  "seconds": 87,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "GANINrVaM-g",
+  "orig": "[Video Soundtrack] Castle Pandemonium [FINAL FANTASY II]",
+  "title": "Castle Pandemonium",
+  "seconds": 66,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "WyQtMXllON4",
+  "orig": "[Video Soundtrack] The Imperial Army [FINAL FANTASY II]",
+  "title": "The Imperial Army",
+  "seconds": 91,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "vj5PWi2k2Xc",
+  "orig": "[Video Soundtrack] Chocobo Theme [FINAL FANTASY II]",
+  "title": "Chocobo Theme",
+  "seconds": 26,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "if7gXi2GCiw",
+  "orig": "[Video Soundtrack] Tower of the Magi [FINAL FANTASY II]",
+  "title": "Tower of the Magi",
+  "seconds": 87,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "BpOqO6hJmK8",
+  "orig": "[Video Soundtrack] Ancient Castle [FINAL FANTASY II]",
+  "title": "Ancient Castle",
+  "seconds": 52,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ {
+  "id": "wrHM5f02crc",
+  "orig": "[Video Soundtrack] Dungeon [FINAL FANTASY II]",
+  "title": "Dungeon",
+  "seconds": 107,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "_WTDBgzSQl0",
+  "orig": "[Video Soundtrack] The Emperor's Rebirth [FINAL FANTASY II]",
+  "title": "The Emperor's Rebirth",
+  "seconds": 28,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5lx9MaiScZQ",
+  "orig": "[Video Soundtrack] Battle Theme 2 [FINAL FANTASY II]",
+  "title": "Battle Theme 2",
+  "seconds": 132,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "1DPc-M8drjM",
+  "orig": "[Video Soundtrack] Victory [FINAL FANTASY II]",
+  "title": "Victory",
+  "seconds": 41,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Vvv2pvocGC0",
+  "orig": "[Video Soundtrack] Game Over [FINAL FANTASY II]",
+  "title": "Game Over",
+  "seconds": 51,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "NByyITBkMWY",
+  "orig": "[Video Soundtrack] Shop [FINAL FANTASY II]",
+  "title": "Shop",
+  "seconds": 41,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "pNjV0bwp2q8",
+  "orig": "[Video Soundtrack] Airship [FINAL FANTASY II]",
+  "title": "Airship",
+  "seconds": 58,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "9BjkwYAhb2Q",
+  "orig": "[Video Soundtrack] Battle Theme 3 [FINAL FANTASY II]",
+  "title": "Battle Theme 3",
+  "seconds": 119,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "d5bauBwLoGs",
+  "orig": "[Video Soundtrack] Dungeon [FINAL FANTASY II]",
+  "title": "Dungeon",
+  "seconds": 60,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Author": "AktOn1",
+    "Name": "Sphere Player",
+    "InternalName": "SpherePlayer",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Plays music from the original Final Fantasy I to XVI soundtracks (YouTube, shown in a small video window) and switches it by what you are doing in game: town, field, dungeon, battle, boss. Turn the game's own music down and let this take over. On first start it downloads a Chromium based player (about 160 MB).",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/AktOn1/SpherePlayer",
+    "Tags": [
+      "music",
+      "audio",
+      "youtube",
+      "soundtrack"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Town, battle and boss music from the Final Fantasies you choose.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadCount": 0,
+    "LastUpdate": 1792438719,
+    "DownloadLinkInstall": "https://github.com/AktOn1/SpherePlayer/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/AktOn1/SpherePlayer/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/AktOn1/SpherePlayer/releases/download/v1.0.0/latest.zip",
+    "Changelog": "First public release."
+  }
+]

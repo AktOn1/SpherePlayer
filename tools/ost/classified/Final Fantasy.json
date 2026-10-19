@@ -1,0 +1,175 @@
+[
+ {
+  "id": "cijssP1dnQg",
+  "orig": "[Video Soundtrack] Prelude [FINAL FANTASY I]",
+  "title": "Prelude",
+  "seconds": 54,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "q4jA-bNip50",
+  "orig": "[Video Soundtrack] Opening Theme [FINAL FANTASY I]",
+  "title": "Opening Theme",
+  "seconds": 87,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mxvMEem8UZY",
+  "orig": "[Video Soundtrack] Castle Cornelia [FINAL FANTASY I]",
+  "title": "Cornelia Castle",
+  "seconds": 48,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "sGjR9KGZmjQ",
+  "orig": "[Video Soundtrack] Main Theme [FINAL FANTASY I]",
+  "title": "Main Theme",
+  "seconds": 63,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "IV611JfkIW4",
+  "orig": "[Video Soundtrack] Chaos Shrine [FINAL FANTASY I]",
+  "title": "Chaos Shrine",
+  "seconds": 62,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "PDAqOCHuaok",
+  "orig": "[Video Soundtrack] Matoya's Cave [FINAL FANTASY I]",
+  "title": "Matoya's Cave",
+  "seconds": 74,
+  "kind": "town",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "kju3FLK98Ws",
+  "orig": "[Video Soundtrack] Town [FINAL FANTASY I]",
+  "title": "Town",
+  "seconds": 54,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "v6Zo0PaTrpw",
+  "orig": "[Video Soundtrack] Shop [FINAL FANTASY I]",
+  "title": "Shop",
+  "seconds": 62,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "d1dGarXAZFc",
+  "orig": "[Video Soundtrack] Sailing Ship [FINAL FANTASY I]",
+  "title": "Sailing Ship",
+  "seconds": 50,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "gsrQGvTCOr4",
+  "orig": "[Video Soundtrack] Sunken Shrine [FINAL FANTASY I]",
+  "title": "Sunken Shrine",
+  "seconds": 89,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ {
+  "id": "Ek3YVg8PoEM",
+  "orig": "[Video Soundtrack] Dungeon [FINAL FANTASY I]",
+  "title": "Dungeon",
+  "seconds": 57,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "lYcmyozDzAc",
+  "orig": "[Video Soundtrack] Menu Screen [FINAL FANTASY I]",
+  "title": "Menu Screen",
+  "seconds": 42,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GMkqONggTwc",
+  "orig": "[Video Soundtrack] Airship [FINAL FANTASY I]",
+  "title": "Airship",
+  "seconds": 51,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "JMjoexa8mh4",
+  "orig": "[Video Soundtrack] Mt. Gulg [FINAL FANTASY I]",
+  "title": "Mount Gulg",
+  "seconds": 74,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "mountain"
+  ]
+ },
+ {
+  "id": "LblXQFDEj28",
+  "orig": "[Video Soundtrack] Flying Fortress [FINAL FANTASY I]",
+  "title": "Flying Fortress",
+  "seconds": 75,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "industrial"
+  ]
+ },
+ {
+  "id": "Hrz5HryadIA",
+  "orig": "[Video Soundtrack] Battle [FINAL FANTASY I]",
+  "title": "Battle",
+  "seconds": 97,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "ZSdNARyfaZY",
+  "orig": "[Video Soundtrack] Victory [FINAL FANTASY I]",
+  "title": "Victory",
+  "seconds": 40,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2OH4vKhuzNw",
+  "orig": "[Video Soundtrack] Game Over [FINAL FANTASY I]",
+  "title": "Game Over",
+  "seconds": 54,
+  "kind": "other",
+  "tags": []
+ }
+]

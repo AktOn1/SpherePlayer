@@ -1,0 +1,13 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>1.0.0</Version>
+    <AssemblyName>SpherePlayer</AssemblyName>
+    <RootNamespace>SpherePlayer</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\library\songs.json" LogicalName="songs.json" />
+    <EmbeddedResource Include="..\..\library\area.json" LogicalName="area.json" Condition="Exists('..\..\library\area.json')" />
+    <EmbeddedResource Include="..\..\host-manifest.json" LogicalName="host-manifest.json" />
+    <EmbeddedResource Include="territories.json" LogicalName="territories.json" Condition="Exists('territories.json')" />
+  </ItemGroup>
+</Project>

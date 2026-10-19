@@ -1,0 +1,69 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Sphere Player player</title>
+<style>
+  html, body { margin: 0; background: #000; overflow: hidden; }
+  #yt { display: block; }
+  .debug { padding: 8px; font: 14px sans-serif; background: #15161c; color: #ddd; }
+  .debug input { width: 260px; background: #222; color: #ddd; border: 1px solid #555; padding: 4px; }
+  #info { margin-top: 6px; white-space: pre-wrap; }
+</style>
+<div class="debug" id="dbg" hidden><input id="url" placeholder="YouTube link or video id"> <button id="go">Play</button><div id="info"></div></div>
+<div id="yt"></div>
+<script>
+window.state = { ready: false, status: 'init', error: null, title: '', ends: 0, errors: 0, videoId: '', time: 0, dur: 0 };
+const params = new URLSearchParams(location.search);
+const W = +params.get('w') || 480, H = +params.get('h') || 270;
+if (params.has('debug')) document.getElementById('dbg').hidden = false;
+const idOf = s => { s = (s || '').trim(); const m = s.match(/(?:v=|youtu\.be\/|embed\/)([\w-]{11})/); return m ? m[1] : (/^[\w-]{11}$/.test(s) ? s : ''); };
+const show = () => { document.getElementById('info').textContent = `state: ${state.status}${state.error !== null ? '  ERROR ' + state.error : ''}\n${state.title}`; };
+
+window.vol = 100;   // master volume 0..100
+window.gain = 1;    // fade multiplier 0..1
+let pendingIn = 0, fadeTimer = 0;
+const apply = () => { if (window.yt && yt.setVolume) yt.setVolume(Math.round(vol * gain)); };
+window.setVol = v => { vol = v; apply(); };
+function fadeTo(g, ms, done) {
+  clearInterval(fadeTimer);
+  if (!(ms > 0)) { gain = g; apply(); if (done) done(); return; }
+  const g0 = gain, t0 = performance.now();
+  fadeTimer = setInterval(() => {
+    const k = Math.min(1, (performance.now() - t0) / ms);
+    gain = g0 + (g - g0) * k; apply();
+    if (k >= 1) { clearInterval(fadeTimer); if (done) done(); }
+  }, 40);
+}
+// load(id, startSeconds, fadeOutMs, fadeInMs): fades the current song out, then starts the new one at startSeconds and fades it in.
+function load(id, start, outMs, inMs) {
+  if (!id) return;
+  const go = () => {
+    state.error = null; state.videoId = id; state.title = ''; state.time = start || 0; state.dur = 0;
+    pendingIn = inMs || 0;
+    gain = pendingIn > 0 ? 0 : 1; apply();
+    if (window.yt && yt.loadVideoById) yt.loadVideoById({ videoId: id, startSeconds: start || 0 }); else window.firstId = id;
+  };
+  if (outMs > 0 && state.status === 'playing') fadeTo(0, outMs, go); else go();
+}
+document.getElementById('go').onclick = () => load(idOf(document.getElementById('url').value), 0, 0, 0);
+setInterval(() => {
+  if (!(window.yt && yt.getCurrentTime)) return;
+  try { state.time = Math.round(yt.getCurrentTime() * 10) / 10; state.dur = Math.round(yt.getDuration() * 10) / 10 || 0; } catch (e) { }
+}, 500);
+function onYouTubeIframeAPIReady() {
+  window.yt = new YT.Player('yt', {
+    width: W, height: H, videoId: window.firstId || idOf(params.get('v')),
+    playerVars: { autoplay: 1, controls: 1, fs: 0, iv_load_policy: 3, rel: 0, playsinline: 1, modestbranding: 1, disablekb: 1, origin: location.origin },
+    events: {
+      onReady: e => { apply(); state.ready = true; state.status = 'ready'; show(); if (e.target.getVideoData().video_id) e.target.playVideo(); },
+      onStateChange: e => {
+        state.status = ({ '-1': 'unstarted', 0: 'ended', 1: 'playing', 2: 'paused', 3: 'buffering', 5: 'cued' })[e.data];
+        if (e.data === 0) state.ends++;
+        if (e.data === 1) { if (pendingIn > 0) { const ms = pendingIn; pendingIn = 0; fadeTo(1, ms); } else { gain = 1; apply(); } }
+        state.title = e.target.getVideoData().title; show();
+      },
+      onError: e => { state.error = e.data; state.errors++; show(); }
+    }
+  });
+}
+</script>
+<script src="https://www.youtube.com/iframe_api"></script>

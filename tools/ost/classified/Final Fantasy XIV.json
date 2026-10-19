@@ -1,0 +1,7540 @@
+[
+ {
+  "id": "l6rKIu8u5UE",
+  "orig": "Everything Burns",
+  "title": "Everything Burns",
+  "seconds": 182,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "TnevVo2JP5k",
+  "orig": "Dawntrail",
+  "title": "Dawntrail",
+  "seconds": 334,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "UOPKW7mtlOc",
+  "orig": "黄金のプレリュード",
+  "title": "Prelude - Dawntrail",
+  "seconds": 70,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "S17ghgIzTFA",
+  "orig": "タコスでパーティー！",
+  "title": "Taco Party!",
+  "seconds": 175,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "UUYzsaJk0Qw",
+  "orig": "金煌なる民 〜トライヨラ：昼〜",
+  "title": "A Golden People - Tuliyollal: Day",
+  "seconds": 563,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "4qnCb0zioKM",
+  "orig": "笑顔を護るために",
+  "title": "To Protect Their Smiles",
+  "seconds": 263,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "acdpgBPPlI0",
+  "orig": "山峡の涼風 〜オルコ・パチャ：昼〜",
+  "title": "Cool Mountain Breeze - Urqopacha: Day",
+  "seconds": 167,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "27AGn_plX4Y",
+  "orig": "心躍る駆け引き",
+  "title": "An Exhilarating Gambit",
+  "seconds": 151,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FK67SdgAe-A",
+  "orig": "愉快な暮らし",
+  "title": "A Merry Life",
+  "seconds": 118,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "H5XK_b1fi8o",
+  "orig": "陽気な大騒動",
+  "title": "A Jolly Commotion",
+  "seconds": 159,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Z8Hsr0Vwb4g",
+  "orig": "山峡の夜風 〜オルコ・パチャ：夜〜",
+  "title": "Night Mountain Breeze - Urqopacha: Night",
+  "seconds": 335,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "HdeRYEk7fzs",
+  "orig": "極彩色の羽根 〜コザマル・カ：昼〜",
+  "title": "Vivid Feathers - Kozama'uka: Day",
+  "seconds": 166,
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "sx3TgfV1kyw",
+  "orig": "お茶目な戯れ",
+  "title": "Playful Antics",
+  "seconds": 214,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "H2vgBEqqkrI",
+  "orig": "プヌティーの川上り 〜濁流遡上 イフイカ・トゥム〜",
+  "title": "Upriver - Ihuykatumu",
+  "seconds": 282,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "jungle"
+  ]
+ },
+ {
+  "id": "JAKCQlM3q6U",
+  "orig": "路を遮るもの",
+  "title": "Those Who Block the Path",
+  "seconds": 243,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "YPSPkJ3wWd4",
+  "orig": "極彩色の宝飾品 〜コザマル・カ：夜〜",
+  "title": "Vivid Jewels - Kozama'uka: Night",
+  "seconds": 304,
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ]
+ },
+ {
+  "id": "f2YUCCY2QOs",
+  "orig": "積み重ねる日々",
+  "title": "Days Piled Upon Days",
+  "seconds": 171,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "D6_v7YSbdN4",
+  "orig": "雲衝く高峰 〜山嶺登頂 ウォーコー・ゾーモー〜",
+  "title": "Cloud-piercing Peak - Worqor Zormor",
+  "seconds": 269,
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "snow"
+  ]
+ },
+ {
+  "id": "sY8F0wTKKg8",
+  "orig": "刻まれた記憶",
+  "title": "Engraved Memories",
+  "seconds": 275,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yP1skR3eRKI",
+  "orig": "The Skyruin 〜ヴァリガルマンダ討滅戦〜",
+  "title": "The Skyruin - Valigarmanda",
+  "seconds": 453,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2i_WW3xfca8",
+  "orig": "Dawntrail (Instrumental)",
+  "title": "Dawntrail (Instrumental)",
+  "seconds": 334,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "a27Ic6_ULPw",
+  "orig": "空と森の境界 〜ヤクテル樹海：昼〜",
+  "title": "Between Sky and Forest - Yak T'el: Day",
+  "seconds": 164,
+  "kind": "field",
+  "tags": [
+   "forest",
+   "jungle"
+  ]
+ },
+ {
+  "id": "zaqg4nIzMf4",
+  "orig": "コーヒーブレイク",
+  "title": "Coffee Break",
+  "seconds": 346,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "LdY0YITJHY4",
+  "orig": "森と地底の境界 〜ヤクテル樹海：夜〜",
+  "title": "Between Forest and Underworld - Yak T'el: Night",
+  "seconds": 293,
+  "kind": "field",
+  "tags": [
+   "forest",
+   "cave"
+  ]
+ },
+ {
+  "id": "2hD4D2n8ZB4",
+  "orig": "樹海に沈む夢 〜遺産踏査 天深きセノーテ〜",
+  "title": "Dreams Sunk in the Forest - Skydeep Cenote",
+  "seconds": 273,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "forest",
+   "ruins"
+  ]
+ },
+ {
+  "id": "a2N6ifzmrqk",
+  "orig": "路を拓くもの",
+  "title": "Those Who Clear the Path",
+  "seconds": 284,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "gBKbDygUWso",
+  "orig": "金煌なる夜明け 〜トライヨラ：夜〜",
+  "title": "A Golden Dawn - Tuliyollal: Night",
+  "seconds": 406,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "MskKgznHGb4",
+  "orig": "硝煙に青炎 〜シャーローニ荒野：昼〜",
+  "title": "Gunsmoke and Blue Flame - Shaaloani: Day",
+  "seconds": 199,
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ {
+  "id": "oOqA6q7g1a8",
+  "orig": "荒野に生きる人々",
+  "title": "People of the Wilds",
+  "seconds": 179,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "HsCsLcDhwUE",
+  "orig": "硝煙に緑陰 〜シャーローニ荒野：夜〜",
+  "title": "Gunsmoke and Green Shade - Shaaloani: Night",
+  "seconds": 291,
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ]
+ },
+ {
+  "id": "-sLPOvfomqo",
+  "orig": "暗夜の礫",
+  "title": "Pebbles in the Dark",
+  "seconds": 257,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mFmpNVj_FPc",
+  "orig": "踏みにじられた心",
+  "title": "Trampled Hearts",
+  "seconds": 224,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "shD6O_JSHH0",
+  "orig": "火花と閃光 〜外征前哨 ヴァンガード〜",
+  "title": "Sparks and Flashes - Vanguard",
+  "seconds": 264,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "f1xHWNVIOvQ",
+  "orig": "迸る雷光 〜ヘリテージファウンド：昼〜",
+  "title": "Surging Lightning - Heritage Found: Day",
+  "seconds": 152,
+  "kind": "field",
+  "tags": [
+   "industrial",
+   "city"
+  ]
+ },
+ {
+  "id": "1p-ZExRQes4",
+  "orig": "プリマビスタ楽団",
+  "title": "The Prima Vista Orchestra",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WHSuaJy4OA8",
+  "orig": "タンタラスのテーマ 〜黄金〜",
+  "title": "Tantalus Theme - Dawntrail",
+  "seconds": 265,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BepDSfnfvVQ",
+  "orig": "暗き雷雲 〜ヘリテージファウンド：夜〜",
+  "title": "Dark Thunderclouds - Heritage Found: Night",
+  "seconds": 197,
+  "kind": "field",
+  "tags": [
+   "industrial",
+   "city"
+  ]
+ },
+ {
+  "id": "hNAG7MNVN0Y",
+  "orig": "星なき摩天楼 〜ソリューション・ナイン〜",
+  "title": "Starless Skyscrapers - Solution Nine",
+  "seconds": 306,
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "id": "oiisbyMWXQQ",
+  "orig": "あなたのぬくもり",
+  "title": "Your Warmth",
+  "seconds": 36,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EmY2vdrdc_g",
+  "orig": "Endwalker – Footfalls（Extended）",
+  "title": "Endwalker - Footfalls (Extended)",
+  "seconds": 449,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "vw0yBRThWyw",
+  "orig": "生命の解体 〜魂魄工廠 オリジェニクス〜",
+  "title": "Dissection of Life - Origenics",
+  "seconds": 266,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "id": "Nh69pw1PmyE",
+  "orig": "レゾンデートル 〜ゾラージャ討滅戦〜",
+  "title": "Raison d'Être - Zoraal Ja",
+  "seconds": 516,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "WP3zbQqYBuY",
+  "orig": "遠き日の思い出 〜リビング・メモリー：開園〜",
+  "title": "Memories of Distant Days - Living Memory: Open",
+  "seconds": 473,
+  "kind": "field",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "SX4w8v9Zpc0",
+  "orig": "とけた魔法と心",
+  "title": "Melted Magic and Hearts",
+  "seconds": 232,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "D7ailCh7168",
+  "orig": "明けの空を見上げて",
+  "title": "Looking Up at the Dawn Sky",
+  "seconds": 284,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "k2saxeEfCkc",
+  "orig": "限りある時間（とき）",
+  "title": "Limited Time",
+  "seconds": 187,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "IFUfTtsnWrc",
+  "orig": "この刃に懸けて",
+  "title": "On This Blade",
+  "seconds": 164,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FDw_3J5tCV8",
+  "orig": "守るべきもの",
+  "title": "That Which Must Be Protected",
+  "seconds": 144,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "TCPO9yAw49g",
+  "orig": "消えぬ悲しみ",
+  "title": "Undying Sorrow",
+  "seconds": 211,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9r_pVTwKEzE",
+  "orig": "終わりなき軌跡 〜記憶幻想 アレクサンドリア〜",
+  "title": "Endless Trails - Alexandria",
+  "seconds": 406,
+  "kind": "dungeon",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "id": "5lLPH-peQ04",
+  "orig": "ひとつの路 〜エターナルクイーン討滅戦〜",
+  "title": "One Path - The Eternal Queen",
+  "seconds": 464,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "YLJzjt0LdNE",
+  "orig": "ふたりの路 〜エターナルクイーン討滅戦〜",
+  "title": "Two Paths - The Eternal Queen",
+  "seconds": 364,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "rDKZ8m8_Xo8",
+  "orig": "それぞれの旅路へ",
+  "title": "To Each Their Journey",
+  "seconds": 306,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2ulx4YhvY-k",
+  "orig": "Smile",
+  "title": "Smile",
+  "seconds": 275,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0B04O-dtsBo",
+  "orig": "Open Sky - The Theme from Dawntrail",
+  "title": "Open Sky - The Theme from Dawntrail",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PYhBv5F3k1k",
+  "orig": "遠き日の残響 〜リビング・メモリー：閉園〜",
+  "title": "Echoes of Distant Days - Living Memory: Closed",
+  "seconds": 242,
+  "kind": "field",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "id": "NC0pNbUtt-I",
+  "orig": "バトル1 from FINAL FANTASY IX",
+  "title": "Battle 1 from FINAL FANTASY IX",
+  "seconds": 163,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "F05xrw5b288",
+  "orig": "フェアリーバトル",
+  "title": "Fairy Battle",
+  "seconds": 150,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "mMoInXoxWOc",
+  "orig": "赤き大地の恵み 〜荒野秘境 サボテンダーバレー〜",
+  "title": "Bounty of the Red Earth - Tender Valley",
+  "seconds": 348,
+  "kind": "dungeon",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "itYlyyhh8As",
+  "orig": "月なきみそらの道化師たち 〜黄金〜",
+  "title": "Jesters of the Moon - Dawntrail",
+  "seconds": 258,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VIAEqFRFfok",
+  "orig": "The Ring's Reprieve",
+  "title": "The Ring's Reprieve",
+  "seconds": 348,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9aZDfNsMiyE",
+  "orig": "It's Showtime! 〜至天の座アルカディア：ライトヘビー級〜",
+  "title": "It's Showtime! - AAC Light-heavyweight",
+  "seconds": 324,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "yATUTJPC3XY",
+  "orig": "Bee My Honey 〜至天の座アルカディア：ライトヘビー級〜",
+  "title": "Bee My Honey - AAC Light-heavyweight",
+  "seconds": 270,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ooKTFwRHMWM",
+  "orig": "Burning Souls 〜至天の座アルカディア：ライトヘビー級〜",
+  "title": "Burning Souls - AAC Light-heavyweight",
+  "seconds": 325,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "9Fzso0nXWdg",
+  "orig": "Give it All 〜至天の座アルカディア：ライトヘビー級〜",
+  "title": "Give it All - AAC Light-heavyweight",
+  "seconds": 336,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "82xjFFCRXvQ",
+  "orig": "A Risky Bet 〜至天の座アルカディア：ライトヘビー級〜",
+  "title": "A Risky Bet - AAC Light-heavyweight",
+  "seconds": 344,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "66mVngZ16No",
+  "orig": "始まりの幻域",
+  "title": "The Realm of Beginnings",
+  "seconds": 276,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8WE6jacmwWE",
+  "orig": "巡礼者の道 ～輝ける神域 アグライア～",
+  "title": "Pilgrim's Path - Aglaia",
+  "seconds": 403,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ {
+  "id": "yJYph0aVsss",
+  "orig": "威光 ～輝ける神域 アグライア～",
+  "title": "Majesty - Aglaia",
+  "seconds": 314,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "m87C0xmcqgw",
+  "orig": "命の天秤 ～輝ける神域 アグライア～",
+  "title": "Scales of Life - Aglaia",
+  "seconds": 270,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ePIIsNG8m7I",
+  "orig": "万世の言葉 (Journeys) ～禁書回収 グブラ幻想図書館～",
+  "title": "Words Everlasting (Journeys) - The Great Gubal Library",
+  "seconds": 190,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "kc9EGdoAhOM",
+  "orig": "地図を広げて ～近東秘宝 アルザダール海底遺跡群～",
+  "title": "Unfold the Map - Alzadaal's Legacy",
+  "seconds": 266,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins"
+  ]
+ },
+ {
+  "id": "MJmKYBp7gm8",
+  "orig": "ヒッポライダーズ",
+  "title": "Hippo Riders",
+  "seconds": 193,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DptqLOMJ6_U",
+  "orig": "トロイア国 ～暁月～",
+  "title": "Kingdom of Troia - Endwalker",
+  "seconds": 336,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "QAun_D8ASys",
+  "orig": "バトル２ (FINAL FANTASY IV) ～暁月～",
+  "title": "Battle 2 (FINAL FANTASY IV) - Endwalker",
+  "seconds": 278,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "OFx4YMMGDTw",
+  "orig": "一方その頃 ～蠢く野心～",
+  "title": "Meanwhile - Stirring Ambitions",
+  "seconds": 226,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Uon5udYRLo4",
+  "orig": "ゴルベーザ四天王とのバトル ～禁断の記憶～",
+  "title": "Battle with the Four Fiends - Forbidden Memories",
+  "seconds": 379,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Jxud8v9nq7E",
+  "orig": "灼熱の地へ (From Astral to Umbral) ～ザナラーンフィールド～",
+  "title": "To the Scorching Lands (From Astral to Umbral) - Thanalan Field",
+  "seconds": 435,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "exave9PbZIE",
+  "orig": "震える刃",
+  "title": "Trembling Blade",
+  "seconds": 272,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ot0ExVeejL8",
+  "orig": "終の戦",
+  "title": "The Final Battle",
+  "seconds": 267,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "uVkZY-fs_uE",
+  "orig": "英雄に続け",
+  "title": "Follow the Hero",
+  "seconds": 281,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6HMp3tkfDx4",
+  "orig": "ザナラーンの熱砂 ～異聞シラディハ水道～",
+  "title": "Thanalan's Hot Sands - Another Sil'dihn Subterrane",
+  "seconds": 251,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "desert"
+  ]
+ },
+ {
+  "id": "XzbZrw-sDKc",
+  "orig": "冒険者の休息 ～無人島開拓～",
+  "title": "Adventurer's Rest - Island Sanctuary",
+  "seconds": 253,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ {
+  "id": "AIZvKF_bbIU",
+  "orig": "豊かなる島 ～無人島開拓～",
+  "title": "Bountiful Isle - Island Sanctuary",
+  "seconds": 134,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ {
+  "id": "t4hPQGyeu3w",
+  "orig": "涼やかなる洞窟 ～無人島開拓～",
+  "title": "Cool Caverns - Island Sanctuary",
+  "seconds": 202,
+  "kind": "field",
+  "tags": [
+   "cave",
+   "seaside"
+  ]
+ },
+ {
+  "id": "PW30bxUI704",
+  "orig": "揺籃の輝星",
+  "title": "Shining Star of the Cradle",
+  "seconds": 371,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "lwIR8s8FoXQ",
+  "orig": "Silent Scream ～万魔殿パンデモニウム：煉獄編～",
+  "title": "Silent Scream - Pandæmonium: Abyssos",
+  "seconds": 271,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "h8tIHASlAgc",
+  "orig": "Scream ～万魔殿パンデモニウム：煉獄編～",
+  "title": "Scream - Pandæmonium: Abyssos",
+  "seconds": 260,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "0D2fTCnHAT4",
+  "orig": "Embers ～万魔殿パンデモニウム：煉獄編～",
+  "title": "Embers - Pandæmonium: Abyssos",
+  "seconds": 403,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "_DJawjle1HE",
+  "orig": "White Stone Black ～万魔殿パンデモニウム：煉獄編～",
+  "title": "White Stone Black - Pandæmonium: Abyssos",
+  "seconds": 383,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Bq4D6E-TYss",
+  "orig": "ウォーミングアップ ～クリスタルコンフリクト～",
+  "title": "Warming Up - Crystalline Conflict",
+  "seconds": 130,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xJhYgZimlhI",
+  "orig": "ハンターチャンス ～暁月～",
+  "title": "Hunter's Chance - Endwalker",
+  "seconds": 292,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "mGLsfNRnqew",
+  "orig": "走れ！ ～暁月～",
+  "title": "Run! - Endwalker",
+  "seconds": 169,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ggJszVt40eM",
+  "orig": "蒼天騎士団",
+  "title": "The Heavens' Ward",
+  "seconds": 195,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "MXFx3dvxXX0",
+  "orig": "英傑 ～ナイツ・オブ・ラウンド討滅戦～",
+  "title": "Heroes - The Minstrel's Ballad: Thordan's Reign",
+  "seconds": 230,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "c-8_LdwW9OI",
+  "orig": "邪竜の急襲 ～ニーズヘッグ征竜戦～",
+  "title": "Dread Wyrm's Assault - The Final Steps of Faith",
+  "seconds": 260,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "fu1fs-sMxRQ",
+  "orig": "闘争",
+  "title": "Strife",
+  "seconds": 203,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "n31t8RlcIAI",
+  "orig": "聖座 ～強硬突入 イシュガルド教皇庁～",
+  "title": "Holy See - The Vault",
+  "seconds": 170,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "FjOXeanXTcQ",
+  "orig": "Heavensward",
+  "title": "Heavensward",
+  "seconds": 259,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1V3eW5MKfAQ",
+  "orig": "Dragonsong",
+  "title": "Dragonsong",
+  "seconds": 342,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "bwY1ncMAdWY",
+  "orig": "始祖たる幻龍",
+  "title": "The Primal Dragon",
+  "seconds": 453,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hhaWWFkvTYo",
+  "orig": "逆襲の咆哮 (Orchestral Version)",
+  "title": "Revenge of the Horde (Orchestral Version)",
+  "seconds": 278,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "-VnhXgiH-xo",
+  "orig": "神々の寵愛 ～喜びの神域 エウプロシュネ～",
+  "title": "Favor of the Gods - Euphrosyne",
+  "seconds": 302,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "QZJQww8TMLc",
+  "orig": "躍動する大地 ～喜びの神域 エウプロシュネ～",
+  "title": "Vibrant Earth - Euphrosyne",
+  "seconds": 261,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "plains"
+  ]
+ },
+ {
+  "id": "h1QY2WXLkx0",
+  "orig": "月満ちる夜 ～喜びの神域 エウプロシュネ～",
+  "title": "When the Moon Is Full - Euphrosyne",
+  "seconds": 333,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "5MSwJ95dGJE",
+  "orig": "Dreamwalker",
+  "title": "Dreamwalker",
+  "seconds": 330,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "C5eA_9CeBP8",
+  "orig": "退路なき苦境",
+  "title": "No Way Out",
+  "seconds": 262,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "M7rpvessin0",
+  "orig": "青が灯る洞 ～雪山冥洞 ラピス・マナリス～",
+  "title": "Blue-lit Cavern - Lapis Manalis",
+  "seconds": 267,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ]
+ },
+ {
+  "id": "YB2JVeFIDag",
+  "orig": "Forged in Crimson ～紅蓮の求道者～",
+  "title": "Forged in Crimson",
+  "seconds": 379,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "OcP8uoYeGNY",
+  "orig": "禁断の地 エウレカ ～暁月～",
+  "title": "The Forbidden Land, Eureka - Endwalker",
+  "seconds": 237,
+  "kind": "field",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "SB1B_Tj9BAk",
+  "orig": "女神 (Pulse) ～女神ソフィア討滅戦～",
+  "title": "Fiend (Pulse) - Containment Bay P1T6",
+  "seconds": 139,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "vDIQBZUa0XQ",
+  "orig": "忘却の彼方 (Pulse) ～蛮神シヴァ討滅戦～",
+  "title": "Oblivion (Pulse) - The Akh Afah Amphitheatre",
+  "seconds": 143,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "5vwH8Zm1xFM",
+  "orig": "ロングフォール (Pulse) ～異界遺構 シルクス・ツイニング～",
+  "title": "The Long Fall (Pulse) - Syrcus Tower",
+  "seconds": 197,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ {
+  "id": "I__CIi5AH7A",
+  "orig": "冥き水底 (Pulse) ～テンペスト：深部～",
+  "title": "Deep Down (Pulse) - The Tempest",
+  "seconds": 216,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "gHzqXjh-zbk",
+  "orig": "デルタスケープ ～次元の狭間オメガ：デルタ編～",
+  "title": "Deltascape - Omega: Deltascape",
+  "seconds": 192,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "MCM_vKIeNeg",
+  "orig": "心を持たぬ者 ～次元の狭間オメガ：アルファ編～",
+  "title": "Heartless - Omega: Alphascape",
+  "seconds": 397,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "zSIqfqKdTio",
+  "orig": "空より現れし者 (Orchestral Version) ～次元の狭間オメガ：アルファ編～",
+  "title": "From the Heavens (Orchestral Version) - Omega: Alphascape",
+  "seconds": 277,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "LxO4TwLTtAQ",
+  "orig": "エスケープ ～次元の狭間オメガ：アルファ編～",
+  "title": "Escape - Omega: Alphascape",
+  "seconds": 289,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "m6uctU7rLkQ",
+  "orig": "天より降りし力 (Concert Version)",
+  "title": "Answers from Above (Concert Version)",
+  "seconds": 247,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "6QxZtyw6-74",
+  "orig": "プレリュード Demastered",
+  "title": "Prelude Demastered",
+  "seconds": 103,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "vqQ7SD-sRLE",
+  "orig": "新生の鼓動",
+  "title": "Heartbeat of Rebirth",
+  "seconds": 90,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "KccgV1pZrIs",
+  "orig": "天より降りしポンポン",
+  "title": "Pom from Above",
+  "seconds": 130,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "P9V4yJKO95w",
+  "orig": "勝利のファンファーレ Demastered",
+  "title": "Victory Fanfare Demastered",
+  "seconds": 55,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "z8FcPV5npD0",
+  "orig": "バトル２ from FINAL FANTASY III",
+  "title": "Battle 2 from FINAL FANTASY III",
+  "seconds": 114,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2aa2iHtr1EY",
+  "orig": "インペリウム",
+  "title": "Imperium",
+  "seconds": 389,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "6zhfaKTBvNw",
+  "orig": "One Amongst the Weary ～万魔殿パンデモニウム：天獄編～",
+  "title": "One Amongst the Weary - Pandæmonium: Anabaseios",
+  "seconds": 313,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "xTVxJVRFZ9Y",
+  "orig": "Fleeting Moment ～万魔殿パンデモニウム：天獄編～",
+  "title": "Fleeting Moment - Pandæmonium: Anabaseios",
+  "seconds": 446,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "-VLUPO2yLkA",
+  "orig": "Athena, the Tireless One ～万魔殿パンデモニウム：天獄編～",
+  "title": "Athena, the Tireless One - Pandæmonium: Anabaseios",
+  "seconds": 343,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ZMs4_9bSudI",
+  "orig": "Ultema The Perfect Body! ～暁月～",
+  "title": "Ultema The Perfect Body! - Endwalker",
+  "seconds": 277,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "pl0xFHZ0DgA",
+  "orig": "紅の夜更け (Journeys) ～クガネ：夜～",
+  "title": "Crimson Sunrise (Journeys) - Kugane: Night",
+  "seconds": 345,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "OEod5-XuJVg",
+  "orig": "辺境の乱戦",
+  "title": "Frontier Melee",
+  "seconds": 180,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "GI-m8Q2o_Rk",
+  "orig": "血の嵐",
+  "title": "Storm of Blood",
+  "seconds": 238,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "lEKBQR52Tgs",
+  "orig": "鬨の声",
+  "title": "Battle Cry",
+  "seconds": 196,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "iyfQP3gqqLw",
+  "orig": "紅のリッジライン ～異聞六根山～",
+  "title": "Crimson Ridgeline - Another Mount Rokkon",
+  "seconds": 321,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "lK2R0ODlnaE",
+  "orig": "星のため息 ～星霊間欠 ハーム島～",
+  "title": "Sigh of the Star - Hells' Lid",
+  "seconds": 399,
+  "kind": "dungeon",
+  "tags": [
+   "seaside"
+  ]
+ },
+ {
+  "id": "WHQtJYpHDW8",
+  "orig": "もう一つの月 ～暁月～",
+  "title": "Another Moon - Endwalker",
+  "seconds": 260,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dri0mYfoJJE",
+  "orig": "ヴォイドの救済者",
+  "title": "Savior of the Void",
+  "seconds": 443,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Eph8-LBrHmE",
+  "orig": "哀しみのテーマ ～暁月～",
+  "title": "Theme of Sorrow - Endwalker",
+  "seconds": 387,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "L41Llt4JbLc",
+  "orig": "バロン王国 ～暁月～",
+  "title": "Kingdom of Baron - Endwalker",
+  "seconds": 387,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5KtnKde7p9g",
+  "orig": "最後の闘い (FINAL FANTASY IV) ～暁月～",
+  "title": "The Final Battle (FINAL FANTASY IV) - Endwalker",
+  "seconds": 262,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "jEWz5_c2pUY",
+  "orig": "赤い翼 ～暁月～",
+  "title": "Red Wings - Endwalker",
+  "seconds": 161,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_OSo2Dz2l-g",
+  "orig": "Tonitrua ex Machina",
+  "title": "Tonitrua ex Machina",
+  "seconds": 64,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zTxCW_yCVwI",
+  "orig": "Idylls of the Empire",
+  "title": "Idylls of the Empire",
+  "seconds": 175,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "t3ZStuRmZ44",
+  "orig": "Forevermore - The Grand Duchy of Rosaria",
+  "title": "Forevermore - The Grand Duchy of Rosaria",
+  "seconds": 187,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "70YZvrFEeSc",
+  "orig": "The State of the Realm",
+  "title": "The State of the Realm",
+  "seconds": 156,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CFC9YJ6yRng",
+  "orig": "Before the Storm - Caer Norvent",
+  "title": "Before the Storm - Caer Norvent",
+  "seconds": 323,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "I1dlB-mU1UM",
+  "orig": "Away (Refrain)",
+  "title": "Away (Refrain)",
+  "seconds": 91,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MhWUn-JD42o",
+  "orig": "To Sail Forbidden Seas",
+  "title": "To Sail Forbidden Seas",
+  "seconds": 364,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fHFIcwf5gks",
+  "orig": "Find the Flame",
+  "title": "Find the Flame",
+  "seconds": 214,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hmaJ1LxyTVo",
+  "orig": "Who I Really Am",
+  "title": "Who I Really Am",
+  "seconds": 67,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EOwgOfnbUuA",
+  "orig": "Land of Eikons",
+  "title": "Land of Eikons",
+  "seconds": 148,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ve0Al1U_zPU",
+  "orig": "神子の微睡み ～アロアロ島～",
+  "title": "Slumber of the Divine Child - Aloalo Island",
+  "seconds": 328,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ {
+  "id": "iw92e-r9vgo",
+  "orig": "神子の狩猟祭 ～異聞アロアロ島～",
+  "title": "Hunting Festival of the Divine Child - Another Aloalo Island",
+  "seconds": 310,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "CEX5kW32Fek",
+  "orig": "異星人はかく語りき",
+  "title": "Thus Spake the Alien",
+  "seconds": 33,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "XGG6T5fzVnw",
+  "orig": "古き良き事件屋のテーマ",
+  "title": "Theme of the Good Old Troubleshooter",
+  "seconds": 146,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "XdW_v3USuqk",
+  "orig": "ときめき紳士エスコート",
+  "title": "Gentlemanly Escort",
+  "seconds": 53,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "B_-4IgDfFKk",
+  "orig": "願いは追い風となりて ～華めく神域 タレイア～",
+  "title": "Wishes on the Tailwind - Thaleia",
+  "seconds": 349,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ {
+  "id": "xjivoxA0e5o",
+  "orig": "熱情の奔流 ～華めく神域 タレイア～",
+  "title": "Torrent of Passion - Thaleia",
+  "seconds": 269,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "sJV1KhfAPSk",
+  "orig": "Myths of the Realm ～華めく神域 タレイア～",
+  "title": "Myths of the Realm - Thaleia",
+  "seconds": 317,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "-vJn7MXRBX4",
+  "orig": "Endwalker - Footfalls",
+  "title": "Endwalker - Footfalls",
+  "seconds": 353,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "P5_zzXmKG-4",
+  "orig": "想いが動かす力",
+  "title": "The Power That Moves Hearts",
+  "seconds": 335,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dEsSlg39CQ0",
+  "orig": "Close in the Distance",
+  "title": "Close in the Distance",
+  "seconds": 450,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rqbLbYGJb8I",
+  "orig": "Flow",
+  "title": "Flow",
+  "seconds": 329,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GFulM_9OSSg",
+  "orig": "ENDCALLER ～ゾディアーク討滅戦～",
+  "title": "ENDCALLER - The Dark Inside",
+  "seconds": 361,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "-R87yV59fW4",
+  "orig": "終焉の戦い",
+  "title": "The Final Battle",
+  "seconds": 428,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2N0G2wHcq8o",
+  "orig": "Your Answer ～ハイデリン討滅戦～",
+  "title": "Your Answer - The Mothercrystal",
+  "seconds": 375,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2izeleaXxJo",
+  "orig": "Endwalker",
+  "title": "Endwalker",
+  "seconds": 176,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tC_nYXvzJ-8",
+  "orig": "Flow Together",
+  "title": "Flow Together",
+  "seconds": 264,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "7K4UhkfHiG4",
+  "orig": "此処に獅子あり ～万魔殿パンデモニウム：辺獄編～",
+  "title": "Here Lies the Lion - Pandæmonium: Asphodelos",
+  "seconds": 278,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "osjOGbC0BfQ",
+  "orig": "知恵の水瓶 ～オールド・シャーレアン：昼～",
+  "title": "Font of Wisdom - Old Sharlayan: Day",
+  "seconds": 519,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "QyVh5GFQpuA",
+  "orig": "知恵の巻貝 ～オールド・シャーレアン：夜～",
+  "title": "Shell of Wisdom - Old Sharlayan: Night",
+  "seconds": 353,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "oWlxof6nGZI",
+  "orig": "デュナミスの欠片",
+  "title": "Fragments of Dynamis",
+  "seconds": 240,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "lSVu11piESg",
+  "orig": "Answers",
+  "title": "Answers",
+  "seconds": 429,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QGMJ0G58UNE",
+  "orig": "Answers - Piano",
+  "title": "Answers - Piano",
+  "seconds": 274,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "lnR4RjoDQeo",
+  "orig": "暁月のプレリュード",
+  "title": "Endwalker Prelude",
+  "seconds": 177,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tZlKV8sZPKE",
+  "orig": "語り継がれる言葉",
+  "title": "Words Passed Down",
+  "seconds": 276,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "bkSzaeZ5HLA",
+  "orig": "いつの日かきっと ～暁月～",
+  "title": "Someday, Surely - Endwalker",
+  "seconds": 218,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0YbaC6JWVLI",
+  "orig": "小さな命",
+  "title": "A Small Life",
+  "seconds": 230,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aq02oj93Yzw",
+  "orig": "エスケープ (Journeys) ～次元の狭間オメガ：アルファ編～",
+  "title": "Escape (Journeys) - Omega: Alphascape",
+  "seconds": 255,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "FiMcWOLS7vo",
+  "orig": "冥き水底 (Scions & Sinners) ～テンペスト：深部～",
+  "title": "Deep Down (Scions & Sinners) - The Tempest",
+  "seconds": 377,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "BrXo3K-2t00",
+  "orig": "先ゆく星々 ～最終幻想 レムナント～",
+  "title": "The Stars Ahead ~ The Dead Ends",
+  "seconds": 301,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "CWmv0JRP-Xc",
+  "orig": "ガレマルド急行 ～ 魔導神門 バブイルの塔～",
+  "title": "Garlemald Express ~ The Tower of Babil",
+  "seconds": 253,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "jVvPH3cLVT4",
+  "orig": "創造の奇跡 ～創造環境 ヒュペルボレア造物院～",
+  "title": "Miracle of Creation ~ Ktisis Hyperboreia",
+  "seconds": 317,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ {
+  "id": "sKgDNNGAG4w",
+  "orig": "小さな一歩 ～嘆きの海～",
+  "title": "Small Steps ~ Mare Lamentorum",
+  "seconds": 430,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "eerie"
+  ]
+ },
+ {
+  "id": "iZBLGM45TOY",
+  "orig": "Echoes in the Distance",
+  "title": "Echoes in the Distance",
+  "seconds": 230,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "J1X3u_k4Wik",
+  "orig": "ハピネスキャロット ～楽園都市 スマイルトン～",
+  "title": "Carrot of Happiness ~ Smileton",
+  "seconds": 313,
+  "kind": "dungeon",
+  "tags": [
+   "town",
+   "industrial"
+  ]
+ },
+ {
+  "id": "Pd_d2sLLGBc",
+  "orig": "迷宮 ～ラヴィリンソス：昼～",
+  "title": "Labyrinth ~ Labyrinthos: Day",
+  "seconds": 149,
+  "kind": "field",
+  "tags": [
+   "cave",
+   "forest"
+  ]
+ },
+ {
+  "id": "iTY4dCbl-ec",
+  "orig": "Close in the Distance - Instrumental",
+  "title": "Close in the Distance - Instrumental",
+  "seconds": 231,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FQIhnjBhKDw",
+  "orig": "迷夢 ～ラヴィリンソス：夜～",
+  "title": "Dream Labyrinth ~ Labyrinthos: Night",
+  "seconds": 234,
+  "kind": "field",
+  "tags": [
+   "cave",
+   "forest"
+  ]
+ },
+ {
+  "id": "juP1bNEiifI",
+  "orig": "古の空 ～エルピス：昼～",
+  "title": "Ancient Sky ~ Elpis: Day",
+  "seconds": 155,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "sky"
+  ]
+ },
+ {
+  "id": "j6UurE_5J0s",
+  "orig": "古の星空 ～エルピス：夜～",
+  "title": "Ancient Starry Sky ~ Elpis: Night",
+  "seconds": 221,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "sky"
+  ]
+ },
+ {
+  "id": "kdXL4CUWRII",
+  "orig": "抗戦",
+  "title": "Resistance",
+  "seconds": 146,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WDmfjZwlEcY",
+  "orig": "星と命を巡る物語",
+  "title": "A Tale of Stars and Life",
+  "seconds": 303,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qU3rYSqnt3g",
+  "orig": "バトル1 from FINAL FANTASY IV",
+  "title": "Battle 1 from FINAL FANTASY IV",
+  "seconds": 120,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "0sGyvaBFXbo",
+  "orig": "黒闇と黒鉄 ～ガレマルド：夜～",
+  "title": "Black Darkness and Black Iron ~ Garlemald: Night",
+  "seconds": 229,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "industrial"
+  ]
+ },
+ {
+  "id": "EtF_rqp5EDY",
+  "orig": "絶望の果て",
+  "title": "At the End of Despair",
+  "seconds": 359,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "luImcaIKDQs",
+  "orig": "ゾットの塔 ～暁月～",
+  "title": "Tower of Zot ~ Endwalker",
+  "seconds": 182,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "B2G3NMna__I",
+  "orig": "上り階段をくだれ ～星海観測 逆さの塔～",
+  "title": "Down the Up Staircase",
+  "seconds": 268,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "eerie"
+  ]
+ },
+ {
+  "id": "Qx8X2cziexo",
+  "orig": "帰らん、地平の彼方へ",
+  "title": "Return Beyond the Horizon",
+  "seconds": 244,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "86Dc26yBsgw",
+  "orig": "空が燃える日 ～終末樹海 ヴァナスパティ～",
+  "title": "The Day the Sky Burned ~ Vanaspati",
+  "seconds": 267,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "jungle"
+  ]
+ },
+ {
+  "id": "zBi7oAq4p4c",
+  "orig": "微笑む幽霊",
+  "title": "A Smiling Ghost",
+  "seconds": 191,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "oglFtGeL9-I",
+  "orig": "落日の都 ～ラザハン～",
+  "title": "City of the Setting Sun ~ Radz-at-Han",
+  "seconds": 322,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "2LHue8M12_Q",
+  "orig": "ラストスタンド",
+  "title": "Last Stand",
+  "seconds": 214,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "awQiWtwbYPA",
+  "orig": "白雪と黒鉄 ～ガレマルド：昼～",
+  "title": "White Snow and Black Iron ~ Garlemald: Day",
+  "seconds": 172,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "industrial"
+  ]
+ },
+ {
+  "id": "oIw66A7cTu8",
+  "orig": "縛めの鎖 ～万魔殿パンデモニウム：辺獄編～",
+  "title": "Chains of Binding ~ Pandæmonium: Asphodelos",
+  "seconds": 393,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "9sHd0lMTi-I",
+  "orig": "魔のすべて",
+  "title": "All of Demons",
+  "seconds": 323,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "4DkZrl7h8LM",
+  "orig": "街のテーマ ～暁月～",
+  "title": "Town Theme ~ Endwalker",
+  "seconds": 253,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "XQ5OxtezxJA",
+  "orig": "神々の訓え ～サベネア島：昼～",
+  "title": "Teachings of the Gods ~ Thavnair: Day",
+  "seconds": 147,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ {
+  "id": "QMoWeGM0FUE",
+  "orig": "護るべき営み",
+  "title": "A Life Worth Protecting",
+  "seconds": 111,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "O7RxTRBvnQI",
+  "orig": "イマジネーション (Duality) ～蒼天聖戦 魔科学研究所～",
+  "title": "Imagination (Duality) ~ The Aetherochemical Research Facility",
+  "seconds": 289,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "yImo0cSVqA8",
+  "orig": "人々の祈り ～サベネア島：夜～",
+  "title": "Prayers of the People ~ Thavnair: Night",
+  "seconds": 219,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "jungle"
+  ]
+ },
+ {
+  "id": "SkKCgCraMus",
+  "orig": "地より昇りし力",
+  "title": "Power Risen from the Earth",
+  "seconds": 124,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "VwbL29gmZP8",
+  "orig": "灰より生まれし者",
+  "title": "Born of Ash",
+  "seconds": 386,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "DW8FFEMrE7U",
+  "orig": "Endwalker (Chiptune Version)",
+  "title": "Endwalker (Chiptune Version)",
+  "seconds": 92,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0zQsOU1MYmE",
+  "orig": "星の海 ～星海潜航 アイティオン星晶鏡～",
+  "title": "Sea of Stars ~ The Aitiascope",
+  "seconds": 288,
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ]
+ },
+ {
+  "id": "f741Dr3W5Hk",
+  "orig": "恐怖の波動",
+  "title": "Wave of Terror",
+  "seconds": 90,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "AYnlrsis9-w",
+  "orig": "多彩なる都 ～ラザハン：昼～",
+  "title": "City of Many Colors ~ Radz-at-Han: Day",
+  "seconds": 291,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "HJck43ENcRs",
+  "orig": "旅を駆け抜けて",
+  "title": "Racing Through the Journey",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jNtkOVAQ1uQ",
+  "orig": "薫香の都 ～ラザハン：夜～",
+  "title": "City of Incense ~ Radz-at-Han: Night",
+  "seconds": 282,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "6IiG4vo9k9U",
+  "orig": "To the Edge",
+  "title": "To the Edge",
+  "seconds": 452,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "wfgfFKNlRKk",
+  "orig": "忘却の此方 ～希望の園エデン：共鳴編～",
+  "title": "Shadowbringers ~ Eden's Verse",
+  "seconds": 336,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "aBXP1VQsXGA",
+  "orig": "カイネ／Final Fantasy Main Theme Version",
+  "title": "Kainé / Final Fantasy Main Theme Version",
+  "seconds": 297,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "cpJwyd0AEvA",
+  "orig": "The Extreme ～漆黒～",
+  "title": "The Extreme ~ Shadowbringers",
+  "seconds": 401,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "gPSOaSwdEaE",
+  "orig": "Weight of the World／Prelude Version",
+  "title": "Weight of the World / Prelude Version",
+  "seconds": 159,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "a6EHphuIGlo",
+  "orig": "イニシエノウタ／贖罪 (From NieR:Automata)",
+  "title": "Song of the Ancients / Atonement (From NieR:Automata)",
+  "seconds": 322,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ {
+  "id": "RZhztWL9QzA",
+  "orig": "貪欲 (Scions & Sinners)",
+  "title": "Greed (Scions & Sinners)",
+  "seconds": 327,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "3k4HC9FSjYU",
+  "orig": "究極幻想 (Scions & Sinners)",
+  "title": "Ultimate Fantasy (Scions & Sinners)",
+  "seconds": 227,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Om1-wCDcT9U",
+  "orig": "ライズ (Journeys) ～機工城アレキサンダー：天動編～",
+  "title": "Rise (Journeys) ~ Alexander: The Eyes of the Creator",
+  "seconds": 229,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "I7a--TmXUFU",
+  "orig": "天より降りし力～全テヲ破壊スル黒キ巨人／Medley Version",
+  "title": "Power Descended from the Heavens ~ The Black Giant that Destroys All / Medley Version",
+  "seconds": 399,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "54JJp1YjRx0",
+  "orig": "メタル：ブルートジャスティスモード (Journeys)...",
+  "title": "Metal: Brute Justice Mode (Journeys)",
+  "seconds": 219,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "NlqTypXycT0",
+  "orig": "ローカス (Duality) ～機工城アレキサンダー：起動編～",
+  "title": "Locus (Duality) ~ Alexander: Gordias",
+  "seconds": 284,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "SmPQ5jE3eDE",
+  "orig": "漆黒の王狼、再び ～エメラルドウェポン破壊作戦～",
+  "title": "The Black Wolf Stalks Again ~ The Emerald Weapon",
+  "seconds": 703,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "D0eIO32QuH8",
+  "orig": "悠久の風 ～漆黒～",
+  "title": "Eternal Wind ~ Shadowbringers",
+  "seconds": 254,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zQ4xWbsi42s",
+  "orig": "消せない約束 ～希望の園エデン：再生編～",
+  "title": "A Promise Unbroken ~ Eden's Promise",
+  "seconds": 319,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "g0PsTVTHn-o",
+  "orig": "雷轟電撃 ～希望の園エデン：共鳴編～",
+  "title": "Thunderous Strike ~ Eden's Verse",
+  "seconds": 353,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2qao3EsYgDg",
+  "orig": "双極ノ悪夢 (From NieR:Automata)",
+  "title": "Bipolar Nightmare (From NieR:Automata)",
+  "seconds": 313,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "eOEHgaSwN8A",
+  "orig": "メビウス (Orchestral Version) ～機工城アレキサンダー：天動編～",
+  "title": "Moebius (Orchestral Version) ~ Alexander: The Eyes of the Creator",
+  "seconds": 250,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "oSq__aFIlZk",
+  "orig": "雪上の足跡 ～蛮神シヴァ前哨戦～",
+  "title": "Footprints in the Snow",
+  "seconds": 421,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "uef7K6qzcmM",
+  "orig": "オバアチャン／破壊 (From NieR:Automata)",
+  "title": "Grandma / Destruction (From NieR:Automata)",
+  "seconds": 269,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "9TkrORjWgzU",
+  "orig": "異形ノ末路 (From NieR:Automata)",
+  "title": "End of the Unknown (From NieR:Automata)",
+  "seconds": 300,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "yPiAU9MUk1k",
+  "orig": "エミール／絶望 (From NieR:Automata)",
+  "title": "Emil / Despair (From NieR:Automata)",
+  "seconds": 286,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "V1AACvkUDYo",
+  "orig": "還ラナイ声／ギター (From NieR:Automata)",
+  "title": "Voice of No Return / Guitar (From NieR:Automata)",
+  "seconds": 209,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "qOIlKosR0bA",
+  "orig": "孤児たちの戦い ～ダイヤウェポン捕獲作戦～",
+  "title": "Battle of the Orphans ~ The Diamond Weapon",
+  "seconds": 401,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "LmXmAs-0ha0",
+  "orig": "曖昧ナ希望／氷雨 (From NieR:Automata)",
+  "title": "Faltering Prayer / Freezing Rain (From NieR:Automata)",
+  "seconds": 218,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jCzYc9a_--U",
+  "orig": "愛を求める者たち",
+  "title": "Those Who Seek Love",
+  "seconds": 329,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "STF4_NQnH3U",
+  "orig": "The Legendary Beast ～漆黒～",
+  "title": "The Legendary Beast ~ Shadowbringers",
+  "seconds": 360,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "evvIy1tJ58E",
+  "orig": "怒れる悪魔 ～旗艦ダル・リアータ攻略戦～",
+  "title": "Angry Demon ~ The Dalriada",
+  "seconds": 320,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "t20RfxiZd0A",
+  "orig": "ボズヤの血風",
+  "title": "Bozja's Bloody Wind",
+  "seconds": 307,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "0izwOgErAnI",
+  "orig": "遺サレタ場所／斜光 (From NieR:Automata)",
+  "title": "The Abandoned Place / Slanting Light (From NieR:Automata)",
+  "seconds": 132,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "4aS8PPXRaCw",
+  "orig": "Weight of the World／Instrumental Version (From NieR:Automata)",
+  "title": "Weight of the World / Instrumental Version (From NieR:Automata)",
+  "seconds": 337,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Qpwnu6feoeU",
+  "orig": "Don’t be Afraid ～漆黒～",
+  "title": "Don't be Afraid ~ Shadowbringers",
+  "seconds": 164,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "hrEei5uMlsU",
+  "orig": "取リ憑イタ業病 (From NieR:Automata)",
+  "title": "Possessed by Disease (From NieR:Automata)",
+  "seconds": 311,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Sga4RAPvB3A",
+  "orig": "復活の女王 ～グンヒルド・ディルーブラム～",
+  "title": "The Queen Reborn ~ Delubrum Reginae",
+  "seconds": 461,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "o0mGitt_8Wg",
+  "orig": "崩壊ノ虚妄 (From NieR:Automata)",
+  "title": "Collapse of Delusion (From NieR:Automata)",
+  "seconds": 201,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "t0cBY9kIRPM",
+  "orig": "顕現シタ異物 (From NieR:Automata)",
+  "title": "Alien Manifestation (From NieR:Automata)",
+  "seconds": 278,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "qPWLn9AvFHw",
+  "orig": "戦士の攻勢 ～PvPフロントライン～",
+  "title": "Warrior's Offense ~ PvP Frontline",
+  "seconds": 263,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "lV1HW6o1yQU",
+  "orig": "終ワリノ音 (From NieR:Automata)",
+  "title": "Sound the Bell (From NieR:Automata)",
+  "seconds": 282,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ]
+ },
+ {
+  "id": "5XP2XDR7hr0",
+  "orig": "ひとりじゃない",
+  "title": "Not Alone",
+  "seconds": 149,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "7zej7VMbcMk",
+  "orig": "原始の堕天使 ～希望の園エデン：共鳴編～",
+  "title": "Primal Fallen Angel ~ Eden's Verse",
+  "seconds": 254,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "_ka6xCP8_MA",
+  "orig": "戦士の守勢 ～PvPフロントライン～",
+  "title": "Warrior's Defense ~ PvP Frontline",
+  "seconds": 259,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "6_D0l1SlMdI",
+  "orig": "ガンゴッシュ",
+  "title": "Gangos",
+  "seconds": 381,
+  "kind": "field",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "bI3LcQqK2Tc",
+  "orig": "白銀の凶鳥、飛翔せり (Orchestral Version)",
+  "title": "The Silver Bird of Ill Omen Takes Flight (Orchestral Version)",
+  "seconds": 209,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "rSRb0fHdiIA",
+  "orig": "還ラナイ声／通常 (From NieR:Automata)",
+  "title": "Voice of No Return / Normal (From NieR:Automata)",
+  "seconds": 211,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "0sNk_AZXYd8",
+  "orig": "意味／無 (From NieR:Automata)",
+  "title": "Meaning / Nothing (From NieR:Automata)",
+  "seconds": 78,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "luWZOiXJSuM",
+  "orig": "リェー・メグの門",
+  "title": "The Gate of Rhalgr",
+  "seconds": 256,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "JWyTKRMZqPw",
+  "orig": "すべての道が至る場所 ～漆黒決戦 ノルヴラント～",
+  "title": "Where All Roads Lead ~ Norvrandt",
+  "seconds": 276,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "_LoPky_fjdQ",
+  "orig": "蒼き日常 ～蒼天街復興～",
+  "title": "Everyday Ishgard ~ Restoration of the Firmament",
+  "seconds": 324,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "iuR1REQenI4",
+  "orig": "底に潜みし者 ～黒風海底 アニドラス・アナムネーシス～",
+  "title": "That Which Lurks Below ~ Anamnesis Anyder",
+  "seconds": 298,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "eerie"
+  ]
+ },
+ {
+  "id": "pJYQqB6VqHQ",
+  "orig": "偽リノ城塞 (From NieR:Automata)",
+  "title": "Fortress of Lies (From NieR:Automata)",
+  "seconds": 168,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "LQCUZeSLQeQ",
+  "orig": "澱ンダ祈リ／暁風 (From NieR:Automata)",
+  "title": "Stagnant Prayer / Dawn Wind (From NieR:Automata)",
+  "seconds": 138,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PJ4R1EByZyk",
+  "orig": "ボズヤの微風",
+  "title": "Breezes of Bozja",
+  "seconds": 294,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "uc5Tg3wsZ-A",
+  "orig": "炎の七部族 ～黄金平原 パガルザン～",
+  "title": "Seven Tribes of Flame - The Golden Plains of Pagal'zan",
+  "seconds": 280,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "YvPAZk8UsQ0",
+  "orig": "花の館 ～魔法宮殿 グラン・コスモス～",
+  "title": "Mansion of Flowers - The Grand Cosmos",
+  "seconds": 279,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "-A7WSA6aXBs",
+  "orig": "終ワリノ音：丁 (From NieR:Automata)",
+  "title": "Sound of the End: Version 4 (From NieR:Automata)",
+  "seconds": 170,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "CFr86vf_2UU",
+  "orig": "遊園施設 (From NieR:Automata)",
+  "title": "Amusement Park (From NieR:Automata)",
+  "seconds": 154,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "f1gk8wgGO1A",
+  "orig": "名も無き者たちの情熱 ～蒼天街復興～",
+  "title": "Passion of the Nameless - Ishgard Restoration",
+  "seconds": 323,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "f8ZEsEc1_XY",
+  "orig": "追悼 (From NieR:Automata)",
+  "title": "Mourning (From NieR:Automata)",
+  "seconds": 179,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "H0xTLczYxJA",
+  "orig": "スターライト de チョコボ",
+  "title": "Starlight de Chocobo",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8rJYRGGhGIg",
+  "orig": "分割された光 ～希望の園エデン：共鳴編～",
+  "title": "Divided Light - Eden's Verse",
+  "seconds": 119,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "QXlZc_UH4hE",
+  "orig": "Ami ～漆黒～",
+  "title": "Ami - Shadowbringers",
+  "seconds": 290,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zoI-3yQwm9Y",
+  "orig": "割レタ心 (From NieR:Automata)",
+  "title": "Broken Heart (From NieR:Automata)",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CrdVr1gL8ng",
+  "orig": "召喚獣戦 (Zodiac Age Version)",
+  "title": "Battle with an Esper (Zodiac Age Version)",
+  "seconds": 147,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "vJla3R4h6wY",
+  "orig": "美しき思い出 ～希望の園エデン：再生編～",
+  "title": "Beautiful Memories - Eden's Promise",
+  "seconds": 133,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "T4G5pKsuJ4M",
+  "orig": "ホパル古盤",
+  "title": "Hopal Old Board",
+  "seconds": 273,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xMW5UGljqa0",
+  "orig": "動乱 帝国バージョン (Zodiac Age Version)",
+  "title": "Unrest - Imperial Version (Zodiac Age Version)",
+  "seconds": 168,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "cEC7an0kzXc",
+  "orig": "魔導船 ～漆黒～",
+  "title": "The Lunar Whale - Shadowbringers",
+  "seconds": 216,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "aRZKKrF2Nfg",
+  "orig": "スターライト de チョコボ？",
+  "title": "Starlight de Chocobo?",
+  "seconds": 60,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YXcrTETl-d4",
+  "orig": "Shuffle or Boogie ～漆黒～",
+  "title": "Shuffle or Boogie - Shadowbringers",
+  "seconds": 172,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "p-05SLBwMek",
+  "orig": "茫洋タル病 (From NieR:Automata)",
+  "title": "Vast Sickness (From NieR:Automata)",
+  "seconds": 111,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Mb6kiygNJmQ",
+  "orig": "沈痛ノ色 (From NieR:Automata)",
+  "title": "Color of Sorrow (From NieR:Automata)",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BZKfyapcTX4",
+  "orig": "ワッツハンマー・ガレージ",
+  "title": "Wattshammer Garage",
+  "seconds": 211,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zTXcQWD_MKQ",
+  "orig": "焼き立てポークシー ～魔術工房 マトーヤのアトリエ～",
+  "title": "Freshly Baked Porxie - Matoya's Relict",
+  "seconds": 268,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "EAtelq7Sp3U",
+  "orig": "暗がりに響く音",
+  "title": "Echoes in the Dark",
+  "seconds": 95,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PYV4fyLVOh4",
+  "orig": "死闘 (Zodiac Age Version)",
+  "title": "Fight to the Death (Zodiac Age Version)",
+  "seconds": 112,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Z1h96nM-XjE",
+  "orig": "騒乱 (Zodiac Age Version)",
+  "title": "Clash of Swords (Zodiac Age Version)",
+  "seconds": 97,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "sS8xR3n5lTo",
+  "orig": "蒼天街復興祝祭",
+  "title": "Ishgard Restoration Celebration",
+  "seconds": 354,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "z9s1YgcygzU",
+  "orig": "潜入 (Zodiac Age Version)",
+  "title": "Infiltration (Zodiac Age Version)",
+  "seconds": 213,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "WVz0HpmgsPE",
+  "orig": "言葉無き戦い (Zodiac Age Version)",
+  "title": "Battle Without Words (Zodiac Age Version)",
+  "seconds": 103,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "0gsJ0_m4Hkk",
+  "orig": "ゴゴのテーマ",
+  "title": "Gogo's Theme",
+  "seconds": 143,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "HHNN0nDYo8g",
+  "orig": "常夏の島",
+  "title": "Island of Endless Summer",
+  "seconds": 56,
+  "kind": "field",
+  "tags": [
+   "seaside"
+  ]
+ },
+ {
+  "id": "GZ8zoxiV58w",
+  "orig": "ソーヘン地下宮殿 (Zodiac Age Version)",
+  "title": "Sochen Cave Palace (Zodiac Age Version)",
+  "seconds": 146,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ {
+  "id": "JFLOjcsCMH4",
+  "orig": "祝いの調べ ～蒼天街復興～",
+  "title": "Song of Celebration - Ishgard Restoration",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aPdbWyBn4ls",
+  "orig": "祝いの調べ：熱演 ～蒼天街復興～",
+  "title": "Song of Celebration: Passionate - Ishgard Restoration",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6ugtWT_iNqw",
+  "orig": "Shadowbringers",
+  "title": "Shadowbringers",
+  "seconds": 385,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4W2UVwG55Fs",
+  "orig": "ロングフォール ～異界遺構 シルクス･ツイニング～",
+  "title": "Long Fall - The Twinning",
+  "seconds": 293,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "_4lJsmCqvCI",
+  "orig": "Tomorrow and Tomorrow",
+  "title": "Tomorrow and Tomorrow",
+  "seconds": 272,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "18q19BPYEJE",
+  "orig": "貪欲",
+  "title": "Greed",
+  "seconds": 306,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RlriIMunwJQ",
+  "orig": "影をもたらす者 ～ハーデス前哨戦～",
+  "title": "Shadowbringers - Hades",
+  "seconds": 566,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "YZB3vI6svJ4",
+  "orig": "千年の暁 ～朱雀征魂戦～",
+  "title": "A Thousand Dawns - Suzaku",
+  "seconds": 290,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "hUVAJ60Erfo",
+  "orig": "目覚めの御使い ～ティターニア討滅戦～",
+  "title": "The Awakening Envoy - Titania",
+  "seconds": 323,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "xRHVX2A8L5s",
+  "orig": "エスケープ ～次元の狭間オメガ:アルファ編～",
+  "title": "Escape - Alphascape",
+  "seconds": 291,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "hNSKDpEXqnM",
+  "orig": "冥き水底 ～テンペスト:深部～",
+  "title": "Dark Depths - The Tempest",
+  "seconds": 344,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "6DyHx3YlYbo",
+  "orig": "Force Your Way ～漆黒～",
+  "title": "Force Your Way - Shadowbringers",
+  "seconds": 483,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ATJwVBcpJ0Q",
+  "orig": "砕けぬ思い ～ハーデス討滅戦～",
+  "title": "Unbreakable Will - Hades",
+  "seconds": 362,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "cMTRc9oAJog",
+  "orig": "インサニティー ～イノセンス討滅戦～",
+  "title": "Insanity - Innocence",
+  "seconds": 438,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "E1nIlwcMZQQ",
+  "orig": "シヴィライゼーションズ ～ラケティカ大森林:昼～",
+  "title": "Civilizations - The Rak'tika Greatwood: Day",
+  "seconds": 180,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "9AsQqGmWXLU",
+  "orig": "死の大地 ～永久焦土 ザ･バーン～",
+  "title": "Land of Death - The Burn",
+  "seconds": 265,
+  "kind": "dungeon",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "B_Vfik0OVTk",
+  "orig": "死の刻 ～終末幻想 アーモロート～",
+  "title": "Hour of Death - Amaurot",
+  "seconds": 284,
+  "kind": "dungeon",
+  "tags": [
+   "city",
+   "ruins"
+  ]
+ },
+ {
+  "id": "IRpKZkPjC2g",
+  "orig": "空より現れし者 ～次元の狭間オメガ:アルファ編～",
+  "title": "From the Heavens - Alphascape",
+  "seconds": 636,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "J4m105zF9q4",
+  "orig": "知恵は眠らず ～クリスタリウム:夜～",
+  "title": "Wisdom Doesn't Sleep - The Crystarium: Night",
+  "seconds": 518,
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ]
+ },
+ {
+  "id": "9sHIJdadA0k",
+  "orig": "五尋の深み ～テンペスト:浅部～",
+  "title": "Full Fathom Five - The Tempest",
+  "seconds": 414,
+  "kind": "field",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "HYmLtTRWym4",
+  "orig": "ランドスライド ～希望の園エデン:覚醒編～",
+  "title": "Landslide - Eden's Gate",
+  "seconds": 469,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "XGhBEsyIb64",
+  "orig": "大逆",
+  "title": "Treason",
+  "seconds": 303,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "skj2Wx6ylvo",
+  "orig": "琥珀の砂漠 ～アム･アレーン:昼～",
+  "title": "Desert of Amber - Amh Araeng: Day",
+  "seconds": 192,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "4HTYhiw3DzA",
+  "orig": "Vamo' alla Flamenco ～漆黒～",
+  "title": "Vamo' alla Flamenco - Shadowbringers",
+  "seconds": 214,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6fnEvuMU1aQ",
+  "orig": "炎と剣によりて ～殺戮郷村 ホルミンスター～",
+  "title": "By Fire and Sword - Holminster Switch",
+  "seconds": 284,
+  "kind": "dungeon",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "id": "j4PE_UWh4r8",
+  "orig": "輝ける蒼 ～希望の園エデン:覚醒編～",
+  "title": "Shining Blue - Eden's Gate",
+  "seconds": 444,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "8dB1_38ztdU",
+  "orig": "世界を照らす闇 ～クリスタリウム:昼～",
+  "title": "The Darkness That Lights the World - The Crystarium: Day",
+  "seconds": 334,
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ]
+ },
+ {
+  "id": "6yFvNEi9KPw",
+  "orig": "雲蒸龍変 ～青龍征魂戦～",
+  "title": "Clouds and Dragons - Seiryu",
+  "seconds": 567,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "CTCiD5Ra1G4",
+  "orig": "戦闘シーン ～次元の狭間オメガ:アルファ編～",
+  "title": "Battle Scene - Alphascape",
+  "seconds": 213,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "HgIvgo9eVPI",
+  "orig": "不穏の淵",
+  "title": "Edge of Unrest",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dewEScFPVwE",
+  "orig": "不変と変化 ～レイクランド:夜～",
+  "title": "Constancy and Change - Lakeland: Night",
+  "seconds": 268,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ {
+  "id": "mCaUSmyURHY",
+  "orig": "反復する明日",
+  "title": "Repeating Tomorrow",
+  "seconds": 216,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ZYcNR4OchzI",
+  "orig": "何処でもない何処か",
+  "title": "Somewhere Nowhere",
+  "seconds": 82,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qXq7K0bkNHM",
+  "orig": "対峙",
+  "title": "Confrontation",
+  "seconds": 198,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JT4QLe_XH2s",
+  "orig": "影なき影 ～創造機関 アナイダアカデミア～",
+  "title": "Shadow Without Shadow - Anamnesis Anyder Academia",
+  "seconds": 224,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "4zxGLZZ2bck",
+  "orig": "黒煙の戦い ～境界戦線 ギムリトダーク～",
+  "title": "Battle in the Black Smoke - Dohn Mheg Gimlet Dark",
+  "seconds": 306,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "S_aKIR3Y7bs",
+  "orig": "四重の見聞を経て",
+  "title": "Through Fourfold Observation",
+  "seconds": 183,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BODBOFanYvk",
+  "orig": "Ultema The Perfect Body!",
+  "title": "Ultema The Perfect Body!",
+  "seconds": 277,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "KX_woxHZORo",
+  "orig": "翼に夢を",
+  "title": "Dreams on Wings",
+  "seconds": 247,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-mmf9iBJDy8",
+  "orig": "驚嘆の真実",
+  "title": "Astonishing Truth",
+  "seconds": 176,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MyQWSBSz2dY",
+  "orig": "Gates of Paradise - The Garden of Ru'Hmet",
+  "title": "Gates of Paradise - The Garden of Ru'Hmet",
+  "seconds": 457,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky"
+  ]
+ },
+ {
+  "id": "iDT9mYU-XVw",
+  "orig": "妖精の輪 ～イル･メグ:夜～",
+  "title": "Fairy Ring - Il Mheg: Night",
+  "seconds": 224,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "D3ruv9kior8",
+  "orig": "千年の誰そ彼 ～朱雀征魂戦～",
+  "title": "A Thousand Twilights - Suzaku",
+  "seconds": 142,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ghUp26i60c0",
+  "orig": "獣の腹 ～偽造天界 グルグ火山～",
+  "title": "Belly of the Beast - Mt. Gulg",
+  "seconds": 378,
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "id": "45P8BsNKIb8",
+  "orig": "合わないピース",
+  "title": "The Mismatched Piece",
+  "seconds": 457,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "uWasGGDHqsw",
+  "orig": "残忍と自由 ～イル･メグ:昼～",
+  "title": "Cruelty and Freedom - Il Mheg: Day",
+  "seconds": 163,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "BnLbNNbfImk",
+  "orig": "鮮血の砂漠 ～アム･アレーン:夜～",
+  "title": "Desert of Blood - Amh Araeng: Night",
+  "seconds": 261,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "8ha4asgxSKE",
+  "orig": "クイックウェイ ～コルシア島:夜～",
+  "title": "Quickway - Kholusia: Night",
+  "seconds": 255,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ {
+  "id": "8O_-ZFERhcE",
+  "orig": "紐解かれしもの ～古跡探索 キタンナ神影洞～",
+  "title": "Unraveled - The Qitana Ravel",
+  "seconds": 287,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ {
+  "id": "vwcBykxZOpM",
+  "orig": "Blue Fields ～漆黒～",
+  "title": "Blue Fields - Shadowbringers",
+  "seconds": 187,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "oEu4Wr9HE4E",
+  "orig": "Onslaught",
+  "title": "Onslaught",
+  "seconds": 178,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "5kAfKeERf2s",
+  "orig": "運命の旅",
+  "title": "Journey of Fate",
+  "seconds": 271,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iHS1sOSdX4g",
+  "orig": "泥中の蓮 ～草木汚染 聖モシャーヌ植物園～",
+  "title": "Lotus in the Mud - Malikah's Well Mt. Gulg Mosshane Botanical Garden",
+  "seconds": 442,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "swamp"
+  ]
+ },
+ {
+  "id": "DV9peC4PZ0U",
+  "orig": "エンディング",
+  "title": "Ending",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "NBNfRQDsq-Y",
+  "orig": "Under The Stars",
+  "title": "Under The Stars",
+  "seconds": 130,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VRwORBo3EB4",
+  "orig": "望みなき競争 ～ラケティカ大森林:夜～",
+  "title": "Hopeless Race - The Rak'tika Greatwood: Night",
+  "seconds": 226,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "CrNPZQDZwYE",
+  "orig": "言い尽くせぬ悲哀",
+  "title": "Unspeakable Sorrow",
+  "seconds": 296,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "feClf2yg2IY",
+  "orig": "Antipyretic",
+  "title": "Antipyretic",
+  "seconds": 146,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Jc6zy-NZdBc",
+  "orig": "星芒の歌",
+  "title": "Song of the Starlight",
+  "seconds": 66,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RjYIhpgFMqI",
+  "orig": "危険な言葉",
+  "title": "Dangerous Words",
+  "seconds": 187,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dQmm3z4N3qE",
+  "orig": "天上の窮地",
+  "title": "Predicament in the Heavens",
+  "seconds": 275,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "M3ibCPj34Rk",
+  "orig": "享楽の痛み",
+  "title": "The Pain of Pleasure",
+  "seconds": 251,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "3PxHoZ75u1o",
+  "orig": "始まりの湖 ～レイクランド:昼～",
+  "title": "Civilizations",
+  "seconds": 148,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ]
+ },
+ {
+  "id": "ll8iUzD0yf0",
+  "orig": "雨の中の涙",
+  "title": "Tears in the Rain",
+  "seconds": 222,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YT6YagKGoYg",
+  "orig": "東方遊戯",
+  "title": "Eastern Games",
+  "seconds": 220,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RNi26jQ4alo",
+  "orig": "緊迫1",
+  "title": "Tension 1",
+  "seconds": 144,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xe0E-u77kzg",
+  "orig": "Turmoil",
+  "title": "Turmoil",
+  "seconds": 181,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "M_QG3_XjYKQ",
+  "orig": "絶望の歌",
+  "title": "Song of Despair",
+  "seconds": 67,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qYbN5UYBDBM",
+  "orig": "仮面舞踏会 ～ユールモア:夜～",
+  "title": "Masquerade",
+  "seconds": 333,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "h0CUH8atq9w",
+  "orig": "異形の者",
+  "title": "The Misshapen",
+  "seconds": 187,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aeEZL5f0nCI",
+  "orig": "より良き明日",
+  "title": "A Better Tomorrow",
+  "seconds": 219,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-wUsG4gAFC0",
+  "orig": "分かたれし世界 ～コルシア島:昼～",
+  "title": "A World Divided",
+  "seconds": 228,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "mountain"
+  ]
+ },
+ {
+  "id": "rDhj4VUhrXg",
+  "orig": "虚構 ～水妖幻園 ドォーヌ･メグ～",
+  "title": "Fiction",
+  "seconds": 286,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "water"
+  ]
+ },
+ {
+  "id": "c3mk3zPQ_l8",
+  "orig": "Bloody Excrement",
+  "title": "Bloody Excrement",
+  "seconds": 156,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "yAU2qWrhuz0",
+  "orig": "それなりの暮らし",
+  "title": "A Modest Life",
+  "seconds": 52,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "luEc51tt6bw",
+  "orig": "耽溺 ～ユールモア:昼～",
+  "title": "Indulgence",
+  "seconds": 211,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "ITSQ1KU5KBE",
+  "orig": "生きる理由",
+  "title": "A Reason to Live",
+  "seconds": 68,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "B8xPNfyf_9c",
+  "orig": "深き底 ～爽涼離宮 マリカの大井戸～",
+  "title": "The Deep",
+  "seconds": 378,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "desert",
+   "water"
+  ]
+ },
+ {
+  "id": "-eMCgNZZuUA",
+  "orig": "降臨",
+  "title": "Advent",
+  "seconds": 114,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "t46GljXz3Kg",
+  "orig": "聖アジョラのテーマ",
+  "title": "Saint Ajora's Theme",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qzlf1G9gBpo",
+  "orig": "ノアのリュート ～漆黒～",
+  "title": "Noah's Lute (Shadowbringers)",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aavxcP0Vhg4",
+  "orig": "ブレイブストーリー",
+  "title": "Brave Story",
+  "seconds": 70,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QQg1tg8Wiuw",
+  "orig": "謀略",
+  "title": "Antipathy",
+  "seconds": 113,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "T1DW8W00ppc",
+  "orig": "アルマのテーマ",
+  "title": "Alma's Theme",
+  "seconds": 119,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WvXk92sef8w",
+  "orig": "Staff Credit",
+  "title": "Staff Credit",
+  "seconds": 428,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Rf05kDpkJNA",
+  "orig": "礼拝堂",
+  "title": "Chapel",
+  "seconds": 67,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "LTH0LpWA6Qo",
+  "orig": "Epilogue Movie",
+  "title": "Epilogue Movie",
+  "seconds": 104,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4aWKVhx2J4A",
+  "orig": "毛皮骨肉商",
+  "title": "Fur and Bone Merchant",
+  "seconds": 105,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xx10iSmVMo0",
+  "orig": "月下彼岸花 ～蛮神ツクヨミ討滅戦～",
+  "title": "Lunar Higanbana",
+  "seconds": 352,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "kNe-ZNBHWWM",
+  "orig": "龍の尾 ～神龍討滅戦～",
+  "title": "Tail of the Dragon",
+  "seconds": 299,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "rk4xBUj30CU",
+  "orig": "Revolutions",
+  "title": "Revolutions",
+  "seconds": 425,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "U_Ebye5vJi0",
+  "orig": "美の謀略 ～蛮神ラクシュミ討滅戦～",
+  "title": "Beauty's Wicked Wiles",
+  "seconds": 346,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "whqHpkVlbPQ",
+  "orig": "究極幻想 (Orchestral Version)",
+  "title": "Ultimate Illusion (Orchestral Version)",
+  "seconds": 302,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "P7DPJyQv3IY",
+  "orig": "過重圧殺! (From Astral to Umbral) ～蛮神タイタン討滅戦～",
+  "title": "Under the Weight (From Astral to Umbral)",
+  "seconds": 315,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "JPydZlOCyJU",
+  "orig": "天つ風 ～白虎征魂戦～",
+  "title": "Amatsukaze",
+  "seconds": 332,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "IOukdWKrAWk",
+  "orig": "決戦 ～次元の狭間オメガ:シグマ編～",
+  "title": "The Decisive Battle",
+  "seconds": 250,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "LepoYu7gZGA",
+  "orig": "妖星乱舞 第4楽章 ～次元の狭間オメガ:シグマ編～",
+  "title": "Dancing Mad - Movement IV",
+  "seconds": 514,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "VMpASeBf9Ds",
+  "orig": "堕天せし者 (From Astral to Umbral) ～蛮神ガルーダ討伐戦～",
+  "title": "Fallen Angel (From Astral to Umbral)",
+  "seconds": 252,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "n1_xTUR7d0M",
+  "orig": "月亮門 ～解放決戦 ドマ城～",
+  "title": "The Moongate",
+  "seconds": 301,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "EH0C6a9xtxM",
+  "orig": "塩と苦難の歌 ～ギラバニア湖畔地帯:昼～",
+  "title": "Salt and Suffering",
+  "seconds": 568,
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ {
+  "id": "UFBpmIXGQs8",
+  "orig": "紅の夜明け ～クガネ:昼～",
+  "title": "Crimson Sunrise",
+  "seconds": 695,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "rN1amYS7TE4",
+  "orig": "紅の夜更け ～クガネ:夜～",
+  "title": "Crimson Sunset",
+  "seconds": 310,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "OiAj33L0mX0",
+  "orig": "辺境の乱戦",
+  "title": "Melee on the Frontier",
+  "seconds": 178,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "bD0krOh44jM",
+  "orig": "我らが支配圏",
+  "title": "Our Dominion",
+  "seconds": 136,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "o0n8v4QmMHk",
+  "orig": "月下美人 ～蛮神ツクヨミ前哨戦～",
+  "title": "Wayward Daughter",
+  "seconds": 254,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "DAe3Q4W5Xc4",
+  "orig": "贖いの果て ～絶バハムート討滅戦～",
+  "title": "Penitus",
+  "seconds": 146,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "mwJFl57Jky0",
+  "orig": "紅蓮のプレリュード",
+  "title": "Prelude in Violet",
+  "seconds": 73,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "f5LUgbbFVC8",
+  "orig": "壁の向こう側 ～ギラバニア辺境地帯:昼～",
+  "title": "Beyond the Wall",
+  "seconds": 217,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "mountain"
+  ]
+ },
+ {
+  "id": "59azuM10N_I",
+  "orig": "古傷 ～ギラバニア湖畔地帯:夜～",
+  "title": "Old Wounds",
+  "seconds": 424,
+  "kind": "field",
+  "tags": [
+   "water",
+   "mountain"
+  ]
+ },
+ {
+  "id": "D1WDRPk34gs",
+  "orig": "衝撃 ～ラールガーズリーチ:昼～",
+  "title": "Impact",
+  "seconds": 329,
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "id": "cN-6TmRGObE",
+  "orig": "父の誇り ～ヤンサ:昼～",
+  "title": "A Father's Pride",
+  "seconds": 173,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ {
+  "id": "zbGijc_uJVM",
+  "orig": "自由か死か ～紅蓮決戦 アラミゴ～",
+  "title": "Liberty or Death",
+  "seconds": 186,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "city"
+  ]
+ },
+ {
+  "id": "2yAbKMmVvpA",
+  "orig": "母の誇り ～ヤンサ:夜～",
+  "title": "A Mother's Pride",
+  "seconds": 187,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "water"
+  ]
+ },
+ {
+  "id": "KU_BB4midl8",
+  "orig": "啓示 ～蛮神スサノオ討滅戦～",
+  "title": "Revelation",
+  "seconds": 146,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2ip7V4FJh2Q",
+  "orig": "Pa-Paya Demastered",
+  "title": "Pa-Paya Demastered",
+  "seconds": 122,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "89Feonbam6U",
+  "orig": "宵の海 ～紅玉海:夜～",
+  "title": "Sea of Dusk",
+  "seconds": 142,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "dOAA_bCCT_g",
+  "orig": "燃えよクァール ～壊神修行 星導山寺院～",
+  "title": "Fire Kuar",
+  "seconds": 272,
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "ruins"
+  ]
+ },
+ {
+  "id": "3gq89dzHoSE",
+  "orig": "余光 ～ラールガーズリーチ:夜～",
+  "title": "Afterglow",
+  "seconds": 302,
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ]
+ },
+ {
+  "id": "EAXFkjpjGj4",
+  "orig": "カイエンのテーマ ～紅蓮～",
+  "title": "Cyan's Theme (Stormblood)",
+  "seconds": 257,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "h3HtWXgAjB0",
+  "orig": "狂える月夜 ～蛮神ツクヨミ討滅戦～",
+  "title": "Moonlit Madness",
+  "seconds": 161,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "HokvxeI87Xk",
+  "orig": "美の謀略 (Oasis Mix) ～蛮神ラクシュミ討滅戦～",
+  "title": "Beauty's Wicked Wiles (Oasis Mix)",
+  "seconds": 256,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "TN6tzTASyn0",
+  "orig": "終始 ～蛮神スサノオ討滅戦～",
+  "title": "Beginning and End",
+  "seconds": 305,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "fR7e3SUDfWM",
+  "orig": "壊神の拳が届く場所",
+  "title": "Where the Fist Reaches",
+  "seconds": 133,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ui7hpUFrpkg",
+  "orig": "最後の闘い ～次元の狭間オメガ:デルタ編～",
+  "title": "The Final Battle",
+  "seconds": 241,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "dHCdTMARshk",
+  "orig": "焔の海 ～紅玉海:昼～",
+  "title": "Sea of Flames",
+  "seconds": 172,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "4XshpaH5jk0",
+  "orig": "地平線に沈め ～アジムステップ:昼～",
+  "title": "Sunset on the Horizon",
+  "seconds": 120,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "GRoLAMuUKYM",
+  "orig": "別れ",
+  "title": "Farewell",
+  "seconds": 92,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aUHd6vF-lnA",
+  "orig": "地平線より昇れ ～アジムステップ:夜～",
+  "title": "Rise from the Horizon",
+  "seconds": 175,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "S0dt5KJe2GI",
+  "orig": "祭りである ～蛮神スサノオ討滅戦～",
+  "title": "It's a Festival",
+  "seconds": 87,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "WuJzestF-3U",
+  "orig": "妖星乱舞 第1楽章 ～次元の狭間オメガ:シグマ編～",
+  "title": "Dancing Mad - Movement I",
+  "seconds": 255,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "LflkmSqD8P8",
+  "orig": "妖星乱舞 第3楽章 ～次元の狭間オメガ:シグマ編～",
+  "title": "Dancing Mad - Movement III",
+  "seconds": 228,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "OR1HgNLw9UI",
+  "orig": "危険なる妙技",
+  "title": "Dangerous Feats",
+  "seconds": 358,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "25PFJYo5OV0",
+  "orig": "バトル2 ～次元の狭間オメガ:デルタ編～",
+  "title": "Battle 2",
+  "seconds": 302,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "GAhavny-n84",
+  "orig": "平和への道のり",
+  "title": "The Road to Peace",
+  "seconds": 136,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iIt3rOv2UgE",
+  "orig": "開けられた玉手箱 ～海底宮殿 紫水宮～",
+  "title": "The Opened Treasure Box",
+  "seconds": 236,
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "castle"
+  ]
+ },
+ {
+  "id": "6k8dZVWwhXY",
+  "orig": "セイレーンの呼び声",
+  "title": "The Siren's Call",
+  "seconds": 124,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6gWbPtMo8OM",
+  "orig": "高みより ～ギラバニア山岳地帯:昼～",
+  "title": "From on High",
+  "seconds": 161,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "PCoBeJz4FzA",
+  "orig": "策謀 ～悪党成敗 クガネ城～",
+  "title": "Intrigue",
+  "seconds": 242,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "1ixQdTqOCdE",
+  "orig": "ボス戦",
+  "title": "Boss Battle",
+  "seconds": 201,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2dTcexRdqvU",
+  "orig": "硬き者たち",
+  "title": "The Hardened",
+  "seconds": 241,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "dex0cgcSpYM",
+  "orig": "決戦 ～次元の狭間オメガ:デルタ編～",
+  "title": "The Decisive Battle",
+  "seconds": 326,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "MDWk7md-wfE",
+  "orig": "アンブレーカブル (Duality) ～博物戦艦 フラクタル･コンティニアム～",
+  "title": "Unbreakable (Duality)",
+  "seconds": 237,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "7O23nHAC3cY",
+  "orig": "Trisection",
+  "title": "Trisection",
+  "seconds": 157,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "gyfeAKJnCrg",
+  "orig": "巨峰の眼下にて",
+  "title": "Beneath the Peaks",
+  "seconds": 70,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9JGR27wPut8",
+  "orig": "揺り籠",
+  "title": "Cradle",
+  "seconds": 160,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0OHcHtUUVdk",
+  "orig": "妖星乱舞 第2楽章 ～次元の狭間オメガ:シグマ編～",
+  "title": "Dancing Mad - Movement II",
+  "seconds": 219,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "qeNF29BCnMA",
+  "orig": "東方の地",
+  "title": "Eastern Lands",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Ne07nHYAC3w",
+  "orig": "血嵐の勇士",
+  "title": "Warrior of the Blood Storm",
+  "seconds": 273,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "h200olFSAi4",
+  "orig": "天晴大鯰音頭",
+  "title": "Namazu Ondo",
+  "seconds": 125,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "h5x_0bnHkA8",
+  "orig": "夜明けに向かって ～漂流海域 セイレーン海～",
+  "title": "Toward the Dawn ~ The Sirensong Sea ~",
+  "seconds": 188,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "t8Sm22SSmdM",
+  "orig": "忘れられた希望 ～ギラバニア辺境地帯:夜～",
+  "title": "Forgotten Hope ~ The Fringes: Night ~",
+  "seconds": 130,
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "plains"
+  ]
+ },
+ {
+  "id": "VUaj-VeDma0",
+  "orig": "アリエヌス ～巨砲要塞 カストルム･アバニア～",
+  "title": "Alienus ~ Castrum Abania ~",
+  "seconds": 191,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ]
+ },
+ {
+  "id": "GTzY2hSpGUc",
+  "orig": "デルタスケープ ～次元の狭間オメガ:デルタ編～",
+  "title": "Deltascape ~ Omega: Deltascape ~",
+  "seconds": 187,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "6TGy2m6ZmZo",
+  "orig": "橋上の戦い",
+  "title": "Battle on the Big Bridge",
+  "seconds": 249,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "CnoN-GacB8Q",
+  "orig": "原始の審判 (From Astral to Umbral) ～蛮神イフリート討伐戦～",
+  "title": "Primal Judgment (From Astral to Umbral) ~ The Bowl of Embers ~",
+  "seconds": 172,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "bmWnA_rSUQI",
+  "orig": "主人公のテーマ",
+  "title": "Hero's Theme",
+  "seconds": 68,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "T4zb2SQxDXM",
+  "orig": "戦場の甲羅",
+  "title": "Battlefield Carapace",
+  "seconds": 123,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "W_urn_2SuYg",
+  "orig": "地風水 ～風水霊殿 ガンエン廟～",
+  "title": "Earth, Wind, and Water ~ The Temple of the Fist ~",
+  "seconds": 227,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "mountain"
+  ]
+ },
+ {
+  "id": "YQO9DwVek4c",
+  "orig": "祈りの翼",
+  "title": "Wings of Prayer",
+  "seconds": 120,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RueAoNGOyVA",
+  "orig": "Apoplexy",
+  "title": "Apoplexy",
+  "seconds": 282,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "pYTSjM_IfMI",
+  "orig": "調和",
+  "title": "Harmony",
+  "seconds": 78,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "kxkhA38SwQ8",
+  "orig": "Ultema the Nice Body",
+  "title": "Ultema the Nice Body",
+  "seconds": 256,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "awrSq5BTINs",
+  "orig": "乱風の囁き ～禁断の地 エウレカ:アネモス編～",
+  "title": "Whispers of the Gale ~ The Forbidden Land, Eureka Anemos ~",
+  "seconds": 233,
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest"
+  ]
+ },
+ {
+  "id": "hHuO7HZoKrk",
+  "orig": "剣の一閃",
+  "title": "Flash of the Blade",
+  "seconds": 161,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "QBWHx1y8dDA",
+  "orig": "鳥たちの饗宴 ～ライバルウィングズ～",
+  "title": "Feast of Birds ~ Rival Wings ~",
+  "seconds": 302,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "AxTQ8zCotlA",
+  "orig": "魔列車 ～次元の狭間オメガ:シグマ編～",
+  "title": "Phantom Train ~ Omega: Sigmascape ~",
+  "seconds": 28,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "zgqQeVrc9QY",
+  "orig": "石の記憶 ～ギラバニア山岳地帯:夜～",
+  "title": "Memories of Stone ~ The Peaks: Night ~",
+  "seconds": 130,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "H1-Jc3llPeI",
+  "orig": "転生の炎 ～絶バハムート討滅戦～",
+  "title": "Flames of Rebirth ~ The Unending Coil of Bahamut ~",
+  "seconds": 34,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "4UhX8oiPHxk",
+  "orig": "英雄ならざる者 ～伝統試練 バルダム覇道～",
+  "title": "Unbeholden ~ Bardam's Mettle ~",
+  "seconds": 174,
+  "kind": "dungeon",
+  "tags": [
+   "plains",
+   "ruins"
+  ]
+ },
+ {
+  "id": "Nk-2wL2ZEEc",
+  "orig": "うぃざーどりー",
+  "title": "Wizardry",
+  "seconds": 276,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PssDWbHKKU0",
+  "orig": "Iroha",
+  "title": "Iroha",
+  "seconds": 228,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2zj25h4Q2m8",
+  "orig": "わっしょいわっしょい",
+  "title": "Wasshoi Wasshoi",
+  "seconds": 74,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RrwJepo07kk",
+  "orig": "星芒の扉",
+  "title": "Gate of the Astral",
+  "seconds": 172,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RKw8BmnKg1A",
+  "orig": "故郷より離れて ～水没遺構 スカラ～",
+  "title": "Far from Home ~ The Drowned City of Skalla ~",
+  "seconds": 258,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "water"
+  ]
+ },
+ {
+  "id": "2RSl9f-av80",
+  "orig": "プレイヤーメイク",
+  "title": "Character Creation",
+  "seconds": 163,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_NxKYpVKLh8",
+  "orig": "ノー･クォーター",
+  "title": "No Quarter",
+  "seconds": 171,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "nx8K9mwPPv0",
+  "orig": "ライバルウィングズ ～アストラガロス機工戦～",
+  "title": "Rival Wings ~ Astragalos ~",
+  "seconds": 294,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "lieUd3aFAlQ",
+  "orig": "天つ雷 ～白虎前哨戦～",
+  "title": "Amatsu Kazeyo ~ The Jade Stoa ~",
+  "seconds": 140,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "mhCx43_VTTo",
+  "orig": "勝利のファンファーレ ～FFXIIバージョン～",
+  "title": "Victory Fanfare ~ FFXII Version ~",
+  "seconds": 41,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6wP3E6RGTpg",
+  "orig": "データ画面",
+  "title": "Data Screen",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ugAFD0ljTTY",
+  "orig": "A Chapel",
+  "title": "A Chapel",
+  "seconds": 102,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "A7cpHGcWqQ0",
+  "orig": "鬼の棲む島 ～紅玉火山 獄之蓋～",
+  "title": "Isle of the Oni ~ Hells' Lid ~",
+  "seconds": 247,
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "id": "1wT6j1heDs8",
+  "orig": "轟 ～白虎征魂戦～",
+  "title": "Roar ~ The Jade Stoa (Extreme) ~",
+  "seconds": 125,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "QWmiuueiIzM",
+  "orig": "Backborn Story",
+  "title": "Backborn Story",
+  "seconds": 140,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Xb8IrJ47jDE",
+  "orig": "我ら国境警備隊",
+  "title": "We Are the Border Guard",
+  "seconds": 230,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zPoLsgydiqU",
+  "orig": "呪われたサレコウベ",
+  "title": "The Cursed Skull",
+  "seconds": 242,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DqRtqhBHYuA",
+  "orig": "敵兵襲撃",
+  "title": "Enemy Attack",
+  "seconds": 79,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "UqbdssEHGik",
+  "orig": "ワールドマップ",
+  "title": "World Map",
+  "seconds": 66,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "1-3eY6AiHOw",
+  "orig": "戦闘終了",
+  "title": "Battle End",
+  "seconds": 35,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_e54Zcc1rRg",
+  "orig": "頂上へ",
+  "title": "To the Summit",
+  "seconds": 153,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0uIZY96ZhnM",
+  "orig": "ギルヴェガンの謎",
+  "title": "The Mystery of Gilvegan",
+  "seconds": 128,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hSF67DheS04",
+  "orig": "逆襲の咆哮",
+  "title": "Roar of Revenge",
+  "seconds": 310,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "MfNoBEb0ul8",
+  "orig": "魔神 ～魔神セフィロト討滅戦～",
+  "title": "Fiend ~ Containment Bay S1T7 ~",
+  "seconds": 497,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "XO2F7Oqr4wk",
+  "orig": "ライズ ～機工城アレキサンダー:天動編～",
+  "title": "Rise ~ Alexander: Midas ~",
+  "seconds": 260,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "JhW51WVmugM",
+  "orig": "女神 ～女神ソフィア討滅戦～",
+  "title": "Goddess ~ Containment Bay P1T6 ~",
+  "seconds": 407,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "kJ6wCX4P90k",
+  "orig": "最期の咆哮 ～ニーズヘッグ征竜戦～",
+  "title": "Revenge of the Horde ~ The Final Steps of Faith ~",
+  "seconds": 215,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Ixvb2ZJZERU",
+  "orig": "メタル:ブルートジャスティスモード ～機工城アレキサンダー:律動編～",
+  "title": "Metal: Brute Justice Mode ~ Alexander: The Creator ~",
+  "seconds": 274,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Bf0wHXtXmsU",
+  "orig": "指数崩壊 ～機工城アレキサンダー:天動編～",
+  "title": "Exponential Entropy ~ Alexander: Midas ~",
+  "seconds": 386,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "eMj6q37HhNI",
+  "orig": "メビウス ～機工城アレキサンダー:天動編～",
+  "title": "Moebius ~ Alexander: Midas ~",
+  "seconds": 261,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "M3qOGQWAxKE",
+  "orig": "古の都 ～神聖遺跡 古アムダプール市街～",
+  "title": "The Ancient City ~ The Sastasha... Amdapor Keep ~",
+  "seconds": 278,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "city"
+  ]
+ },
+ {
+  "id": "BI0FV4n10SQ",
+  "orig": "銀鱗と鋼鉄",
+  "title": "Silver Scales and Steel",
+  "seconds": 266,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ddse7wYNKlI",
+  "orig": "漆黒のエッダ",
+  "title": "Black Edda",
+  "seconds": 289,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0Cgn2OYtvDc",
+  "orig": "死闘 ～蒼天～",
+  "title": "Heavensward (Mortal Combat)",
+  "seconds": 369,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "xSBY4xo7O0U",
+  "orig": "ガントレット",
+  "title": "Gauntlet",
+  "seconds": 210,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "vkQmPHkL3rg",
+  "orig": "無限停止 ～機工城アレキサンダー:天動編～",
+  "title": "Infinite Stop ~ Alexander: Midas ~",
+  "seconds": 89,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "NrsVADCNt2g",
+  "orig": "鬼神 ～鬼神ズルワーン討滅戦～",
+  "title": "Demi-god ~ Containment Bay Z1T9 ~",
+  "seconds": 201,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "RHlHvf7ux9Q",
+  "orig": "餓えた狼 ～ザ･フィースト～",
+  "title": "Starved Wolves ~ The Feast ~",
+  "seconds": 379,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "9aYpI5IbV5c",
+  "orig": "ビブリオフォビア ～稀書回収 グブラ幻想図書館～",
+  "title": "Bibliophobia ~ The Great Gubal Library ~",
+  "seconds": 292,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "FaNYvw2y7VA",
+  "orig": "勝利への猛攻",
+  "title": "Onslaught to Victory",
+  "seconds": 415,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "f1VafzJx2KE",
+  "orig": "踊る人形カルコブリーナ ～蒼天～",
+  "title": "Dance of the Puppet Calcabrina ~ Heavensward ~",
+  "seconds": 139,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "KougG5laf4Q",
+  "orig": "雨と涙に濡れて ～禁忌都市マハ～",
+  "title": "Rain and Tears ~ The Void Ark... Mhach ~",
+  "seconds": 288,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "city"
+  ]
+ },
+ {
+  "id": "TZoZ5VjbYho",
+  "orig": "詫言の詩 ～天竜宮殿 ソール･カイ～",
+  "title": "Words of Apology ~ Sohr Khai ~",
+  "seconds": 251,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "castle"
+  ]
+ },
+ {
+  "id": "-09Nf84SlqQ",
+  "orig": "ハイパーレインボーZ",
+  "title": "Hyper Rainbow Z",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "o8PENa83pjQ",
+  "orig": "戦神の教義 ～皇都イシュガルド防衛戦～",
+  "title": "Tenets of the War God ~ The Defense of Ishgard ~",
+  "seconds": 513,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "yzfBTUbXYgA",
+  "orig": "ペンウルティマニア ～鬼神ズルワーン討滅戦～",
+  "title": "Penultimania ~ Containment Bay Z1T9 ~",
+  "seconds": 228,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "EBVAn4EASZg",
+  "orig": "分かたれし者たち",
+  "title": "The Divided",
+  "seconds": 173,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ce0prjUOSE4",
+  "orig": "純愛の口づけ",
+  "title": "Kiss of True Love",
+  "seconds": 153,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "uGi8dBV_1vc",
+  "orig": "約束の地 ～影の国ダン･スカー～",
+  "title": "The Promised Land ~ Dun Scaith ~",
+  "seconds": 273,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "m965X3_xlRY",
+  "orig": "ただ死者のみが見る",
+  "title": "Only the Dead See",
+  "seconds": 75,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xVHfBCuXqmk",
+  "orig": "メリー･ワンダラー･ワルツ",
+  "title": "Merry Wanderer Waltz",
+  "seconds": 216,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dfUkpExh3yY",
+  "orig": "永遠の欠片",
+  "title": "Fragments of Eternity",
+  "seconds": 144,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "shOXxktcgcU",
+  "orig": "砂塵",
+  "title": "Sandstorm",
+  "seconds": 279,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "he6VC2e_2Mk",
+  "orig": "刻の外側 ～機工城アレキサンダー:天動編～",
+  "title": "Out of Time ~ Alexander: Midas ~",
+  "seconds": 284,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "jvdJmMT7RjY",
+  "orig": "影法師 ～影の国ダン･スカー～",
+  "title": "Shadow ~ Dun Scaith ~",
+  "seconds": 315,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "yGPyS5Lpijg",
+  "orig": "トイレに行けない夜",
+  "title": "The Night I Couldn't Go to the Bathroom",
+  "seconds": 283,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5goQEOS83Os",
+  "orig": "アナザーブリック ～巨大防壁 バエサルの長城～",
+  "title": "Another Brick ~ Baelsar's Wall ~",
+  "seconds": 239,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "industrial"
+  ]
+ },
+ {
+  "id": "oINFCTGJ0vo",
+  "orig": "繋がりし者たち",
+  "title": "The Connected",
+  "seconds": 143,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "AIxIdnyGWbM",
+  "orig": "豪雨に打たれて ～禁忌都市マハ～",
+  "title": "Beaten by the Rain ~ Mhach ~",
+  "seconds": 274,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "city"
+  ]
+ },
+ {
+  "id": "m6F7y4nrJaw",
+  "orig": "自由なる風に吹かれて",
+  "title": "On Free Winds",
+  "seconds": 331,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "S0Vved7ERFw",
+  "orig": "聖なる助言者",
+  "title": "Holy Advisor",
+  "seconds": 280,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ClyGkj3FJOc",
+  "orig": "笛吹大魔王",
+  "title": "The Great Piper",
+  "seconds": 152,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_WYkjgzsyXs",
+  "orig": "死亡報告",
+  "title": "Death Report",
+  "seconds": 161,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-XINRqyp2-o",
+  "orig": "地殻 ～峻厳渓谷 ゼルファトル～",
+  "title": "Crust ~ Xelphatol ~",
+  "seconds": 292,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "6gURY6gVKZQ",
+  "orig": "黒衣の迷宮",
+  "title": "Labyrinth in Black",
+  "seconds": 214,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "qBssyR2cze0",
+  "orig": "幾千の顔 ～禁忌都市マハ～",
+  "title": "A Thousand Faces ~ Mhach ~",
+  "seconds": 88,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "AvqFh1lr_mM",
+  "orig": "淡き光の夢に",
+  "title": "In a Dream of Pale Light",
+  "seconds": 243,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "AHqnZ5Mcaww",
+  "orig": "モードゥナの涙雨",
+  "title": "Mor Dhona's Rain of Tears",
+  "seconds": 269,
+  "kind": "field",
+  "tags": [
+   "crystal",
+   "plains"
+  ]
+ },
+ {
+  "id": "fGCv4ELDOGc",
+  "orig": "朝まで大騒ぎ",
+  "title": "Party Till Morning",
+  "seconds": 134,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "b8JMG-RhL4U",
+  "orig": "ローカス ～機工城アレキサンダー:起動編～",
+  "title": "Locus ~ Alexander: Gordias ~",
+  "seconds": 536,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "YFQbYbpDKgI",
+  "orig": "メタル ～機工城アレキサンダー:起動編～",
+  "title": "Metal",
+  "seconds": 331,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "UTRXsHxcvis",
+  "orig": "雲霧街の夜霧 ～イシュガルド下層:夜～",
+  "title": "Night in the Brume",
+  "seconds": 614,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "oYZRX0Aq1SA",
+  "orig": "イマジネーション ～蒼天聖戦 魔科学研究所～",
+  "title": "Imagination",
+  "seconds": 223,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "ruins"
+  ]
+ },
+ {
+  "id": "AVpztv1wp4w",
+  "orig": "堅牢 ～イシュガルド下層:昼～",
+  "title": "Solid",
+  "seconds": 802,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "hbkD2c5_-CU",
+  "orig": "英傑は死なず ～蒼天幻想 ナイツ･オブ･ラウンド討滅戦～",
+  "title": "Heroes Never Die",
+  "seconds": 480,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "wYUADZ_px_w",
+  "orig": "曲がらぬ刃 ～蛮神ラーヴァナ討滅戦～",
+  "title": "Unbending Steel",
+  "seconds": 445,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "DKZfLGxo32I",
+  "orig": "不吉なる前兆",
+  "title": "Ominous Prognisticks",
+  "seconds": 255,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8Hu-3_R_MOQ",
+  "orig": "彩られし夜空 ～高地ドラヴァニア:夜～",
+  "title": "Painted Skies",
+  "seconds": 233,
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest"
+  ]
+ },
+ {
+  "id": "-I5AcC2-mdc",
+  "orig": "万世の言葉 ～禁書回収 グブラ幻想図書館～",
+  "title": "Words of Ages",
+  "seconds": 335,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ {
+  "id": "Gna_PhhjPlI",
+  "orig": "闘争",
+  "title": "Fiend",
+  "seconds": 202,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "AMx8_RD5wlY",
+  "orig": "雪風",
+  "title": "Snowfall",
+  "seconds": 104,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "KLcYmGAdihc",
+  "orig": "風に向かって ～クルザス西部高地:昼～",
+  "title": "Against the Wind",
+  "seconds": 129,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "h-B1aXv3RdY",
+  "orig": "武神降臨 ～蛮神ラーヴァナ前哨戦～",
+  "title": "Battle to the Death",
+  "seconds": 188,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "srR-tcTFbmg",
+  "orig": "彩られし山麓 ～高地ドラヴァニア:昼～",
+  "title": "Painted Foothills",
+  "seconds": 330,
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "forest"
+  ]
+ },
+ {
+  "id": "8uSGdQDuk6o",
+  "orig": "熱戦 ～イシュガルド地方:戦闘～",
+  "title": "Heat of Battle",
+  "seconds": 197,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "6tzDsxQCZEQ",
+  "orig": "ノブレス･スリープス ～イシュガルド上層:夜～",
+  "title": "Noblesse Sleeps",
+  "seconds": 631,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "ZxjxIhcaIu8",
+  "orig": "狂気なる災厄 ～蛮神ビスマルク討滅戦～",
+  "title": "Mad Calamity",
+  "seconds": 308,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "UhMxpT1Pt6k",
+  "orig": "マトーヤの洞窟 ～蒼天～",
+  "title": "Matoya's Cave (Heavensward)",
+  "seconds": 176,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "dVh-rev5Jq8",
+  "orig": "石と鋼",
+  "title": "Stone and Steel",
+  "seconds": 279,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "mrTtGYy7Lgw",
+  "orig": "黒闇と白雪 ～クルザス西部高地:夜～",
+  "title": "Black and White",
+  "seconds": 149,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "rAlbiexrW60",
+  "orig": "ノブレス･オブリージュ ～イシュガルド上層:昼～",
+  "title": "Noblesse Oblige",
+  "seconds": 561,
+  "kind": "town",
+  "tags": [
+   "city",
+   "snow"
+  ]
+ },
+ {
+  "id": "WpvTGPBd-_w",
+  "orig": "誤想",
+  "title": "Delusion",
+  "seconds": 298,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "lIEbvPITYj0",
+  "orig": "雲に隠れて ～アバラシア雲海:昼～",
+  "title": "Hidden in the Clouds",
+  "seconds": 263,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "wbLuoNyGzUM",
+  "orig": "天のため",
+  "title": "For the Heavens",
+  "seconds": 258,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "T9MRfeNVjiE",
+  "orig": "国境なき空",
+  "title": "Borderless Skies",
+  "seconds": 403,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "Z3R2v1ncAbc",
+  "orig": "ヴォイドの棺 ～魔航船ヴォイドアーク～",
+  "title": "Coffin of the Void",
+  "seconds": 285,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "iHSs_uVrP_0",
+  "orig": "アンブレーカブル ～博物戦艦 フラクタル･コンティニアム～",
+  "title": "Unbreakable",
+  "seconds": 295,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "DH4C8pTW6jI",
+  "orig": "未解読法則 ～魔大陸アジス･ラー～",
+  "title": "Unknown Laws",
+  "seconds": 663,
+  "kind": "field",
+  "tags": [
+   "sky",
+   "industrial"
+  ]
+ },
+ {
+  "id": "SXzUDHPbBpA",
+  "orig": "座礁 ～制圧巨塔 シリウス大灯台～",
+  "title": "Stranded",
+  "seconds": 727,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ {
+  "id": "18XWUayJUjA",
+  "orig": "堕落 ～廃砦捜索 ダスクヴィジル～",
+  "title": "Fallen",
+  "seconds": 297,
+  "kind": "dungeon",
+  "tags": [
+   "snow",
+   "ruins"
+  ]
+ },
+ {
+  "id": "f8IeUMKQyS0",
+  "orig": "天上の世界 ～アバラシア雲海:夜～",
+  "title": "Heavenly Paradise",
+  "seconds": 298,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "WwOaA7wpqTw",
+  "orig": "製造者責任 ～機工城アレキサンダー:起動編～",
+  "title": "Product Liability",
+  "seconds": 163,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "pKEJb-OVs_8",
+  "orig": "ランドロード ～ドラヴァニア雲海:昼～",
+  "title": "Landlord",
+  "seconds": 285,
+  "kind": "field",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ {
+  "id": "tkuU_oeym1I",
+  "orig": "大らかな家",
+  "title": "A Generous Home",
+  "seconds": 331,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "6IT45ckcZZE",
+  "orig": "永遠の眠り ～霊峰踏破 ソーム･アル～",
+  "title": "Eternal Sleep",
+  "seconds": 345,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "Ul4EYiGaGI8",
+  "orig": "有毒植物 ～草木庭園 聖モシャーヌ植物園～",
+  "title": "Poisonous Plants",
+  "seconds": 364,
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "xYJv8-Mtdrc",
+  "orig": "旅の宿",
+  "title": "A Traveler's Inn",
+  "seconds": 68,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "Z4EZ97iyIUs",
+  "orig": "果てなき蒼 ～蛮神ビスマルク前哨戦～",
+  "title": "Endless Blue",
+  "seconds": 218,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "08NOT-0N7QI",
+  "orig": "宝石 ～雲海探索 ディアデム諸島～",
+  "title": "Jewel",
+  "seconds": 193,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "1frjKV_QWhc",
+  "orig": "スカイロード ～ドラヴァニア雲海:夜～",
+  "title": "Skyroad",
+  "seconds": 265,
+  "kind": "field",
+  "tags": [
+   "sky",
+   "mountain"
+  ]
+ },
+ {
+  "id": "lj-yN0j_LXU",
+  "orig": "静寂の星空 ～低地ドラヴァニア:夜～",
+  "title": "Starlit Silence",
+  "seconds": 214,
+  "kind": "field",
+  "tags": [
+   "forest",
+   "ruins"
+  ]
+ },
+ {
+  "id": "zLG0hYxzD78",
+  "orig": "欠けた頁 ～低地ドラヴァニア:昼～",
+  "title": "Missing Pages",
+  "seconds": 191,
+  "kind": "field",
+  "tags": [
+   "forest",
+   "ruins"
+  ]
+ },
+ {
+  "id": "mnDGQz71S1g",
+  "orig": "夏の雨の如く ～神域浮島 ネバーリープ～",
+  "title": "Like the Summer Rain",
+  "seconds": 352,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "ruins"
+  ]
+ },
+ {
+  "id": "dt1qmqsBCVU",
+  "orig": "邪竜の咆吼 ～邪竜血戦 ドラゴンズエアリー～",
+  "title": "Dragonroar",
+  "seconds": 270,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "04lRHZc1YSw",
+  "orig": "みんなでいれば怖くない",
+  "title": "Together We're Not Afraid",
+  "seconds": 95,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "W6-0PKL2c8Q",
+  "orig": "それは愛くぽ?",
+  "title": "Is It Love, Kupo?",
+  "seconds": 76,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FXjRBoMO9go",
+  "orig": "ホームステッド",
+  "title": "Homestead",
+  "seconds": 173,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "TPPLpDuWCJE",
+  "orig": "エーテル圏 ～魔航船ヴォイドアーク～",
+  "title": "Aetherosphere",
+  "seconds": 222,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "w8PHPSBbIS8",
+  "orig": "発端",
+  "title": "Origin",
+  "seconds": 67,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "16P4xd-Et3M",
+  "orig": "深淵に潜む者 ～魔航船ヴォイドアーク～",
+  "title": "Lurker in the Abyss",
+  "seconds": 305,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "c_XuBDw_btU",
+  "orig": "約束の地",
+  "title": "The Promised Land",
+  "seconds": 239,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "K7BuPr1oZhM",
+  "orig": "雷雨の如く",
+  "title": "Like a Thunderstorm",
+  "seconds": 161,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "NdZVse2WKns",
+  "orig": "忘却の彼方 ～蛮神シヴァ討滅戦～",
+  "title": "Oblivion",
+  "seconds": 480,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "iISFBMJlZe8",
+  "orig": "Pa-Paya",
+  "title": "Pa-Paya",
+  "seconds": 281,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MJVuXfpns4I",
+  "orig": "ビッグブリッヂの死闘 ～新生～",
+  "title": "Battle on the Big Bridge (A Realm Reborn)",
+  "seconds": 266,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "W_mtc2VMF-g",
+  "orig": "悠久の風 ～新生～",
+  "title": "Eternal Wind (A Realm Reborn)",
+  "seconds": 160,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "DX7Doyjkrag",
+  "orig": "Answers - Reprise",
+  "title": "Answers - Reprise",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "RGoiFB5SxWI",
+  "orig": "混沌の渦動 ～蛮神リヴァイアサン討滅戦～",
+  "title": "Through the Maelstrom",
+  "seconds": 449,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Rn8bylpP65c",
+  "orig": "雷光雷鳴 ～蛮神ラムウ討滅戦～",
+  "title": "Thunder Rolls",
+  "seconds": 638,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "geDtqev_vKY",
+  "orig": "混沌の渦動 ～蛮神リヴァイアサン討滅戦:女性版～",
+  "title": "Through the Maelstrom (Female Version)",
+  "seconds": 450,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "CejdxG5HfcA",
+  "orig": "絢爛 ～クリスタルタワー:シルクスの塔～",
+  "title": "Splendor",
+  "seconds": 319,
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "castle"
+  ]
+ },
+ {
+  "id": "ctfDEcasJNs",
+  "orig": "魔大戦の傷跡 ～腐敗遺跡 古アムダプール市街～",
+  "title": "Scars of the Great War",
+  "seconds": 289,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "_JFkoMUp6yg",
+  "orig": "破砕 ～クリスタルタワー:シルクスの塔～",
+  "title": "Shatter",
+  "seconds": 321,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "3ccCBslaMjg",
+  "orig": "嵐の中の灯火 ～怪鳥巨塔 シリウス大灯台～",
+  "title": "A Light in the Storm",
+  "seconds": 489,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "ruins"
+  ]
+ },
+ {
+  "id": "NuGgl-E8soM",
+  "orig": "始祖たる幻龍",
+  "title": "The Primeval Dragon",
+  "seconds": 454,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "w0t830unC_c",
+  "orig": "船乗りには難破を ～蛮神リヴァイアサン前哨戦～",
+  "title": "A Wreck for Sailors",
+  "seconds": 120,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "w7qsTN9F5Aw",
+  "orig": "最後の死闘 ～新生～",
+  "title": "The Final Battle (A Realm Reborn)",
+  "seconds": 269,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "B3Zy2_owRe8",
+  "orig": "薄闇 ～クリスタルタワー:闇の世界～",
+  "title": "Twilight",
+  "seconds": 320,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "vSdNxRKyc2s",
+  "orig": "ドーガとウネの心",
+  "title": "Doga and Unei",
+  "seconds": 126,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "kPTE2UusEIA",
+  "orig": "マンダヴィル･ゴールドソーサー",
+  "title": "Mandaville Gold Saucer",
+  "seconds": 252,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "kpHuFoI-HoE",
+  "orig": "暗闇 ～クリスタルタワー:闇の世界～",
+  "title": "Darkness",
+  "seconds": 309,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "8ctyuJx31RU",
+  "orig": "銀の涙 ～幻龍残骸 黙約の塔～",
+  "title": "Silver Tears",
+  "seconds": 298,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "4CofNw00fY4",
+  "orig": "侵攻",
+  "title": "Invasion",
+  "seconds": 84,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Vk-fK4lMaoc",
+  "orig": "秘密坑道 ～氷結潜窟 スノークローク大氷壁～",
+  "title": "Secret Mine",
+  "seconds": 435,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow"
+  ]
+ },
+ {
+  "id": "0dBcCOw-ly4",
+  "orig": "剣と剣 ～大迷宮 バハムート侵攻編～",
+  "title": "Sword and Sword",
+  "seconds": 370,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "EbircLWPhM0",
+  "orig": "魔導仕掛けの友",
+  "title": "A Magitek Friend",
+  "seconds": 218,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ELkj96pZJGc",
+  "orig": "白銀の凶鳥、飛翔せり",
+  "title": "The Silver Bird Soars",
+  "seconds": 186,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "ZNvq3rE7hPo",
+  "orig": "聖域の罠 ～武装聖域 ワンダラーパレス～",
+  "title": "Sanctuary Trap",
+  "seconds": 363,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "cq_d9P4pH6U",
+  "orig": "戦乱",
+  "title": "Turmoil",
+  "seconds": 377,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "O0-De5OjWfo",
+  "orig": "チョコボレース",
+  "title": "Chocobo Race",
+  "seconds": 164,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wFl0hZpftAo",
+  "orig": "天国の扉",
+  "title": "Heaven's Door",
+  "seconds": 240,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Y2TlsYlOeoE",
+  "orig": "でぶチョコボ騎乗",
+  "title": "Fat Chocobo Riding",
+  "seconds": 155,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "RERj_5JKoRY",
+  "orig": "不屈の挑戦",
+  "title": "Unyielding Challenge",
+  "seconds": 97,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YxmOQVUpYqk",
+  "orig": "血で血を洗って",
+  "title": "Blood for Blood",
+  "seconds": 209,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "mIdbIzJmoyA",
+  "orig": "刃、厚いほどに",
+  "title": "The Thicker the Blade",
+  "seconds": 129,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "cg51UJzoXd4",
+  "orig": "怒れる神々",
+  "title": "Angry Gods",
+  "seconds": 156,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "fW1p_v2ThgE",
+  "orig": "ゲーム理論",
+  "title": "Game Theory",
+  "seconds": 159,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "L3WWShvrIDo",
+  "orig": "憤怒 ～盟友支援 ブレイフロクスの野営地～",
+  "title": "Wrath",
+  "seconds": 156,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "g47TJsJ5p4c",
+  "orig": "メテオ",
+  "title": "Meteor",
+  "seconds": 136,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EbC533ytjZ8",
+  "orig": "漆黒の誓い ～惨劇霊殿 タムタラの墓所～",
+  "title": "Black Oath",
+  "seconds": 277,
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ]
+ },
+ {
+  "id": "HpdYfPCdNtY",
+  "orig": "紅蓮の戦旗の下に ～剣闘領域 ハラタリ修練所～",
+  "title": "Beneath Crimson Banners ~ Halatali (Hard)",
+  "seconds": 172,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "desert"
+  ]
+ },
+ {
+  "id": "oZV3KsTmG0E",
+  "orig": "忍びの刃",
+  "title": "Shinobi's Blade",
+  "seconds": 127,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "sLKSjZhaRiw",
+  "orig": "地平線の彼方 ～財宝伝説 ハルブレーカー･アイル～",
+  "title": "Beyond the Horizon ~ Hullbreaker Isle",
+  "seconds": 187,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "jungle",
+   "cave"
+  ]
+ },
+ {
+  "id": "0tX8MBI9seI",
+  "orig": "紅蓮祭",
+  "title": "Moonfire Faire",
+  "seconds": 125,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rIdOHSZGRFs",
+  "orig": "ノォヴ一味",
+  "title": "Novv's Crew",
+  "seconds": 141,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dKN_bhzYzCU",
+  "orig": "潮衝 ～逆襲要害 サスタシャ浸食洞～",
+  "title": "Tidal Shock ~ Sastasha (Hard)",
+  "seconds": 419,
+  "kind": "dungeon",
+  "tags": [
+   "seaside",
+   "cave",
+   "water"
+  ]
+ },
+ {
+  "id": "QcJBMRcysa8",
+  "orig": "クズテツどもの歌",
+  "title": "Song of the Scrap Iron",
+  "seconds": 101,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dmzSCp8wVUQ",
+  "orig": "戦禍 ～邪念排撃 古城アムダプール～",
+  "title": "Ravages of War ~ Amdapor Keep",
+  "seconds": 384,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "34afG8QvdLQ",
+  "orig": "キャラバン護衛 ～剣闘領域 ハラタリ修練所～",
+  "title": "Caravan Escort ~ Halatali (Hard)",
+  "seconds": 80,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "E35GeZFA1vc",
+  "orig": "槍旗",
+  "title": "Lance and Banner",
+  "seconds": 238,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hIlVLP5Fea8",
+  "orig": "落日の遺跡 ～遺跡救援 カルン埋没寺院～",
+  "title": "Ruins of the Setting Sun ~ The Sunken Temple of Qarn (Hard)",
+  "seconds": 414,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "desert"
+  ]
+ },
+ {
+  "id": "otzOF6psZso",
+  "orig": "仇敵 ～皇都イシュガルド防衛戦～",
+  "title": "Archenemy ~ Defense of Ishgard",
+  "seconds": 143,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "0RxT_v-m8EM",
+  "orig": "何よりも高く",
+  "title": "Higher Than All",
+  "seconds": 102,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wTQPsssKtVk",
+  "orig": "死闘の序曲",
+  "title": "Prelude to a Deadly Battle",
+  "seconds": 39,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wdrN4_heT5Q",
+  "orig": "作戦会議室",
+  "title": "War Council",
+  "seconds": 242,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "cxR_oEoyjQs",
+  "orig": "総員抜剣!",
+  "title": "All Hands, Draw Swords!",
+  "seconds": 171,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "kpYcqYxANvU",
+  "orig": "永遠の誓い",
+  "title": "Eternal Vow",
+  "seconds": 312,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GFqtpATE6To",
+  "orig": "時はこぼれ落ちて",
+  "title": "Time Slips Away",
+  "seconds": 101,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Xskwr6OoxeI",
+  "orig": "教皇",
+  "title": "Archbishop",
+  "seconds": 69,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QK-kOJs3aso",
+  "orig": "天より降りし力",
+  "title": "Torn from the Heavens",
+  "seconds": 312,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "K-9c17fbTxY",
+  "orig": "究極幻想",
+  "title": "Ultima",
+  "seconds": 431,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "uHmFVkIxEKU",
+  "orig": "神なき世界",
+  "title": "A World Without Gods",
+  "seconds": 172,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aU3q08jC6os",
+  "orig": "夢見る女王陛下",
+  "title": "Her Majesty the Dreaming Queen",
+  "seconds": 426,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "KkNNM0uM1N8",
+  "orig": "プレリュード ～冒険の序章～",
+  "title": "Prelude ~ Discoveries",
+  "seconds": 631,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4DzZIqJkb6s",
+  "orig": "静穏の森",
+  "title": "Serene Forest",
+  "seconds": 353,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "6PGrJczAO-A",
+  "orig": "過重圧殺! ～蛮神タイタン討滅戦～",
+  "title": "Under the Weight ~ The Navel (Hard)",
+  "seconds": 695,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "p__uF4z-rGw",
+  "orig": "宿命",
+  "title": "Destiny",
+  "seconds": 253,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "zb2L-zwvtqE",
+  "orig": "プレリュード ～再誕の煌めき～",
+  "title": "Prelude ~ Glimmer of Rebirth",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rF4t-x8xN3E",
+  "orig": "希望の都",
+  "title": "City of Hope",
+  "seconds": 685,
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "id": "N43KJhWPrK8",
+  "orig": "灼熱の地へ",
+  "title": "To the Scorching Lands",
+  "seconds": 395,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "wCK7jLGcN7I",
+  "orig": "雷鳴",
+  "title": "Thunder Rolls",
+  "seconds": 305,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "2JTtZsVjCFI",
+  "orig": "そして世界へ",
+  "title": "And to the World",
+  "seconds": 219,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "B-tDrYUaAns",
+  "orig": "偉大なる母港",
+  "title": "Navigator's Glory",
+  "seconds": 839,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "5N5Zjgh0AwA",
+  "orig": "水車の調べ",
+  "title": "Wailers and Waterwheels",
+  "seconds": 687,
+  "kind": "town",
+  "tags": [
+   "city",
+   "forest"
+  ]
+ },
+ {
+  "id": "xw8nOFNMbPE",
+  "orig": "勝利のファンファーレ ～新生 (フル) ～",
+  "title": "Victory Fanfare ~ A Realm Reborn (Full)",
+  "seconds": 102,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_9EYQ6brwpo",
+  "orig": "堕天せし者",
+  "title": "The Fallen Angel",
+  "seconds": 271,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "udPZTAZCe5U",
+  "orig": "潮風香る街",
+  "title": "Town Scented by the Sea Breeze",
+  "seconds": 110,
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ {
+  "id": "TNWC4kTynNQ",
+  "orig": "ネメシス",
+  "title": "Nemesis",
+  "seconds": 293,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "8SwPB2-NAVg",
+  "orig": "善王モグル･モグXII世",
+  "title": "Good King Moggle Mog XII",
+  "seconds": 194,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "0rgW-Cbbtc0",
+  "orig": "荒野の鼓動",
+  "title": "Pulse of the Wilds",
+  "seconds": 185,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "tFpQmiH2ZZw",
+  "orig": "名誉に賭けて",
+  "title": "On Honor's Wager",
+  "seconds": 192,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GzkVQxK0Q88",
+  "orig": "砂の家",
+  "title": "The Waking Sands",
+  "seconds": 251,
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ]
+ },
+ {
+  "id": "VETYSUtX6PY",
+  "orig": "魔導城プラエトリウム",
+  "title": "The Praetorium",
+  "seconds": 859,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "industrial"
+  ]
+ },
+ {
+  "id": "JfbtVpNfQ4A",
+  "orig": "船乗りは眠らない",
+  "title": "Sailors Never Sleep",
+  "seconds": 466,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "PL2D4l1Ppy8",
+  "orig": "試練を超える力",
+  "title": "Power Beyond the Trials",
+  "seconds": 489,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "dzjewdFEwjo",
+  "orig": "戦闘シーン1.X",
+  "title": "Battle Scene 1.X",
+  "seconds": 211,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "T4Te9sa7QlM",
+  "orig": "体暖まる場所",
+  "title": "A Place to Warm the Body",
+  "seconds": 322,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "M69fgk13Dg0",
+  "orig": "西風に乗せて",
+  "title": "On Westerly Winds",
+  "seconds": 320,
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ]
+ },
+ {
+  "id": "gCu9Vq2TbUE",
+  "orig": "蛍たちの舞踏会",
+  "title": "Ball of the Fireflies",
+  "seconds": 265,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "Zxx3bSKX6t8",
+  "orig": "生命の賜物",
+  "title": "Gift of Life",
+  "seconds": 68,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jQTJD9f8KRA",
+  "orig": "不屈の闘志",
+  "title": "Indomitable Spirit",
+  "seconds": 306,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "gDOBP-T4ORE",
+  "orig": "螺旋",
+  "title": "Spiral",
+  "seconds": 415,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial"
+  ]
+ },
+ {
+  "id": "fV-lVkV6ZJg",
+  "orig": "無常の喜び",
+  "title": "Fleeting Joy",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0KVJravl_Ew",
+  "orig": "大地の鼓動",
+  "title": "Pulse of the Land",
+  "seconds": 185,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "ayazprlxbyk",
+  "orig": "エオルゼア de チョコボ",
+  "title": "Chocobo in Eorzea",
+  "seconds": 154,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "jQbTfqfwwG0",
+  "orig": "もう一杯!",
+  "title": "One More Round!",
+  "seconds": 137,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "QAFMW-ZGmaI",
+  "orig": "忠義",
+  "title": "Loyalty",
+  "seconds": 214,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Cln4Sm2lgtE",
+  "orig": "And You! ～新生エオルゼアメドレー～",
+  "title": "And You! ~ A Realm Reborn Medley",
+  "seconds": 161,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hUSR2JzEauI",
+  "orig": "レンタル de チョコボ",
+  "title": "Rental Chocobo",
+  "seconds": 118,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "It09J-8aOq4",
+  "orig": "英雄の凱旋",
+  "title": "Triumphant Return of the Hero",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yB2WQrRfcvU",
+  "orig": "不穏な気配",
+  "title": "Ominous Presence",
+  "seconds": 86,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "j5HyqLBH6zw",
+  "orig": "奈落へ",
+  "title": "Into the Abyss",
+  "seconds": 407,
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "cave"
+  ]
+ },
+ {
+  "id": "XBJUTYQfUCc",
+  "orig": "儚き光彩",
+  "title": "Fleeting Radiance",
+  "seconds": 98,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EDMSiBo06lc",
+  "orig": "精霊の意思",
+  "title": "Will of the Elementals",
+  "seconds": 84,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WCWF7bnUZ_E",
+  "orig": "その背に揺られて",
+  "title": "Swaying on Its Back",
+  "seconds": 199,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "GXVuizEdxG0",
+  "orig": "戦友",
+  "title": "Comrades in Arms",
+  "seconds": 392,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PmMOqNfvOKI",
+  "orig": "森の鼓動",
+  "title": "Pulse of the Forest",
+  "seconds": 170,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "mSMWdUgPsh0",
+  "orig": "心温まる場所",
+  "title": "A Place to Warm the Heart",
+  "seconds": 160,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "KE3mZnfGXSI",
+  "orig": "永遠の離別",
+  "title": "Eternal Farewell",
+  "seconds": 179,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iD3Q-O-PzFY",
+  "orig": "豪勇の士",
+  "title": "The Valiant",
+  "seconds": 262,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "NtLpBa_klEQ",
+  "orig": "エオルゼアの守護者",
+  "title": "Guardians of Eorzea",
+  "seconds": 141,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "r1qPdyG_kX8",
+  "orig": "原始の審判",
+  "title": "Primal Judgment",
+  "seconds": 186,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "DAbdQlO1aCw",
+  "orig": "新時代の暁",
+  "title": "Dawn of a New Era",
+  "seconds": 68,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5B8G9PoUKMQ",
+  "orig": "爆ぜよ耐熱装備",
+  "title": "Burst, Heat-Resistant Gear!",
+  "seconds": 140,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BYwDsXAnyIs",
+  "orig": "クリスタルの雨",
+  "title": "Crystal Rain",
+  "seconds": 56,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Iq_g0uIvoBw",
+  "orig": "タイタンの慟哭",
+  "title": "Titan's Lament",
+  "seconds": 101,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Echt4HeUXSw",
+  "orig": "戦士の直感",
+  "title": "Warrior's Instinct",
+  "seconds": 176,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "Qw3q1PJUpO8",
+  "orig": "漆黒の王狼、咆吼せり",
+  "title": "The Black Wolf Stalks Again",
+  "seconds": 277,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ph83TTJr0Sk",
+  "orig": "隠し財宝を求めて",
+  "title": "In Search of Hidden Treasure",
+  "seconds": 229,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "X8qUpoh5-O0",
+  "orig": "極限を超えて",
+  "title": "Beyond the Limit",
+  "seconds": 120,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "o-InYxXXknI",
+  "orig": "輝く太陽",
+  "title": "Shining Sun",
+  "seconds": 238,
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "id": "Uc2X1WW8u9Q",
+  "orig": "傲慢",
+  "title": "Arrogance",
+  "seconds": 353,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "xNEKvweJ_zk",
+  "orig": "事件屋のアレ",
+  "title": "That Thing of the Troubleshooter",
+  "seconds": 105,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jy1FMV9U1Ug",
+  "orig": "イタズラっ子たち",
+  "title": "Little Mischief Makers",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0nMg0yTnHCo",
+  "orig": "血脈",
+  "title": "Bloodline",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_HqdjvWhkJU",
+  "orig": "真実を求めて",
+  "title": "In Search of Truth",
+  "seconds": 392,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PCzk_-CAWwo",
+  "orig": "闇の抱擁",
+  "title": "Embrace of Darkness",
+  "seconds": 121,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "f9zktl7V5W4",
+  "orig": "潮流",
+  "title": "Tides",
+  "seconds": 52,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "juDl5hy3mbQ",
+  "orig": "第七星暦",
+  "title": "The Seventh Umbral Era",
+  "seconds": 301,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "BGHdY0Q6tg0",
+  "orig": "タイタンの憤怒",
+  "title": "Titan's Fury",
+  "seconds": 173,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "iBGEdwCyqsU",
+  "orig": "天上へ",
+  "title": "To the Heavens",
+  "seconds": 361,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CefspGlIlEE",
+  "orig": "水晶の鼓動",
+  "title": "Pulse of the Crystal",
+  "seconds": 186,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-PHOhHb_YvM",
+  "orig": "黒き悪魔",
+  "title": "The Black Devil",
+  "seconds": 122,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "HNS8ZbPG5ns",
+  "orig": "タイタンの激震",
+  "title": "Titan's Quake",
+  "seconds": 96,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "tF0YfNdzZ8A",
+  "orig": "フロンティア",
+  "title": "Frontier",
+  "seconds": 206,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "Ns1meSkFpbw",
+  "orig": "リフレクション",
+  "title": "Reflection",
+  "seconds": 129,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "2J-bPsJUjUw",
+  "orig": "蒼き翼",
+  "title": "Azure Wings",
+  "seconds": 217,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QNgcCnGR_3E",
+  "orig": "仄暗い底から",
+  "title": "From the Dim Depths",
+  "seconds": 95,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ {
+  "id": "1rLpeqDzB-E",
+  "orig": "燻る灰",
+  "title": "Smoldering Ashes",
+  "seconds": 90,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "19E5p4od1vc",
+  "orig": "斬",
+  "title": "Slash",
+  "seconds": 651,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "S_w5S1UqAAU",
+  "orig": "魔導の軍勢",
+  "title": "Magitek Legions",
+  "seconds": 507,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "zBPACp94-58",
+  "orig": "乙女の哀歌",
+  "title": "Maiden's Lament",
+  "seconds": 81,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Xp8bEeXMNyk",
+  "orig": "タイタンの心核",
+  "title": "Heart of Titan",
+  "seconds": 137,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "RUfT-aUJGmE",
+  "orig": "炎獄の火種",
+  "title": "Embers of the Inferno",
+  "seconds": 117,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "B6BAOZ0flnk",
+  "orig": "我が魂を捧げて",
+  "title": "I Offer My Soul",
+  "seconds": 129,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hvgzF4BtY34",
+  "orig": "妨げられた眠り",
+  "title": "Disturbed Slumber",
+  "seconds": 75,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "GL3vQUWBkq8",
+  "orig": "薄闇に射す光",
+  "title": "Light in the Gloom",
+  "seconds": 114,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "sAdbSY8LW8o",
+  "orig": "地下坑道",
+  "title": "Underground Mines",
+  "seconds": 97,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "industrial"
+  ]
+ },
+ {
+  "id": "1V8W8lqzSY4",
+  "orig": "堂々巡り",
+  "title": "Going in Circles",
+  "seconds": 128,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "pe-AGviZ82U",
+  "orig": "トンベリの涙",
+  "title": "Tears of the Tonberry",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gRBfejewFBA",
+  "orig": "雪山の鼓動",
+  "title": "Pulse of the Snowy Peaks",
+  "seconds": 200,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "SpmkpZrjEao",
+  "orig": "交錯",
+  "title": "Crossroads",
+  "seconds": 213,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dASBSY30oIk",
+  "orig": "奸計",
+  "title": "Treachery",
+  "seconds": 134,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "HxFlsiFwM5E",
+  "orig": "星の囁き",
+  "title": "Whispers of the Star",
+  "seconds": 37,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "P2bbcrNpzSg",
+  "orig": "世にも奇妙な厄介者",
+  "title": "A Most Peculiar Nuisance",
+  "seconds": 115,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Dwl9DaaGUdM",
+  "orig": "終局",
+  "title": "Finale",
+  "seconds": 76,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9-5yhHLlNiY",
+  "orig": "軍議",
+  "title": "Council of War",
+  "seconds": 89,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "SsbZUjJHMAY",
+  "orig": "混沌の予感",
+  "title": "Premonition of Chaos",
+  "seconds": 104,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gr1LAEmivZA",
+  "orig": "鋼の信仰",
+  "title": "Faith of Steel",
+  "seconds": 56,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "vAUYLvTkRkg",
+  "orig": "竜の葬送歌",
+  "title": "Dragon's Requiem",
+  "seconds": 62,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jE1N6RZDhq8",
+  "orig": "千の悲鳴",
+  "title": "A Thousand Screams",
+  "seconds": 59,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_tQPeWLzXec",
+  "orig": "疾きこと銀の如く、硬きこと石の如く",
+  "title": "Swift as Silver, Hard as Stone",
+  "seconds": 151,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ooQL3eqgDv8",
+  "orig": "闘士の修練所",
+  "title": "The Fighters' Training Ground",
+  "seconds": 86,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "gkfBXa-HAjU",
+  "orig": "光の加護",
+  "title": "Blessing of Light",
+  "seconds": 65,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "oFjUxkvo_n8",
+  "orig": "猛き嵐の剣に",
+  "title": "To the Sword of the Fierce Storm",
+  "seconds": 156,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DwYNdvSgUVQ",
+  "orig": "昔日の残響",
+  "title": "Echoes of Days Past",
+  "seconds": 56,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "aL1ENv0Wh-Y",
+  "orig": "野営地のお調子者",
+  "title": "The Camp Jester",
+  "seconds": 69,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "L1oBub-kng8",
+  "orig": "闇の口付",
+  "title": "Kiss of Darkness",
+  "seconds": 123,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9ZLsJ_TsV0M",
+  "orig": "ただひとつの道",
+  "title": "The Only Path",
+  "seconds": 60,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0NQHJfaLWgM",
+  "orig": "破滅",
+  "title": "Ruin",
+  "seconds": 64,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "XuFZiIYZzdk",
+  "orig": "極寒戦線",
+  "title": "Frozen Front",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fo_7QUxLZL0",
+  "orig": "憎悪",
+  "title": "Hatred",
+  "seconds": 63,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_PPVgzKQmy0",
+  "orig": "古城にて……",
+  "title": "In the Old Castle...",
+  "seconds": 76,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ]
+ },
+ {
+  "id": "RByT0zRy8tA",
+  "orig": "ゼーメル要塞",
+  "title": "Dzemael Darkhold",
+  "seconds": 73,
+  "kind": "dungeon",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "ipVNS2DtOxY",
+  "orig": "守銭奴の愚行",
+  "title": "The Miser's Folly",
+  "seconds": 70,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "itfj1PUmpiU",
+  "orig": "堕天せし者",
+  "title": "The Fallen",
+  "seconds": 429,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "hxloV6X0vfE",
+  "orig": "鋼の理念",
+  "title": "Ideals of Steel",
+  "seconds": 257,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "V1H0x41kGj8",
+  "orig": "ザナラーンの黄昏",
+  "title": "Twilight over Thanalan",
+  "seconds": 252,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "yJaNpV_vDwE",
+  "orig": "善王モグル･モグXII世",
+  "title": "Good King Moggle Mog XII",
+  "seconds": 338,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "Abnc8aSX5ic",
+  "orig": "プレリュード ～追憶の煌めき～",
+  "title": "Prelude - Glimmer of Remembrance",
+  "seconds": 351,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "MgHcg_UOPCw",
+  "orig": "白銀の凶鳥、飛翔せり",
+  "title": "The Silver Harbinger Takes Flight",
+  "seconds": 352,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "sFKL3uEWcyg",
+  "orig": "戦乱",
+  "title": "Turmoil of War",
+  "seconds": 472,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "rThNaoLGau8",
+  "orig": "運命の交わる街 ～ウルダハのテーマ～",
+  "title": "Where Fates Converge - Theme of Ul'dah",
+  "seconds": 332,
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "id": "kfvbUVS4mDI",
+  "orig": "ラノシアの疾風",
+  "title": "Gales of La Noscea",
+  "seconds": 318,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ]
+ },
+ {
+  "id": "oC8ei478StU",
+  "orig": "天楔",
+  "title": "Heavenly Wedge",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4vR0wo911N0",
+  "orig": "オープニングテーマ",
+  "title": "Opening Theme",
+  "seconds": 356,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "vvAOfnnYSmQ",
+  "orig": "極限を超えて",
+  "title": "Beyond the Limit",
+  "seconds": 200,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "sTTRa1Et3jU",
+  "orig": "静かなる一刻",
+  "title": "A Quiet Moment",
+  "seconds": 129,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mlpdgioe2aY",
+  "orig": "潮風の集う街 ～リムサ･ロミンサのテーマ～",
+  "title": "Where the Sea Breeze Gathers - Theme of Limsa Lominsa",
+  "seconds": 237,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "p7qbE-oItdI",
+  "orig": "安らぎの部屋",
+  "title": "Room of Respite",
+  "seconds": 208,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "ma2rRkE_OZI",
+  "orig": "木々のさざめく街 ～グリダニアのテーマ～",
+  "title": "Where the Trees Whisper - Theme of Gridania",
+  "seconds": 303,
+  "kind": "town",
+  "tags": [
+   "city",
+   "forest"
+  ]
+ },
+ {
+  "id": "_KN07NHn-_w",
+  "orig": "冥き地の底に",
+  "title": "In the Dark Depths",
+  "seconds": 329,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ]
+ },
+ {
+  "id": "TQE2ns7cV9g",
+  "orig": "自由なる風に吹かれて",
+  "title": "Borne on Free Winds",
+  "seconds": 330,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "pzGqon33whQ",
+  "orig": "クルザスの静寂",
+  "title": "Silence of Coerthas",
+  "seconds": 193,
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "PJ8oZWqrxEk",
+  "orig": "槍旗",
+  "title": "Spear and Banner",
+  "seconds": 361,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "HLf0OXOfe8g",
+  "orig": "心の故郷",
+  "title": "Home of the Heart",
+  "seconds": 154,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "28LbG4L0z-c",
+  "orig": "旭影を追いかけ",
+  "title": "Chasing the Morning Sun",
+  "seconds": 209,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "T9xlp84WGWg",
+  "orig": "夢見るは遙かなる空",
+  "title": "Dreaming of Distant Skies",
+  "seconds": 80,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "SmtYRLsb0Hs",
+  "orig": "黒衣の迷宮",
+  "title": "Labyrinth of the Black Shroud",
+  "seconds": 213,
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "dZ5O6c7oFRo",
+  "orig": "鳴動",
+  "title": "Rumbling",
+  "seconds": 184,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "SyPQR5vZFlM",
+  "orig": "事件屋のアレ",
+  "title": "That Troubleshooter Thing",
+  "seconds": 164,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "o0ybjhRHavg",
+  "orig": "勝利のファンファーレ ～凱歌～ (ロング)",
+  "title": "Victory Fanfare - Song of Triumph (Long)",
+  "seconds": 41,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rySBhoOulXk",
+  "orig": "祈りの歌",
+  "title": "Song of Prayer",
+  "seconds": 79,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ufSw1jZRmrM",
+  "orig": "砂礫を踏みしめ",
+  "title": "Treading the Sands",
+  "seconds": 200,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "I7CJS-a0DnY",
+  "orig": "紅蓮の戦旗の下に",
+  "title": "Under the Crimson Banner",
+  "seconds": 350,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_lEcvCyDY5c",
+  "orig": "バイデザイン",
+  "title": "By Design",
+  "seconds": 141,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Idued9Al7eU",
+  "orig": "原始の審判",
+  "title": "Primal Judgment",
+  "seconds": 307,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "zkNAxllpxZQ",
+  "orig": "日溜り",
+  "title": "Sunlit Spot",
+  "seconds": 107,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "-r4EPE719Es",
+  "orig": "モーグリ行進曲",
+  "title": "Moogle March",
+  "seconds": 44,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JUqvA2QK-Xg",
+  "orig": "帝国の意志",
+  "title": "Imperial Will",
+  "seconds": 309,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "R0naQZKI2Xg",
+  "orig": "星芒祭",
+  "title": "Starlight Celebration",
+  "seconds": 365,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fdMu0StIiBk",
+  "orig": "草藪を掻きわけ",
+  "title": "Through the Thicket",
+  "seconds": 208,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "2pB5OG2nyLA",
+  "orig": "闇の抱擁",
+  "title": "Embrace of Darkness",
+  "seconds": 213,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "uLhOJDJwOtM",
+  "orig": "ノー･クォーター",
+  "title": "No Quarter",
+  "seconds": 245,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "xPnXZwbkkK0",
+  "orig": "幽境",
+  "title": "Otherworld",
+  "seconds": 320,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "dRE5CYzbKNQ",
+  "orig": "哀愁",
+  "title": "Melancholy",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JXxtvNy220E",
+  "orig": "焦燥の旅路",
+  "title": "Restless Journey",
+  "seconds": 79,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "rOrruHErdJI",
+  "orig": "駆け引き",
+  "title": "Gambit",
+  "seconds": 150,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "1-rgIfXBs0E",
+  "orig": "エーテルのまどろみ",
+  "title": "Aetherial Slumber",
+  "seconds": 198,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Ceu0iq6sieU",
+  "orig": "深き海の淵に",
+  "title": "At the Edge of the Deep Sea",
+  "seconds": 205,
+  "kind": "dungeon",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "cB0z1QM34jM",
+  "orig": "古のジョブ",
+  "title": "Ancient Jobs",
+  "seconds": 118,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JmAgIwSPMiE",
+  "orig": "街路の雑踏",
+  "title": "Bustling Streets",
+  "seconds": 105,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "N2_nkFkkNCg",
+  "orig": "メテオ",
+  "title": "Meteor",
+  "seconds": 247,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0oTBGqAKZYI",
+  "orig": "桟道を上りて",
+  "title": "Up the Plank Road",
+  "seconds": 230,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "j85y3Lii03k",
+  "orig": "淡き光の夢に",
+  "title": "In a Dream of Pale Light",
+  "seconds": 242,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "pY2xyUJbI3k",
+  "orig": "忍び寄る闇",
+  "title": "Creeping Darkness",
+  "seconds": 189,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "fE-XCE9_AfI",
+  "orig": "エオルゼア de チョコボ",
+  "title": "Chocobos in Eorzea",
+  "seconds": 264,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "6ehMA6fq8wE",
+  "orig": "地平線の彼方",
+  "title": "Beyond the Horizon",
+  "seconds": 171,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "GE34Mvb71pQ",
+  "orig": "全隊前へ!",
+  "title": "All Squads Forward!",
+  "seconds": 393,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "XlSykT5NIo4",
+  "orig": "前触れ",
+  "title": "Harbinger",
+  "seconds": 152,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jLOdZxUTwss",
+  "orig": "自然の賜物",
+  "title": "Nature's Bounty",
+  "seconds": 142,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "5Q6nasSwgXo",
+  "orig": "汗を流して",
+  "title": "Working Up a Sweat",
+  "seconds": 149,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qyJdmjqMBLY",
+  "orig": "追憶の迷路",
+  "title": "Labyrinth of Memories",
+  "seconds": 106,
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ]
+ },
+ {
+  "id": "RvXCe_TgkOw",
+  "orig": "すべてはこの手から",
+  "title": "All by These Hands",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "qrDKKn2iR0U",
+  "orig": "レンタル de チョコボ",
+  "title": "Rental Chocobo",
+  "seconds": 174,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "w67RHXcFlS8",
+  "orig": "ネメシス",
+  "title": "Nemesis",
+  "seconds": 294,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "ewjzN9rbC4w",
+  "orig": "憤怒",
+  "title": "Wrath",
+  "seconds": 319,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "EPvlKBG_K6Y",
+  "orig": "試練の戦い",
+  "title": "Trial by Battle",
+  "seconds": 341,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "rlOFB-zgUrw",
+  "orig": "露の玉、月の光",
+  "title": "Dewdrops and Moonlight",
+  "seconds": 105,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "xSiA9O8nEog",
+  "orig": "帰るべき場所",
+  "title": "A Place to Return",
+  "seconds": 148,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "s0iPw_uT1yE",
+  "orig": "炎獄の火種",
+  "title": "Embers of Hellfire",
+  "seconds": 176,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "j9etk7aWOZI",
+  "orig": "紅き焔の熱に",
+  "title": "In the Heat of the Crimson Flame",
+  "seconds": 302,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wt8mA6j7IZU",
+  "orig": "紅蓮祭",
+  "title": "Moonfire Faire",
+  "seconds": 203,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "Ss7kUZUZBD8",
+  "orig": "降神祭",
+  "title": "Heavensturn",
+  "seconds": 267,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "vP4lg2fuVqI",
+  "orig": "守護天節",
+  "title": "All Saints' Wake",
+  "seconds": 195,
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "id": "sRxgSE0hbcs",
+  "orig": "清浄なる心",
+  "title": "A Pure Heart",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Wd_utvo4wpY",
+  "orig": "怒れる神々",
+  "title": "Wrath of the Gods",
+  "seconds": 231,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "1wpmpu4iLT8",
+  "orig": "永遠の誓い",
+  "title": "Eternal Vow",
+  "seconds": 158,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "vsC41TL7y9M",
+  "orig": "闇の口付",
+  "title": "Kiss of Darkness",
+  "seconds": 209,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "JB5uo6b8KMc",
+  "orig": "蛮勇",
+  "title": "Valor",
+  "seconds": 242,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "d3OXXnu_vWM",
+  "orig": "疑惑の廻廊",
+  "title": "Corridor of Doubt",
+  "seconds": 128,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "ktbMiDA5UPE",
+  "orig": "また、ここから",
+  "title": "From Here, Once More",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hkLTnvL64o0",
+  "orig": "七匹の道化たち",
+  "title": "The Seven Jesters",
+  "seconds": 183,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gvkuuz8rvvM",
+  "orig": "夢はいまも……",
+  "title": "Dreams Still...",
+  "seconds": 212,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "r4tyeMuIGb8",
+  "orig": "洋上の小波",
+  "title": "Ripples on the Sea",
+  "seconds": 76,
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ]
+ },
+ {
+  "id": "zGdUwemAvoo",
+  "orig": "運命の導き",
+  "title": "Guided by Fate",
+  "seconds": 271,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "WwkWrV9bh0s",
+  "orig": "疾きこと銀の如く、硬きこと石の如く",
+  "title": "Swift as Silver, Solid as Stone",
+  "seconds": 300,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "khzH9lWzYGA",
+  "orig": "黒渦団軍令部",
+  "title": "Maelstrom Command",
+  "seconds": 351,
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "petUUrVMJJY",
+  "orig": "猛き嵐の剣に",
+  "title": "By the Sword of the Raging Storm",
+  "seconds": 255,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PzuM8_MQuWM",
+  "orig": "不滅隊作戦本部",
+  "title": "Hall of Flames",
+  "seconds": 274,
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "id": "w8zceKuRE7I",
+  "orig": "砂の機密",
+  "title": "Secrets of the Sands",
+  "seconds": 90,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "NDrKRqLf-ws",
+  "orig": "双蛇党統合司令部",
+  "title": "Adders' Nest",
+  "seconds": 301,
+  "kind": "town",
+  "tags": [
+   "city",
+   "forest"
+  ]
+ },
+ {
+  "id": "MVMzecleSzI",
+  "orig": "とんずら!",
+  "title": "Run Away!",
+  "seconds": 113,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "VPFgdUigpfo",
+  "orig": "大空へ",
+  "title": "To the Skies",
+  "seconds": 29,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "EeX9U6PhwGA",
+  "orig": "キャラバン護衛",
+  "title": "Caravan Escort",
+  "seconds": 85,
+  "kind": "battle",
+  "tags": []
+ }
+]

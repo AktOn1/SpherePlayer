@@ -1,0 +1,8871 @@
+[
+ {
+  "game": "Final Fantasy II",
+  "id": "fPaqiLZ7mlg",
+  "orig": "[Video Soundtrack] The Rebel Army [FINAL FANTASY II]",
+  "title": "The Rebel Army",
+  "seconds": 76,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy II",
+  "id": "WyQtMXllON4",
+  "orig": "[Video Soundtrack] The Imperial Army [FINAL FANTASY II]",
+  "title": "The Imperial Army",
+  "seconds": 91,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy II",
+  "id": "NByyITBkMWY",
+  "orig": "[Video Soundtrack] Shop [FINAL FANTASY II]",
+  "title": "Shop",
+  "seconds": 41,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "79iWS0reUGA",
+  "orig": "[Video Soundtrack] Eternal Wind [FINAL FANTASY III]",
+  "title": "Eternal Wind",
+  "seconds": 130,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "jRLPcxQsEpM",
+  "orig": "[Video Soundtrack] Jinn, the Fire [FINAL FANTASY III]",
+  "title": "Jinn, the Fire",
+  "seconds": 77,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "ubzzMNnjRYg",
+  "orig": "[Video Soundtrack] Sailing Enterprise [FINAL FANTASY III]",
+  "title": "Sailing Enterprise",
+  "seconds": 65,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "seaside",
+    "water"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "gY_WDGiB4Js",
+  "orig": "[Video Soundtrack] Time Remains [FINAL FANTASY III]",
+  "title": "Time Remains",
+  "seconds": 108,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "jblNgM6CB5E",
+  "orig": "[Video Soundtrack] Big Chocobo! [FINAL FANTASY III]",
+  "title": "Big Chocobo!",
+  "seconds": 32,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "EOScbqbj46k",
+  "orig": "[Video Soundtrack] Tower of Owen [FINAL FANTASY III]",
+  "title": "Tower of Owen",
+  "seconds": 68,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "castle",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "oJgU63ONfPU",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY III]",
+  "title": "Battle 2",
+  "seconds": 103,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy III",
+  "id": "18cIBK-jsFI",
+  "orig": "[Video Soundtrack] Deep under the Water [FINAL FANTASY III]",
+  "title": "Deep Under the Water",
+  "seconds": 116,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "FQYEF_TShPU",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY IV]",
+  "title": "Battle 2",
+  "seconds": 146,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "6Ljuo_3w4y0",
+  "orig": "[Video Soundtrack] Golbez, Clad In Darkness [FINAL FANTASY IV]",
+  "title": "Golbez, Clad in Darkness",
+  "seconds": 128,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "KDRVex_tqhw",
+  "orig": "[Video Soundtrack] Troian Beauty [FINAL FANTASY IV]",
+  "title": "Troian Beauty",
+  "seconds": 118,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "S_JqVp-lMzQ",
+  "orig": "[Video Soundtrack] Samba de Chocobo! [FINAL FANTASY IV]",
+  "title": "Samba de Chocobo!",
+  "seconds": 78,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "KyJpb_65Y44",
+  "orig": "[Video Soundtrack] Somewhere In the World… [FINAL FANTASY IV]",
+  "title": "Somewhere in the World",
+  "seconds": 67,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "TMEJxbw4tB4",
+  "orig": "[Video Soundtrack] Land of Dwarves [FINAL FANTASY IV]",
+  "title": "Land of the Dwarves",
+  "seconds": 125,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "cave",
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "Ui7mx17OHrw",
+  "orig": "[Video Soundtrack] Giott, King of the Dwarves [FINAL FANTASY IV]",
+  "title": "Giott, King of the Dwarves",
+  "seconds": 84,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "cRGD6AzwHos",
+  "orig": "[Video Soundtrack] Dancing Calbrena [FINAL FANTASY IV]",
+  "title": "Dancing Calcabrina",
+  "seconds": 78,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "lNIXRKRsqOo",
+  "orig": "[Video Soundtrack] Another Moon [FINAL FANTASY IV]",
+  "title": "Another Moon",
+  "seconds": 136,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "crystal",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "WW597fhx0pQ",
+  "orig": "[Video Soundtrack] The Lunarians [FINAL FANTASY IV]",
+  "title": "The Lunarians",
+  "seconds": 142,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "jGzBMDDBl5Q",
+  "orig": "[Video Soundtrack] Within the Giant [FINAL FANTASY IV]",
+  "title": "Within the Giant",
+  "seconds": 146,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "BVfFfms6zUw",
+  "orig": "[Video Soundtrack] Chocobo Forest [FINAL FANTASY IV]",
+  "title": "Chocobo Forest",
+  "seconds": 36,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IV",
+  "id": "CRkNFPSFbCk",
+  "orig": "[Video Soundtrack] The Serpent Road [FINAL FANTASY IV]",
+  "title": "The Serpent Road",
+  "seconds": 36,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "DQevG_6xpmo",
+  "orig": "[Video Soundtrack] Vivi's Theme [FINAL FANTASY IX]",
+  "title": "Vivi's Theme",
+  "seconds": 193,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "UGZ7y89w0xo",
+  "orig": "[Video Soundtrack] Swords of Fury [FINAL FANTASY IX]",
+  "title": "Swords of Fury",
+  "seconds": 165,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "9mZD60iH3WI",
+  "orig": "[Video Soundtrack] Court Jesters [FINAL FANTASY IX]",
+  "title": "Court Jesters",
+  "seconds": 203,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "OZznCNWFLuc",
+  "orig": "[Video Soundtrack] Qu's Marsh [FINAL FANTASY IX]",
+  "title": "Qu's Marsh",
+  "seconds": 199,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "swamp"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "swamp",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "8vSY0BpDR40",
+  "orig": "[Video Soundtrack] Aloha de Chocobo [FINAL FANTASY IX]",
+  "title": "Aloha de Chocobo",
+  "seconds": 178,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "glm7DS4V-x8",
+  "orig": "[Video Soundtrack] Ukulele de Chocobo [FINAL FANTASY IX]",
+  "title": "Ukulele de Chocobo",
+  "seconds": 145,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "gq8QRvDV154",
+  "orig": "[Video Soundtrack] South Gate [FINAL FANTASY IX]",
+  "title": "South Gate",
+  "seconds": 179,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "FyQOW5RuYnE",
+  "orig": "[Video Soundtrack] Faerie Battle [FINAL FANTASY IX]",
+  "title": "Faerie Battle",
+  "seconds": 151,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "ZLiCd300sgE",
+  "orig": "[Video Soundtrack] Kingdom of Burmecia [FINAL FANTASY IX]",
+  "title": "Kingdom of Burmecia",
+  "seconds": 238,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "city",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "water"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "DXARwq3sH0k",
+  "orig": "[Video Soundtrack] Amarant's Theme [FINAL FANTASY IX]",
+  "title": "Amarant's Theme",
+  "seconds": 152,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "VnQ7G90fxiA",
+  "orig": "[Video Soundtrack] Esto Gaza [FINAL FANTASY IX]",
+  "title": "Esto Gaza",
+  "seconds": 232,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "snow",
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "mountain",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "nmg6iavgcvA",
+  "orig": "[Video Soundtrack] Daguerreo, the Hermit's Library [FINAL FANTASY IX]",
+  "title": "Daguerreo, the Hermit's Library",
+  "seconds": 128,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "1-plX0kp3uY",
+  "orig": "[Video Soundtrack] The Four Mirrors [FINAL FANTASY IX]",
+  "title": "The Four Mirrors",
+  "seconds": 167,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "Kr9IBPjFwVs",
+  "orig": "[Video Soundtrack] Guardians [FINAL FANTASY IX]",
+  "title": "Guardians",
+  "seconds": 124,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "h5wQCuGAi-o",
+  "orig": "[Video Soundtrack] Terra [FINAL FANTASY IX]",
+  "title": "Terra",
+  "seconds": 132,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "s3uHt6kCyqE",
+  "orig": "[Video Soundtrack] Another Nightmare [FINAL FANTASY IX]",
+  "title": "Another Nightmare (Video Soundtrack)",
+  "seconds": 150,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "keVdnXRuzNE",
+  "orig": "[Video Soundtrack] Silver Dragon [FINAL FANTASY IX]",
+  "title": "Silver Dragon (Video Soundtrack)",
+  "seconds": 230,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "sJWfn71tkLM",
+  "orig": "[Video Soundtrack] Memoria [FINAL FANTASY IX]",
+  "title": "Memoria (Video Soundtrack)",
+  "seconds": 137,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "YERChDDR4bM",
+  "orig": "[Video Soundtrack] Crystal World [FINAL FANTASY IX]",
+  "title": "Crystal World (Video Soundtrack)",
+  "seconds": 228,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "d4AQ7kRcn_A",
+  "orig": "[Video Soundtrack] The Darkness of Eternity [FINAL FANTASY IX]",
+  "title": "The Darkness of Eternity (Video Soundtrack)",
+  "seconds": 286,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy IX",
+  "id": "3IXijnKO8Ow",
+  "orig": "[Video Soundtrack] The Final Battle [FINAL FANTASY IX]",
+  "title": "The Final Battle (Video Soundtrack)",
+  "seconds": 378,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "UYIafOKKo-I",
+  "orig": "[Video Soundtrack] Main Theme of Final Fantasy V [FINAL FANTASY V]",
+  "title": "Main Theme of Final Fantasy V",
+  "seconds": 154,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "IcbQyCFnjzA",
+  "orig": "[Video Soundtrack] Four Hearts [FINAL FANTASY V]",
+  "title": "Four Hearts",
+  "seconds": 104,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "DYlAGogNqBg",
+  "orig": "[Video Soundtrack] Pirates Ahoy [FINAL FANTASY V]",
+  "title": "Pirates Ahoy",
+  "seconds": 125,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "seaside",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "xrKpVJ1_PP8",
+  "orig": "[Video Soundtrack] Harvest [FINAL FANTASY V]",
+  "title": "Harvest",
+  "seconds": 108,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "RlTISk3zyzg",
+  "orig": "[Video Soundtrack] Battle 2 [FINAL FANTASY V]",
+  "title": "Battle 2",
+  "seconds": 150,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "6xaM1I5WECc",
+  "orig": "[Video Soundtrack] The Evil Lord Exdeath [FINAL FANTASY V]",
+  "title": "The Evil Lord Exdeath",
+  "seconds": 145,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "FuavX43uyMM",
+  "orig": "[Video Soundtrack] Sealed Book [FINAL FANTASY V]",
+  "title": "Sealed Book",
+  "seconds": 110,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "1UHisX1QBHs",
+  "orig": "[Video Soundtrack] Slumber of Ancient Earth [FINAL FANTASY V]",
+  "title": "Slumber of Ancient Earth",
+  "seconds": 148,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy V",
+  "id": "HKVbdo66rVo",
+  "orig": "[Video Soundtrack] In Search of Light [FINAL FANTASY V]",
+  "title": "In Search of Light",
+  "seconds": 103,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "lAOKk8m3Uro",
+  "orig": "[Video Soundtrack] Kids Run Through the City [FINAL FANTASY VI]",
+  "title": "Kids Run Through the City",
+  "seconds": 166,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "city",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "PgbJ9lJUyQU",
+  "orig": "[Video Soundtrack] Under Martial Law [FINAL FANTASY VI]",
+  "title": "Under Martial Law",
+  "seconds": 149,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "gUDqUozYYKg",
+  "orig": "[Video Soundtrack] Slam Shuffle [FINAL FANTASY VI]",
+  "title": "Slam Shuffle",
+  "seconds": 142,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "V8COREpn0gc",
+  "orig": "[Video Soundtrack] Johnny C. Bad [FINAL FANTASY VI]",
+  "title": "Johnny C. Bad",
+  "seconds": 177,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "9A9d2xDIML0",
+  "orig": "[Video Soundtrack] Strago's Theme [FINAL FANTASY VI]",
+  "title": "Strago's Theme",
+  "seconds": 152,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "_4bwGSx6ZZc",
+  "orig": "[Video Soundtrack] Esper World [FINAL FANTASY VI]",
+  "title": "Esper World",
+  "seconds": 159,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "idX3OaecYcY",
+  "orig": "[Video Soundtrack] Catastrophe [FINAL FANTASY VI]",
+  "title": "Catastrophe",
+  "seconds": 139,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "ruins",
+    "desert"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "DpWvIpAtPd4",
+  "orig": "[Video Soundtrack] Battle to the Death [FINAL FANTASY VI]",
+  "title": "Battle to the Death",
+  "seconds": 156,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "dfO5CSZ4qbk",
+  "orig": "[Video Soundtrack] Dark World [FINAL FANTASY VI]",
+  "title": "Dark World",
+  "seconds": 186,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "sk2iuN1A_Ek",
+  "orig": "[Video Soundtrack] From That Day On… [FINAL FANTASY VI]",
+  "title": "From That Day On...",
+  "seconds": 137,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VI",
+  "id": "XEO7RCD7jVg",
+  "orig": "[Video Soundtrack] Searching for Friends [FINAL FANTASY VI]",
+  "title": "Searching for Friends",
+  "seconds": 180,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "kHf_Jck_wZA",
+  "orig": "[Video Soundtrack] Anxiety [FINAL FANTASY VII]",
+  "title": "Anxious Heart",
+  "seconds": 244,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "ctR4PQ3hnIs",
+  "orig": "[Video Soundtrack] Flowers Blooming in the Church [FINAL FANTASY VII]",
+  "title": "Flowers Blooming in the Church",
+  "seconds": 302,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "Yq-NcvBYHO8",
+  "orig": "[Video Soundtrack] Don of the Slums [FINAL FANTASY VII]",
+  "title": "Don of the Slums",
+  "seconds": 133,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "QYPgLFyrYoc",
+  "orig": "[Video Soundtrack] Fight On ! [FINAL FANTASY VII]",
+  "title": "Still More Fighting",
+  "seconds": 215,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "gkpGeizADV0",
+  "orig": "[Video Soundtrack] The Chase [FINAL FANTASY VII]",
+  "title": "Crazy Motorcycle",
+  "seconds": 219,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "Nic2YoebTDU",
+  "orig": "[Video Soundtrack] Cinco de Chocobo [FINAL FANTASY VII]",
+  "title": "Cinco de Chocobo",
+  "seconds": 183,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "e2scpsCm-tE",
+  "orig": "[Video Soundtrack] In Search of the Man in Black [FINAL FANTASY VII]",
+  "title": "Chasing the Black-Caped Man",
+  "seconds": 187,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "AuUE6qYZ5fA",
+  "orig": "[Video Soundtrack] Fort Condor [FINAL FANTASY VII]",
+  "title": "Fortress of the Condor",
+  "seconds": 243,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "-cWRS0kRpds",
+  "orig": "[Video Soundtrack] It's Hard to Stand on Both Feet! [FINAL FANTASY VII]",
+  "title": "It's Difficult to Stand on Both Feet, Isn't It",
+  "seconds": 214,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "nOITqvdE9aE",
+  "orig": "[Video Soundtrack] Mark of a Traitor [FINAL FANTASY VII]",
+  "title": "Mark of a Traitor",
+  "seconds": 214,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "6xlAOsLqFvE",
+  "orig": "[Video Soundtrack] Desert Wasteland [FINAL FANTASY VII]",
+  "title": "Desert Wasteland",
+  "seconds": 337,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "D-KY7Luly5M",
+  "orig": "[Video Soundtrack] Lifestream [FINAL FANTASY VII]",
+  "title": "Life Stream",
+  "seconds": 219,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "GJ47zTqkYQ0",
+  "orig": "[Video Soundtrack] Cid's Theme [FINAL FANTASY VII]",
+  "title": "Cid's Theme",
+  "seconds": 193,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "OPyDi2pN6G0",
+  "orig": "[Video Soundtrack] Fiddle de Chocobo [FINAL FANTASY VII]",
+  "title": "Fiddle de Chocobo",
+  "seconds": 172,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "snow"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "jwsNewKWNQs",
+  "orig": "[Video Soundtrack] Listen to the Cries of the Planet [FINAL FANTASY VII]",
+  "title": "You Can Hear the Cry of the Planet",
+  "seconds": 223,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "qztmKj1axKA",
+  "orig": "[Video Soundtrack] Buried in Show [FINAL FANTASY VII]",
+  "title": "Buried in the Snow",
+  "seconds": 293,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "snow"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "snow",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "81BX76SN_Ig",
+  "orig": "[Video Soundtrack] Shinra's Full Scale Assault [FINAL FANTASY VII]",
+  "title": "ShinRa Army Wages a Full-Scale Attack",
+  "seconds": 179,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VII",
+  "id": "ZeHm5JHphI0",
+  "orig": "[Video Soundtrack] Judgment Day [FINAL FANTASY VII]",
+  "title": "Judgement Day",
+  "seconds": 250,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "p2RW8HWNY8M",
+  "orig": "[Video Soundtrack] Balamb GARDEN [FINAL FANTASY VIII]",
+  "title": "Balamb GARDEN",
+  "seconds": 209,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "nZ4Ivp-nTEQ",
+  "orig": "[Video Soundtrack] Don't be Afraid [FINAL FANTASY VIII]",
+  "title": "Don't be Afraid",
+  "seconds": 173,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "iUXj3Pgda3o",
+  "orig": "[Video Soundtrack] Find Your Way [FINAL FANTASY VIII]",
+  "title": "Find Your Way",
+  "seconds": 228,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "ak-AfYL-rfI",
+  "orig": "[Video Soundtrack] Force Your Way [FINAL FANTASY VIII]",
+  "title": "Force Your Way",
+  "seconds": 234,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "aIg8Rwqt5KA",
+  "orig": "[Video Soundtrack] Breezy [FINAL FANTASY VIII]",
+  "title": "Breezy",
+  "seconds": 164,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "_Qo0Lda9iYI",
+  "orig": "[Video Soundtrack] Fear [FINAL FANTASY VIII]",
+  "title": "Fear",
+  "seconds": 145,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "KMm7kayDeTU",
+  "orig": "[Video Soundtrack] The Man with the Machine Gun [FINAL FANTASY VIII]",
+  "title": "The Man with the Machine Gun",
+  "seconds": 170,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "V8OkX0icCOo",
+  "orig": "[Video Soundtrack] Roses and Wine [FINAL FANTASY VIII]",
+  "title": "Roses and Wine",
+  "seconds": 139,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "MEqmpgtFOnU",
+  "orig": "[Video Soundtrack] Timber Owls [FINAL FANTASY VIII]",
+  "title": "Timber Owls",
+  "seconds": 172,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "rsD8mrKnC0I",
+  "orig": "[Video Soundtrack] Martial Law [FINAL FANTASY VIII]",
+  "title": "Martial Law",
+  "seconds": 228,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "xpavufUoCm8",
+  "orig": "[Video Soundtrack] Only a Plank Between One and Perdition [FINAL FANTASY VIII]",
+  "title": "Only a Plank Between One and Perdition",
+  "seconds": 145,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "PBk0KBCud1M",
+  "orig": "[Video Soundtrack] Galbadia GARDEN [FINAL FANTASY VIII]",
+  "title": "Galbadia GARDEN",
+  "seconds": 218,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "OAt6vrlqmyg",
+  "orig": "[Video Soundtrack] Unrest [FINAL FANTASY VIII]",
+  "title": "Unrest",
+  "seconds": 157,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "1I-pTXNzkrk",
+  "orig": "[Video Soundtrack] Under Her Control [FINAL FANTASY VIII]",
+  "title": "Under Her Control",
+  "seconds": 211,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "fQg94e973jY",
+  "orig": "[Video Soundtrack] FITHOS LUSEC WECOS VINOSEC [FINAL FANTASY VIII]",
+  "title": "FITHOS LUSEC WECOS VINOSEC",
+  "seconds": 273,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "6bpB-Hv9hQs",
+  "orig": "[Video Soundtrack] Intruders [FINAL FANTASY VIII]",
+  "title": "Intruders",
+  "seconds": 153,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "2UypEmBr9Gg",
+  "orig": "[Video Soundtrack] Premonition [FINAL FANTASY VIII]",
+  "title": "Premonition",
+  "seconds": 277,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "Y_ujurU0wOg",
+  "orig": "[Video Soundtrack] Fragments of Memories [FINAL FANTASY VIII]",
+  "title": "Fragments of Memories",
+  "seconds": 194,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "O6cS3EjKwBE",
+  "orig": "[Video Soundtrack] The Spy [FINAL FANTASY VIII]",
+  "title": "The Spy",
+  "seconds": 227,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "PlC9gIt56Ng",
+  "orig": "[Video Soundtrack] Drifting [FINAL FANTASY VIII]",
+  "title": "Drifting",
+  "seconds": 177,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "lzo-_JiamqM",
+  "orig": "[Video Soundtrack] Heresy [FINAL FANTASY VIII]",
+  "title": "Heresy",
+  "seconds": 251,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "hrCPzmr5gLo",
+  "orig": "[Video Soundtrack] The Salt Flats [FINAL FANTASY VIII]",
+  "title": "The Salt Flats",
+  "seconds": 217,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "desert",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "AetxEr2TULw",
+  "orig": "[Video Soundtrack] Silence and Motion [FINAL FANTASY VIII]",
+  "title": "Silence and Motion",
+  "seconds": 349,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "Hsy7M4HNcy8",
+  "orig": "[Video Soundtrack] Dance with the Balamb fish [FINAL FANTASY VIII]",
+  "title": "Dance with the Balamb-fish",
+  "seconds": 220,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "Vds0lW3lFEw",
+  "orig": "[Video Soundtrack] Residents [FINAL FANTASY VIII]",
+  "title": "Residents",
+  "seconds": 187,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "snow"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "0roq4tX_l5I",
+  "orig": "[Video Soundtrack] Mods de Chocobofeaturing N's Telecaster [FINAL FANTASY VIII]",
+  "title": "Mods de Chocobo",
+  "seconds": 145,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "pmSKMKgyRhM",
+  "orig": "[Video Soundtrack] Ride On [FINAL FANTASY VIII]",
+  "title": "Ride On",
+  "seconds": 183,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "id": "NYpkDvfY5n4",
+  "orig": "[Video Soundtrack] Maybe I'm a Lion [FINAL FANTASY VIII]",
+  "title": "Maybe I'm a Lion",
+  "seconds": 336,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "QQq0zv_JXEk",
+  "orig": "Zanarkand (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "To Zanarkand",
+  "seconds": 185,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "water"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "KO6fvJrsTsE",
+  "orig": "Otherworld (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Otherworld",
+  "seconds": 196,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "dKZ7vVIbK7s",
+  "orig": "Spira Unplugged (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Spira Unplugged",
+  "seconds": 170,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "FUaEswxj-6o",
+  "orig": "Movement In Green (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Movement in Green",
+  "seconds": 197,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "forest",
+    "jungle"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "forest",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "pxp3B3Ol6tE",
+  "orig": "Calm Before The Storm (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Calm Before the Storm",
+  "seconds": 191,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "ZUcKCkyYV1o",
+  "orig": "Chocobo Jam (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Chocobo Jam",
+  "seconds": 173,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "zf5tJHbY5Tg",
+  "orig": "Twilight (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Twilight",
+  "seconds": 281,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "4o05wBcsOCQ",
+  "orig": "Djose Temple (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Djose Temple",
+  "seconds": 199,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "khfqA7F9gBA",
+  "orig": "Macalania Woods (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Macalania Woods",
+  "seconds": 201,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "forest",
+    "crystal",
+    "snow"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "r58mugkmfIs",
+  "orig": "Pursuit (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Pursuit",
+  "seconds": 131,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "qR7jLqkmu4o",
+  "orig": "Assault (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Assault",
+  "seconds": 247,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "gmETYgrzthE",
+  "orig": "Patricide (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Patricide",
+  "seconds": 163,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "NI9D6_I2_WY",
+  "orig": "Servants of the Mountain (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Servants of the Mountain",
+  "seconds": 283,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain",
+    "snow"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain",
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "6PKx_51pWYg",
+  "orig": "Challenge (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Challenge",
+  "seconds": 259,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy X",
+  "id": "ePl26plerW8",
+  "orig": "Beyond The Darkness (FINAL FANTASY X Original Soundtrack) 【Audio】",
+  "title": "Beyond the Darkness",
+  "seconds": 279,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "v1dAw8FE5XY",
+  "orig": "[Video Soundtrack] Wail of the Void [FINAL FANTASY XI Priceless Remembrance]",
+  "title": "Wail of the Void",
+  "seconds": 299,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "N4KnSJy5E-Y",
+  "orig": "[Video Soundtrack] The Boundless Black [FINAL FANTASY XI Priceless Remembrance]",
+  "title": "The Boundless Black",
+  "seconds": 189,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "udZ6s1rodf8",
+  "orig": "[Video Soundtrack] The Price [FINAL FANTASY XI Priceless Remembrance]",
+  "title": "The Price",
+  "seconds": 223,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "dS_-C4nneT4",
+  "orig": "[Video Soundtrack] Clouds Over Ulbuka [FINAL FANTASY XI Priceless Remembrance]",
+  "title": "Clouds Over Ulbuka",
+  "seconds": 139,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain",
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "0INjvYvZmXY",
+  "orig": "[Video Soundtrack] Monstrosity [FINAL FANTASY XI Priceless Remembrance]",
+  "title": "Monstrosity",
+  "seconds": 213,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "RIw9MHrSKz0",
+  "orig": "Battle in the Dungeon",
+  "title": "Battle in the Dungeon",
+  "seconds": 148,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "Qk5P56YvVFE",
+  "orig": "Buccaneers",
+  "title": "Buccaneers",
+  "seconds": 116,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "oyU_6uVrc4I",
+  "orig": "Voyager",
+  "title": "Voyager",
+  "seconds": 135,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "fsKhrRVlPXk",
+  "orig": "Fury",
+  "title": "Fury",
+  "seconds": 98,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "nL9kxhmuwss",
+  "orig": "Tough Battle",
+  "title": "Tough Battle",
+  "seconds": 181,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "S9M_3nNUufU",
+  "orig": "Awakening",
+  "title": "Awakening",
+  "seconds": 321,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "Rskax76-XLs",
+  "orig": "Vana'diel March #2",
+  "title": "Vana'diel March #2",
+  "seconds": 263,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "O1TJdn7fu08",
+  "orig": "Echoes of Creation",
+  "title": "Echoes of Creation",
+  "seconds": 376,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "h4t8W4c42Gw",
+  "orig": "Luck of the Mog",
+  "title": "Luck of the Mog",
+  "seconds": 234,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "vSWnOg44AlY",
+  "orig": "”Dash de Chocobo”",
+  "title": "Dash de Chocobo",
+  "seconds": 210,
+  "first": {
+   "kind": "field",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "sez_0E7_-Ro",
+  "orig": "Grav'iton",
+  "title": "Grav'iton",
+  "seconds": 111,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "b-iwM-R5GOM",
+  "orig": "Tough Battle #2",
+  "title": "Tough Battle #2",
+  "seconds": 167,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "smJrVboIOjA",
+  "orig": "The Sanctuary of Zi'Tah",
+  "title": "The Sanctuary of Zi'Tah",
+  "seconds": 254,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "4mLq11SLOxQ",
+  "orig": "Fighters of the Crystal",
+  "title": "Fighters of the Crystal",
+  "seconds": 213,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "jIDS44uhdNg",
+  "orig": "Tu'Lia",
+  "title": "Tu'Lia",
+  "seconds": 236,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "1WVQyTr7qbI",
+  "orig": "Moblin Menagerie - Movalpolos",
+  "title": "Moblin Menagerie - Movalpolos",
+  "seconds": 277,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "vyzpQF03MBw",
+  "orig": "Depths of the Soul",
+  "title": "Depths of the Soul",
+  "seconds": 161,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "1omGnKhDyLw",
+  "orig": "The Forgotten City - Tavnazian Safehold",
+  "title": "The Forgotten City - Tavnazian Safehold",
+  "seconds": 165,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "qVO92y14NLY",
+  "orig": "Turmoil",
+  "title": "Turmoil",
+  "seconds": 140,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "L9xeySvNPUM",
+  "orig": "Gustaberg (Bonus Track)",
+  "title": "Gustaberg (Bonus Track)",
+  "seconds": 214,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "C6qXjfP7bt8",
+  "orig": "Eastward Bound…",
+  "title": "Eastward Bound...",
+  "seconds": 237,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "ra8eSRoMQgI",
+  "orig": "Illusions in the Mist",
+  "title": "Illusions in the Mist",
+  "seconds": 286,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "jungle",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "Nuq847z9NeI",
+  "orig": "Mercenaries' Delight",
+  "title": "Mercenaries' Delight",
+  "seconds": 141,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "XkD4jnvvV5A",
+  "orig": "Jeweled Boughs",
+  "title": "Jeweled Boughs",
+  "seconds": 253,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "jungle"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "kgIkG3EdmSg",
+  "orig": "Delve",
+  "title": "Delve",
+  "seconds": 105,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "73QdJy3wmcM",
+  "orig": "Ever-Turning Wheels",
+  "title": "Ever-Turning Wheels",
+  "seconds": 147,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "M3VAQlt8K8s",
+  "orig": "Forbidden Seal",
+  "title": "Forbidden Seal",
+  "seconds": 270,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "0Us2sIZCMyE",
+  "orig": "March of the Allied Forces",
+  "title": "March of the Allied Forces",
+  "seconds": 182,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "yfapfgb3iKg",
+  "orig": "Flowers on the Battlefield",
+  "title": "Flowers on the Battlefield",
+  "seconds": 211,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "FlscFPLfPPk",
+  "orig": "Autumn Footfalls",
+  "title": "Autumn Footfalls",
+  "seconds": 173,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "Ylll7UiH7PA",
+  "orig": "Griffons Never Die",
+  "title": "Griffons Never Die",
+  "seconds": 191,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "Uc_8E8Ym5x4",
+  "orig": "Thunder of the March",
+  "title": "Thunder of the March",
+  "seconds": 267,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "eyLu8iyGTRc",
+  "orig": "Encampment Dreams",
+  "title": "Encampment Dreams",
+  "seconds": 248,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "giolVdArf1M",
+  "orig": "The Cosmic Wheel",
+  "title": "The Cosmic Wheel",
+  "seconds": 252,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "qSaBvtXxAqM",
+  "orig": "Stargazing",
+  "title": "Stargazing",
+  "seconds": 228,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "yD_2nReyLWU",
+  "orig": "On this Blade",
+  "title": "On this Blade",
+  "seconds": 145,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "J27mvnnPmow",
+  "orig": "Young Griffons in Flight",
+  "title": "Young Griffons in Flight",
+  "seconds": 105,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "oPq_dYDZt40",
+  "orig": "Royal Wanderlust",
+  "title": "Royal Wanderlust",
+  "seconds": 96,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "2BmGDrf6OWc",
+  "orig": "Troubled Shadows",
+  "title": "Troubled Shadows",
+  "seconds": 320,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "hPzSUU14vPU",
+  "orig": "Water's Umbral Knell",
+  "title": "Water's Umbral Knell",
+  "seconds": 306,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "hiraUWcOrVQ",
+  "orig": "Keepers of the Wild",
+  "title": "Keepers of the Wild",
+  "seconds": 219,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "iNDbw-8pLIo",
+  "orig": "Where it All Begins",
+  "title": "Where it All Begins",
+  "seconds": 267,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "du_9TfUI5yM",
+  "orig": "Monstrosity",
+  "title": "Monstrosity",
+  "seconds": 209,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "mIzd4u_mmho",
+  "orig": "The Price",
+  "title": "The Price",
+  "seconds": 221,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "gRLc5mEr-kc",
+  "orig": "Goddesspeed",
+  "title": "Goddesspeed",
+  "seconds": 225,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "2GCD5SW_XAc",
+  "orig": "The Voracious Resurgence",
+  "title": "The Voracious Resurgence",
+  "seconds": 229,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "SRIyti-xRsY",
+  "orig": "The Devoured",
+  "title": "The Devoured",
+  "seconds": 155,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "x09sMQw-_yA",
+  "orig": "Sojourner",
+  "title": "Sojourner",
+  "seconds": 218,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "ziTIxyYuRT0",
+  "orig": "Full Speed Ahead!",
+  "title": "Full Speed Ahead!",
+  "seconds": 163,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "yORV_e5Dqd0",
+  "orig": "Times Grow Tense",
+  "title": "Times Grow Tense",
+  "seconds": 255,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "CJ7hWar43TE",
+  "orig": "Between Dreams and Reality",
+  "title": "Between Dreams and Reality",
+  "seconds": 267,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "rVKnljU1Bgg",
+  "orig": "Iroha",
+  "title": "Iroha",
+  "seconds": 165,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "InmmiSURH1M",
+  "orig": "The Boundless Black",
+  "title": "The Boundless Black",
+  "seconds": 188,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XI",
+  "id": "gFhPVxk86V8",
+  "orig": "Wail of the Void",
+  "title": "Wail of the Void",
+  "seconds": 299,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "8xb-yEMxFkM",
+  "orig": "剣の一閃",
+  "title": "Clash of Swords",
+  "seconds": 156,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "ShirDoancBU",
+  "orig": "深淵",
+  "title": "The Abyss",
+  "seconds": 205,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "3ujMETIK1vc",
+  "orig": "蛮族",
+  "title": "Barbarians",
+  "seconds": 149,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "b7FT5NTNzVY",
+  "orig": "戦いのドラム",
+  "title": "Battle Drums",
+  "seconds": 167,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "fSpT4uk0JNc",
+  "orig": "チョコボFFXIIアレンジVer.1 (ゲーム未収録バージョン)",
+  "title": "Chocobo FFXII Arrange Ver.1 (Unused Version)",
+  "seconds": 170,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "HaUsg7nB-Dc",
+  "orig": "サリカ樹林",
+  "title": "Salikawood",
+  "seconds": 158,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "FGpbBLmXVo8",
+  "orig": "水のほとり",
+  "title": "By the Water",
+  "seconds": 193,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "water",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "5gVs94HZsKQ",
+  "orig": "召喚",
+  "title": "Summon",
+  "seconds": 165,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "On9lK3KRob4",
+  "orig": "追憶の地",
+  "title": "Land of Remembrance",
+  "seconds": 241,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "9evzpqfSdHg",
+  "orig": "神々の場所へ",
+  "title": "To the Place of the Gods",
+  "seconds": 205,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "sky",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XII",
+  "id": "p4tbkMaeMB8",
+  "orig": "頂上へ",
+  "title": "To the Summit",
+  "seconds": 110,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "sky",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "msjwMjuaS_Q",
+  "orig": "封鎖区画ハングドエッジ",
+  "title": "The Hanging Edge",
+  "seconds": 206,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "tQknZ_C7Tbg",
+  "orig": "帰るための戦い",
+  "title": "Fighting to Go Home",
+  "seconds": 213,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "3-Lp2WfNmac",
+  "orig": "ラグナロク",
+  "title": "Ragnarok",
+  "seconds": 227,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "tbktye3f0oo",
+  "orig": "サンレス水郷",
+  "title": "Sunleth Waterscape",
+  "seconds": 227,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "DuQqxQkTTag",
+  "orig": "恩讐の果て",
+  "title": "The End of Vengeance",
+  "seconds": 159,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "VzvJbecaNPc",
+  "orig": "グラン=パルスのルシ",
+  "title": "The Gran Pulse l'Cie",
+  "seconds": 253,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "5hA1aNFnMxQ",
+  "orig": "ポンパ･サンクタ",
+  "title": "Pompa Sancta",
+  "seconds": 132,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "sky",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "eV_vsbKRjMM",
+  "orig": "偽りの饗宴",
+  "title": "Feast of Betrayal",
+  "seconds": 197,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "ewvxLBX0r7E",
+  "orig": "宿命への抗い",
+  "title": "Defiance of Destiny",
+  "seconds": 148,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "8PijzIDM-n4",
+  "orig": "Choose to Fight",
+  "title": "Choose to Fight",
+  "seconds": 261,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "L8HK7hNJGRE",
+  "orig": "ヤシャス山",
+  "title": "Mah'habara Subterra / Yaschas Massif",
+  "seconds": 131,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "sq-4SvGAJsE",
+  "orig": "スーリヤ湖",
+  "title": "Lake Surya",
+  "seconds": 205,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "FFQRJHh3VNc",
+  "orig": "色のない世界",
+  "title": "Dust to Dust",
+  "seconds": 229,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "ruins",
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "VOT9y7P5cL4",
+  "orig": "動乱のエデン",
+  "title": "Eden Under Siege",
+  "seconds": 154,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "UuuglmZ4pVE",
+  "orig": "ファブラ･ノヴァ･クリスタリス",
+  "title": "Fabula Nova Crystallis",
+  "seconds": 160,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIII",
+  "id": "Bw6ycaCpN7k",
+  "orig": "生誕のレクイエム",
+  "title": "Nascent Requiem",
+  "seconds": 304,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "JAKCQlM3q6U",
+  "orig": "路を遮るもの",
+  "title": "Those Who Block the Path",
+  "seconds": 243,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "a2N6ifzmrqk",
+  "orig": "路を拓くもの",
+  "title": "Those Who Clear the Path",
+  "seconds": 284,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "hNAG7MNVN0Y",
+  "orig": "星なき摩天楼 〜ソリューション・ナイン〜",
+  "title": "Starless Skyscrapers - Solution Nine",
+  "seconds": 306,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "EmY2vdrdc_g",
+  "orig": "Endwalker – Footfalls（Extended）",
+  "title": "Endwalker - Footfalls (Extended)",
+  "seconds": 449,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "WP3zbQqYBuY",
+  "orig": "遠き日の思い出 〜リビング・メモリー：開園〜",
+  "title": "Memories of Distant Days - Living Memory: Open",
+  "seconds": 473,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "PYhBv5F3k1k",
+  "orig": "遠き日の残響 〜リビング・メモリー：閉園〜",
+  "title": "Echoes of Distant Days - Living Memory: Closed",
+  "seconds": 242,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "city",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "66mVngZ16No",
+  "orig": "始まりの幻域",
+  "title": "The Realm of Beginnings",
+  "seconds": 276,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "DptqLOMJ6_U",
+  "orig": "トロイア国 ～暁月～",
+  "title": "Kingdom of Troia - Endwalker",
+  "seconds": 336,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "uVkZY-fs_uE",
+  "orig": "英雄に続け",
+  "title": "Follow the Hero",
+  "seconds": 281,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "PW30bxUI704",
+  "orig": "揺籃の輝星",
+  "title": "Shining Star of the Cradle",
+  "seconds": 371,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "xJhYgZimlhI",
+  "orig": "ハンターチャンス ～暁月～",
+  "title": "Hunter's Chance - Endwalker",
+  "seconds": 292,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ggJszVt40eM",
+  "orig": "蒼天騎士団",
+  "title": "The Heavens' Ward",
+  "seconds": 195,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "bwY1ncMAdWY",
+  "orig": "始祖たる幻龍",
+  "title": "The Primal Dragon",
+  "seconds": 453,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "-VnhXgiH-xo",
+  "orig": "神々の寵愛 ～喜びの神域 エウプロシュネ～",
+  "title": "Favor of the Gods - Euphrosyne",
+  "seconds": 302,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "QZJQww8TMLc",
+  "orig": "躍動する大地 ～喜びの神域 エウプロシュネ～",
+  "title": "Vibrant Earth - Euphrosyne",
+  "seconds": 261,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "5MSwJ95dGJE",
+  "orig": "Dreamwalker",
+  "title": "Dreamwalker",
+  "seconds": 330,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "YB2JVeFIDag",
+  "orig": "Forged in Crimson ～紅蓮の求道者～",
+  "title": "Forged in Crimson",
+  "seconds": 379,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "I__CIi5AH7A",
+  "orig": "冥き水底 (Pulse) ～テンペスト：深部～",
+  "title": "Deep Down (Pulse) - The Tempest",
+  "seconds": 216,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "z8FcPV5npD0",
+  "orig": "バトル２ from FINAL FANTASY III",
+  "title": "Battle 2 from FINAL FANTASY III",
+  "seconds": 114,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "6zhfaKTBvNw",
+  "orig": "One Amongst the Weary ～万魔殿パンデモニウム：天獄編～",
+  "title": "One Amongst the Weary - Pandæmonium: Anabaseios",
+  "seconds": 313,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "iyfQP3gqqLw",
+  "orig": "紅のリッジライン ～異聞六根山～",
+  "title": "Crimson Ridgeline - Another Mount Rokkon",
+  "seconds": 321,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "mountain",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "lK2R0ODlnaE",
+  "orig": "星のため息 ～星霊間欠 ハーム島～",
+  "title": "Sigh of the Star - Hells' Lid",
+  "seconds": 399,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "dri0mYfoJJE",
+  "orig": "ヴォイドの救済者",
+  "title": "Savior of the Void",
+  "seconds": 443,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "L41Llt4JbLc",
+  "orig": "バロン王国 ～暁月～",
+  "title": "Kingdom of Baron - Endwalker",
+  "seconds": 387,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zTxCW_yCVwI",
+  "orig": "Idylls of the Empire",
+  "title": "Idylls of the Empire",
+  "seconds": 175,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "MhWUn-JD42o",
+  "orig": "To Sail Forbidden Seas",
+  "title": "To Sail Forbidden Seas",
+  "seconds": 364,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "seaside",
+    "water"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ve0Al1U_zPU",
+  "orig": "神子の微睡み ～アロアロ島～",
+  "title": "Slumber of the Divine Child - Aloalo Island",
+  "seconds": 328,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "seaside",
+    "jungle"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "jungle",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "iw92e-r9vgo",
+  "orig": "神子の狩猟祭 ～異聞アロアロ島～",
+  "title": "Hunting Festival of the Divine Child - Another Aloalo Island",
+  "seconds": 310,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "jungle",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "B_-4IgDfFKk",
+  "orig": "願いは追い風となりて ～華めく神域 タレイア～",
+  "title": "Wishes on the Tailwind - Thaleia",
+  "seconds": 349,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "-vJn7MXRBX4",
+  "orig": "Endwalker - Footfalls",
+  "title": "Endwalker - Footfalls",
+  "seconds": 353,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "P5_zzXmKG-4",
+  "orig": "想いが動かす力",
+  "title": "The Power That Moves Hearts",
+  "seconds": 335,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "dEsSlg39CQ0",
+  "orig": "Close in the Distance",
+  "title": "Close in the Distance",
+  "seconds": 450,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "rqbLbYGJb8I",
+  "orig": "Flow",
+  "title": "Flow",
+  "seconds": 329,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "FiMcWOLS7vo",
+  "orig": "冥き水底 (Scions & Sinners) ～テンペスト：深部～",
+  "title": "Deep Down (Scions & Sinners) - The Tempest",
+  "seconds": 377,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "BrXo3K-2t00",
+  "orig": "先ゆく星々 ～最終幻想 レムナント～",
+  "title": "The Stars Ahead ~ The Dead Ends",
+  "seconds": 301,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "sKgDNNGAG4w",
+  "orig": "小さな一歩 ～嘆きの海～",
+  "title": "Small Steps ~ Mare Lamentorum",
+  "seconds": 430,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "seaside",
+    "water"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "J1X3u_k4Wik",
+  "orig": "ハピネスキャロット ～楽園都市 スマイルトン～",
+  "title": "Carrot of Happiness ~ Smileton",
+  "seconds": 313,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "town",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Pd_d2sLLGBc",
+  "orig": "迷宮 ～ラヴィリンソス：昼～",
+  "title": "Labyrinth ~ Labyrinthos: Day",
+  "seconds": 149,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "cave",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "ruins",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "FQIhnjBhKDw",
+  "orig": "迷夢 ～ラヴィリンソス：夜～",
+  "title": "Dream Labyrinth ~ Labyrinthos: Night",
+  "seconds": 234,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "cave",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "j6UurE_5J0s",
+  "orig": "古の星空 ～エルピス：夜～",
+  "title": "Ancient Starry Sky ~ Elpis: Night",
+  "seconds": 221,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "forest",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "kdXL4CUWRII",
+  "orig": "抗戦",
+  "title": "Resistance",
+  "seconds": 146,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "qU3rYSqnt3g",
+  "orig": "バトル1 from FINAL FANTASY IV",
+  "title": "Battle 1 from FINAL FANTASY IV",
+  "seconds": 120,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "oIw66A7cTu8",
+  "orig": "縛めの鎖 ～万魔殿パンデモニウム：辺獄編～",
+  "title": "Chains of Binding ~ Pandæmonium: Asphodelos",
+  "seconds": 393,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "XQ5OxtezxJA",
+  "orig": "神々の訓え ～サベネア島：昼～",
+  "title": "Teachings of the Gods ~ Thavnair: Day",
+  "seconds": 147,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "seaside",
+    "jungle"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "ruins",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "QMoWeGM0FUE",
+  "orig": "護るべき営み",
+  "title": "A Life Worth Protecting",
+  "seconds": 111,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "SkKCgCraMus",
+  "orig": "地より昇りし力",
+  "title": "Power Risen from the Earth",
+  "seconds": 124,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "f741Dr3W5Hk",
+  "orig": "恐怖の波動",
+  "title": "Wave of Terror",
+  "seconds": 90,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "6IiG4vo9k9U",
+  "orig": "To the Edge",
+  "title": "To the Edge",
+  "seconds": 452,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "wfgfFKNlRKk",
+  "orig": "忘却の此方 ～希望の園エデン：共鳴編～",
+  "title": "Shadowbringers ~ Eden's Verse",
+  "seconds": 336,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "a6EHphuIGlo",
+  "orig": "イニシエノウタ／贖罪 (From NieR:Automata)",
+  "title": "Song of the Ancients / Atonement (From NieR:Automata)",
+  "seconds": 322,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "D0eIO32QuH8",
+  "orig": "悠久の風 ～漆黒～",
+  "title": "Eternal Wind ~ Shadowbringers",
+  "seconds": 254,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "V1AACvkUDYo",
+  "orig": "還ラナイ声／ギター (From NieR:Automata)",
+  "title": "Voice of No Return / Guitar (From NieR:Automata)",
+  "seconds": 209,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "LmXmAs-0ha0",
+  "orig": "曖昧ナ希望／氷雨 (From NieR:Automata)",
+  "title": "Faltering Prayer / Freezing Rain (From NieR:Automata)",
+  "seconds": 218,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "jCzYc9a_--U",
+  "orig": "愛を求める者たち",
+  "title": "Those Who Seek Love",
+  "seconds": 329,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "t20RfxiZd0A",
+  "orig": "ボズヤの血風",
+  "title": "Bozja's Bloody Wind",
+  "seconds": 307,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Qpwnu6feoeU",
+  "orig": "Don’t be Afraid ～漆黒～",
+  "title": "Don't be Afraid ~ Shadowbringers",
+  "seconds": 164,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "lV1HW6o1yQU",
+  "orig": "終ワリノ音 (From NieR:Automata)",
+  "title": "Sound the Bell (From NieR:Automata)",
+  "seconds": 282,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "6_D0l1SlMdI",
+  "orig": "ガンゴッシュ",
+  "title": "Gangos",
+  "seconds": 381,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "desert"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "rSRb0fHdiIA",
+  "orig": "還ラナイ声／通常 (From NieR:Automata)",
+  "title": "Voice of No Return / Normal (From NieR:Automata)",
+  "seconds": 211,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "JWyTKRMZqPw",
+  "orig": "すべての道が至る場所 ～漆黒決戦 ノルヴラント～",
+  "title": "Where All Roads Lead ~ Norvrandt",
+  "seconds": 276,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "iuR1REQenI4",
+  "orig": "底に潜みし者 ～黒風海底 アニドラス・アナムネーシス～",
+  "title": "That Which Lurks Below ~ Anamnesis Anyder",
+  "seconds": 298,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "pJYQqB6VqHQ",
+  "orig": "偽リノ城塞 (From NieR:Automata)",
+  "title": "Fortress of Lies (From NieR:Automata)",
+  "seconds": 168,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "LQCUZeSLQeQ",
+  "orig": "澱ンダ祈リ／暁風 (From NieR:Automata)",
+  "title": "Stagnant Prayer / Dawn Wind (From NieR:Automata)",
+  "seconds": 138,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "ruins",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "CFr86vf_2UU",
+  "orig": "遊園施設 (From NieR:Automata)",
+  "title": "Amusement Park (From NieR:Automata)",
+  "seconds": 154,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "8rJYRGGhGIg",
+  "orig": "分割された光 ～希望の園エデン：共鳴編～",
+  "title": "Divided Light - Eden's Verse",
+  "seconds": 119,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "T4G5pKsuJ4M",
+  "orig": "ホパル古盤",
+  "title": "Hopal Old Board",
+  "seconds": 273,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "xMW5UGljqa0",
+  "orig": "動乱 帝国バージョン (Zodiac Age Version)",
+  "title": "Unrest - Imperial Version (Zodiac Age Version)",
+  "seconds": 168,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "cEC7an0kzXc",
+  "orig": "魔導船 ～漆黒～",
+  "title": "The Lunar Whale - Shadowbringers",
+  "seconds": 216,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "p-05SLBwMek",
+  "orig": "茫洋タル病 (From NieR:Automata)",
+  "title": "Vast Sickness (From NieR:Automata)",
+  "seconds": 111,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "BZKfyapcTX4",
+  "orig": "ワッツハンマー・ガレージ",
+  "title": "Wattshammer Garage",
+  "seconds": 211,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "industrial",
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zTXcQWD_MKQ",
+  "orig": "焼き立てポークシー ～魔術工房 マトーヤのアトリエ～",
+  "title": "Freshly Baked Porxie - Matoya's Relict",
+  "seconds": 268,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "EAtelq7Sp3U",
+  "orig": "暗がりに響く音",
+  "title": "Echoes in the Dark",
+  "seconds": 95,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "sS8xR3n5lTo",
+  "orig": "蒼天街復興祝祭",
+  "title": "Ishgard Restoration Celebration",
+  "seconds": 354,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "snow"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "0gsJ0_m4Hkk",
+  "orig": "ゴゴのテーマ",
+  "title": "Gogo's Theme",
+  "seconds": 143,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "18q19BPYEJE",
+  "orig": "貪欲",
+  "title": "Greed",
+  "seconds": 306,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "hNSKDpEXqnM",
+  "orig": "冥き水底 ～テンペスト:深部～",
+  "title": "Dark Depths - The Tempest",
+  "seconds": 344,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "9sHIJdadA0k",
+  "orig": "五尋の深み ～テンペスト:浅部～",
+  "title": "Full Fathom Five - The Tempest",
+  "seconds": 414,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "XGhBEsyIb64",
+  "orig": "大逆",
+  "title": "Treason",
+  "seconds": 303,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "6fnEvuMU1aQ",
+  "orig": "炎と剣によりて ～殺戮郷村 ホルミンスター～",
+  "title": "By Fire and Sword - Holminster Switch",
+  "seconds": 284,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "town",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "4zxGLZZ2bck",
+  "orig": "黒煙の戦い ～境界戦線 ギムリトダーク～",
+  "title": "Battle in the Black Smoke - Dohn Mheg Gimlet Dark",
+  "seconds": 306,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "MyQWSBSz2dY",
+  "orig": "Gates of Paradise - The Garden of Ru'Hmet",
+  "title": "Gates of Paradise - The Garden of Ru'Hmet",
+  "seconds": 457,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "feClf2yg2IY",
+  "orig": "Antipyretic",
+  "title": "Antipyretic",
+  "seconds": 146,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "c3mk3zPQ_l8",
+  "orig": "Bloody Excrement",
+  "title": "Bloody Excrement",
+  "seconds": 156,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "rk4xBUj30CU",
+  "orig": "Revolutions",
+  "title": "Revolutions",
+  "seconds": 425,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "whqHpkVlbPQ",
+  "orig": "究極幻想 (Orchestral Version)",
+  "title": "Ultimate Illusion (Orchestral Version)",
+  "seconds": 302,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "n1_xTUR7d0M",
+  "orig": "月亮門 ～解放決戦 ドマ城～",
+  "title": "The Moongate",
+  "seconds": 301,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "bD0krOh44jM",
+  "orig": "我らが支配圏",
+  "title": "Our Dominion",
+  "seconds": 136,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "D1WDRPk34gs",
+  "orig": "衝撃 ～ラールガーズリーチ:昼～",
+  "title": "Impact",
+  "seconds": 329,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "cN-6TmRGObE",
+  "orig": "父の誇り ～ヤンサ:昼～",
+  "title": "A Father's Pride",
+  "seconds": 173,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zbGijc_uJVM",
+  "orig": "自由か死か ～紅蓮決戦 アラミゴ～",
+  "title": "Liberty or Death",
+  "seconds": 186,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle",
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "2yAbKMmVvpA",
+  "orig": "母の誇り ～ヤンサ:夜～",
+  "title": "A Mother's Pride",
+  "seconds": 187,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "3gq89dzHoSE",
+  "orig": "余光 ～ラールガーズリーチ:夜～",
+  "title": "Afterglow",
+  "seconds": 302,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "fR7e3SUDfWM",
+  "orig": "壊神の拳が届く場所",
+  "title": "Where the Fist Reaches",
+  "seconds": 133,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "MDWk7md-wfE",
+  "orig": "アンブレーカブル (Duality) ～博物戦艦 フラクタル･コンティニアム～",
+  "title": "Unbreakable (Duality)",
+  "seconds": 237,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "gyfeAKJnCrg",
+  "orig": "巨峰の眼下にて",
+  "title": "Beneath the Peaks",
+  "seconds": 70,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "h200olFSAi4",
+  "orig": "天晴大鯰音頭",
+  "title": "Namazu Ondo",
+  "seconds": 125,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "GTzY2hSpGUc",
+  "orig": "デルタスケープ ～次元の狭間オメガ:デルタ編～",
+  "title": "Deltascape ~ Omega: Deltascape ~",
+  "seconds": 187,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "T4zb2SQxDXM",
+  "orig": "戦場の甲羅",
+  "title": "Battlefield Carapace",
+  "seconds": 123,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "awrSq5BTINs",
+  "orig": "乱風の囁き ～禁断の地 エウレカ:アネモス編～",
+  "title": "Whispers of the Gale ~ The Forbidden Land, Eureka Anemos ~",
+  "seconds": 233,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "QBWHx1y8dDA",
+  "orig": "鳥たちの饗宴 ～ライバルウィングズ～",
+  "title": "Feast of Birds ~ Rival Wings ~",
+  "seconds": 302,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "AxTQ8zCotlA",
+  "orig": "魔列車 ～次元の狭間オメガ:シグマ編～",
+  "title": "Phantom Train ~ Omega: Sigmascape ~",
+  "seconds": 28,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "4UhX8oiPHxk",
+  "orig": "英雄ならざる者 ～伝統試練 バルダム覇道～",
+  "title": "Unbeholden ~ Bardam's Mettle ~",
+  "seconds": 174,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "plains",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "_NxKYpVKLh8",
+  "orig": "ノー･クォーター",
+  "title": "No Quarter",
+  "seconds": 171,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "nx8K9mwPPv0",
+  "orig": "ライバルウィングズ ～アストラガロス機工戦～",
+  "title": "Rival Wings ~ Astragalos ~",
+  "seconds": 294,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ugAFD0ljTTY",
+  "orig": "A Chapel",
+  "title": "A Chapel",
+  "seconds": 102,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "A7cpHGcWqQ0",
+  "orig": "鬼の棲む島 ～紅玉火山 獄之蓋～",
+  "title": "Isle of the Oni ~ Hells' Lid ~",
+  "seconds": 247,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain",
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Xb8IrJ47jDE",
+  "orig": "我ら国境警備隊",
+  "title": "We Are the Border Guard",
+  "seconds": 230,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zPoLsgydiqU",
+  "orig": "呪われたサレコウベ",
+  "title": "The Cursed Skull",
+  "seconds": 242,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "_e54Zcc1rRg",
+  "orig": "頂上へ",
+  "title": "To the Summit",
+  "seconds": 153,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "0uIZY96ZhnM",
+  "orig": "ギルヴェガンの謎",
+  "title": "The Mystery of Gilvegan",
+  "seconds": 128,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "BI0FV4n10SQ",
+  "orig": "銀鱗と鋼鉄",
+  "title": "Silver Scales and Steel",
+  "seconds": 266,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "xSBY4xo7O0U",
+  "orig": "ガントレット",
+  "title": "Gauntlet",
+  "seconds": 210,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "RHlHvf7ux9Q",
+  "orig": "餓えた狼 ～ザ･フィースト～",
+  "title": "Starved Wolves ~ The Feast ~",
+  "seconds": 379,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "FaNYvw2y7VA",
+  "orig": "勝利への猛攻",
+  "title": "Onslaught to Victory",
+  "seconds": 415,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "shOXxktcgcU",
+  "orig": "砂塵",
+  "title": "Sandstorm",
+  "seconds": 279,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "jvdJmMT7RjY",
+  "orig": "影法師 ～影の国ダン･スカー～",
+  "title": "Shadow ~ Dun Scaith ~",
+  "seconds": 315,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "yGPyS5Lpijg",
+  "orig": "トイレに行けない夜",
+  "title": "The Night I Couldn't Go to the Bathroom",
+  "seconds": 283,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "5goQEOS83Os",
+  "orig": "アナザーブリック ～巨大防壁 バエサルの長城～",
+  "title": "Another Brick ~ Baelsar's Wall ~",
+  "seconds": 239,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "m6F7y4nrJaw",
+  "orig": "自由なる風に吹かれて",
+  "title": "On Free Winds",
+  "seconds": 331,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "S0Vved7ERFw",
+  "orig": "聖なる助言者",
+  "title": "Holy Advisor",
+  "seconds": 280,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ClyGkj3FJOc",
+  "orig": "笛吹大魔王",
+  "title": "The Great Piper",
+  "seconds": 152,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "qBssyR2cze0",
+  "orig": "幾千の顔 ～禁忌都市マハ～",
+  "title": "A Thousand Faces ~ Mhach ~",
+  "seconds": 88,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "fGCv4ELDOGc",
+  "orig": "朝まで大騒ぎ",
+  "title": "Party Till Morning",
+  "seconds": 134,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "YFQbYbpDKgI",
+  "orig": "メタル ～機工城アレキサンダー:起動編～",
+  "title": "Metal",
+  "seconds": 331,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Gna_PhhjPlI",
+  "orig": "闘争",
+  "title": "Fiend",
+  "seconds": 202,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "UhMxpT1Pt6k",
+  "orig": "マトーヤの洞窟 ～蒼天～",
+  "title": "Matoya's Cave (Heavensward)",
+  "seconds": 176,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "cave",
+    "snow"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "dVh-rev5Jq8",
+  "orig": "石と鋼",
+  "title": "Stone and Steel",
+  "seconds": 279,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "T9MRfeNVjiE",
+  "orig": "国境なき空",
+  "title": "Borderless Skies",
+  "seconds": 403,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "DH4C8pTW6jI",
+  "orig": "未解読法則 ～魔大陸アジス･ラー～",
+  "title": "Unknown Laws",
+  "seconds": 663,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "WwOaA7wpqTw",
+  "orig": "製造者責任 ～機工城アレキサンダー:起動編～",
+  "title": "Product Liability",
+  "seconds": 163,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "08NOT-0N7QI",
+  "orig": "宝石 ～雲海探索 ディアデム諸島～",
+  "title": "Jewel",
+  "seconds": 193,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "sky",
+    "crystal",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zLG0hYxzD78",
+  "orig": "欠けた頁 ～低地ドラヴァニア:昼～",
+  "title": "Missing Pages",
+  "seconds": 191,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "dt1qmqsBCVU",
+  "orig": "邪竜の咆吼 ～邪竜血戦 ドラゴンズエアリー～",
+  "title": "Dragonroar",
+  "seconds": 270,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "W_mtc2VMF-g",
+  "orig": "悠久の風 ～新生～",
+  "title": "Eternal Wind (A Realm Reborn)",
+  "seconds": 160,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "_JFkoMUp6yg",
+  "orig": "破砕 ～クリスタルタワー:シルクスの塔～",
+  "title": "Shatter",
+  "seconds": 321,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "kPTE2UusEIA",
+  "orig": "マンダヴィル･ゴールドソーサー",
+  "title": "Mandaville Gold Saucer",
+  "seconds": 252,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "kpHuFoI-HoE",
+  "orig": "暗闇 ～クリスタルタワー:闇の世界～",
+  "title": "Darkness",
+  "seconds": 309,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "0dBcCOw-ly4",
+  "orig": "剣と剣 ～大迷宮 バハムート侵攻編～",
+  "title": "Sword and Sword",
+  "seconds": 370,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ELkj96pZJGc",
+  "orig": "白銀の凶鳥、飛翔せり",
+  "title": "The Silver Bird Soars",
+  "seconds": 186,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "cq_d9P4pH6U",
+  "orig": "戦乱",
+  "title": "Turmoil",
+  "seconds": 377,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Y2TlsYlOeoE",
+  "orig": "でぶチョコボ騎乗",
+  "title": "Fat Chocobo Riding",
+  "seconds": 155,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "RERj_5JKoRY",
+  "orig": "不屈の挑戦",
+  "title": "Unyielding Challenge",
+  "seconds": 97,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "L3WWShvrIDo",
+  "orig": "憤怒 ～盟友支援 ブレイフロクスの野営地～",
+  "title": "Wrath",
+  "seconds": 156,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "g47TJsJ5p4c",
+  "orig": "メテオ",
+  "title": "Meteor",
+  "seconds": 136,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "oZV3KsTmG0E",
+  "orig": "忍びの刃",
+  "title": "Shinobi's Blade",
+  "seconds": 127,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "rIdOHSZGRFs",
+  "orig": "ノォヴ一味",
+  "title": "Novv's Crew",
+  "seconds": 141,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "E35GeZFA1vc",
+  "orig": "槍旗",
+  "title": "Lance and Banner",
+  "seconds": 238,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "otzOF6psZso",
+  "orig": "仇敵 ～皇都イシュガルド防衛戦～",
+  "title": "Archenemy ~ Defense of Ishgard",
+  "seconds": 143,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "wTQPsssKtVk",
+  "orig": "死闘の序曲",
+  "title": "Prelude to a Deadly Battle",
+  "seconds": 39,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "wdrN4_heT5Q",
+  "orig": "作戦会議室",
+  "title": "War Council",
+  "seconds": 242,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Xskwr6OoxeI",
+  "orig": "教皇",
+  "title": "Archbishop",
+  "seconds": 69,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "uHmFVkIxEKU",
+  "orig": "神なき世界",
+  "title": "A World Without Gods",
+  "seconds": 172,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "aU3q08jC6os",
+  "orig": "夢見る女王陛下",
+  "title": "Her Majesty the Dreaming Queen",
+  "seconds": 426,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "4DzZIqJkb6s",
+  "orig": "静穏の森",
+  "title": "Serene Forest",
+  "seconds": 353,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "5N5Zjgh0AwA",
+  "orig": "水車の調べ",
+  "title": "Wailers and Waterwheels",
+  "seconds": 687,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "0rgW-Cbbtc0",
+  "orig": "荒野の鼓動",
+  "title": "Pulse of the Wilds",
+  "seconds": 185,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "desert",
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "tFpQmiH2ZZw",
+  "orig": "名誉に賭けて",
+  "title": "On Honor's Wager",
+  "seconds": 192,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "gCu9Vq2TbUE",
+  "orig": "蛍たちの舞踏会",
+  "title": "Ball of the Fireflies",
+  "seconds": 265,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "jQTJD9f8KRA",
+  "orig": "不屈の闘志",
+  "title": "Indomitable Spirit",
+  "seconds": 306,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "gDOBP-T4ORE",
+  "orig": "螺旋",
+  "title": "Spiral",
+  "seconds": 415,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "0KVJravl_Ew",
+  "orig": "大地の鼓動",
+  "title": "Pulse of the Land",
+  "seconds": 185,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "jQbTfqfwwG0",
+  "orig": "もう一杯!",
+  "title": "One More Round!",
+  "seconds": 137,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "yB2WQrRfcvU",
+  "orig": "不穏な気配",
+  "title": "Ominous Presence",
+  "seconds": 86,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "GXVuizEdxG0",
+  "orig": "戦友",
+  "title": "Comrades in Arms",
+  "seconds": 392,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "PmMOqNfvOKI",
+  "orig": "森の鼓動",
+  "title": "Pulse of the Forest",
+  "seconds": 170,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "5B8G9PoUKMQ",
+  "orig": "爆ぜよ耐熱装備",
+  "title": "Burst, Heat-Resistant Gear!",
+  "seconds": 140,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "ph83TTJr0Sk",
+  "orig": "隠し財宝を求めて",
+  "title": "In Search of Hidden Treasure",
+  "seconds": 229,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "_HqdjvWhkJU",
+  "orig": "真実を求めて",
+  "title": "In Search of Truth",
+  "seconds": 392,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "CefspGlIlEE",
+  "orig": "水晶の鼓動",
+  "title": "Pulse of the Crystal",
+  "seconds": 186,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "2J-bPsJUjUw",
+  "orig": "蒼き翼",
+  "title": "Azure Wings",
+  "seconds": 217,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "1rLpeqDzB-E",
+  "orig": "燻る灰",
+  "title": "Smoldering Ashes",
+  "seconds": 90,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "19E5p4od1vc",
+  "orig": "斬",
+  "title": "Slash",
+  "seconds": 651,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "hvgzF4BtY34",
+  "orig": "妨げられた眠り",
+  "title": "Disturbed Slumber",
+  "seconds": 75,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "_tQPeWLzXec",
+  "orig": "疾きこと銀の如く、硬きこと石の如く",
+  "title": "Swift as Silver, Hard as Stone",
+  "seconds": 151,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "oFjUxkvo_n8",
+  "orig": "猛き嵐の剣に",
+  "title": "To the Sword of the Fierce Storm",
+  "seconds": 156,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "aL1ENv0Wh-Y",
+  "orig": "野営地のお調子者",
+  "title": "The Camp Jester",
+  "seconds": 69,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "XuFZiIYZzdk",
+  "orig": "極寒戦線",
+  "title": "Frozen Front",
+  "seconds": 63,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "snow",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "hxloV6X0vfE",
+  "orig": "鋼の理念",
+  "title": "Ideals of Steel",
+  "seconds": 257,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "sFKL3uEWcyg",
+  "orig": "戦乱",
+  "title": "Turmoil of War",
+  "seconds": 472,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "oC8ei478StU",
+  "orig": "天楔",
+  "title": "Heavenly Wedge",
+  "seconds": 197,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "TQE2ns7cV9g",
+  "orig": "自由なる風に吹かれて",
+  "title": "Borne on Free Winds",
+  "seconds": 330,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "PJ8oZWqrxEk",
+  "orig": "槍旗",
+  "title": "Spear and Banner",
+  "seconds": 361,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "HLf0OXOfe8g",
+  "orig": "心の故郷",
+  "title": "Home of the Heart",
+  "seconds": 154,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "SmtYRLsb0Hs",
+  "orig": "黒衣の迷宮",
+  "title": "Labyrinth of the Black Shroud",
+  "seconds": 213,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "dZ5O6c7oFRo",
+  "orig": "鳴動",
+  "title": "Rumbling",
+  "seconds": 184,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "I7CJS-a0DnY",
+  "orig": "紅蓮の戦旗の下に",
+  "title": "Under the Crimson Banner",
+  "seconds": 350,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "zkNAxllpxZQ",
+  "orig": "日溜り",
+  "title": "Sunlit Spot",
+  "seconds": 107,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "JUqvA2QK-Xg",
+  "orig": "帝国の意志",
+  "title": "Imperial Will",
+  "seconds": 309,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "2pB5OG2nyLA",
+  "orig": "闇の抱擁",
+  "title": "Embrace of Darkness",
+  "seconds": 213,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "uLhOJDJwOtM",
+  "orig": "ノー･クォーター",
+  "title": "No Quarter",
+  "seconds": 245,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "1-rgIfXBs0E",
+  "orig": "エーテルのまどろみ",
+  "title": "Aetherial Slumber",
+  "seconds": 198,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "N2_nkFkkNCg",
+  "orig": "メテオ",
+  "title": "Meteor",
+  "seconds": 247,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "j85y3Lii03k",
+  "orig": "淡き光の夢に",
+  "title": "In a Dream of Pale Light",
+  "seconds": 242,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "jLOdZxUTwss",
+  "orig": "自然の賜物",
+  "title": "Nature's Bounty",
+  "seconds": 142,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "rlOFB-zgUrw",
+  "orig": "露の玉、月の光",
+  "title": "Dewdrops and Moonlight",
+  "seconds": 105,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "xSiA9O8nEog",
+  "orig": "帰るべき場所",
+  "title": "A Place to Return",
+  "seconds": 148,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "s0iPw_uT1yE",
+  "orig": "炎獄の火種",
+  "title": "Embers of Hellfire",
+  "seconds": 176,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "j9etk7aWOZI",
+  "orig": "紅き焔の熱に",
+  "title": "In the Heat of the Crimson Flame",
+  "seconds": 302,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "wt8mA6j7IZU",
+  "orig": "紅蓮祭",
+  "title": "Moonfire Faire",
+  "seconds": 203,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "Ss7kUZUZBD8",
+  "orig": "降神祭",
+  "title": "Heavensturn",
+  "seconds": 267,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "vP4lg2fuVqI",
+  "orig": "守護天節",
+  "title": "All Saints' Wake",
+  "seconds": 195,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "sRxgSE0hbcs",
+  "orig": "清浄なる心",
+  "title": "A Pure Heart",
+  "seconds": 197,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "vsC41TL7y9M",
+  "orig": "闇の口付",
+  "title": "Kiss of Darkness",
+  "seconds": 209,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "hkLTnvL64o0",
+  "orig": "七匹の道化たち",
+  "title": "The Seven Jesters",
+  "seconds": 183,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "WwkWrV9bh0s",
+  "orig": "疾きこと銀の如く、硬きこと石の如く",
+  "title": "Swift as Silver, Solid as Stone",
+  "seconds": 300,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "w8zceKuRE7I",
+  "orig": "砂の機密",
+  "title": "Secrets of the Sands",
+  "seconds": 90,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "desert",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XIV",
+  "id": "EeX9U6PhwGA",
+  "orig": "キャラバン護衛",
+  "title": "Caravan Escort",
+  "seconds": 85,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "EErP2e8_w9E",
+  "orig": "Encroaching Fear (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Encroaching Fear",
+  "seconds": 71,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "wzxvjcjg-Y0",
+  "orig": "Relax and Reflect (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Relax and Reflect",
+  "seconds": 195,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "MzZ_cACPBnA",
+  "orig": "Safe Haven (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Safe Haven",
+  "seconds": 142,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "rtJIIQs-gaw",
+  "orig": "Lurking Danger (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Lurking Danger",
+  "seconds": 103,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "-373ARVkSWg",
+  "orig": "A Quick Pit Stop (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "A Quick Pit Stop",
+  "seconds": 230,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "axBstFxToew",
+  "orig": "The Hunters (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "The Hunters",
+  "seconds": 219,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "v2l1AhgQGWY",
+  "orig": "Bros on the Road (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Bros on the Road",
+  "seconds": 209,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "F0HWNvDoWGw",
+  "orig": "The Niflheim Empire (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "The Niflheim Empire",
+  "seconds": 209,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "AJyzjV50tS8",
+  "orig": "Valse di Fantastica (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Valse di Fantastica",
+  "seconds": 221,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "XsQTAX9vT3s",
+  "orig": "Crystalline Chill (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Crystalline Chill",
+  "seconds": 189,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "cave",
+    "snow"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "XfFNnfHhMDI",
+  "orig": "What a Hoot (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "What a Hoot",
+  "seconds": 107,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "twS7tnRgbA8",
+  "orig": "Cosmogony (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Cosmogony",
+  "seconds": 218,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "whB4yTugnUw",
+  "orig": "Flying R (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Flying R",
+  "seconds": 266,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "6KNZDLlqaLc",
+  "orig": "Invidia (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Invidia",
+  "seconds": 274,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "forest",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "CBlCU0xqQQc",
+  "orig": "Disquiet (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Disquiet",
+  "seconds": 133,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "CvIM574L-AM",
+  "orig": "OMNIS LACRIMA (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "OMNIS LACRIMA",
+  "seconds": 272,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "etHvSiuWOFo",
+  "orig": "Creeping Shadows (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Creeping Shadows",
+  "seconds": 140,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "forest"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "TCYP2kYPPA0",
+  "orig": "Impending Peril (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Impending Peril",
+  "seconds": 113,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "odnI6kMsvAc",
+  "orig": "Bros on the Road II (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Bros on the Road II",
+  "seconds": 190,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "YRDQtFuF9_4",
+  "orig": "Over the Waves (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Over the Waves",
+  "seconds": 238,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water",
+    "seaside"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "FtiiyM7y46w",
+  "orig": "Altissia - Gondola Ride (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Altissia - Gondola Ride",
+  "seconds": 235,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "water",
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "water",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "xq55UsZ7tes",
+  "orig": "ARDYN II (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "ARDYN II",
+  "seconds": 169,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "5hlcnQKxH7g",
+  "orig": "Dining Car (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Dining Car",
+  "seconds": 188,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "LIdlPqwi1zU",
+  "orig": "Cartanica (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Cartanica",
+  "seconds": 254,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "IeNX_j7vkQ4",
+  "orig": "Relax and Reflect - Pensive (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Relax and Reflect - Pensive",
+  "seconds": 135,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "b6lSXIU-Fns",
+  "orig": "Careening Into Danger (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Careening Into Danger",
+  "seconds": 221,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "8-R5bryjbWc",
+  "orig": "Tenebrae (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Tenebrae",
+  "seconds": 246,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "forest"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "h5zTCLYhO0g",
+  "orig": "Horrors of the Night (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Horrors of the Night",
+  "seconds": 355,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "industrial",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XV",
+  "id": "ZqlEOAthcS4",
+  "orig": "Somnus Ultima (FINAL FANTASY XV Original Soundtrack) 【Audio】",
+  "title": "Somnus Ultima",
+  "seconds": 121,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "CviFkbIEhG0",
+  "orig": "A Rose Is a Rose (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "A Rose Is a Rose",
+  "seconds": 271,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "LcOQoZAIn-A",
+  "orig": "Into the Mire - Stillwind (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Into the Mire - Stillwind",
+  "seconds": 289,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "swamp"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "swamp",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "xHSpuxEUYsI",
+  "orig": "Sixteen Bells (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Sixteen Bells",
+  "seconds": 300,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "VJzGhi2bR5c",
+  "orig": "Betrayal - Phoenix Gate  (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Betrayal - Phoenix Gate",
+  "seconds": 266,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ZfIXHgAq6Kw",
+  "orig": "Away (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Away",
+  "seconds": 401,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "UC9pQMNCBME",
+  "orig": "Winter's Bound (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Winter's Bound",
+  "seconds": 401,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "snow"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "snow",
+    "castle",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "TxuE6_-tm2g",
+  "orig": "Tonitrua ex Machina (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Tonitrua ex Machina",
+  "seconds": 64,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "mlQinpfWMCw",
+  "orig": "Too Bloody Quiet (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Too Bloody Quiet",
+  "seconds": 121,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "1YEEdupdrCo",
+  "orig": "Idylls of the Empire (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Idylls of the Empire",
+  "seconds": 175,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "K8TkA5bSEqk",
+  "orig": "Domina (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Domina",
+  "seconds": 154,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "OzZgbUEaq0g",
+  "orig": "Before the Storm - Caer Norvent (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Before the Storm - Caer Norvent",
+  "seconds": 325,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "town"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "0w2mNwtsP_0",
+  "orig": "Thunderstorm (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Thunderstorm",
+  "seconds": 70,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "SnLI28hYNFM",
+  "orig": "A Land in Peril (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "A Land in Peril",
+  "seconds": 179,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "O8qXEVIAw8E",
+  "orig": "Downburst (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Downburst",
+  "seconds": 96,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "9kdfMPbwi-o",
+  "orig": "Against the Wind - The Eye of the Tempest (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Against the Wind - The Eye of the Tempest",
+  "seconds": 260,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "2vN_XX0Mju4",
+  "orig": "The Battle of Belenus Tor (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Battle of Belenus Tor",
+  "seconds": 208,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "PnglLwdpEgs",
+  "orig": "Whitewater - Kingsfall (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Whitewater - Kingsfall",
+  "seconds": 329,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "water",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "LqClZQLY8yI",
+  "orig": "Forevermore - The Grand Duchy of Rosaria (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Forevermore - The Grand Duchy of Rosaria",
+  "seconds": 188,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "sDc_8eeKFFY",
+  "orig": "Press On (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Press On",
+  "seconds": 234,
+  "first": {
+   "kind": "battle",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "8RPnAc71fTU",
+  "orig": "Find the Flame (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Find the Flame",
+  "seconds": 213,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "XYLqEvygPj0",
+  "orig": "The Se7enth Sin (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Se7enth Sin",
+  "seconds": 113,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "9q2ylXt04ak",
+  "orig": "Histoire - The Holy Empire of Sanbreque (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Histoire - The Holy Empire of Sanbreque",
+  "seconds": 179,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "sORvPKrf93E",
+  "orig": "Treading Lightly - The Glass Gate (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Treading Lightly - The Glass Gate",
+  "seconds": 281,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "WiGiHa3Yf8g",
+  "orig": "Reflections - Drake's Head (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Reflections - Drake's Head",
+  "seconds": 349,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ElJ34Ttr8TI",
+  "orig": "Babel of Savage Screams (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Babel of Savage Screams",
+  "seconds": 90,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "IgAJqiHoRaw",
+  "orig": "Catacecaumene (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Catacecaumene",
+  "seconds": 233,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "9HrjJpRZwP4",
+  "orig": "Blood Beats Black - The Iron Kingdom (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Blood Beats Black - The Iron Kingdom",
+  "seconds": 326,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "PKz_ApAhTjI",
+  "orig": "Enter the Oratrix - Drake's Breath (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Enter the Oratrix - Drake's Breath",
+  "seconds": 227,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "2qWe9lU2n9M",
+  "orig": "Monster (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Monster",
+  "seconds": 96,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "Mst4aMAax4s",
+  "orig": "Fire and Ice (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Fire and Ice",
+  "seconds": 130,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "9rywKlqPSu4",
+  "orig": "Azure Skies (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Azure Skies",
+  "seconds": 67,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "plains",
+    "sky"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "diDP-4-9G-Q",
+  "orig": "Desert Ministrations (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Desert Ministrations",
+  "seconds": 131,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "LFaaXl4i2Ek",
+  "orig": "Beasts among Beasts (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Beasts among Beasts",
+  "seconds": 192,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "NPt4ScYLuYo",
+  "orig": "Homecoming - Rosalith (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Homecoming - Rosalith",
+  "seconds": 359,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "F_I2Cte-rHc",
+  "orig": "Fenris Kindir (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Fenris Kindir",
+  "seconds": 35,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ryTrjEVItQs",
+  "orig": "King of the World (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "King of the World",
+  "seconds": 103,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "KwFacgW3eic",
+  "orig": "To Sail Forbidden Seas (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "To Sail Forbidden Seas",
+  "seconds": 363,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "seaside",
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "TESBm2MJKfI",
+  "orig": "The Thousand Tables (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Thousand Tables",
+  "seconds": 318,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "seaside"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "FZkN5dQ1jiE",
+  "orig": "Titanomachy - Drake's Fang (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Titanomachy - Drake's Fang",
+  "seconds": 285,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "mountain",
+    "ruins"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "AxeKOVEA0Pc",
+  "orig": "Do or Die (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Do or Die",
+  "seconds": 134,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "x1JcNUALTuM",
+  "orig": "From the Shadows (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "From the Shadows",
+  "seconds": 144,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "Hdrr2mQWwlQ",
+  "orig": "Rooftops - The Crystalline Dominion (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Rooftops - The Crystalline Dominion",
+  "seconds": 313,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "city"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "crystal"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ESfjxceqsy8",
+  "orig": "Dreadwyrm (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Dreadwyrm",
+  "seconds": 141,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "WI0HZsTKi5U",
+  "orig": "Facets of Rage - Drake's Tail (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Facets of Rage - Drake's Tail",
+  "seconds": 281,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "seaside",
+    "water"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "castle",
+    "mountain"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "opfilyMzFMk",
+  "orig": "Beyond the Heavens (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Beyond the Heavens",
+  "seconds": 290,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "k7UJgg7Bx0Y",
+  "orig": "The Desert Dims - The Republic of Dhalmekia (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Desert Dims - The Republic of Dhalmekia",
+  "seconds": 181,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "desert"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "desert",
+    "city"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "xPxslFuXgfQ",
+  "orig": "Under Siege - The Free Cities of Kanver (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Under Siege - The Free Cities of Kanver",
+  "seconds": 269,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "industrial"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ri_iUO8MJMI",
+  "orig": "No Risk, No Reward (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "No Risk, No Reward",
+  "seconds": 289,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "Qv-XeV24O_E",
+  "orig": "Heavensbound - Reverie (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Heavensbound - Reverie",
+  "seconds": 371,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "4ciFXuqCGos",
+  "orig": "The Riddle (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Riddle",
+  "seconds": 346,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "-mD0iY5EM4M",
+  "orig": "Fighting Fate (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Fighting Fate",
+  "seconds": 112,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "vIr8gtxj5tE",
+  "orig": "Bastion - Stonhyrr (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Bastion - Stonhyrr",
+  "seconds": 276,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "castle"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "city",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "E5k5jSttSd8",
+  "orig": "In Darkness Hope - The Holy Empire of Sanbreque (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "In Darkness Hope - The Holy Empire of Sanbreque",
+  "seconds": 230,
+  "first": {
+   "kind": "field",
+   "tags": [
+    "plains"
+   ]
+  },
+  "blind": {
+   "kind": "field",
+   "tags": [
+    "snow",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "4oR9r40PHX8",
+  "orig": "A Far Cry from Heaven (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "A Far Cry from Heaven",
+  "seconds": 280,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal",
+    "sky"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "o4s8rmya19s",
+  "orig": "The Nexus (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "The Nexus",
+  "seconds": 187,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "crystal"
+   ]
+  },
+  "blind": {
+   "kind": "town",
+   "tags": [
+    "town",
+    "castle"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "uu4pnoaOcYM",
+  "orig": "Faith (FINAL FANTASY XVI Original Soundtrack)【Audio】",
+  "title": "Faith",
+  "seconds": 272,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "025WHfP2NHI",
+  "orig": "The Secret of Its Laboring Heart (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)",
+  "title": "The Secret of Its Laboring Heart",
+  "seconds": 428,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "industrial"
+   ]
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "OM8JFUHljig",
+  "orig": "O Call Back Yesterday (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)【Audio】",
+  "title": "O Call Back Yesterday",
+  "seconds": 318,
+  "first": {
+   "kind": "dungeon",
+   "tags": [
+    "ruins",
+    "eerie"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ASoIHnpr30A",
+  "orig": "Black and Gold (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)【Audio】",
+  "title": "Black and Gold",
+  "seconds": 71,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "boss",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "ZbrtpYithTE",
+  "orig": "Eternal Vigil (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)【Audio】",
+  "title": "Eternal Vigil",
+  "seconds": 120,
+  "first": {
+   "kind": "other",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "eerie",
+    "ruins"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "rSboR8zV-3Y",
+  "orig": "High Tide (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)【Audio】",
+  "title": "High Tide",
+  "seconds": 143,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "battle",
+   "tags": []
+  }
+ },
+ {
+  "game": "Final Fantasy XVI",
+  "id": "5n6EZ7hgpQw",
+  "orig": "Immersion (FINAL FANTASY XVI   Original DLC Soundtrack   From Spire to Sea)【Audio】",
+  "title": "Immersion",
+  "seconds": 144,
+  "first": {
+   "kind": "boss",
+   "tags": []
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "water",
+    "eerie",
+    "cave"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy",
+  "id": "PDAqOCHuaok",
+  "orig": "[Video Soundtrack] Matoya's Cave [FINAL FANTASY I]",
+  "title": "Matoya's Cave",
+  "seconds": 74,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "cave"
+   ]
+  },
+  "blind": {
+   "kind": "dungeon",
+   "tags": [
+    "cave",
+    "eerie"
+   ]
+  }
+ },
+ {
+  "game": "Final Fantasy",
+  "id": "v6Zo0PaTrpw",
+  "orig": "[Video Soundtrack] Shop [FINAL FANTASY I]",
+  "title": "Shop",
+  "seconds": 62,
+  "first": {
+   "kind": "town",
+   "tags": [
+    "town"
+   ]
+  },
+  "blind": {
+   "kind": "other",
+   "tags": []
+  }
+ }
+]

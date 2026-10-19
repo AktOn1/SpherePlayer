@@ -1,0 +1,540 @@
+[
+ {
+  "id": "WyDWU0Xx_P8",
+  "orig": "[Video Soundtrack] Omen [FINAL FANTASY VI]",
+  "title": "Omen",
+  "seconds": 258,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PpStsYdLTxQ",
+  "orig": "[Video Soundtrack] The Mines of Narshe [FINAL FANTASY VI]",
+  "title": "The Mines of Narshe",
+  "seconds": 173,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow",
+   "mountain"
+  ]
+ },
+ {
+  "id": "iZM6Lmb5tuw",
+  "orig": "[Video Soundtrack] Awakening [FINAL FANTASY VI]",
+  "title": "Awakening",
+  "seconds": 103,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JLrsUOA4Vb4",
+  "orig": "[Video Soundtrack] Locke's Theme [FINAL FANTASY VI]",
+  "title": "Locke's Theme",
+  "seconds": 123,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "92MCwVeTiYU",
+  "orig": "[Video Soundtrack] Battle [FINAL FANTASY VI]",
+  "title": "Battle",
+  "seconds": 123,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "1iMwxNvgfdg",
+  "orig": "[Video Soundtrack] Victory Fanfare [FINAL FANTASY VI]",
+  "title": "Victory Fanfare",
+  "seconds": 44,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "I7gxfe0h4TY",
+  "orig": "[Video Soundtrack] Edgar & Sabin's Theme [FINAL FANTASY VI]",
+  "title": "Edgar & Sabin's Theme",
+  "seconds": 155,
+  "kind": "town",
+  "tags": [
+   "castle",
+   "desert"
+  ]
+ },
+ {
+  "id": "oPDbe9YI7-M",
+  "orig": "[Video Soundtrack] Kefka [FINAL FANTASY VI]",
+  "title": "Kefka",
+  "seconds": 166,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "QxPlWU0UqHU",
+  "orig": "[Video Soundtrack] Mt. Koltz [FINAL FANTASY VI]",
+  "title": "Mt. Koltz",
+  "seconds": 153,
+  "kind": "dungeon",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "AQ0p6ZHgwW8",
+  "orig": "[Video Soundtrack] The Returners [FINAL FANTASY VI]",
+  "title": "The Returners",
+  "seconds": 164,
+  "kind": "town",
+  "tags": [
+   "mountain",
+   "cave"
+  ]
+ },
+ {
+  "id": "WSGpg777M0M",
+  "orig": "[Video Soundtrack] Shadow's Theme [FINAL FANTASY VI]",
+  "title": "Shadow's Theme",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "w7CoVG7tkcE",
+  "orig": "[Video Soundtrack] Troops March On [FINAL FANTASY VI]",
+  "title": "Troops March On",
+  "seconds": 120,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "SRq67UE40WQ",
+  "orig": "[Video Soundtrack] Cyan's Theme [FINAL FANTASY VI]",
+  "title": "Cyan's Theme",
+  "seconds": 145,
+  "kind": "town",
+  "tags": [
+   "castle"
+  ]
+ },
+ {
+  "id": "zFtgxUrcRY4",
+  "orig": "[Video Soundtrack] The Unforgiven [FINAL FANTASY VI]",
+  "title": "The Unforgiven",
+  "seconds": 86,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "3f6Ld7gLRLE",
+  "orig": "[Video Soundtrack] Phantom Forest [FINAL FANTASY VI]",
+  "title": "Phantom Forest",
+  "seconds": 200,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ {
+  "id": "eCcaFkQEAcU",
+  "orig": "[Video Soundtrack] Phantom Train [FINAL FANTASY VI]",
+  "title": "Phantom Train",
+  "seconds": 171,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "2XDbQJN8Mlo",
+  "orig": "[Video Soundtrack] The Veldt [FINAL FANTASY VI]",
+  "title": "The Veldt",
+  "seconds": 142,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "30CpyDOxVnE",
+  "orig": "[Video Soundtrack] Gau's Theme [FINAL FANTASY VI]",
+  "title": "Gau's Theme",
+  "seconds": 113,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "D2AN1Yx2ThU",
+  "orig": "[Video Soundtrack] The Serpent Trench [FINAL FANTASY VI]",
+  "title": "The Serpent Trench",
+  "seconds": 131,
+  "kind": "dungeon",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "lAOKk8m3Uro",
+  "orig": "[Video Soundtrack] Kids Run Through the City [FINAL FANTASY VI]",
+  "title": "Kids Run Through the City",
+  "seconds": 166,
+  "kind": "town",
+  "tags": [
+   "town",
+   "city",
+   "seaside"
+  ]
+ },
+ {
+  "id": "PgbJ9lJUyQU",
+  "orig": "[Video Soundtrack] Under Martial Law [FINAL FANTASY VI]",
+  "title": "Under Martial Law",
+  "seconds": 149,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "ZRoE9cVRMkg",
+  "orig": "[Video Soundtrack] Celes's Theme [FINAL FANTASY VI]",
+  "title": "Celes's Theme",
+  "seconds": 180,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "o2b4DMy8Xhk",
+  "orig": "[Video Soundtrack] Protect the Espers ! [FINAL FANTASY VI]",
+  "title": "Protect the Espers!",
+  "seconds": 121,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8ksnA3Qjx5Q",
+  "orig": "[Video Soundtrack] The Decisive Battle [FINAL FANTASY VI]",
+  "title": "The Decisive Battle",
+  "seconds": 123,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "TTn96QsP6_Q",
+  "orig": "[Video Soundtrack] Metamorphosis [FINAL FANTASY VI]",
+  "title": "Metamorphosis",
+  "seconds": 88,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ObccgHQdos0",
+  "orig": "[Video Soundtrack] Terra's Theme [FINAL FANTASY VI]",
+  "title": "Terra's Theme",
+  "seconds": 233,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "mFIR_oATiIk",
+  "orig": "[Video Soundtrack] Coin of Fate [FINAL FANTASY VI]",
+  "title": "Coin of Fate",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "I3kIaPIJBrE",
+  "orig": "[Video Soundtrack] Techno de Chocobo [FINAL FANTASY VI]",
+  "title": "Techno de Chocobo",
+  "seconds": 98,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "LWfdEj9jHDM",
+  "orig": "[Video Soundtrack] Forever Rachel [FINAL FANTASY VI]",
+  "title": "Forever Rachel",
+  "seconds": 175,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gUDqUozYYKg",
+  "orig": "[Video Soundtrack] Slam Shuffle [FINAL FANTASY VI]",
+  "title": "Slam Shuffle",
+  "seconds": 142,
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ]
+ },
+ {
+  "id": "wL5lX_xwtdM",
+  "orig": "[Video Soundtrack] Spinach Rag [FINAL FANTASY VI]",
+  "title": "Spinach Rag",
+  "seconds": 137,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "hfwJQoVj5Dc",
+  "orig": "[Video Soundtrack] Overture [FINAL FANTASY VI]",
+  "title": "Overture",
+  "seconds": 289,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "iqZiSqIaBag",
+  "orig": "[Video Soundtrack] Aria di Mezzo Carattere [FINAL FANTASY VI]",
+  "title": "Aria di Mezzo Carattere",
+  "seconds": 237,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gvRViF-3rJQ",
+  "orig": "[Video Soundtrack] Wedding Waltz - Duel [FINAL FANTASY VI]",
+  "title": "Wedding Waltz - Duel",
+  "seconds": 244,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "z-0DtmPjOSg",
+  "orig": "[Video Soundtrack] Grand Finale [FINAL FANTASY VI]",
+  "title": "Grand Finale",
+  "seconds": 197,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Fo4Z5jaRAVM",
+  "orig": "[Video Soundtrack] Setzer's Theme [FINAL FANTASY VI]",
+  "title": "Setzer's Theme",
+  "seconds": 119,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "V8COREpn0gc",
+  "orig": "[Video Soundtrack] Johnny C. Bad [FINAL FANTASY VI]",
+  "title": "Johnny C. Bad",
+  "seconds": 177,
+  "kind": "town",
+  "tags": [
+   "town"
+  ]
+ },
+ {
+  "id": "mBpZEo0G68I",
+  "orig": "[Video Soundtrack] The Gestahl Empire [FINAL FANTASY VI]",
+  "title": "The Gestahl Empire",
+  "seconds": 195,
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ]
+ },
+ {
+  "id": "Iq0ntBagBQY",
+  "orig": "[Video Soundtrack] Magitek Research Facility [FINAL FANTASY VI]",
+  "title": "Magitek Research Facility",
+  "seconds": 154,
+  "kind": "dungeon",
+  "tags": [
+   "industrial"
+  ]
+ },
+ {
+  "id": "7fb7cSoRFP8",
+  "orig": "[Video Soundtrack] The Airship Blackjack [FINAL FANTASY VI]",
+  "title": "The Airship Blackjack",
+  "seconds": 187,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "gy4sSNX_Mck",
+  "orig": "[Video Soundtrack] What? 2 [FINAL FANTASY VI]",
+  "title": "What? 2",
+  "seconds": 70,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "yS5IxNLkI5M",
+  "orig": "[Video Soundtrack] Mog's Theme [FINAL FANTASY VI]",
+  "title": "Mog's Theme",
+  "seconds": 118,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "9A9d2xDIML0",
+  "orig": "[Video Soundtrack] Strago's Theme [FINAL FANTASY VI]",
+  "title": "Strago's Theme",
+  "seconds": 152,
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ {
+  "id": "gRRVStgkgSw",
+  "orig": "[Video Soundtrack] Relm's Theme [FINAL FANTASY VI]",
+  "title": "Relm's Theme",
+  "seconds": 177,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "_4bwGSx6ZZc",
+  "orig": "[Video Soundtrack] Esper World [FINAL FANTASY VI]",
+  "title": "Esper World",
+  "seconds": 159,
+  "kind": "town",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "FgG6c0bF31U",
+  "orig": "[Video Soundtrack] Floating Continent [FINAL FANTASY VI]",
+  "title": "Floating Continent",
+  "seconds": 150,
+  "kind": "dungeon",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "idX3OaecYcY",
+  "orig": "[Video Soundtrack] Catastrophe [FINAL FANTASY VI]",
+  "title": "Catastrophe",
+  "seconds": 139,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DpWvIpAtPd4",
+  "orig": "[Video Soundtrack] Battle to the Death [FINAL FANTASY VI]",
+  "title": "Battle to the Death",
+  "seconds": 156,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "hCBuwn2qNg4",
+  "orig": "[Video Soundtrack] Rest In Peace [FINAL FANTASY VI]",
+  "title": "Rest in Peace",
+  "seconds": 33,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "dfO5CSZ4qbk",
+  "orig": "[Video Soundtrack] Dark World [FINAL FANTASY VI]",
+  "title": "Dark World",
+  "seconds": 186,
+  "kind": "field",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "sk2iuN1A_Ek",
+  "orig": "[Video Soundtrack] From That Day On… [FINAL FANTASY VI]",
+  "title": "From That Day On...",
+  "seconds": 137,
+  "kind": "field",
+  "tags": [
+   "sky"
+  ]
+ },
+ {
+  "id": "XEO7RCD7jVg",
+  "orig": "[Video Soundtrack] Searching for Friends [FINAL FANTASY VI]",
+  "title": "Searching for Friends",
+  "seconds": 180,
+  "kind": "town",
+  "tags": [
+   "town",
+   "ruins"
+  ]
+ },
+ {
+  "id": "UVrQSchm6ho",
+  "orig": "[Video Soundtrack] Gogo's Theme [FINAL FANTASY VI]",
+  "title": "Gogo's Theme",
+  "seconds": 134,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "TQSodUr13rI",
+  "orig": "[Video Soundtrack] Epitaph [FINAL FANTASY VI]",
+  "title": "Epitaph",
+  "seconds": 173,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "uQyf1FBUy5A",
+  "orig": "[Video Soundtrack] The Magic House [FINAL FANTASY VI]",
+  "title": "The Magic House",
+  "seconds": 156,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "VHgPvGAFxPk",
+  "orig": "[Video Soundtrack] Umaro's Theme [FINAL FANTASY VI]",
+  "title": "Umaro's Theme",
+  "seconds": 117,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "u3_6hcLqMWw",
+  "orig": "[Video Soundtrack] The Fanatics [FINAL FANTASY VI]",
+  "title": "The Fanatics",
+  "seconds": 111,
+  "kind": "dungeon",
+  "tags": [
+   "eerie"
+  ]
+ },
+ {
+  "id": "sdbb_wvx91g",
+  "orig": "[Video Soundtrack] Kefka's Tower [FINAL FANTASY VI]",
+  "title": "Kefka's Tower",
+  "seconds": 172,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "sJ0HeCZYAhI",
+  "orig": "[Video Soundtrack] Dancing Mad [FINAL FANTASY VI]",
+  "title": "Dancing Mad",
+  "seconds": 1059,
+  "kind": "boss",
+  "tags": []
+ }
+]

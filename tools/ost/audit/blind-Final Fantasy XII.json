@@ -1,0 +1,657 @@
+[
+ {
+  "id": "nYITru9U-bM",
+  "kind": "other",
+  "tags": [],
+  "en": "Loop Demo"
+ },
+ {
+  "id": "FlqzuHsmlq4",
+  "kind": "other",
+  "tags": [],
+  "en": "Final Fantasy (FFXII Version)"
+ },
+ {
+  "id": "svfMQ4nr4Pc",
+  "kind": "other",
+  "tags": [],
+  "en": "Opening Movie (Theme of Final Fantasy XII)"
+ },
+ {
+  "id": "E0BKfJ1mUl8",
+  "kind": "other",
+  "tags": [],
+  "en": "Infiltration"
+ },
+ {
+  "id": "mLQQauaGsuU",
+  "kind": "boss",
+  "tags": [],
+  "en": "Boss Battle"
+ },
+ {
+  "id": "f7JmzE4FmRY",
+  "kind": "other",
+  "tags": [],
+  "en": "Auditory Hallucination"
+ },
+ {
+  "id": "kR-rWUDqGyQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Secret Practice"
+ },
+ {
+  "id": "Tgcb6AShVQs",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Royal City of Rabanastre / Upper City"
+ },
+ {
+  "id": "3ULO1rAIb0w",
+  "kind": "other",
+  "tags": [],
+  "en": "Penelo's Theme"
+ },
+ {
+  "id": "DbWdiuFaIUQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Dream of Becoming a Sky Pirate"
+ },
+ {
+  "id": "V6bjz63ec3A",
+  "kind": "other",
+  "tags": [],
+  "en": "Small-Time Crook"
+ },
+ {
+  "id": "DoQ95gjR4sA",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ],
+  "en": "Eastern Dalmasca Desert"
+ },
+ {
+  "id": "sE14vaezy5M",
+  "kind": "other",
+  "tags": [],
+  "en": "Childlike Innocence"
+ },
+ {
+  "id": "nHkvzNkb-Ig",
+  "kind": "other",
+  "tags": [],
+  "en": "Coexistence (Empire Version)"
+ },
+ {
+  "id": "6q4Zctb_e0s",
+  "kind": "other",
+  "tags": [],
+  "en": "Signs of Change"
+ },
+ {
+  "id": "P_HPcjw2Fy0",
+  "kind": "town",
+  "tags": [
+   "city",
+   "town"
+  ],
+  "en": "Rabanastre Downtown"
+ },
+ {
+  "id": "rqOKNDdFKkg",
+  "kind": "other",
+  "tags": [],
+  "en": "Quiet Resolve"
+ },
+ {
+  "id": "CIHrnosI578",
+  "kind": "field",
+  "tags": [
+   "desert",
+   "plains"
+  ],
+  "en": "Western Dalmasca Desert"
+ },
+ {
+  "id": "lA90GuBjGQo",
+  "kind": "town",
+  "tags": [
+   "city",
+   "town"
+  ],
+  "en": "Clan Headquarters"
+ },
+ {
+  "id": "ZcLV8b3MWsU",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Giza Plains"
+ },
+ {
+  "id": "ffk4IthPxTE",
+  "kind": "other",
+  "tags": [],
+  "en": "Parting with Penelo"
+ },
+ {
+  "id": "08o17IVgv4I",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins",
+   "cave"
+  ],
+  "en": "Garamsythe Waterway"
+ },
+ {
+  "id": "-zEgiI6MVA8",
+  "kind": "other",
+  "tags": [],
+  "en": "Omen"
+ },
+ {
+  "id": "Wxyd9wFzdec",
+  "kind": "other",
+  "tags": [],
+  "en": "Turmoil"
+ },
+ {
+  "id": "JmBHxYxYnvo",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Nalbina Fortress Town"
+ },
+ {
+  "id": "P5Z_kLDgL0g",
+  "kind": "other",
+  "tags": [],
+  "en": "The Princess's Phantom"
+ },
+ {
+  "id": "8xb-yEMxFkM",
+  "kind": "other",
+  "tags": [],
+  "en": "Flash of the Sword"
+ },
+ {
+  "id": "TcZJHIzW9-w",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory Fanfare (FFXII Version)"
+ },
+ {
+  "id": "ShirDoancBU",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "The Abyss"
+ },
+ {
+  "id": "tzyT29Yjut4",
+  "kind": "other",
+  "tags": [],
+  "en": "Dark Clouds (Empire Version)"
+ },
+ {
+  "id": "g5UsAvZ8dUw",
+  "kind": "other",
+  "tags": [],
+  "en": "Promise with Balthier"
+ },
+ {
+  "id": "Q5y250C3v68",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "cave",
+   "eerie"
+  ],
+  "en": "Nalbina Dungeons"
+ },
+ {
+  "id": "3ujMETIK1vc",
+  "kind": "battle",
+  "tags": [],
+  "en": "Barbarians"
+ },
+ {
+  "id": "b7FT5NTNzVY",
+  "kind": "battle",
+  "tags": [],
+  "en": "Drums of Battle"
+ },
+ {
+  "id": "YPnMd26jwrU",
+  "kind": "other",
+  "tags": [],
+  "en": "Theme of the Empire"
+ },
+ {
+  "id": "fSpT4uk0JNc",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo FFXII Arrangement Ver. 1"
+ },
+ {
+  "id": "stdX6Uv06sw",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "industrial",
+   "ruins"
+  ],
+  "en": "Barheim Passage"
+ },
+ {
+  "id": "S7lvUOtrjV8",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrow (Liberation Army Version)"
+ },
+ {
+  "id": "UOHBrNTuXew",
+  "kind": "other",
+  "tags": [],
+  "en": "Basch's Recollection"
+ },
+ {
+  "id": "97CPcafKwr4",
+  "kind": "other",
+  "tags": [],
+  "en": "Coexistence (Liberation Army Version)"
+ },
+ {
+  "id": "PFUY-owuTYw",
+  "kind": "town",
+  "tags": [
+   "city",
+   "sky"
+  ],
+  "en": "Bhujerba, the Floating Continent"
+ },
+ {
+  "id": "3QpkzvRaLyE",
+  "kind": "other",
+  "tags": [],
+  "en": "Secret of the Nethicite"
+ },
+ {
+  "id": "wBFgqC_A2CM",
+  "kind": "other",
+  "tags": [],
+  "en": "Dark Night (Empire Version)"
+ },
+ {
+  "id": "OYsW2sjBxF4",
+  "kind": "other",
+  "tags": [],
+  "en": "Wordless Battle"
+ },
+ {
+  "id": "6Pc8UsbbSZk",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "sky"
+  ],
+  "en": "Leviathan Bridge"
+ },
+ {
+  "id": "YOKRjRMs-no",
+  "kind": "other",
+  "tags": [],
+  "en": "Challenge to the Empire"
+ },
+ {
+  "id": "Z-I9zwLPjtI",
+  "kind": "other",
+  "tags": [],
+  "en": "Imminent Crisis"
+ },
+ {
+  "id": "0dCGK8pt9uo",
+  "kind": "other",
+  "tags": [],
+  "en": "Upheaval (Empire Version)"
+ },
+ {
+  "id": "eCVEw0IIXCY",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ],
+  "en": "Tomb of Raithwall"
+ },
+ {
+  "id": "kjbru2d6QzQ",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ],
+  "en": "The Great Sand Sea (Ogir-Yensa Sandsea)"
+ },
+ {
+  "id": "Vm0t57jH9n4",
+  "kind": "boss",
+  "tags": [],
+  "en": "Esper Battle"
+ },
+ {
+  "id": "q8D1fb0mA9k",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrow (Empire Version)"
+ },
+ {
+  "id": "nbANqINeQjA",
+  "kind": "other",
+  "tags": [],
+  "en": "Sought-After Power"
+ },
+ {
+  "id": "8WJz2c_Bz5g",
+  "kind": "boss",
+  "tags": [],
+  "en": "Desperate Fight"
+ },
+ {
+  "id": "tM6Ie7p_v5U",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ],
+  "en": "Jahara, Land of the Garif"
+ },
+ {
+  "id": "l8SSJ6rHahU",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Ozmone Plain"
+ },
+ {
+  "id": "HCkpT-AfTCY",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ],
+  "en": "Golmore Jungle"
+ },
+ {
+  "id": "6nkn5skFFWY",
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ],
+  "en": "Eruyt Village"
+ },
+ {
+  "id": "XERfcljUtPg",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Chocobo (FFXII Version)"
+ },
+ {
+  "id": "L20GU5gXNvQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Looming Threat"
+ },
+ {
+  "id": "LlD1j4LMxpQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Decisive Battle on the Big Bridge ~FFXII Version~"
+ },
+ {
+  "id": "3VzT1eojLDE",
+  "kind": "other",
+  "tags": [],
+  "en": "Abandoned Power"
+ },
+ {
+  "id": "DeHnjDhRSOM",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave"
+  ],
+  "en": "Mirjam Ruins"
+ },
+ {
+  "id": "4lgEKD6mf1Q",
+  "kind": "other",
+  "tags": [],
+  "en": "A Moment's Rest"
+ },
+ {
+  "id": "4HZpYfI3IZE",
+  "kind": "other",
+  "tags": [],
+  "en": "The White Room"
+ },
+ {
+  "id": "HaUsg7nB-Dc",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ],
+  "en": "Salikawood"
+ },
+ {
+  "id": "fTYGPBJT60Q",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ],
+  "en": "Phon Coast"
+ },
+ {
+  "id": "VSsp-NXojiQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Destiny"
+ },
+ {
+  "id": "z_MmNAIMIpQ",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "cave",
+   "water"
+  ],
+  "en": "Draklor Laboratory"
+ },
+ {
+  "id": "g8wJdU_JDzg",
+  "kind": "other",
+  "tags": [],
+  "en": "A Brief Respite"
+ },
+ {
+  "id": "FGpbBLmXVo8",
+  "kind": "field",
+  "tags": [
+   "water",
+   "forest"
+  ],
+  "en": "Waterside"
+ },
+ {
+  "id": "L48PLPCQxHI",
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ],
+  "en": "Mosphoran Highwaste"
+ },
+ {
+  "id": "l3DKBxylZ1s",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "desert"
+  ],
+  "en": "Cerobi Steppe"
+ },
+ {
+  "id": "5gVs94HZsKQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Summoning"
+ },
+ {
+  "id": "ShNL7m35qAA",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "Port Town Bhujerba"
+ },
+ {
+  "id": "Zao5KoN5YUs",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ],
+  "en": "Zertinan Caverns"
+ },
+ {
+  "id": "On9lK3KRob4",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Land of Remembrance"
+ },
+ {
+  "id": "DD7w6ccVEjQ",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "city"
+  ],
+  "en": "The Forgotten City"
+ },
+ {
+  "id": "AjOlylSCYhY",
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ],
+  "en": "Enchanted Forest"
+ },
+ {
+  "id": "imxfNNTwZaU",
+  "kind": "other",
+  "tags": [],
+  "en": "Ashe's Theme"
+ },
+ {
+  "id": "87JHTjkk-XU",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Mystery of the Giruvegan"
+ },
+ {
+  "id": "9evzpqfSdHg",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "crystal"
+  ],
+  "en": "To the Place of the Gods"
+ },
+ {
+  "id": "jBIWWx9U3lg",
+  "kind": "other",
+  "tags": [],
+  "en": "The Beginning of the End"
+ },
+ {
+  "id": "p4tbkMaeMB8",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "castle"
+  ],
+  "en": "To the Summit"
+ },
+ {
+  "id": "PwFaK2YSoxc",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "industrial",
+   "castle"
+  ],
+  "en": "Bahamut, the Flying Fortress"
+ },
+ {
+  "id": "eQQC2umidXo",
+  "kind": "other",
+  "tags": [],
+  "en": "Shaking Bahamut"
+ },
+ {
+  "id": "fJ0YjdHezCE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle for Freedom"
+ },
+ {
+  "id": "a6MANrW8V34",
+  "kind": "other",
+  "tags": [],
+  "en": "The Battle's End"
+ },
+ {
+  "id": "pD_Cmpm-nVA",
+  "kind": "other",
+  "tags": [],
+  "en": "Ending Movie"
+ },
+ {
+  "id": "tDYEYZL8IjE",
+  "kind": "other",
+  "tags": [],
+  "en": "Kiss Me Good-Bye"
+ },
+ {
+  "id": "gNjaY7NmWJQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Theme of Final Fantasy XII (Press Conference Version)"
+ }
+]

@@ -1,0 +1,583 @@
+[
+ {
+  "id": "FabUYfFBs3s",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "NoWU28L_ZmQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Opening ~ Bombing Mission"
+ },
+ {
+  "id": "COeNYgJvgYs",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ],
+  "en": "Mako Reactor"
+ },
+ {
+  "id": "kHf_Jck_wZA",
+  "kind": "other",
+  "tags": [],
+  "en": "Anxiety"
+ },
+ {
+  "id": "W_UWkWlvbFw",
+  "kind": "other",
+  "tags": [],
+  "en": "Tifa's Theme"
+ },
+ {
+  "id": "8vA1UHQSJPM",
+  "kind": "other",
+  "tags": [],
+  "en": "Barret's Theme"
+ },
+ {
+  "id": "QAOfIrNnSYk",
+  "kind": "other",
+  "tags": [],
+  "en": "Hurry!"
+ },
+ {
+  "id": "Rz1ey_ruzFw",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "eerie"
+  ],
+  "en": "Lurking in the Darkness"
+ },
+ {
+  "id": "Sd8YN5FK1yA",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "city"
+  ],
+  "en": "Shinra Inc."
+ },
+ {
+  "id": "U_lqfaQIZH4",
+  "kind": "battle",
+  "tags": [],
+  "en": "Let the Battles Begin!"
+ },
+ {
+  "id": "gWmFWglM3iQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Fanfare"
+ },
+ {
+  "id": "ctR4PQ3hnIs",
+  "kind": "town",
+  "tags": [
+   "town",
+   "ruins"
+  ],
+  "en": "Flowers Blooming in the Church"
+ },
+ {
+  "id": "Gcv2h_4RQww",
+  "kind": "other",
+  "tags": [],
+  "en": "Turks' Theme"
+ },
+ {
+  "id": "WjH5bOTgtVA",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "eerie"
+  ],
+  "en": "Under the Rotting Pizza"
+ },
+ {
+  "id": "XdUfWp2kwPg",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "The Oppressed"
+ },
+ {
+  "id": "D3dccI0YViE",
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "en": "Honeybee Inn"
+ },
+ {
+  "id": "n2G9qkkrNQI",
+  "kind": "other",
+  "tags": [],
+  "en": "Who...Are You?"
+ },
+ {
+  "id": "Yq-NcvBYHO8",
+  "kind": "town",
+  "tags": [
+   "city",
+   "eerie"
+  ],
+  "en": "Don of the Slums"
+ },
+ {
+  "id": "ywnji91nTE8",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "city"
+  ],
+  "en": "Infiltrating Shinra"
+ },
+ {
+  "id": "QYPgLFyrYoc",
+  "kind": "battle",
+  "tags": [],
+  "en": "Fight On!"
+ },
+ {
+  "id": "5Fn5NUb5IQs",
+  "kind": "other",
+  "tags": [],
+  "en": "Red XIII's Theme"
+ },
+ {
+  "id": "gkpGeizADV0",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Chase"
+ },
+ {
+  "id": "B4xS1tXRV6Y",
+  "kind": "other",
+  "tags": [],
+  "en": "Dear to the Heart"
+ },
+ {
+  "id": "ORpKwkq5z-4",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Main Theme of Final Fantasy VII"
+ },
+ {
+  "id": "v4h9SkfZNwk",
+  "kind": "other",
+  "tags": [],
+  "en": "On Our Way"
+ },
+ {
+  "id": "qF6n0WskLBo",
+  "kind": "other",
+  "tags": [],
+  "en": "On That Day, Five Years Ago"
+ },
+ {
+  "id": "MD1uAh2UX7I",
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ],
+  "en": "Farm Boy"
+ },
+ {
+  "id": "DGrLXt-Uvmk",
+  "kind": "other",
+  "tags": [],
+  "en": "Waltz de Chocobo"
+ },
+ {
+  "id": "VHK-d0-vdrQ",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Electric de Chocobo"
+ },
+ {
+  "id": "Nic2YoebTDU",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Cinco de Chocobo"
+ },
+ {
+  "id": "e2scpsCm-tE",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "mountain"
+  ],
+  "en": "In Search of the Man in Black"
+ },
+ {
+  "id": "AuUE6qYZ5fA",
+  "kind": "other",
+  "tags": [],
+  "en": "Fort Condor"
+ },
+ {
+  "id": "b_GJ5zDsGN0",
+  "kind": "other",
+  "tags": [],
+  "en": "Rufus's Welcoming Ceremony"
+ },
+ {
+  "id": "-cWRS0kRpds",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "mountain"
+  ],
+  "en": "It's Hard to Stand on Both Feet!"
+ },
+ {
+  "id": "jhC8Es56cvg",
+  "kind": "other",
+  "tags": [],
+  "en": "Trail of Blood"
+ },
+ {
+  "id": "zs0JGX4dD3g",
+  "kind": "boss",
+  "tags": [],
+  "en": "J-E-N-O-V-A"
+ },
+ {
+  "id": "DucA0D0jt6w",
+  "kind": "other",
+  "tags": [],
+  "en": "Continue"
+ },
+ {
+  "id": "mXHnzyA0dUE",
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ],
+  "en": "Costa del Sol"
+ },
+ {
+  "id": "nOITqvdE9aE",
+  "kind": "other",
+  "tags": [],
+  "en": "Mark of the Traitor"
+ },
+ {
+  "id": "iF4atxnqZfo",
+  "kind": "town",
+  "tags": [
+   "town",
+   "industrial",
+   "desert"
+  ],
+  "en": "Mining Town"
+ },
+ {
+  "id": "kwsZl6FOs4M",
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "en": "Gold Saucer"
+ },
+ {
+  "id": "1eE3Of5i6jw",
+  "kind": "other",
+  "tags": [],
+  "en": "Cait Sith's Theme"
+ },
+ {
+  "id": "6xlAOsLqFvE",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ],
+  "en": "Desert Wasteland"
+ },
+ {
+  "id": "4TW5pQq9ceE",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ],
+  "en": "Cosmo Canyon"
+ },
+ {
+  "id": "D-KY7Luly5M",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ],
+  "en": "Lifestream"
+ },
+ {
+  "id": "UYTfSkxcglE",
+  "kind": "other",
+  "tags": [],
+  "en": "The Great Warrior"
+ },
+ {
+  "id": "-a0OMl263Uc",
+  "kind": "other",
+  "tags": [],
+  "en": "Descendant of Shinobi"
+ },
+ {
+  "id": "A5h5o6gsCJc",
+  "kind": "other",
+  "tags": [],
+  "en": "Those Chosen by the Planet"
+ },
+ {
+  "id": "_-BjSjUEVfU",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "castle"
+  ],
+  "en": "The Nightmare Begins"
+ },
+ {
+  "id": "GJ47zTqkYQ0",
+  "kind": "other",
+  "tags": [],
+  "en": "Cid's Theme"
+ },
+ {
+  "id": "NqsyXPYYXbM",
+  "kind": "other",
+  "tags": [],
+  "en": "Steal the Tiny Bronco!"
+ },
+ {
+  "id": "f6bJkrSyZSY",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ],
+  "en": "Wutai"
+ },
+ {
+  "id": "KH7G7QYp_Fs",
+  "kind": "other",
+  "tags": [],
+  "en": "Stolen Materia"
+ },
+ {
+  "id": "6Ub4Xpgz58c",
+  "kind": "other",
+  "tags": [],
+  "en": "Win, Place or Show - Chocobo!"
+ },
+ {
+  "id": "OPyDi2pN6G0",
+  "kind": "town",
+  "tags": [
+   "town",
+   "snow"
+  ],
+  "en": "Fiddle de Chocobo"
+ },
+ {
+  "id": "2Tp6u08To90",
+  "kind": "other",
+  "tags": [],
+  "en": "Jackpot!"
+ },
+ {
+  "id": "MsGMFppMDX8",
+  "kind": "other",
+  "tags": [],
+  "en": "Tango of Tears"
+ },
+ {
+  "id": "HhxFbu0C4dI",
+  "kind": "other",
+  "tags": [],
+  "en": "Debut"
+ },
+ {
+  "id": "75JQ82GSScw",
+  "kind": "other",
+  "tags": [],
+  "en": "Words Drowned by Fireworks"
+ },
+ {
+  "id": "cWYRdN4xw5Y",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "forest"
+  ],
+  "en": "Forested Temple"
+ },
+ {
+  "id": "jwsNewKWNQs",
+  "kind": "other",
+  "tags": [],
+  "en": "Listen to the Cries of the Planet"
+ },
+ {
+  "id": "qztmKj1axKA",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ],
+  "en": "Buried in the Snow"
+ },
+ {
+  "id": "cSVh07r_pdY",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "snow",
+   "crystal"
+  ],
+  "en": "The Great Northern Cave"
+ },
+ {
+  "id": "6ok91l9qOFE",
+  "kind": "other",
+  "tags": [],
+  "en": "Reunion"
+ },
+ {
+  "id": "cPkeZ7ymFRk",
+  "kind": "other",
+  "tags": [],
+  "en": "Who...Am I?"
+ },
+ {
+  "id": "81BX76SN_Ig",
+  "kind": "boss",
+  "tags": [],
+  "en": "Shinra's Full-Scale Assault"
+ },
+ {
+  "id": "asxyJpPhx_s",
+  "kind": "boss",
+  "tags": [],
+  "en": "Attack of the Weapon"
+ },
+ {
+  "id": "o8V_ZU2wCHk",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "The Highwind Takes to the Skies"
+ },
+ {
+  "id": "Dl7zffFmuR4",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "eerie",
+   "ruins"
+  ],
+  "en": "Secret of the Deep Sea"
+ },
+ {
+  "id": "jBjl1y5cvVk",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Provincial Town"
+ },
+ {
+  "id": "m_xqvNW4LCY",
+  "kind": "other",
+  "tags": [],
+  "en": "From the Edge of Despair"
+ },
+ {
+  "id": "zhbnFofbbb8",
+  "kind": "town",
+  "tags": [
+   "town",
+   "mountain"
+  ],
+  "en": "The Other Side of the Mountain"
+ },
+ {
+  "id": "lChlASQwL0A",
+  "kind": "other",
+  "tags": [],
+  "en": "Hurry Up!"
+ },
+ {
+  "id": "CgdaBqLPSWk",
+  "kind": "other",
+  "tags": [],
+  "en": "Launching a Dream into Space"
+ },
+ {
+  "id": "6I_yUvT23u8",
+  "kind": "other",
+  "tags": [],
+  "en": "Countdown"
+ },
+ {
+  "id": "gkAdEczQLsg",
+  "kind": "other",
+  "tags": [],
+  "en": "Open Your Heart"
+ },
+ {
+  "id": "SOPV4hsrusI",
+  "kind": "other",
+  "tags": [],
+  "en": "Mako Cannon - The Destruction of Shinra"
+ },
+ {
+  "id": "ZeHm5JHphI0",
+  "kind": "other",
+  "tags": [],
+  "en": "Judgment Day"
+ },
+ {
+  "id": "IPpV3czE4K8",
+  "kind": "boss",
+  "tags": [],
+  "en": "JENOVA COMPLETE"
+ },
+ {
+  "id": "lVQYrc1WzI4",
+  "kind": "boss",
+  "tags": [],
+  "en": "Birth of a God"
+ },
+ {
+  "id": "IYMTzLxGv3M",
+  "kind": "boss",
+  "tags": [],
+  "en": "One-Winged Angel"
+ },
+ {
+  "id": "lX-HzYKFFoA",
+  "kind": "other",
+  "tags": [],
+  "en": "Ending Credits"
+ }
+]

@@ -1,0 +1,14 @@
+.tools
+bin/
+obj/
+*.log
+player-host/out/
+player-host/obj/
+player-host/bin/
+tools/framecheck/out/
+tools/framecheck/bin/
+tools/framecheck/obj/
+__pycache__/
+tools/ost/cache/
+dist/
+tools/ost/audit/cache/

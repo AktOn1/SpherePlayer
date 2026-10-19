@@ -1,0 +1,1748 @@
+[
+ {
+  "id": "BrSBIrGCmKc",
+  "kind": "other",
+  "tags": [],
+  "en": "Rhapsodies of Vana'diel"
+ },
+ {
+  "id": "v1dAw8FE5XY",
+  "kind": "other",
+  "tags": [],
+  "en": "Wail of the Void"
+ },
+ {
+  "id": "N4KnSJy5E-Y",
+  "kind": "other",
+  "tags": [],
+  "en": "The Boundless Black"
+ },
+ {
+  "id": "WxrhJS5sBXg",
+  "kind": "other",
+  "tags": [],
+  "en": "Iroha"
+ },
+ {
+  "id": "GLFAIbpsm40",
+  "kind": "other",
+  "tags": [],
+  "en": "Rhapsodies of Vana'diel ep ver."
+ },
+ {
+  "id": "KH1ub2AHcTg",
+  "kind": "other",
+  "tags": [],
+  "en": "Distant Worlds (instrumental version)"
+ },
+ {
+  "id": "JNEde38oMFk",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today"
+ },
+ {
+  "id": "nq0gVNKjYu0",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Divine"
+ },
+ {
+  "id": "ggsrsRjGOCQ",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "The Serpentine Labyrinth"
+ },
+ {
+  "id": "vid5C4BpaEg",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today ep ver."
+ },
+ {
+  "id": "udZ6s1rodf8",
+  "kind": "other",
+  "tags": [],
+  "en": "The Price"
+ },
+ {
+  "id": "dS_-C4nneT4",
+  "kind": "other",
+  "tags": [],
+  "en": "Clouds Over Ulbuka"
+ },
+ {
+  "id": "0INjvYvZmXY",
+  "kind": "battle",
+  "tags": [],
+  "en": "Monstrosity"
+ },
+ {
+  "id": "UnG4E_meyMc",
+  "kind": "other",
+  "tags": [],
+  "en": "Worlds Away"
+ },
+ {
+  "id": "-yTGdVIu0To",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today (instrumental version)"
+ },
+ {
+  "id": "R9ZVExRcNbg",
+  "kind": "other",
+  "tags": [],
+  "en": "Seekers of Adoulin"
+ },
+ {
+  "id": "3cpTjw0xCmw",
+  "kind": "other",
+  "tags": [],
+  "en": "Wings of the Goddess"
+ },
+ {
+  "id": "2fgx9f_H-CA",
+  "kind": "other",
+  "tags": [],
+  "en": "Treasures of Aht Urhgan"
+ },
+ {
+  "id": "usGmRVMYeg8",
+  "kind": "other",
+  "tags": [],
+  "en": "Chains of Promathia"
+ },
+ {
+  "id": "yYCF16vnJHQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Rise of the Zilart"
+ },
+ {
+  "id": "KDYseb_2eOM",
+  "kind": "other",
+  "tags": [],
+  "en": "Home Away from Home"
+ },
+ {
+  "id": "ExZaxUH8j2A",
+  "kind": "other",
+  "tags": [],
+  "en": "The Darkness Without"
+ },
+ {
+  "id": "AAgsEwe4Ls0",
+  "kind": "other",
+  "tags": [],
+  "en": "On Fate's Wings"
+ },
+ {
+  "id": "EAcNkLRB3eI",
+  "kind": "other",
+  "tags": [],
+  "en": "The Brine"
+ },
+ {
+  "id": "dQ0JCCe-eKA",
+  "kind": "other",
+  "tags": [],
+  "en": "From Industry to Nature"
+ },
+ {
+  "id": "qP8DCyDRgZQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Footsteps through the Aether"
+ },
+ {
+  "id": "e8214J5r_tU",
+  "kind": "other",
+  "tags": [],
+  "en": "Through the Woods and Over the Highlands"
+ },
+ {
+  "id": "yKhBB2NIiLc",
+  "kind": "other",
+  "tags": [],
+  "en": "FFXI Opening Theme"
+ },
+ {
+  "id": "4pr7pB-nJkg",
+  "kind": "other",
+  "tags": [],
+  "en": "Vana'diel March"
+ },
+ {
+  "id": "sZTtguGoips",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "The Kingdom of San d'Oria"
+ },
+ {
+  "id": "kNaOpYzKM68",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Ronfaure"
+ },
+ {
+  "id": "auAYd1EN3jY",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle Theme"
+ },
+ {
+  "id": "kU1DFmKT5LY",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Chateau d'Oraguille"
+ },
+ {
+  "id": "P9C2FhoSEKo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Batallia Downs"
+ },
+ {
+  "id": "zuLsvPkKIdc",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "The Republic of Bastok"
+ },
+ {
+  "id": "9ISSVI8JW2w",
+  "kind": "field",
+  "tags": [
+   "mountain",
+   "desert"
+  ],
+  "en": "Gustaberg"
+ },
+ {
+  "id": "Ynb6D7zGsiQ",
+  "kind": "town",
+  "tags": [
+   "industrial",
+   "city"
+  ],
+  "en": "Metalworks"
+ },
+ {
+  "id": "u8Yd3-Q6xmE",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Rolanberry Fields"
+ },
+ {
+  "id": "63nFKKI6S3c",
+  "kind": "town",
+  "tags": [
+   "city",
+   "forest"
+  ],
+  "en": "The Federation of Windurst"
+ },
+ {
+  "id": "i9loM6ayNmw",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle",
+   "sky"
+  ],
+  "en": "Heavens Tower"
+ },
+ {
+  "id": "Qexq4rGQaOc",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Sarutabaruta"
+ },
+ {
+  "id": "RIw9MHrSKz0",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "Battle in the Dungeon"
+ },
+ {
+  "id": "4fibIUw_frI",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Sauromugue Champaign"
+ },
+ {
+  "id": "WoNMEWhalxs",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Mhaura"
+ },
+ {
+  "id": "Qk5P56YvVFE",
+  "kind": "other",
+  "tags": [],
+  "en": "Buccaneers"
+ },
+ {
+  "id": "JONfOZHJlkI",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle Theme #2"
+ },
+ {
+  "id": "oyU_6uVrc4I",
+  "kind": "other",
+  "tags": [],
+  "en": "Voyager"
+ },
+ {
+  "id": "MZmY0nB0BTw",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Selbina"
+ },
+ {
+  "id": "UYfSwaF9pkE",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "b7BmWT5ecLE",
+  "kind": "other",
+  "tags": [],
+  "en": "Regeneracy"
+ },
+ {
+  "id": "2Iwz6rfmeU8",
+  "kind": "other",
+  "tags": [],
+  "en": "Hume Male"
+ },
+ {
+  "id": "OCyRRTOm0Dg",
+  "kind": "other",
+  "tags": [],
+  "en": "Hume Female"
+ },
+ {
+  "id": "PZnjI-FRRok",
+  "kind": "other",
+  "tags": [],
+  "en": "Elvaan Male"
+ },
+ {
+  "id": "qHMWQ2dnJ-c",
+  "kind": "other",
+  "tags": [],
+  "en": "Elvaan Female"
+ },
+ {
+  "id": "5QGyLEpOjL8",
+  "kind": "other",
+  "tags": [],
+  "en": "Tarutaru Male"
+ },
+ {
+  "id": "9jB0gjh4tDE",
+  "kind": "other",
+  "tags": [],
+  "en": "Tarutaru Female"
+ },
+ {
+  "id": "7LhvX4oFzB4",
+  "kind": "other",
+  "tags": [],
+  "en": "Mithra"
+ },
+ {
+  "id": "MXC19B-VNLQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Galka"
+ },
+ {
+  "id": "nDH1hA2EL_c",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "Airship"
+ },
+ {
+  "id": "CnNM2i_jeAo",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "The Grand Duchy of Jeuno"
+ },
+ {
+  "id": "MwwQ1EyRR8U",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Ru'Lude Gardens"
+ },
+ {
+  "id": "vgzXmBbinpU",
+  "kind": "other",
+  "tags": [],
+  "en": "Recollection"
+ },
+ {
+  "id": "NdyhxslhLnU",
+  "kind": "other",
+  "tags": [],
+  "en": "Anxiety"
+ },
+ {
+  "id": "wICBCPty3Fs",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle in the Dungeon #2"
+ },
+ {
+  "id": "gbMWKpe7bDY",
+  "kind": "other",
+  "tags": [],
+  "en": "Blackout"
+ },
+ {
+  "id": "SXdK5hrOwRc",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Mog House"
+ },
+ {
+  "id": "T7D0V2JR0l8",
+  "kind": "other",
+  "tags": [],
+  "en": "Hopelessness"
+ },
+ {
+  "id": "fsKhrRVlPXk",
+  "kind": "boss",
+  "tags": [],
+  "en": "Fury"
+ },
+ {
+  "id": "nL9kxhmuwss",
+  "kind": "battle",
+  "tags": [],
+  "en": "Tough Battle"
+ },
+ {
+  "id": "kQOh4SEoDWk",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrow"
+ },
+ {
+  "id": "kZAWWl5ToNY",
+  "kind": "other",
+  "tags": [],
+  "en": "Sometime, Somewhere"
+ },
+ {
+  "id": "2JIVZ7-cFU4",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain",
+   "eerie"
+  ],
+  "en": "Xarcabard"
+ },
+ {
+  "id": "ppij6LvACqw",
+  "kind": "other",
+  "tags": [],
+  "en": "Despair (Memoro de la S^tono)"
+ },
+ {
+  "id": "IqVTDG1aZyM",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie",
+   "ruins"
+  ],
+  "en": "Castle Zvahl"
+ },
+ {
+  "id": "0WJ4oSxtYao",
+  "kind": "boss",
+  "tags": [],
+  "en": "Shadow Lord"
+ },
+ {
+  "id": "S9M_3nNUufU",
+  "kind": "other",
+  "tags": [],
+  "en": "Awakening"
+ },
+ {
+  "id": "GkZeE1gySA8",
+  "kind": "other",
+  "tags": [],
+  "en": "Repression (Memoro de la S^tono)"
+ },
+ {
+  "id": "Rskax76-XLs",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Vana'diel March #2"
+ },
+ {
+  "id": "jz4C9qzL_lg",
+  "kind": "other",
+  "tags": [],
+  "en": "Wings of Dawn"
+ },
+ {
+  "id": "O1TJdn7fu08",
+  "kind": "boss",
+  "tags": [],
+  "en": "Echoes of Creation"
+ },
+ {
+  "id": "r_K1Pu3RcbY",
+  "kind": "other",
+  "tags": [],
+  "en": "Main Theme - FINAL FANTASY XI Version"
+ },
+ {
+  "id": "h4t8W4c42Gw",
+  "kind": "other",
+  "tags": [],
+  "en": "Luck of the Mog"
+ },
+ {
+  "id": "UIvhaqiEyYQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Feast of the Ladies"
+ },
+ {
+  "id": "UVRU8wIAEZU",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "eerie"
+  ],
+  "en": "Abyssea - Scarlet Skies, Shadowed Plains"
+ },
+ {
+  "id": "n4-yiZpK81g",
+  "kind": "other",
+  "tags": [],
+  "en": "Melodies Errant"
+ },
+ {
+  "id": "x_XQmblQl3Q",
+  "kind": "boss",
+  "tags": [],
+  "en": "Shinryu"
+ },
+ {
+  "id": "ddQN2fnwlds",
+  "kind": "other",
+  "tags": [],
+  "en": "Summers Lost"
+ },
+ {
+  "id": "mU6KeUUIlH4",
+  "kind": "boss",
+  "tags": [],
+  "en": "Goddess Divine"
+ },
+ {
+  "id": "-J7-TrMpc9E",
+  "kind": "other",
+  "tags": [],
+  "en": "Everlasting Bonds"
+ },
+ {
+  "id": "m9C4cuu1mJM",
+  "kind": "other",
+  "tags": [],
+  "en": "An Ode to Heroes Fallen"
+ },
+ {
+  "id": "QksAnFht2eQ",
+  "kind": "other",
+  "tags": [],
+  "en": "POL OPENING"
+ },
+ {
+  "id": "StRF4hfCSSM",
+  "kind": "other",
+  "tags": [],
+  "en": "Space"
+ },
+ {
+  "id": "rXwNVR3dw70",
+  "kind": "other",
+  "tags": [],
+  "en": "Jazz 1"
+ },
+ {
+  "id": "t_2op_ABy1g",
+  "kind": "other",
+  "tags": [],
+  "en": "Silver Pocket Watch"
+ },
+ {
+  "id": "6-OFqTuKEmA",
+  "kind": "other",
+  "tags": [],
+  "en": "Dance of the Fairies"
+ },
+ {
+  "id": "PoTU0HeXDMg",
+  "kind": "other",
+  "tags": [],
+  "en": "Relaxation"
+ },
+ {
+  "id": "mNasGop_Cjs",
+  "kind": "other",
+  "tags": [],
+  "en": "Jungle"
+ },
+ {
+  "id": "oJwh4lpV_xM",
+  "kind": "other",
+  "tags": [],
+  "en": "Changing Tempo"
+ },
+ {
+  "id": "C0uF0B8Ek58",
+  "kind": "other",
+  "tags": [],
+  "en": "Dance"
+ },
+ {
+  "id": "cc8u0aXp83g",
+  "kind": "other",
+  "tags": [],
+  "en": "Heartwarming"
+ },
+ {
+  "id": "wbsXC2xdKUw",
+  "kind": "other",
+  "tags": [],
+  "en": "Jazz 2"
+ },
+ {
+  "id": "MFtaPCimSpg",
+  "kind": "other",
+  "tags": [],
+  "en": "Dolphin"
+ },
+ {
+  "id": "N3wlpa9aKy4",
+  "kind": "other",
+  "tags": [],
+  "en": "Great Voyage"
+ },
+ {
+  "id": "XwFlmWb-ODU",
+  "kind": "other",
+  "tags": [],
+  "en": "Fluffy"
+ },
+ {
+  "id": "h3QKg0OBTmQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Funky Monkey"
+ },
+ {
+  "id": "o_0jyo0AjHA",
+  "kind": "other",
+  "tags": [],
+  "en": "Solid Wax"
+ },
+ {
+  "id": "j6j_mWUlBjw",
+  "kind": "other",
+  "tags": [],
+  "en": "Filter Branch"
+ },
+ {
+  "id": "JleT3mM_Wj8",
+  "kind": "other",
+  "tags": [],
+  "en": "Baby Herbie"
+ },
+ {
+  "id": "ggWFnEpJPnw",
+  "kind": "other",
+  "tags": [],
+  "en": "Technorider"
+ },
+ {
+  "id": "p8MbhRFf43w",
+  "kind": "other",
+  "tags": [],
+  "en": "P'z"
+ },
+ {
+  "id": "s6zv32te4Z8",
+  "kind": "other",
+  "tags": [],
+  "en": "Foster Family"
+ },
+ {
+  "id": "p_cUmlJKhEM",
+  "kind": "other",
+  "tags": [],
+  "en": "Caterpillar"
+ },
+ {
+  "id": "pzHb4qaKn0A",
+  "kind": "other",
+  "tags": [],
+  "en": "Beyond the Hill"
+ },
+ {
+  "id": "57F43fNyS8Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Payload Pacific"
+ },
+ {
+  "id": "RKZapcQSWw4",
+  "kind": "other",
+  "tags": [],
+  "en": "Reminiscence"
+ },
+ {
+  "id": "KVucmk6iGdQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Light"
+ },
+ {
+  "id": "U06k4NacLUI",
+  "kind": "other",
+  "tags": [],
+  "en": "Blessing"
+ },
+ {
+  "id": "w-E1zEyb9tw",
+  "kind": "other",
+  "tags": [],
+  "en": "Harvest"
+ },
+ {
+  "id": "KgSmPSGQh88",
+  "kind": "town",
+  "tags": [
+   "jungle"
+  ],
+  "en": "Kazham"
+ },
+ {
+  "id": "caH2-UzKN4s",
+  "kind": "field",
+  "tags": [
+   "jungle"
+  ],
+  "en": "Yuhtunga Jungle"
+ },
+ {
+  "id": "dLuEP_VzX9U",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle Theme #3"
+ },
+ {
+  "id": "vSWnOg44AlY",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Dash de Chocobo"
+ },
+ {
+  "id": "CwYtrxjNqSQ",
+  "kind": "town",
+  "tags": [
+   "desert",
+   "town"
+  ],
+  "en": "Rabao"
+ },
+ {
+  "id": "yR5QHmoRMu0",
+  "kind": "field",
+  "tags": [
+   "desert"
+  ],
+  "en": "Altepa Desert"
+ },
+ {
+  "id": "B4DzA0fsuXg",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle in the Dungeon #3"
+ },
+ {
+  "id": "sez_0E7_-Ro",
+  "kind": "boss",
+  "tags": [],
+  "en": "Grav'iton"
+ },
+ {
+  "id": "whp6AToySME",
+  "kind": "town",
+  "tags": [
+   "town",
+   "water"
+  ],
+  "en": "Norg"
+ },
+ {
+  "id": "b-iwM-R5GOM",
+  "kind": "battle",
+  "tags": [],
+  "en": "Tough Battle #2"
+ },
+ {
+  "id": "smJrVboIOjA",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "The Sanctuary of Zi'Tah"
+ },
+ {
+  "id": "Wlzc_yWIXR8",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Ro'Maeve"
+ },
+ {
+  "id": "PBQ-PEpKZQQ",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "castle"
+  ],
+  "en": "Hall of the Gods"
+ },
+ {
+  "id": "4mLq11SLOxQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Fighters of the Crystal"
+ },
+ {
+  "id": "jIDS44uhdNg",
+  "kind": "dungeon",
+  "tags": [
+   "crystal",
+   "eerie"
+  ],
+  "en": "Tu'Lia"
+ },
+ {
+  "id": "EzTmuGStDg8",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "ruins"
+  ],
+  "en": "Ve'Lugannon Palace"
+ },
+ {
+  "id": "Xhzs6e3bLfk",
+  "kind": "boss",
+  "tags": [],
+  "en": "Eald'narche"
+ },
+ {
+  "id": "Vp-XC5G52-Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Belief"
+ },
+ {
+  "id": "8vST0LRr-18",
+  "kind": "other",
+  "tags": [],
+  "en": "End Theme"
+ },
+ {
+  "id": "NQbEB1YEuSo",
+  "kind": "other",
+  "tags": [],
+  "en": "Unity"
+ },
+ {
+  "id": "1WVQyTr7qbI",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Moblin Menagerie - Movalpolos"
+ },
+ {
+  "id": "vyzpQF03MBw",
+  "kind": "other",
+  "tags": [],
+  "en": "Depths of the Soul"
+ },
+ {
+  "id": "KYuHBEmlAyE",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Faded Memories - Promyvion"
+ },
+ {
+  "id": "DnQ9w-o5c3Q",
+  "kind": "other",
+  "tags": [],
+  "en": "Currents of Time"
+ },
+ {
+  "id": "R-TofW_g04E",
+  "kind": "other",
+  "tags": [],
+  "en": "First Ode: Nocturne of the Gods"
+ },
+ {
+  "id": "p32APYX4Jps",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "plains"
+  ],
+  "en": "A New Horizon - Tavnazian Archipelago"
+ },
+ {
+  "id": "kc1pSiLzudk",
+  "kind": "battle",
+  "tags": [],
+  "en": "Onslaught"
+ },
+ {
+  "id": "1omGnKhDyLw",
+  "kind": "town",
+  "tags": [
+   "city",
+   "seaside"
+  ],
+  "en": "The Forgotten City - Tavnazian Safehold"
+ },
+ {
+  "id": "LKqZeNEF1os",
+  "kind": "other",
+  "tags": [],
+  "en": "Second Ode: Distant Promises"
+ },
+ {
+  "id": "QUi-__J_gXk",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Ruler of the Skies"
+ },
+ {
+  "id": "qVO92y14NLY",
+  "kind": "boss",
+  "tags": [],
+  "en": "Turmoil"
+ },
+ {
+  "id": "Gi75a8Usb-I",
+  "kind": "other",
+  "tags": [],
+  "en": "Third Ode: Memoria de la S^tona"
+ },
+ {
+  "id": "B-ZhXT6cJ44",
+  "kind": "other",
+  "tags": [],
+  "en": "Happily Ever After"
+ },
+ {
+  "id": "cgp_Tf2VkRo",
+  "kind": "boss",
+  "tags": [],
+  "en": "Conflict: You Want to Live Forever?"
+ },
+ {
+  "id": "cU7Bv-0Bbok",
+  "kind": "boss",
+  "tags": [],
+  "en": "Conflict: March of the Hero"
+ },
+ {
+  "id": "nNVJbVASvlM",
+  "kind": "other",
+  "tags": [],
+  "en": "Fourth Ode: Clouded Dawn"
+ },
+ {
+  "id": "ZjmABFutnnU",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "industrial",
+   "eerie"
+  ],
+  "en": "Words Unspoken - Pso'Xja"
+ },
+ {
+  "id": "Isa4qc0LpiA",
+  "kind": "other",
+  "tags": [],
+  "en": "Fifth Ode: A Time for Prayer"
+ },
+ {
+  "id": "KLnjkQC44Mk",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "sky",
+   "crystal"
+  ],
+  "en": "The Celestial Capital - Al'Taieu"
+ },
+ {
+  "id": "Nwo_SQq2ecE",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ],
+  "en": "Gates of Paradise - The Garden of Ru'Hmet"
+ },
+ {
+  "id": "xsq0NZEcu8Y",
+  "kind": "other",
+  "tags": [],
+  "en": "Dusk and Dawn"
+ },
+ {
+  "id": "FuWFd97EIh8",
+  "kind": "other",
+  "tags": [],
+  "en": "A New Morning"
+ },
+ {
+  "id": "L9xeySvNPUM",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial",
+   "mountain"
+  ],
+  "en": "Gustaberg"
+ },
+ {
+  "id": "na5lAIJ2CHI",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Bustle of the Capital"
+ },
+ {
+  "id": "C6qXjfP7bt8",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "seaside"
+  ],
+  "en": "Eastward Bound…"
+ },
+ {
+  "id": "t19DfCpp-h8",
+  "kind": "town",
+  "tags": [
+   "town",
+   "desert"
+  ],
+  "en": "Bandits' Market"
+ },
+ {
+  "id": "ra8eSRoMQgI",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "forest"
+  ],
+  "en": "Illusions in the Mist"
+ },
+ {
+  "id": "Nuq847z9NeI",
+  "kind": "town",
+  "tags": [
+   "city"
+  ],
+  "en": "Mercenaries' Delight"
+ },
+ {
+  "id": "XkD4jnvvV5A",
+  "kind": "town",
+  "tags": [
+   "city",
+   "forest"
+  ],
+  "en": "Jeweled Boughs"
+ },
+ {
+  "id": "UtRGomV6LWI",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Ululations from Beyond"
+ },
+ {
+  "id": "QGaPK-hjhcw",
+  "kind": "battle",
+  "tags": [],
+  "en": "Rapid Onslaught -Assault-"
+ },
+ {
+  "id": "lSfPriE19iQ",
+  "kind": "battle",
+  "tags": [],
+  "en": "Fated Strife -Besieged-"
+ },
+ {
+  "id": "kgIkG3EdmSg",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ],
+  "en": "Delve"
+ },
+ {
+  "id": "zii_YXVVaJ4",
+  "kind": "other",
+  "tags": [],
+  "en": "Whispers of the Gods"
+ },
+ {
+  "id": "2gGTgP8zdYk",
+  "kind": "other",
+  "tags": [],
+  "en": "Circuit de Chocobo"
+ },
+ {
+  "id": "_fxqjb1LZ4g",
+  "kind": "other",
+  "tags": [],
+  "en": "Run Chocobo, Run!"
+ },
+ {
+  "id": "x1gXAh3wa80",
+  "kind": "other",
+  "tags": [],
+  "en": "The Colosseum"
+ },
+ {
+  "id": "ifqD7HKZsBQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Black Coffin"
+ },
+ {
+  "id": "5MYBVlGOvr0",
+  "kind": "other",
+  "tags": [],
+  "en": "A Puppet's Slumber"
+ },
+ {
+  "id": "73QdJy3wmcM",
+  "kind": "town",
+  "tags": [
+   "city",
+   "industrial"
+  ],
+  "en": "Ever-Turning Wheels"
+ },
+ {
+  "id": "M3VAQlt8K8s",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Forbidden Seal"
+ },
+ {
+  "id": "QGIEjBByxrg",
+  "kind": "boss",
+  "tags": [],
+  "en": "Hellriders"
+ },
+ {
+  "id": "-MzmQ-FdJOk",
+  "kind": "other",
+  "tags": [],
+  "en": "Eternal Gravestone"
+ },
+ {
+  "id": "DTZuu-XFRZE",
+  "kind": "other",
+  "tags": [],
+  "en": "Vana'diel March #4"
+ },
+ {
+  "id": "0Us2sIZCMyE",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "March of the Allied Forces"
+ },
+ {
+  "id": "yfapfgb3iKg",
+  "kind": "other",
+  "tags": [],
+  "en": "Flowers on the Battlefield"
+ },
+ {
+  "id": "JKwgcqpGenk",
+  "kind": "battle",
+  "tags": [],
+  "en": "Roar of the Battle Drums"
+ },
+ {
+  "id": "FlscFPLfPPk",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Autumn Footfalls"
+ },
+ {
+  "id": "Ylll7UiH7PA",
+  "kind": "other",
+  "tags": [],
+  "en": "Griffons Never Die"
+ },
+ {
+  "id": "E7ssZdsZBMY",
+  "kind": "battle",
+  "tags": [],
+  "en": "Clash of Standards"
+ },
+ {
+  "id": "uTkCMDy0jqw",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Echoes of a Zephyr"
+ },
+ {
+  "id": "Uc_8E8Ym5x4",
+  "kind": "battle",
+  "tags": [],
+  "en": "Thunder of the March"
+ },
+ {
+  "id": "eyLu8iyGTRc",
+  "kind": "other",
+  "tags": [],
+  "en": "Encampment Dreams"
+ },
+ {
+  "id": "giolVdArf1M",
+  "kind": "town",
+  "tags": [
+   "city",
+   "crystal"
+  ],
+  "en": "The Cosmic Wheel"
+ },
+ {
+  "id": "qSaBvtXxAqM",
+  "kind": "other",
+  "tags": [],
+  "en": "Stargazing"
+ },
+ {
+  "id": "yD_2nReyLWU",
+  "kind": "other",
+  "tags": [],
+  "en": "On this Blade"
+ },
+ {
+  "id": "J27mvnnPmow",
+  "kind": "other",
+  "tags": [],
+  "en": "Young Griffons in Flight"
+ },
+ {
+  "id": "WouaHyXeNU4",
+  "kind": "battle",
+  "tags": [],
+  "en": "Run Maggot, Run!"
+ },
+ {
+  "id": "7SrfBWWDOaA",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Cloister of Time and Souls"
+ },
+ {
+  "id": "oPq_dYDZt40",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "Royal Wanderlust"
+ },
+ {
+  "id": "jH8Uw-gXJCA",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Under a Clouded Moon"
+ },
+ {
+  "id": "AFsUhlvcup8",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Where Lords Rule Not"
+ },
+ {
+  "id": "qp8shTML0bs",
+  "kind": "boss",
+  "tags": [],
+  "en": "Kindred Cry"
+ },
+ {
+  "id": "gB4_8bvpGQE",
+  "kind": "field",
+  "tags": [
+   "snow",
+   "mountain"
+  ],
+  "en": "Snowdrift Waltz"
+ },
+ {
+  "id": "2BmGDrf6OWc",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Troubled Shadows"
+ },
+ {
+  "id": "Dms-pZixhJk",
+  "kind": "other",
+  "tags": [],
+  "en": "Wings of the Goddess"
+ },
+ {
+  "id": "-tsAf-xfOvk",
+  "kind": "boss",
+  "tags": [],
+  "en": "Iron Colossus"
+ },
+ {
+  "id": "UehvdgLoTWA",
+  "kind": "boss",
+  "tags": [],
+  "en": "Ragnarok"
+ },
+ {
+  "id": "WlNEwZFxIXQ",
+  "kind": "other",
+  "tags": [],
+  "en": "An Invisible Crown"
+ },
+ {
+  "id": "qIwNix59ijc",
+  "kind": "other",
+  "tags": [],
+  "en": "A New Direction"
+ },
+ {
+  "id": "NI3xwa7ZTHc",
+  "kind": "field",
+  "tags": [
+   "plains",
+   "forest"
+  ],
+  "en": "Breaking Ground"
+ },
+ {
+  "id": "hfeaToi2Zsw",
+  "kind": "other",
+  "tags": [],
+  "en": "The Pioneers"
+ },
+ {
+  "id": "rxUNWkuX0Y4",
+  "kind": "town",
+  "tags": [
+   "city",
+   "castle"
+  ],
+  "en": "The Sacred City of Adoulin"
+ },
+ {
+  "id": "Ek2iu_ZUlMU",
+  "kind": "field",
+  "tags": [
+   "jungle",
+   "plains"
+  ],
+  "en": "Into Lands Primeval - Ulbuka"
+ },
+ {
+  "id": "-C5ODnH52Qs",
+  "kind": "battle",
+  "tags": [],
+  "en": "Steel Sings, Blades Dance"
+ },
+ {
+  "id": "AdVbYglYulA",
+  "kind": "other",
+  "tags": [],
+  "en": "Arciela"
+ },
+ {
+  "id": "SFA3XvMlkXI",
+  "kind": "town",
+  "tags": [
+   "seaside",
+   "town"
+  ],
+  "en": "Mog Resort"
+ },
+ {
+  "id": "hPzSUU14vPU",
+  "kind": "boss",
+  "tags": [],
+  "en": "Water's Umbral Knell"
+ },
+ {
+  "id": "0uNqxyxhtpg",
+  "kind": "boss",
+  "tags": [],
+  "en": "Hades"
+ },
+ {
+  "id": "hiraUWcOrVQ",
+  "kind": "boss",
+  "tags": [],
+  "en": "Keepers of the Wild"
+ },
+ {
+  "id": "iNDbw-8pLIo",
+  "kind": "other",
+  "tags": [],
+  "en": "Where it All Begins"
+ },
+ {
+  "id": "VvCSOy43HmA",
+  "kind": "boss",
+  "tags": [],
+  "en": "Provenance Watcher"
+ },
+ {
+  "id": "pajtGgmXBDM",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today"
+ },
+ {
+  "id": "cOHZolZjSqQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Worlds Away"
+ },
+ {
+  "id": "du_9TfUI5yM",
+  "kind": "battle",
+  "tags": [],
+  "en": "Monstrosity"
+ },
+ {
+  "id": "4lbIw-v2h44",
+  "kind": "field",
+  "tags": [
+   "jungle",
+   "plains"
+  ],
+  "en": "Clouds Over Ulbuka"
+ },
+ {
+  "id": "mIzd4u_mmho",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Price"
+ },
+ {
+  "id": "doQjGbwzKWw",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today ep ver."
+ },
+ {
+  "id": "OJy4uyHvXOM",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "The Serpentine Labyrinth"
+ },
+ {
+  "id": "zZ8fpfSgAaM",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Divine"
+ },
+ {
+  "id": "r9IrtudNeWs",
+  "kind": "other",
+  "tags": [],
+  "en": "We Are Vana'diel"
+ },
+ {
+  "id": "gRLc5mEr-kc",
+  "kind": "battle",
+  "tags": [],
+  "en": "Goddesspeed"
+ },
+ {
+  "id": "FPLfGXMd_eA",
+  "kind": "other",
+  "tags": [],
+  "en": "Good Fortune"
+ },
+ {
+  "id": "2GCD5SW_XAc",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Voracious Resurgence"
+ },
+ {
+  "id": "SRIyti-xRsY",
+  "kind": "other",
+  "tags": [],
+  "en": "The Devoured"
+ },
+ {
+  "id": "s4PLI1cmApc",
+  "kind": "other",
+  "tags": [],
+  "en": "The Destiny Destroyers"
+ },
+ {
+  "id": "BFhx587vpqs",
+  "kind": "other",
+  "tags": [],
+  "en": "All Smiles"
+ },
+ {
+  "id": "x09sMQw-_yA",
+  "kind": "other",
+  "tags": [],
+  "en": "Sojourner"
+ },
+ {
+  "id": "HOWKINBZT90",
+  "kind": "boss",
+  "tags": [],
+  "en": "Black Stars Rise"
+ },
+ {
+  "id": "8Run4wNjIJk",
+  "kind": "boss",
+  "tags": [],
+  "en": "Devils' Delight"
+ },
+ {
+  "id": "tiNiO8Q9UGw",
+  "kind": "boss",
+  "tags": [],
+  "en": "Valhalla"
+ },
+ {
+  "id": "9b-TVM0RyDo",
+  "kind": "battle",
+  "tags": [],
+  "en": "Encroaching Perils"
+ },
+ {
+  "id": "6uUuRFPwtbo",
+  "kind": "boss",
+  "tags": [],
+  "en": "All-Consuming Chaos"
+ },
+ {
+  "id": "jUebw4Qu-FQ",
+  "kind": "other",
+  "tags": [],
+  "en": "Your Choice"
+ },
+ {
+  "id": "InQCyVJZem4",
+  "kind": "other",
+  "tags": [],
+  "en": "For a Friend"
+ },
+ {
+  "id": "ziTIxyYuRT0",
+  "kind": "other",
+  "tags": [],
+  "en": "Full Speed Ahead!"
+ },
+ {
+  "id": "yORV_e5Dqd0",
+  "kind": "other",
+  "tags": [],
+  "en": "Times Grow Tense"
+ },
+ {
+  "id": "CJ7hWar43TE",
+  "kind": "other",
+  "tags": [],
+  "en": "Between Dreams and Reality"
+ },
+ {
+  "id": "RI7L7h81eUE",
+  "kind": "boss",
+  "tags": [],
+  "en": "Disjoined One"
+ },
+ {
+  "id": "wS03KTFokwc",
+  "kind": "other",
+  "tags": [],
+  "en": "Winds of Change"
+ },
+ {
+  "id": "MIk-fNYuxus",
+  "kind": "other",
+  "tags": [],
+  "en": "Forever Today (Instrumental Version)"
+ },
+ {
+  "id": "K5JUNMHe1wk",
+  "kind": "other",
+  "tags": [],
+  "en": "Distant Worlds (Instrumental Version)"
+ },
+ {
+  "id": "BBSnUHqGntU",
+  "kind": "other",
+  "tags": [],
+  "en": "Rhapsodies of Vana'diel (EP Version)"
+ },
+ {
+  "id": "rVKnljU1Bgg",
+  "kind": "boss",
+  "tags": [],
+  "en": "Iroha"
+ },
+ {
+  "id": "InmmiSURH1M",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "The Boundless Black"
+ },
+ {
+  "id": "uA-d3VkV0To",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "en": "Isle of the Gods"
+ },
+ {
+  "id": "gFhPVxk86V8",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Wail of the Void"
+ },
+ {
+  "id": "TzEaCgcv2Bw",
+  "kind": "other",
+  "tags": [],
+  "en": "Rhapsodies of Vana'diel"
+ }
+]

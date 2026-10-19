@@ -1,0 +1,367 @@
+[
+ {
+  "id": "UYIafOKKo-I",
+  "kind": "other",
+  "tags": [],
+  "en": "Main Theme of Final Fantasy V"
+ },
+ {
+  "id": "eLqQiWcvwQ8",
+  "kind": "other",
+  "tags": [],
+  "en": "Opening Theme"
+ },
+ {
+  "id": "IcbQyCFnjzA",
+  "kind": "other",
+  "tags": [],
+  "en": "Four Hearts"
+ },
+ {
+  "id": "r200BPW_cm8",
+  "kind": "other",
+  "tags": [],
+  "en": "Hurry! Hurry!"
+ },
+ {
+  "id": "pJVIWGbBKf8",
+  "kind": "other",
+  "tags": [],
+  "en": "Reina's Theme"
+ },
+ {
+  "id": "Ar_J3WjTPzc",
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ],
+  "en": "Dungeon"
+ },
+ {
+  "id": "8ayGsMPF-9M",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 1"
+ },
+ {
+  "id": "KVO5uIXrcWc",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory Fanfare"
+ },
+ {
+  "id": "_DCpMKRnvKM",
+  "kind": "other",
+  "tags": [],
+  "en": "Requiem"
+ },
+ {
+  "id": "DYlAGogNqBg",
+  "kind": "other",
+  "tags": [],
+  "en": "Pirates Ahoy"
+ },
+ {
+  "id": "Puh-0-Kricg",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Town Theme"
+ },
+ {
+  "id": "oE_F72I5xDI",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "ruins"
+  ],
+  "en": "Sealed Away"
+ },
+ {
+  "id": "Jx9T88UE8VY",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "swamp"
+  ],
+  "en": "Cursed Lands"
+ },
+ {
+  "id": "f1iQJrPeCO8",
+  "kind": "other",
+  "tags": [],
+  "en": "Deception"
+ },
+ {
+  "id": "xrKpVJ1_PP8",
+  "kind": "other",
+  "tags": [],
+  "en": "Harvest"
+ },
+ {
+  "id": "aFUPHdIbF9E",
+  "kind": "dungeon",
+  "tags": [
+   "mountain",
+   "cave"
+  ],
+  "en": "To the North Mountain"
+ },
+ {
+  "id": "zQpzNNHRJjA",
+  "kind": "other",
+  "tags": [],
+  "en": "Close Call"
+ },
+ {
+  "id": "RlTISk3zyzg",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle 2"
+ },
+ {
+  "id": "cyz3bQDmd9A",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "plains"
+  ],
+  "en": "Spreading Grand Wings"
+ },
+ {
+  "id": "nC17caBG0Zw",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Royal Palace"
+ },
+ {
+  "id": "8aK5ZWBc40Y",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "water"
+  ],
+  "en": "Fire Ship"
+ },
+ {
+  "id": "wG3VWaZpAxs",
+  "kind": "other",
+  "tags": [],
+  "en": "Run!"
+ },
+ {
+  "id": "st1CHsrTxww",
+  "kind": "other",
+  "tags": [],
+  "en": "Sorrows of Parting"
+ },
+ {
+  "id": "oy5Z3fSVGQQ",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Library of Ancients"
+ },
+ {
+  "id": "_EBRy5wq4Fc",
+  "kind": "other",
+  "tags": [],
+  "en": "Reminiscence"
+ },
+ {
+  "id": "UX42Yw2xh6c",
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "castle"
+  ],
+  "en": "Musica Machina"
+ },
+ {
+  "id": "XBNODEj1mBI",
+  "kind": "other",
+  "tags": [],
+  "en": "The Day Will Come"
+ },
+ {
+  "id": "EsaKR8h0bd4",
+  "kind": "other",
+  "tags": [],
+  "en": "What?"
+ },
+ {
+  "id": "1tm-vGawzjQ",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Mambo de Chocobo"
+ },
+ {
+  "id": "xevXndEHzyo",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Home, Sweet Home"
+ },
+ {
+  "id": "W2L-WxJA7AU",
+  "kind": "other",
+  "tags": [],
+  "en": "Music Box"
+ },
+ {
+  "id": "MPu_ya7QUYg",
+  "kind": "field",
+  "tags": [
+   "sky"
+  ],
+  "en": "The Airship"
+ },
+ {
+  "id": "6xaM1I5WECc",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Evil Lord Exdeath"
+ },
+ {
+  "id": "RMU3zRVEnIk",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ],
+  "en": "Exdeath's Castle"
+ },
+ {
+  "id": "oO-2EnPDmr4",
+  "kind": "other",
+  "tags": [],
+  "en": "The Dawn Warriors"
+ },
+ {
+  "id": "jH-Pddk-_4w",
+  "kind": "boss",
+  "tags": [],
+  "en": "Battle at the Big Bridge"
+ },
+ {
+  "id": "eEBBGsgMjeI",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Unknown Lands"
+ },
+ {
+  "id": "Mm72C7ZF7T8",
+  "kind": "town",
+  "tags": [
+   "forest",
+   "town"
+  ],
+  "en": "Moogles' Theme"
+ },
+ {
+  "id": "gQdSMZe0Lms",
+  "kind": "town",
+  "tags": [
+   "castle"
+  ],
+  "en": "The Castle of Dawn"
+ },
+ {
+  "id": "wv_6AuRJ8W8",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "en": "Beyond the Deep Blue Sea"
+ },
+ {
+  "id": "gUekhNMQAT8",
+  "kind": "dungeon",
+  "tags": [
+   "forest"
+  ],
+  "en": "Legend of the Deep Forest"
+ },
+ {
+  "id": "CmdB6Cr2Dyo",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Tycoon Waltz"
+ },
+ {
+  "id": "fc7HxyBUTZI",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Boko's Theme"
+ },
+ {
+  "id": "2K_KvugBQpo",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "A New World"
+ },
+ {
+  "id": "FuavX43uyMM",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "en": "Sealed Book"
+ },
+ {
+  "id": "1UHisX1QBHs",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "crystal"
+  ],
+  "en": "Slumber of Ancient Earth"
+ },
+ {
+  "id": "Qoh7GyAm6UI",
+  "kind": "dungeon",
+  "tags": [
+   "eerie",
+   "crystal"
+  ],
+  "en": "Prelude to the Void"
+ },
+ {
+  "id": "HKVbdo66rVo",
+  "kind": "other",
+  "tags": [],
+  "en": "In Search of Light"
+ },
+ {
+  "id": "Ajq7huc-9Sg",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Decisive Battle"
+ },
+ {
+  "id": "oyzsRJW3Xxw",
+  "kind": "boss",
+  "tags": [],
+  "en": "The Final Battle"
+ }
+]

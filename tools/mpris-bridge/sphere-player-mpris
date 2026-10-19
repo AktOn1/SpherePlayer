@@ -1,0 +1,242 @@
+#!/usr/bin/python3
+"""Linux media-key bridge for the Sphere Player plugin.
+
+The plugin runs inside Wine and cannot register a media player on the desktop. It listens on a
+loopback port instead (port number in ~/.xlcore/pluginConfigs/SpherePlayer/control.port). This bridge
+connects to it and shows up on the D-Bus session bus as the MPRIS player "Sphere Player", so the
+hardware next / previous / play-pause keys (and playerctl, the shell media widget, KDE/GNOME
+widgets) control the plugin. It appears only while the game plugin is running.
+"""
+import json, os, socket, sys, threading, time
+
+import dbus, dbus.service
+from dbus.mainloop.glib import DBusGMainLoop
+from gi.repository import GLib
+
+PORT_FILE = os.environ.get("SPHEREPLAYER_PORT_FILE", os.path.expanduser("~/.xlcore/pluginConfigs/SpherePlayer/control.port"))
+BUS_NAME = "org.mpris.MediaPlayer2.sphereplayer"
+PATH = "/org/mpris/MediaPlayer2"
+ROOT = "org.mpris.MediaPlayer2"
+PLAYER = "org.mpris.MediaPlayer2.Player"
+PROPS = "org.freedesktop.DBus.Properties"
+
+state = {}          # last status object from the plugin
+sock = None
+sock_lock = threading.Lock()
+
+
+def send(cmd):
+    with sock_lock:
+        if sock is None:
+            return
+        try:
+            sock.sendall((cmd + "\n").encode())
+        except OSError:
+            pass
+
+
+class MprisPlayer(dbus.service.Object):
+    def __init__(self, bus):
+        self.name = dbus.service.BusName(BUS_NAME, bus, do_not_queue=True)
+        super().__init__(bus, PATH)
+        self.snapshot = {}
+
+    # --- values ---------------------------------------------------------
+    def status(self):
+        if not state.get("hasSong"):
+            return "Stopped"
+        return "Paused" if state.get("paused") else "Playing"
+
+    def metadata(self):
+        if not state.get("hasSong"):
+            return dbus.Dictionary({"mpris:trackid": dbus.ObjectPath("/org/mpris/MediaPlayer2/TrackList/NoTrack")}, signature="sv")
+        vid = state.get("id", "")
+        track = "/org/sphereplayer/track/" + "".join(c if c.isalnum() else "_" for c in vid)
+        md = {
+            "mpris:trackid": dbus.ObjectPath(track),
+            "xesam:title": state.get("title") or "Sphere Player",
+            "xesam:artist": dbus.Array([state.get("game") or "Final Fantasy"], signature="s"),
+            "xesam:album": state.get("category", ""),
+        }
+        if state.get("dur"):
+            md["mpris:length"] = dbus.Int64(int(state["dur"] * 1_000_000))
+        if vid:
+            md["mpris:artUrl"] = "https://i.ytimg.com/vi/%s/mqdefault.jpg" % vid
+        return dbus.Dictionary(md, signature="sv")
+
+    def player_props(self):
+        return {
+            "PlaybackStatus": self.status(),
+            "Metadata": self.metadata(),
+            "Volume": dbus.Double(state.get("volume", 30) / 100.0),
+            "Position": dbus.Int64(int(state.get("pos", 0) * 1_000_000)),
+            "Rate": dbus.Double(1.0), "MinimumRate": dbus.Double(1.0), "MaximumRate": dbus.Double(1.0),
+            "CanGoNext": True, "CanGoPrevious": True, "CanPlay": True, "CanPause": True,
+            "CanSeek": False, "CanControl": True,
+        }
+
+    def root_props(self):
+        return {
+            "CanQuit": False, "CanRaise": False, "HasTrackList": False,
+            "Identity": "Sphere Player", "DesktopEntry": "",
+            "SupportedUriSchemes": dbus.Array([], signature="s"),
+            "SupportedMimeTypes": dbus.Array([], signature="s"),
+        }
+
+    def refresh(self):
+        """Emit PropertiesChanged for whatever changed since the last call."""
+        cur = {k: v for k, v in self.player_props().items() if k != "Position"}
+        changed = {k: v for k, v in cur.items() if self.snapshot.get(k) != v}
+        self.snapshot = cur
+        if changed:
+            self.PropertiesChanged(PLAYER, changed, dbus.Array([], signature="s"))
+
+    # --- org.freedesktop.DBus.Properties --------------------------------
+    def _iface(self, iface):
+        if iface == ROOT:
+            return self.root_props()
+        if iface == PLAYER:
+            return self.player_props()
+        raise dbus.exceptions.DBusException("Unknown interface " + iface)
+
+    @dbus.service.method(PROPS, in_signature="ss", out_signature="v")
+    def Get(self, iface, prop):
+        props = self._iface(iface)
+        if prop not in props:
+            raise dbus.exceptions.DBusException("Unknown property " + prop)
+        return props[prop]
+
+    @dbus.service.method(PROPS, in_signature="s", out_signature="a{sv}")
+    def GetAll(self, iface):
+        return dbus.Dictionary(self._iface(iface), signature="sv")
+
+    @dbus.service.method(PROPS, in_signature="ssv")
+    def Set(self, iface, prop, value):
+        pass  # volume stays under the plugin's control
+
+    @dbus.service.signal(PROPS, signature="sa{sv}as")
+    def PropertiesChanged(self, iface, changed, invalidated):
+        pass
+
+    # --- org.mpris.MediaPlayer2 -----------------------------------------
+    @dbus.service.method(ROOT)
+    def Raise(self):
+        pass
+
+    @dbus.service.method(ROOT)
+    def Quit(self):
+        pass
+
+    # --- org.mpris.MediaPlayer2.Player ----------------------------------
+    @dbus.service.method(PLAYER)
+    def Next(self): send("next")
+
+    @dbus.service.method(PLAYER)
+    def Previous(self): send("prev")
+
+    @dbus.service.method(PLAYER)
+    def Pause(self): send("pause")
+
+    @dbus.service.method(PLAYER)
+    def PlayPause(self): send("playpause")
+
+    @dbus.service.method(PLAYER)
+    def Stop(self): send("stop")
+
+    @dbus.service.method(PLAYER)
+    def Play(self): send("play")
+
+    @dbus.service.method(PLAYER, in_signature="x")
+    def Seek(self, offset): pass
+
+    @dbus.service.method(PLAYER, in_signature="ox")
+    def SetPosition(self, track, position): pass
+
+    @dbus.service.method(PLAYER, in_signature="s")
+    def OpenUri(self, uri): pass
+
+    @dbus.service.signal(PLAYER, signature="x")
+    def Seeked(self, position): pass
+
+
+bus = None
+player = None
+events = []
+events_lock = threading.Lock()
+
+
+def push(item):
+    with events_lock:
+        events.append(item)
+    GLib.idle_add(drain)
+
+
+def drain():
+    global player
+    with events_lock:
+        items, events[:] = list(events), []
+    for kind, payload in items:
+        if kind == "up":
+            if player is None:
+                try:
+                    player = MprisPlayer(bus)
+                    print("connected to plugin, player registered", flush=True)
+                except dbus.exceptions.DBusException as e:
+                    print("cannot register player:", e, flush=True)
+        elif kind == "status":
+            state.clear(); state.update(payload)
+            if player:
+                player.refresh()
+        elif kind == "down":
+            state.clear()
+            if player:
+                player.remove_from_connection()
+                player = None  # dropping the BusName object releases the name
+                print("plugin gone, player removed", flush=True)
+    return False
+
+
+def reader():
+    global sock
+    while True:
+        try:
+            port = int(open(PORT_FILE).read().strip())
+            s = socket.create_connection(("127.0.0.1", port), timeout=2)
+            s.settimeout(None)
+        except (OSError, ValueError):
+            time.sleep(3)
+            continue
+        with sock_lock:
+            sock = s
+        push(("up", None))
+        try:
+            for line in s.makefile("r", encoding="utf-8"):
+                line = line.strip()
+                if line.startswith("{"):
+                    try:
+                        push(("status", json.loads(line)))
+                    except ValueError:
+                        pass
+        except OSError:
+            pass
+        with sock_lock:
+            sock = None
+        try:
+            s.close()
+        except OSError:
+            pass
+        push(("down", None))
+        time.sleep(2)
+
+
+def main():
+    global bus
+    DBusGMainLoop(set_as_default=True)
+    bus = dbus.SessionBus()
+    threading.Thread(target=reader, daemon=True).start()
+    GLib.timeout_add_seconds(1, lambda: (player.refresh() if player else None) or True)
+    GLib.MainLoop().run()
+
+
+if __name__ == "__main__":
+    sys.exit(main())

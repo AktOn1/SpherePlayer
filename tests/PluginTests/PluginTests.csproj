@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <NoWarn>CA1416</NoWarn>
+    <RootNamespace>SpherePlayer.Tests</RootNamespace>
+    <DalamudHome Condition="'$(DALAMUD_HOME)' != ''">$(DALAMUD_HOME)</DalamudHome>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\..\plugin\SpherePlayer\HostInstaller.cs;..\..\plugin\SpherePlayer\VideoGuard.cs;..\..\plugin\SpherePlayer\Controller.cs;..\..\plugin\SpherePlayer\Library.cs;..\..\plugin\SpherePlayer\PlayerProcess.cs;..\..\plugin\SpherePlayer\Config.cs;..\..\plugin\SpherePlayer\Situation.cs" />
+    <EmbeddedResource Include="..\..\library\songs.json" LogicalName="songs.json" />
+    <EmbeddedResource Include="..\..\library\area.json" LogicalName="area.json" />
+    <EmbeddedResource Include="..\..\plugin\SpherePlayer\territories.json" LogicalName="territories.json" />
+    <Reference Include="Dalamud"><HintPath>$(DalamudHome)\Dalamud.dll</HintPath></Reference>
+    <Reference Include="Serilog"><HintPath>$(DalamudHome)\Serilog.dll</HintPath></Reference>
+  </ItemGroup>
+</Project>

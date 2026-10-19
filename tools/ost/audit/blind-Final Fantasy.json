@@ -1,0 +1,145 @@
+[
+ {
+  "id": "cijssP1dnQg",
+  "kind": "other",
+  "tags": [],
+  "en": "Prelude"
+ },
+ {
+  "id": "q4jA-bNip50",
+  "kind": "other",
+  "tags": [],
+  "en": "Opening Theme"
+ },
+ {
+  "id": "mxvMEem8UZY",
+  "kind": "town",
+  "tags": [
+   "castle",
+   "city"
+  ],
+  "en": "Castle Cornelia"
+ },
+ {
+  "id": "sGjR9KGZmjQ",
+  "kind": "field",
+  "tags": [
+   "plains"
+  ],
+  "en": "Main Theme"
+ },
+ {
+  "id": "IV611JfkIW4",
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie",
+   "ruins"
+  ],
+  "en": "Chaos Shrine"
+ },
+ {
+  "id": "PDAqOCHuaok",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "Matoya's Cave"
+ },
+ {
+  "id": "kju3FLK98Ws",
+  "kind": "town",
+  "tags": [
+   "town"
+  ],
+  "en": "Town"
+ },
+ {
+  "id": "v6Zo0PaTrpw",
+  "kind": "other",
+  "tags": [],
+  "en": "Shop"
+ },
+ {
+  "id": "d1dGarXAZFc",
+  "kind": "field",
+  "tags": [
+   "seaside",
+   "water"
+  ],
+  "en": "Sailing Ship"
+ },
+ {
+  "id": "gsrQGvTCOr4",
+  "kind": "dungeon",
+  "tags": [
+   "water",
+   "ruins",
+   "eerie"
+  ],
+  "en": "Sunken Shrine"
+ },
+ {
+  "id": "Ek3YVg8PoEM",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "eerie"
+  ],
+  "en": "Dungeon"
+ },
+ {
+  "id": "lYcmyozDzAc",
+  "kind": "other",
+  "tags": [],
+  "en": "Menu Screen"
+ },
+ {
+  "id": "GMkqONggTwc",
+  "kind": "field",
+  "tags": [
+   "sky",
+   "plains"
+  ],
+  "en": "Airship"
+ },
+ {
+  "id": "JMjoexa8mh4",
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "mountain",
+   "eerie"
+  ],
+  "en": "Mt. Gulg"
+ },
+ {
+  "id": "LblXQFDEj28",
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "castle",
+   "crystal"
+  ],
+  "en": "Flying Fortress"
+ },
+ {
+  "id": "Hrz5HryadIA",
+  "kind": "battle",
+  "tags": [],
+  "en": "Battle"
+ },
+ {
+  "id": "ZSdNARyfaZY",
+  "kind": "other",
+  "tags": [],
+  "en": "Victory"
+ },
+ {
+  "id": "2OH4vKhuzNw",
+  "kind": "other",
+  "tags": [],
+  "en": "Game Over"
+ }
+]

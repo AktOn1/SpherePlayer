@@ -1,0 +1,810 @@
+[
+ {
+  "id": "nYITru9U-bM",
+  "orig": "ループデモ",
+  "title": "Loop Demo",
+  "seconds": 97,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FlqzuHsmlq4",
+  "orig": "FINAL FANTASY ～FFXIIバージョン～",
+  "title": "FINAL FANTASY ~FFXII Version~",
+  "seconds": 77,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "svfMQ4nr4Pc",
+  "orig": "オープニング･ムービー (FINAL FANTASY XIIのテーマ)",
+  "title": "Opening Movie (Theme of FINAL FANTASY XII)",
+  "seconds": 418,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "E0BKfJ1mUl8",
+  "orig": "潜入",
+  "title": "Infiltration",
+  "seconds": 190,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "mLQQauaGsuU",
+  "orig": "ボス戦",
+  "title": "Boss Battle",
+  "seconds": 204,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "f7JmzE4FmRY",
+  "orig": "幻聴",
+  "title": "Auditory Hallucination",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "kR-rWUDqGyQ",
+  "orig": "秘密の練習",
+  "title": "Secret Practice",
+  "seconds": 130,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Tgcb6AShVQs",
+  "orig": "王都ラバナスタ/市街地上層",
+  "title": "Royal City of Rabanastre / Upper Streets",
+  "seconds": 328,
+  "kind": "town",
+  "tags": [
+   "city",
+   "desert"
+  ]
+ },
+ {
+  "id": "3ULO1rAIb0w",
+  "orig": "パンネロのテーマ",
+  "title": "Penelo's Theme",
+  "seconds": 177,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DbWdiuFaIUQ",
+  "orig": "空賊への夢",
+  "title": "Dream of Becoming a Sky Pirate",
+  "seconds": 36,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "V6bjz63ec3A",
+  "orig": "小悪党",
+  "title": "Petty Villain",
+  "seconds": 183,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DoQ95gjR4sA",
+  "orig": "東ダルマスカ砂漠",
+  "title": "The Dalmasca Eastersand",
+  "seconds": 243,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "sE14vaezy5M",
+  "orig": "童心",
+  "title": "Childlike Heart",
+  "seconds": 182,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "nHkvzNkb-Ig",
+  "orig": "共存 (帝国バージョン)",
+  "title": "Coexistence (Empire Version)",
+  "seconds": 168,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6q4Zctb_e0s",
+  "orig": "変化の兆し",
+  "title": "Signs of Change",
+  "seconds": 142,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "P_HPcjw2Fy0",
+  "orig": "ラバナスタ･ダウンタウン",
+  "title": "Rabanastre Downtown",
+  "seconds": 161,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "rqOKNDdFKkg",
+  "orig": "静かなる決意",
+  "title": "Silent Determination",
+  "seconds": 213,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "CIHrnosI578",
+  "orig": "西ダルマスカ砂漠",
+  "title": "The Dalmasca Westersand",
+  "seconds": 95,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "lA90GuBjGQo",
+  "orig": "クラン本部",
+  "title": "Clan Headquarters",
+  "seconds": 167,
+  "kind": "town",
+  "tags": [
+   "city"
+  ]
+ },
+ {
+  "id": "ZcLV8b3MWsU",
+  "orig": "ギーザ草原",
+  "title": "The Giza Plains",
+  "seconds": 283,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "ffk4IthPxTE",
+  "orig": "パンネロとの別れ",
+  "title": "Parting from Penelo",
+  "seconds": 31,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "08o17IVgv4I",
+  "orig": "ガラムサイズ水路",
+  "title": "The Garamsythe Waterway",
+  "seconds": 175,
+  "kind": "dungeon",
+  "tags": [
+   "water"
+  ]
+ },
+ {
+  "id": "-zEgiI6MVA8",
+  "orig": "予兆",
+  "title": "Omen",
+  "seconds": 168,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Wxyd9wFzdec",
+  "orig": "騒乱",
+  "title": "Tumult",
+  "seconds": 177,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "JmBHxYxYnvo",
+  "orig": "ナルビナ城塞市街地",
+  "title": "Nalbina Fortress Town",
+  "seconds": 143,
+  "kind": "town",
+  "tags": [
+   "town",
+   "castle",
+   "desert"
+  ]
+ },
+ {
+  "id": "P5Z_kLDgL0g",
+  "orig": "王女の幻影",
+  "title": "Phantom of the Princess",
+  "seconds": 199,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8xb-yEMxFkM",
+  "orig": "剣の一閃",
+  "title": "Clash of Swords",
+  "seconds": 156,
+  "kind": "battle",
+  "tags": []
+ },
+ {
+  "id": "TcZJHIzW9-w",
+  "orig": "勝利のファンファーレ ～FFXIIバージョン～",
+  "title": "Victory Fanfare ~FFXII Version~",
+  "seconds": 29,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ShirDoancBU",
+  "orig": "深淵",
+  "title": "The Abyss",
+  "seconds": 205,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tzyT29Yjut4",
+  "orig": "暗雲 (帝国バージョン)",
+  "title": "Dark Clouds (Empire Version)",
+  "seconds": 121,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "g5UsAvZ8dUw",
+  "orig": "バルフレアとの約束",
+  "title": "Promise with Balthier",
+  "seconds": 37,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Q5y250C3v68",
+  "orig": "ナルビナ城塞地下雑居房",
+  "title": "Nalbina Dungeons",
+  "seconds": 275,
+  "kind": "dungeon",
+  "tags": [
+   "castle",
+   "eerie"
+  ]
+ },
+ {
+  "id": "3ujMETIK1vc",
+  "orig": "蛮族",
+  "title": "Barbarians",
+  "seconds": 149,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "b7FT5NTNzVY",
+  "orig": "戦いのドラム",
+  "title": "Battle Drums",
+  "seconds": 167,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "YPnMd26jwrU",
+  "orig": "帝国のテーマ",
+  "title": "Theme of the Empire",
+  "seconds": 470,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fSpT4uk0JNc",
+  "orig": "チョコボFFXIIアレンジVer.1 (ゲーム未収録バージョン)",
+  "title": "Chocobo FFXII Arrange Ver.1 (Unused Version)",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "stdX6Uv06sw",
+  "orig": "バルハイム地下道",
+  "title": "Barheim Passage",
+  "seconds": 232,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "industrial"
+  ]
+ },
+ {
+  "id": "S7lvUOtrjV8",
+  "orig": "悲哀 (解放軍バージョン)",
+  "title": "Sorrow (Resistance Version)",
+  "seconds": 216,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "UOHBrNTuXew",
+  "orig": "バッシュの回想",
+  "title": "Basch's Recollection",
+  "seconds": 57,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "97CPcafKwr4",
+  "orig": "共存 (解放軍バージョン)",
+  "title": "Coexistence (Resistance Version)",
+  "seconds": 170,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PFUY-owuTYw",
+  "orig": "空中都市ビュエルバ",
+  "title": "Skycity of Bhujerba",
+  "seconds": 229,
+  "kind": "town",
+  "tags": [
+   "city",
+   "sky"
+  ]
+ },
+ {
+  "id": "3QpkzvRaLyE",
+  "orig": "魔石の秘密",
+  "title": "Secret of the Magicite",
+  "seconds": 205,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "wBFgqC_A2CM",
+  "orig": "闇夜 (帝国バージョン)",
+  "title": "Dark Night (Empire Version)",
+  "seconds": 121,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "OYsW2sjBxF4",
+  "orig": "言葉無き戦い",
+  "title": "Wordless Battle",
+  "seconds": 153,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "6Pc8UsbbSZk",
+  "orig": "戦艦リヴァイアサン艦橋",
+  "title": "Bridge of the Leviathan",
+  "seconds": 234,
+  "kind": "dungeon",
+  "tags": [
+   "industrial",
+   "sky"
+  ]
+ },
+ {
+  "id": "YOKRjRMs-no",
+  "orig": "帝国への挑戦",
+  "title": "Challenge to the Empire",
+  "seconds": 199,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "Z-I9zwLPjtI",
+  "orig": "切迫する事態",
+  "title": "Urgent Situation",
+  "seconds": 196,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "0dCGK8pt9uo",
+  "orig": "動乱 (帝国バージョン)",
+  "title": "Upheaval (Empire Version)",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "eCVEw0IIXCY",
+  "orig": "レイスウォール王墓",
+  "title": "Tomb of Raithwall",
+  "seconds": 216,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "desert"
+  ]
+ },
+ {
+  "id": "kjbru2d6QzQ",
+  "orig": "大砂海",
+  "title": "The Sandsea",
+  "seconds": 141,
+  "kind": "field",
+  "tags": [
+   "desert"
+  ]
+ },
+ {
+  "id": "Vm0t57jH9n4",
+  "orig": "召喚獣戦",
+  "title": "Esper Battle",
+  "seconds": 204,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "q8D1fb0mA9k",
+  "orig": "悲哀 (帝国バージョン)",
+  "title": "Sorrow (Empire Version)",
+  "seconds": 169,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "nbANqINeQjA",
+  "orig": "求めし力",
+  "title": "Power Sought",
+  "seconds": 194,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "8WJz2c_Bz5g",
+  "orig": "死闘",
+  "title": "Desperate Fight",
+  "seconds": 165,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "tM6Ie7p_v5U",
+  "orig": "ガリフの地ジャハラ",
+  "title": "Jahara, Land of the Garif",
+  "seconds": 299,
+  "kind": "town",
+  "tags": [
+   "town",
+   "plains"
+  ]
+ },
+ {
+  "id": "l8SSJ6rHahU",
+  "orig": "オズモーネ平原",
+  "title": "The Ozmone Plain",
+  "seconds": 151,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "HCkpT-AfTCY",
+  "orig": "ゴルモア大森林",
+  "title": "The Golmore Jungle",
+  "seconds": 230,
+  "kind": "dungeon",
+  "tags": [
+   "jungle",
+   "forest"
+  ]
+ },
+ {
+  "id": "6nkn5skFFWY",
+  "orig": "エルトの里",
+  "title": "Eruyt Village",
+  "seconds": 254,
+  "kind": "town",
+  "tags": [
+   "town",
+   "forest"
+  ]
+ },
+ {
+  "id": "XERfcljUtPg",
+  "orig": "チョコボ ～FFXIIバージョン～",
+  "title": "Chocobo ~FFXII Version~",
+  "seconds": 124,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "L20GU5gXNvQ",
+  "orig": "迫る脅威",
+  "title": "Approaching Threat",
+  "seconds": 165,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "LlD1j4LMxpQ",
+  "orig": "ビッグブリッヂの死闘 ～FFXIIバージョン～",
+  "title": "Clash on the Big Bridge ~FFXII Version~",
+  "seconds": 167,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "3VzT1eojLDE",
+  "orig": "捨て去りし力",
+  "title": "Abandoned Power",
+  "seconds": 157,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DeHnjDhRSOM",
+  "orig": "ミリアム遺跡",
+  "title": "Stilshrine of Miriam",
+  "seconds": 204,
+  "kind": "dungeon",
+  "tags": [
+   "ruins"
+  ]
+ },
+ {
+  "id": "4lgEKD6mf1Q",
+  "orig": "安息の時",
+  "title": "Time of Rest",
+  "seconds": 131,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "4HZpYfI3IZE",
+  "orig": "白い部屋",
+  "title": "The White Room",
+  "seconds": 225,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "HaUsg7nB-Dc",
+  "orig": "サリカ樹林",
+  "title": "Salikawood",
+  "seconds": 158,
+  "kind": "field",
+  "tags": [
+   "forest"
+  ]
+ },
+ {
+  "id": "fTYGPBJT60Q",
+  "orig": "フォーン海岸",
+  "title": "Phon Coast",
+  "seconds": 239,
+  "kind": "field",
+  "tags": [
+   "seaside"
+  ]
+ },
+ {
+  "id": "VSsp-NXojiQ",
+  "orig": "宿命",
+  "title": "Fate",
+  "seconds": 178,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "z_MmNAIMIpQ",
+  "orig": "ソーヘン地下宮殿",
+  "title": "Sochen Cave Palace",
+  "seconds": 219,
+  "kind": "dungeon",
+  "tags": [
+   "cave",
+   "ruins"
+  ]
+ },
+ {
+  "id": "g8wJdU_JDzg",
+  "orig": "一時の休息",
+  "title": "A Moment's Rest",
+  "seconds": 272,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "FGpbBLmXVo8",
+  "orig": "水のほとり",
+  "title": "By the Water",
+  "seconds": 193,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "L48PLPCQxHI",
+  "orig": "モスフォーラ山地",
+  "title": "Mosphoran Highwaste",
+  "seconds": 170,
+  "kind": "field",
+  "tags": [
+   "mountain"
+  ]
+ },
+ {
+  "id": "l3DKBxylZ1s",
+  "orig": "セロビ大地",
+  "title": "The Cerobi Steppe",
+  "seconds": 194,
+  "kind": "field",
+  "tags": [
+   "plains"
+  ]
+ },
+ {
+  "id": "5gVs94HZsKQ",
+  "orig": "召喚",
+  "title": "Summon",
+  "seconds": 165,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "ShNL7m35qAA",
+  "orig": "港町バーフォンハイム",
+  "title": "Port City of Balfonheim",
+  "seconds": 135,
+  "kind": "town",
+  "tags": [
+   "town",
+   "seaside"
+  ]
+ },
+ {
+  "id": "Zao5KoN5YUs",
+  "orig": "ゼルテニアン洞窟",
+  "title": "Zertinan Caverns",
+  "seconds": 203,
+  "kind": "dungeon",
+  "tags": [
+   "cave"
+  ]
+ },
+ {
+  "id": "On9lK3KRob4",
+  "orig": "追憶の地",
+  "title": "Land of Remembrance",
+  "seconds": 241,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "DD7w6ccVEjQ",
+  "orig": "忘れ去られし都",
+  "title": "The Forgotten Capital",
+  "seconds": 257,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ]
+ },
+ {
+  "id": "AjOlylSCYhY",
+  "orig": "幻妖の森",
+  "title": "The Feywood",
+  "seconds": 255,
+  "kind": "dungeon",
+  "tags": [
+   "forest",
+   "eerie"
+  ]
+ },
+ {
+  "id": "imxfNNTwZaU",
+  "orig": "アーシェのテーマ",
+  "title": "Ashe's Theme",
+  "seconds": 331,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "87JHTjkk-XU",
+  "orig": "ギルヴェガンの謎",
+  "title": "Mystery of Giruvegan",
+  "seconds": 160,
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie",
+   "crystal"
+  ]
+ },
+ {
+  "id": "9evzpqfSdHg",
+  "orig": "神々の場所へ",
+  "title": "To the Place of the Gods",
+  "seconds": 205,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "jBIWWx9U3lg",
+  "orig": "終局の始まり",
+  "title": "Beginning of the End",
+  "seconds": 218,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "p4tbkMaeMB8",
+  "orig": "頂上へ",
+  "title": "To the Summit",
+  "seconds": 110,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "PwFaK2YSoxc",
+  "orig": "空中要塞バハムート",
+  "title": "Sky Fortress Bahamut",
+  "seconds": 202,
+  "kind": "dungeon",
+  "tags": [
+   "sky",
+   "industrial"
+  ]
+ },
+ {
+  "id": "eQQC2umidXo",
+  "orig": "揺れるバハムート",
+  "title": "Bahamut Shaking",
+  "seconds": 42,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "fJ0YjdHezCE",
+  "orig": "自由への闘い",
+  "title": "Fight for Freedom",
+  "seconds": 532,
+  "kind": "boss",
+  "tags": []
+ },
+ {
+  "id": "a6MANrW8V34",
+  "orig": "闘いの結末",
+  "title": "Conclusion of the Battle",
+  "seconds": 74,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "pD_Cmpm-nVA",
+  "orig": "エンディング･ムービー",
+  "title": "Ending Movie",
+  "seconds": 380,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "tDYEYZL8IjE",
+  "orig": "Kiss Me good-Bye-featured in FINAL FANTASY V II",
+  "title": "Kiss Me Good-Bye -featured in FINAL FANTASY XII-",
+  "seconds": 299,
+  "kind": "other",
+  "tags": []
+ },
+ {
+  "id": "gNjaY7NmWJQ",
+  "orig": "FINAL FANTASY XIIのテーマ (制作発表会バージョン)",
+  "title": "Theme of Final Fantasy XII (Press Conference Version)",
+  "seconds": 186,
+  "kind": "other",
+  "tags": []
+ }
+]
