@@ -12,7 +12,7 @@ Unofficial fan project. It is not made by or connected to Square Enix. FINAL FAN
 
 ## Status
 
-- **Currently being tested.** Things may still break.
+- **Currently being tested.**
 - **Song matching is work in progress.** Tracks are matched to battle, boss, town, field, dungeon or other, and to places, from their titles, so some will be off: a calm piece in the battle list, a forest tune for a desert. You can ban or pin songs in the song list, and tell me which ones are wrong.
 - **Boss detection is work in progress** too. It looks at target and duty type, so some bosses will get normal battle music.
 - A YouTube video must be available in your region. A video taken down by its owner is skipped.
