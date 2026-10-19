@@ -2,13 +2,13 @@
 
 A Dalamud plugin that plays music from the original Final Fantasy I to XVI soundtracks while you play FFXIV, and switches it by what you are doing: town, field, dungeon, battle, boss. Turn the game's own music down and this takes over. The music comes from YouTube, shown in a small video window inside the game.
 
-<a href='https://ko-fi.com/akton1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 **About the name:** Sphere Player is named after the spheres of Spira, the orbs that store and replay sound in Final Fantasy X.
 
 This is the **first version** and it is still being worked on. **Feedback is very welcome**: bugs, wrong songs, ideas. Please open an issue on this repository.
 
 Unofficial fan project. It is not made by or connected to Square Enix. FINAL FANTASY is a trademark of Square Enix.
+
+<a href='https://ko-fi.com/akton1' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## Status
 
