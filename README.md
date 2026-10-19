@@ -1,6 +1,6 @@
 # Sphere Player
 
-A Dalamud plugin that plays music from the original Final Fantasy I to XVI soundtracks while you play FFXIV, and switches it by what you are doing: town, field, dungeon, battle, boss. Turn the game's own music down and this takes over. The music comes from YouTube, shown in a small video window inside the game.
+A Dalamud plugin that plays music from the original Final Fantasy I to XVI soundtracks while you play FFXIV, and switches it by what you are doing: town, field, dungeon, battle, boss. It can mute the game's own music and take over. The music comes from YouTube, shown in a small video window inside the game.
 
 **About the name:** Sphere Player is named after the spheres of Spira, the orbs that store and replay sound in Final Fantasy X.
 
@@ -13,8 +13,7 @@ Unofficial fan project. It is not made by or connected to Square Enix. FINAL FAN
 ## Status
 
 - **Currently being tested.**
-- **Song matching is work in progress.** Tracks are matched to battle, boss, town, field, dungeon or other, and to places, from their titles, so some will be off: a calm piece in the battle list, a forest tune for a desert. You can ban or pin songs in the song list, and tell me which ones are wrong.
-- **Boss detection is work in progress** too. It looks at target and duty type, so some bosses will get normal battle music.
+- **Work in progress:** songs are matched to battle, boss, town, field, dungeon or other, and to places, from their titles, so some will be off: a calm piece in the battle list, a forest tune for a desert. Boss detection looks at target and duty type, so some bosses will get normal battle music. You can ban or pin songs in the song list, and tell me which ones are wrong.
 - A YouTube video must be available in your region. A video taken down by its owner is skipped.
 
 ## Install
@@ -35,7 +34,7 @@ YouTube lets sites embed its player on the condition that the video is **visible
 - The music window **is open every time the plugin loads**.
 - While the window is open the video is never hidden. It has a minimum size of 200x200 (the smallest window here is 356x200) and the size is configurable up to 480 wide.
 - **In a fight or boss fight** the window shrinks to that minimum. It does not hide.
-- **By default the music keeps playing when you collapse or close the window**, like a browser tab you hide. This is the author's choice and not what YouTube's embed rules ask for; if you want to follow them strictly, turn off **Keep playing when the window is collapsed or closed** in the settings. Then collapsing, closing, or the game hiding its windows (cutscenes, GPose, the UI-hide key) pauses the music, and it continues by itself when the video is visible again.
+- **By default the music keeps playing when you collapse or close the window**, like a browser tab you hide. If you would rather have it pause, turn off **Keep playing when the window is collapsed or closed** in the settings. Then collapsing, closing, or the game hiding its windows (cutscenes, GPose, the UI-hide key) pauses the music, and it continues by itself when the video is visible again.
 - `/sphere` commands (`play`, `next`, `resume`, `playpause`, `songs` ...) always open and expand the window first.
 - The plugin does not remove ads or alter the YouTube page. Clicks on the video go to YouTube's own player, so its buttons work.
 
@@ -56,7 +55,7 @@ Chat command `/sphere` (alias `/sphereplayer`), also usable in macros. Without a
 | `ban`, `pin`, `unpin`, `now` | Act on the song that is playing |
 | `help` | Lists all of this in chat |
 
-Omakase mode: every area song has place tags (forest, desert, seaside, city ...), and every territory has tags too (`library/area.json`, `plugin/SpherePlayer/territories.json`). The song that fits the territory best is picked. It works per territory, not per sub-area (Costa del Sol is part of Lower La Noscea). A track named after an FFXIV place (the Kugane theme) is tied to it (`home`, from `assign-homes.py`): it is played only there, and always counts as a perfect fit there. If fewer than 6 songs fit, the pool widens to all area songs so one song does not repeat. Random mode picks any song of the right kind. Music also plays on the main menu and character select, and a song for the place takes over once you enter the game. Stop ends the song and stays quiet until Next or Resume; Pause keeps the place in the song.
+Omakase mode (the default) picks the song that fits the place you stand in: forest, desert, seaside, city and so on. Random mode picks any song of the right kind. Music also plays on the main menu and character select, and a song for the place takes over once you enter the game. Stop ends the song and stays quiet until Next or Resume; Pause keeps the place in the song.
 
 Timing: a new zone starts its music at once, calm music after a fight waits 4 s, battle music 0.3 s. Battle music fades in over the area music, and after the fight the area song continues where it stopped (switch off in settings).
 
@@ -72,24 +71,13 @@ Timing: a new zone starts its music at once, calm music after a fight waits 4 s,
 - **Hardware keys (next / previous / play-pause / stop):** the plugin polls them itself (Windows, or Wine when the key reaches the game; setting "Hardware media keys"). On Linux the desktop usually swallows these keys, so `tools/mpris-bridge/` adds a small service: the bridge connects to the control port and registers an MPRIS player "Sphere Player" on the D-Bus session bus. Then the keys, `playerctl` and desktop media widgets control the plugin. Install once with `tools/mpris-bridge/install.sh` (systemd user service, idle until the game plugin is up). Remove with `systemctl --user disable --now sphere-player-mpris`. The control port accepts one command per line and sends the status as JSON lines.
 - **Video clicks:** mouse moves, clicks and the wheel over the video are passed to the player page, so click-to-pause, the seek bar and YouTube's own buttons work. Links open in the system browser only for YouTube addresses. Setting "Video is clickable". YouTube's own volume button is not tied to the plugin volume; the plugin volume wins on the next song.
 
-## Song library (full original soundtracks)
+## Song library
 
-The library is the original soundtrack of Final Fantasy I to XVI, 2144 tracks, all checked for embedding. Sources are official SQUARE ENIX MUSIC "Video Soundtrack" playlists (I to X, XV, XVI) and YouTube Music auto-generated ("Topic") album playlists where Square Enix has no list (XI to XIV; the XIV list is the 1.0 to 7.0 release playlist). Each track is matched from its title to battle, boss, town, field, dungeon or other, with place tags and an English title. The matching went through a second check and a correction pass (`audit-ost.py`, `arbitrate-ost.py`), and it is still work in progress: some labels are off. "Other" (cutscene, fanfare, character scenes) is never played automatically, only from the song window. The old hand-picked list is in `library/legacy/`.
+2144 tracks from the original soundtracks of Final Fantasy I to XVI, from official Square Enix Music and YouTube Music playlists, all checked for embedding. "Other" tracks (cutscenes, fanfares, character scenes) are never played automatically, only from the song window, which has a game filter, a search box and pages of 40.
 
-Rebuild: `tools/fetch-ost.py` (track lists + embed check, playlists are listed at the top), `tools/classify-ost.py` (needs the `claude` CLI), `tools/build-ost-library.py` (writes `library/songs.json` + `area.json`). Add a game or album by adding its playlist id to `SOURCES` and running the three steps. The song window has a game filter, a search box and pages of 40.
+## Building it yourself
 
-After classify: `audit-ost.py`, `arbitrate-ost.py`, `assign-homes.py`, `retag-sparse.py` (volcano, swamp, jungle, snow, crystal), then `build-ost-library.py`. Check the zone pools with `simulate-pools.py` (mirrors the plugin scoring) and `rate-pools.py` (LLM rating per zone, 1 to 5). Some steps call the model and take minutes.
-
-Regenerate other data: `tools/build-territories.py` (territories), `tools/resolve-area.py` (resolves `tools/area-tracklist.json` to YouTube ids, metadata only).
-
-## Building and releasing
-
-Needs the .NET 10 SDK and a Dalamud build (default `~/.xlcore/dalamud/Hooks/dev`, or set `DALAMUD_HOME`).
-
-- `./build.sh` builds the plugin and the player host.
-- `tests/run.sh` runs the logic tests (installer download, checksum, retries, video rules). `tests/run.sh installer` runs just the installer tests, which also work under Wine.
-- Player host: `tools/pack-host.sh OWNER/REPO` zips the host, writes its SHA-256 into `host-manifest.json` (embedded in the plugin), and prints the release to create (`host-<version>` with the zip as asset). Do this only when the player changes.
-- Plugin: `tools/release.sh OWNER/REPO 1.0.1 "what changed"` builds `dist/latest.zip` and rewrites `pluginmaster.json`. Upload the zip to the GitHub release `v1.0.1` (pushing the tag does this through `.github/workflows/release.yml`) and commit `pluginmaster.json`.
+See [docs/DEVELOPING.md](docs/DEVELOPING.md) for building the plugin, releasing, and rebuilding the song library.
 
 ## Third-party software
 
