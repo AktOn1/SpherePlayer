@@ -4,14 +4,18 @@
 
 A Dalamud plugin that plays music from the original Final Fantasy I to XVI soundtracks while you play FFXIV, and switches it by what you are doing: town, field, dungeon, battle, boss. Turn the game's own music down and this takes over. The music comes from YouTube, shown in a small video window inside the game.
 
-Unofficial fan project. It is not made by or connected to Square Enix. FINAL FANTASY is a trademark of Square Enix. The name comes from the spheres of Spira that store and replay sound.
+**About the name:** Sphere Player is named after the spheres of Spira, the orbs that store and replay sound in Final Fantasy X.
 
-## Status, honestly
+This is the **first version** and it is still being worked on. **Feedback is very welcome**: bugs, wrong songs, ideas. Please open an issue on this repository.
 
-- **Tested on Linux** under Wine with XIVLauncher.Core. **Not tested on Windows yet**; it should work (Dalamud and the player are normal Windows programs), but I have not seen it run there.
-- **Song labels are guesses.** Every track was sorted into battle, boss, town, field, dungeon or other, with place tags, by an AI model reading the track *title*, not by listening. A second model checked the first and a third settled disagreements, yet expect some wrong ones: a calm piece in the battle list, a forest tune for a desert. You can ban or pin songs in the song list.
-- **Boss detection is a heuristic** (target and duty type). Some bosses will get normal battle music.
-- Needs an internet connection, and a YouTube video must be available to your region. A video taken down by its owner is skipped.
+Unofficial fan project. It is not made by or connected to Square Enix. FINAL FANTASY is a trademark of Square Enix.
+
+## Status
+
+- **Currently being tested.** Things may still break.
+- **Song matching is work in progress.** Tracks are matched to battle, boss, town, field, dungeon or other, and to places, from their titles, so some will be off: a calm piece in the battle list, a forest tune for a desert. You can ban or pin songs in the song list, and tell me which ones are wrong.
+- **Boss detection is work in progress** too. It looks at target and duty type, so some bosses will get normal battle music.
+- A YouTube video must be available in your region. A video taken down by its owner is skipped.
 
 ## Install
 
@@ -70,7 +74,7 @@ Timing: a new zone starts its music at once, calm music after a fight waits 4 s,
 
 ## Song library (full original soundtracks)
 
-The library is the original soundtrack of Final Fantasy I to XVI, 2144 tracks, all checked for embedding. Sources are official SQUARE ENIX MUSIC "Video Soundtrack" playlists (I to X, XV, XVI) and YouTube Music auto-generated ("Topic") album playlists where Square Enix has no list (XI to XIV; the XIV list is the 1.0 to 7.0 release playlist). Each track is placed by an AI model from its title into battle, boss, town, field, dungeon or other (with place tags and an English title). A blind second opinion (`audit-ost.py`, 24% disagreed) was settled by an arbiter (`arbitrate-ost.py`): 204 labels were corrected. Expect a few wrong labels left; all are judged from titles, not by listening. "Other" (cutscene, fanfare, character scenes) is never played automatically, only from the song window. The old hand-picked list is in `library/legacy/`.
+The library is the original soundtrack of Final Fantasy I to XVI, 2144 tracks, all checked for embedding. Sources are official SQUARE ENIX MUSIC "Video Soundtrack" playlists (I to X, XV, XVI) and YouTube Music auto-generated ("Topic") album playlists where Square Enix has no list (XI to XIV; the XIV list is the 1.0 to 7.0 release playlist). Each track is matched from its title to battle, boss, town, field, dungeon or other, with place tags and an English title. The matching went through a second check and a correction pass (`audit-ost.py`, `arbitrate-ost.py`), and it is still work in progress: some labels are off. "Other" (cutscene, fanfare, character scenes) is never played automatically, only from the song window. The old hand-picked list is in `library/legacy/`.
 
 Rebuild: `tools/fetch-ost.py` (track lists + embed check, playlists are listed at the top), `tools/classify-ost.py` (needs the `claude` CLI), `tools/build-ost-library.py` (writes `library/songs.json` + `area.json`). Add a game or album by adding its playlist id to `SOURCES` and running the three steps. The song window has a game filter, a search box and pages of 40.
 
