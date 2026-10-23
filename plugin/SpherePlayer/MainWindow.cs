@@ -71,7 +71,13 @@ public sealed class MainWindow : Window
         if (compact)
         {
             var t = p.Controller.Now is { } n ? (string.IsNullOrEmpty(p.Player.State.Title) ? n.Title : p.Player.State.Title) : "-";
-            ImGui.TextUnformatted($"{p.Current}: {Trim(t, 44)}");
+            var hovered = ImGui.IsWindowHovered(ImGuiHoveredFlags.RootAndChildWindows | ImGuiHoveredFlags.AllowWhenBlockedByActiveItem);
+            ImGui.TextUnformatted($"{p.Current}: {Trim(t, hovered ? 34 : 44)}");
+            if (hovered)
+            {
+                ImGui.SameLine();
+                if (ImGui.SmallButton("Next##mini")) p.Controller.Next(p.Current);
+            }
             return;
         }
         var enabled = cfg.Enabled;
