@@ -21,6 +21,8 @@ public sealed class MainWindow : Window
     }
 
     private DateTime expandAskedAt = DateTime.MinValue;
+    private DateTime miniHoverAt = DateTime.MinValue;
+    private bool miniOpen;
 
     // Opens the window and un-collapses it (a collapsed window draws no video).
     public void Show()
@@ -70,16 +72,18 @@ public sealed class MainWindow : Window
         }
         if (compact)
         {
-            var t = p.Controller.Now is { } n ? (string.IsNullOrEmpty(p.Player.State.Title) ? n.Title : p.Player.State.Title) : "-";
             var hovered = ImGui.IsWindowHovered(ImGuiHoveredFlags.RootAndChildWindows | ImGuiHoveredFlags.AllowWhenBlockedByActiveItem);
-            ImGui.TextUnformatted($"{p.Current}: {Trim(t, hovered ? 34 : 44)}");
-            if (hovered)
+            // Keep the controls open while dragging (volume slider) and for a moment after the mouse leaves, so the window does not flicker at its edge.
+            if (hovered || (miniOpen && ImGui.IsMouseDown(ImGuiMouseButton.Left))) miniHoverAt = DateTime.UtcNow;
+            miniOpen = DateTime.UtcNow - miniHoverAt < TimeSpan.FromMilliseconds(400);
+            if (!miniOpen)
             {
-                ImGui.SameLine();
-                if (ImGui.SmallButton("Next##mini")) p.Controller.Next(p.Current);
+                var t = p.Controller.Now is { } n ? (string.IsNullOrEmpty(p.Player.State.Title) ? n.Title : p.Player.State.Title) : "-";
+                ImGui.TextUnformatted($"{p.Current}: {Trim(t, 44)}");
+                return;
             }
-            return;
         }
+        else miniOpen = false;
         var enabled = cfg.Enabled;
         if (ImGui.Checkbox("Music##on", ref enabled)) { cfg.Enabled = enabled; if (!enabled) p.Controller.StopNow(); p.SaveConfig(); }
         ImGui.SameLine();
