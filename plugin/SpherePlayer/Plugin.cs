@@ -33,6 +33,7 @@ public sealed class Plugin : IDalamudPlugin
     private readonly SettingsWindow settings;
     private Situation current = Situation.Idle;
     private string lastLogged = "";
+    private bool bossFight;
     public Queue<string> History { get; } = new();
 
     public Plugin()
@@ -267,17 +268,22 @@ public sealed class Plugin : IDalamudPlugin
         var contentType = row?.ContentFinderCondition.ValueNullable?.ContentType.RowId ?? 0;
         var t = Targets.Target;
         var targetInfo = "none";
+        var bossTarget = false;
         if (t is not null)
         {
             var bc = t as Dalamud.Game.ClientState.Objects.Types.IBattleChara;
             var rank = Data.GetExcelSheet<BNpcBase>().GetRowOrDefault(t.BaseId)?.Rank ?? 255;
+            bossTarget = inDuty && t.ObjectKind == Dalamud.Game.ClientState.Objects.Enums.ObjectKind.BattleNpc && (rank == 2 || (bc?.MaxHp ?? 0) >= 30_000_000);
             targetInfo = $"{t.ObjectKind} name=\"{t.Name}\" baseId={t.BaseId} rank={rank} level={bc?.Level} maxHp={bc?.MaxHp}";
         }
         var place = row?.PlaceName.ValueNullable?.Name.ToString() ?? "?";
         Zone = Library.Zone(ClientState.TerritoryType);
         if (Zone.Name == "") Zone = Zone with { Name = place };
         detail = $"territory={ClientState.TerritoryType} place=\"{place}\" use={use} contentType={contentType} duty={inDuty} combat={inCombat} loading={Condition[ConditionFlag.BetweenAreas]} zone={Zone.Kind}/{string.Join(",", Zone.Tags)} target={targetInfo}";
-        if (inCombat) return Situation.Battle;
+        // The target flickers to none during a fight, so a boss target keeps the boss music until combat ends.
+        if (!inCombat) bossFight = false;
+        else if (bossTarget) bossFight = true;
+        if (inCombat) return bossFight ? Situation.Boss : Situation.Battle;
         return Zone.Kind switch
         {
             "town" => Situation.Town,
