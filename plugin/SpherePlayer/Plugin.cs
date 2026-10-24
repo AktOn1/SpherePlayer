@@ -146,7 +146,7 @@ public sealed class Plugin : IDalamudPlugin
         var now = DateTime.UtcNow;
         if (mediaAt.TryGetValue(cmd, out var t) && now - t < TimeSpan.FromMilliseconds(400)) return;
         mediaAt[cmd] = now;
-        if (cmd is "next" or "prev" or "playpause" or "play") ShowMain();
+        if (cmd is "next" or "prev" or "playpause" or "play") { if (window.IsOpen) Guard.Grant(); else ShowMain(); }
         switch (cmd)
         {
             case "next": Controller.Next(current); break;
