@@ -23,7 +23,7 @@ out = os.path.join("dist", name)
 nuget = os.path.join(os.environ.get("DOTNET_CLI_HOME", ".tools/home"), ".nuget", "packages")
 licenses = [os.path.join(nuget, p) for p in (
     "cefsharp.common.netcore/%s/LICENSE" % version.split("-")[0],
-    "chromiumembeddedframework.runtime.win-x64/%s/LICENSE.txt" % "143.0.9")]
+    "chromiumembeddedframework.runtime.win-x64/%s/LICENSE.txt" % version.split("-")[0][:-1])]
 with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as z:
     for root, _, files in sorted(os.walk(src)):
         for f in sorted(files):
