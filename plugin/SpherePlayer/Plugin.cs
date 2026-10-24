@@ -247,7 +247,7 @@ public sealed class Plugin : IDalamudPlugin
         }
         Guard.RequireVisible = !Config.KeepPlayingHidden;
         Guard.Tick();
-        Controller.Tick(next, ClientState.IsLoggedIn, Zone);
+        Controller.Tick(next, ClientState.IsLoggedIn, Zone, ReadAmbience());
         ApplyGameMute();
         PumpMedia();
         var videoWanted = Guard.Visible;
@@ -256,6 +256,20 @@ public sealed class Plugin : IDalamudPlugin
         Log.Information("Situation {Old} -> {New}", current, next);
         current = next;
     }
+
+    // Eorzea time from the clock; weather from the game. If the weather cannot be read the pick just ignores it.
+    private unsafe Ambience ReadAmbience()
+    {
+        var weather = "";
+        try
+        {
+            var wm = FFXIVClientStructs.FFXIV.Client.Game.WeatherManager.Instance();
+            if (wm != null) weather = Data.GetExcelSheet<Weather>().GetRowOrDefault(wm->GetWeatherForHour((ushort)ClientState.TerritoryType, 0))?.Name.ToString() ?? "";
+        }
+        catch (Exception ex) { if (!weatherWarned) { weatherWarned = true; Log.Warning(ex, "Could not read the weather"); } }
+        return new Ambience(Ambience.IsNight(Ambience.EorzeaHour(DateTime.UtcNow)), weather);
+    }
+    private bool weatherWarned;
 
     private Situation Detect(out string detail)
     {

@@ -10,14 +10,19 @@ namespace SpherePlayer;
 // Appended at the end on purpose: saved settings store these by name or number.
 public enum Category { Town, Battle, Boss, Field, Dungeon, Other }
 
-public sealed record Song(string Game, Category Category, string Id, string Title, string[] Tags, string[]? HomeZones = null)
+public sealed record Song(string Game, Category Category, string Id, string Title, string[] Tags, string[]? HomeZones = null, string[]? SubTags = null, string[]? MoodTags = null)
 {
+    // Finer place tags (harbor, market ...) and moods (calm ... epic), strongest first; empty = not labelled.
+    public string[] Sub { get; } = SubTags ?? Array.Empty<string>();
+    public string[] Moods { get; } = MoodTags ?? Array.Empty<string>();
     // FFXIV places this track is the music of (omakase plays it only there); empty = fits anywhere its tags fit.
     public string[] Home { get; } = HomeZones ?? Array.Empty<string>();
 }
 
-public sealed record ZoneInfo(uint Id, string Name, string Kind, string[] Tags)
+public sealed record ZoneInfo(uint Id, string Name, string Kind, string[] Tags, string[]? SubTags = null, string[]? MoodTags = null)
 {
+    public string[] Sub { get; } = SubTags ?? Array.Empty<string>();
+    public string[] Moods { get; } = MoodTags ?? Array.Empty<string>();
     public static readonly ZoneInfo None = new(0, "", "", Array.Empty<string>());
 }
 
@@ -39,7 +44,7 @@ public sealed class Library
             if (s is not null)
             {
                 var area = JsonSerializer.Deserialize<List<Raw>>(s)!
-                    .Select(r => new Song(r.game, r.kind switch { "field" => Category.Field, "dungeon" => Category.Dungeon, _ => Category.Town }, r.id, r.title, r.tags ?? Array.Empty<string>(), r.home)).ToList();
+                    .Select(r => new Song(r.game, r.kind switch { "field" => Category.Field, "dungeon" => Category.Dungeon, _ => Category.Town }, r.id, r.title, r.tags ?? Array.Empty<string>(), r.home, r.sub, r.mood)).ToList();
                 if (area.Count > 0)
                 {
                     HasAreaSongs = true;
@@ -54,11 +59,11 @@ public sealed class Library
         using var z = asm.GetManifestResourceStream("territories.json");
         if (z is not null)
             foreach (var (k, v) in JsonSerializer.Deserialize<Dictionary<string, RawZone>>(z)!)
-                if (uint.TryParse(k, out var id)) zones[id] = new ZoneInfo(id, v.name ?? "", v.kind ?? "", v.tags ?? Array.Empty<string>());
+                if (uint.TryParse(k, out var id)) zones[id] = new ZoneInfo(id, v.name ?? "", v.kind ?? "", v.tags ?? Array.Empty<string>(), v.sub, v.mood);
     }
 
     public ZoneInfo Zone(uint territoryId) => zones.TryGetValue(territoryId, out var z) ? z : new ZoneInfo(territoryId, "", "", Array.Empty<string>());
 
-    private sealed record Raw(string game, string? category, string? kind, string id, string title, string[]? tags, string[]? home = null);
-    private sealed record RawZone(string? name, string? kind, string[]? tags);
+    private sealed record Raw(string game, string? category, string? kind, string id, string title, string[]? tags, string[]? home = null, string[]? sub = null, string[]? mood = null);
+    private sealed record RawZone(string? name, string? kind, string[]? tags, string[]? sub = null, string[]? mood = null);
 }

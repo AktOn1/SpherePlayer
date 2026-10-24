@@ -1,77 +1,66 @@
 {
  "Limsa Lominsa Upper Decks": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "ctR4PQ3hnIs",
-   "4Cq-h677Zt4",
-   "kU1DFmKT5LY"
+   "Yq-NcvBYHO8",
+   "kwsZl6FOs4M"
   ]
  },
  "Limsa Lominsa Lower Decks": {
   "rating": 3,
   "misfits": [
-   "V8OkX0icCOo",
    "Yq-NcvBYHO8",
-   "i9loM6ayNmw"
+   "TESBm2MJKfI"
   ]
  },
  "Ul'dah - Steps of Nald": {
   "rating": 3,
   "misfits": [
-   "XdUfWp2kwPg",
-   "ctR4PQ3hnIs",
-   "8-R5bryjbWc"
+   "kwsZl6FOs4M",
+   "knJn5JOdUGU"
   ]
  },
  "Ul'dah - Steps of Thal": {
   "rating": 3,
   "misfits": [
-   "fLV00j1pSag",
-   "V8OkX0icCOo",
+   "Yq-NcvBYHO8",
+   "D3dccI0YViE",
    "4Cq-h677Zt4",
-   "Yq-NcvBYHO8"
+   "kwsZl6FOs4M"
   ]
  },
  "New Gridania": {
   "rating": 3,
   "misfits": [
    "V8COREpn0gc",
-   "qztmKj1axKA",
-   "SFA3XvMlkXI",
-   "MEqmpgtFOnU"
+   "NDrKRqLf-ws",
+   "NByyITBkMWY",
+   "v6Zo0PaTrpw"
   ]
  },
  "Old Gridania": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "M2ORGjQigJM",
-   "f6bJkrSyZSY",
-   "SXdK5hrOwRc",
-   "MEqmpgtFOnU",
    "arbdFt1x3A4"
   ]
  },
  "Middle La Noscea": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "t20RfxiZd0A",
-   "jH8Uw-gXJCA",
-   "njU_MZey7lk",
-   "LqClZQLY8yI"
+   "u8Yd3-Q6xmE",
+   "1YEEdupdrCo"
   ]
  },
  "Lower La Noscea": {
   "rating": 4,
   "misfits": [
-   "dKZ7vVIbK7s"
+   "Y7bCQbQ-tjA"
   ]
  },
  "Mist": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "t19DfCpp-h8",
-   "jQbTfqfwwG0",
-   "agXKicphGiM"
+   "9A9d2xDIML0"
   ]
  },
  "Eastern La Noscea": {
@@ -83,113 +72,104 @@
  "Western La Noscea": {
   "rating": 3,
   "misfits": [
-   "Y7bCQbQ-tjA",
-   "dKZ7vVIbK7s"
+   "uA-d3VkV0To"
   ]
  },
  "Upper La Noscea": {
   "rating": 3,
   "misfits": [
    "9q2ylXt04ak",
-   "tF0YfNdzZ8A",
-   "Rskax76-XLs"
+   "LqClZQLY8yI"
   ]
  },
  "Western Thanalan": {
   "rating": 4,
   "misfits": [
-   "hrCPzmr5gLo"
+   "GzkVQxK0Q88"
   ]
  },
  "Central Thanalan": {
   "rating": 4,
   "misfits": [
-   "lNIXRKRsqOo"
+   "k7UJgg7Bx0Y"
   ]
  },
  "Halatali": {
   "rating": 3,
   "misfits": [
-   "XsQTAX9vT3s",
-   "KyoqaXSd1oQ",
-   "ph83TTJr0Sk",
-   "iUXj3Pgda3o"
+   "Jdw55Qw3cDU",
+   "UhMxpT1Pt6k",
+   "cSVh07r_pdY",
+   "5n6EZ7hgpQw"
   ]
  },
  "The Gold Saucer": {
   "rating": 3,
   "misfits": [
    "Tgcb6AShVQs",
-   "rF4t-x8xN3E",
-   "i9loM6ayNmw",
-   "CnNM2i_jeAo"
+   "CnNM2i_jeAo",
+   "Hdrr2mQWwlQ",
+   "TESBm2MJKfI"
   ]
  },
  "Eastern Thanalan": {
-  "rating": 4,
-  "misfits": []
+  "rating": 3,
+  "misfits": [
+   "wRYCI3RoVDw",
+   "GzkVQxK0Q88"
+  ]
  },
  "Southern Thanalan": {
   "rating": 4,
   "misfits": [
-   "V1H0x41kGj8"
+   "6xlAOsLqFvE"
   ]
  },
  "Northern Thanalan": {
   "rating": 3,
   "misfits": [
-   "h0aHes0BiaY",
-   "9q2ylXt04ak",
-   "fc7HxyBUTZI",
-   "TZgq1_bMADo",
-   "V1H0x41kGj8"
+   "Fgy6L0SLpLE",
+   "xPxslFuXgfQ",
+   "LqsNVB4_R1c"
   ]
  },
  "Central Shroud": {
   "rating": 4,
   "misfits": [
-   "0roq4tX_l5I",
-   "FGpbBLmXVo8"
+   "BVfFfms6zUw",
+   "6nkn5skFFWY"
   ]
  },
  "The World of Darkness": {
   "rating": 4,
-  "misfits": [
-   "h5wQCuGAi-o",
-   "0dBcCOw-ly4"
-  ]
+  "misfits": []
  },
  "East Shroud": {
-  "rating": 4,
-  "misfits": [
-   "BVfFfms6zUw"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "South Shroud": {
-  "rating": 4,
-  "misfits": [
-   "5Y2XOWfzcmM"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "North Shroud": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "glm7DS4V-x8",
-   "0roq4tX_l5I",
-   "S_JqVp-lMzQ",
-   "tbktye3f0oo"
+   "GbOeg6aGS9A"
   ]
  },
  "Coerthas Central Highlands": {
   "rating": 4,
   "misfits": [
-   "NI9D6_I2_WY",
-   "2JIVZ7-cFU4"
+   "gB4_8bvpGQE",
+   "VnQ7G90fxiA"
   ]
  },
  "Mor Dhona": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "jIDS44uhdNg"
+  ]
  },
  "The Wanderer's Palace": {
   "rating": 3,
@@ -199,79 +179,59 @@
   ]
  },
  "Pharos Sirius": {
-  "rating": 2,
+  "rating": 3,
   "misfits": [
-   "rHXc7IzzHLg",
-   "KgSmPSGQh88",
-   "B-tDrYUaAns",
-   "yowXa09Q8Jg",
-   "YP9in2EqREA",
-   "na5lAIJ2CHI",
-   "udPZTAZCe5U"
+   "kfU-6LWZ81g"
   ]
  },
  "Amdapor Keep": {
   "rating": 4,
   "misfits": [
-   "IV611JfkIW4",
-   "FFQRJHh3VNc"
+   "IV611JfkIW4"
   ]
  },
  "Dzemael Darkhold": {
   "rating": 4,
   "misfits": [
-   "ph83TTJr0Sk"
+   "e2scpsCm-tE"
   ]
  },
  "Aurum Vale": {
   "rating": 3,
   "misfits": [
-   "e2scpsCm-tE",
-   "ydmiQc9Y2ww",
-   "L8HK7hNJGRE"
+   "iUXj3Pgda3o",
+   "1WVQyTr7qbI"
   ]
  },
  "Labyrinth of the Ancients": {
   "rating": 4,
   "misfits": [
-   "V1AACvkUDYo",
-   "0dBcCOw-ly4",
-   "1r65Q5cK6p4"
+   "ph83TTJr0Sk"
   ]
  },
  "Outer La Noscea": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "dkugU4qqHKo",
-   "ObccgHQdos0",
-   "h0aHes0BiaY",
-   "xPxslFuXgfQ",
-   "8vSY0BpDR40"
+   "tM6Ie7p_v5U"
   ]
  },
  "Limsa Lominsa": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "rsD8mrKnC0I",
-   "gUDqUozYYKg",
-   "TMEJxbw4tB4",
-   "ShlJtE6XHh0"
+   "Yq-NcvBYHO8"
   ]
  },
  "IC-06 Central Decks": {
   "rating": 4,
   "misfits": [
-   "x5TCoRnNmjg",
-   "XuFZiIYZzdk",
-   "-cWRS0kRpds"
+   "HUb6wzFIzbM",
+   "RQMDkx1jZAk"
   ]
  },
  "IC-06 Regeneration Grid": {
   "rating": 4,
   "misfits": [
-   "XuFZiIYZzdk",
-   "-cWRS0kRpds",
-   "prTA77ZJNCI"
+   "HUb6wzFIzbM"
   ]
  },
  "IC-06 Main Bridge": {
@@ -281,328 +241,273 @@
  "The Burning Heart": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds",
-   "1WVQyTr7qbI"
+   "8aK5ZWBc40Y",
+   "xpavufUoCm8"
   ]
  },
  "Upper Aetheroacoustic Exploratory Site": {
   "rating": 3,
   "misfits": [
-   "BLNG96-dXcM",
-   "nXDizLvkL_c"
+   "T4G5pKsuJ4M"
   ]
  },
  "Lower Aetheroacoustic Exploratory Site": {
   "rating": 3,
   "misfits": [
-   "CFr86vf_2UU",
-   "Wlzc_yWIXR8",
-   "fq_bWhFjoXI",
-   "mRBXsF31a-U"
+   "T4G5pKsuJ4M"
   ]
  },
  "The Ragnarok": {
   "rating": 4,
   "misfits": [
-   "pJYQqB6VqHQ",
-   "1WVQyTr7qbI",
+   "x5TCoRnNmjg",
    "HUb6wzFIzbM"
   ]
  },
  "Ragnarok Drive Cylinder": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds"
+   "Rz1ey_ruzFw"
   ]
  },
  "Ragnarok Central Core": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "-cWRS0kRpds",
-   "xpavufUoCm8"
+   "Uc_8E8Ym5x4",
+   "PwFaK2YSoxc"
   ]
  },
  "Wolves' Den Pier": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "2Beif8OaeIY",
-   "t19DfCpp-h8"
+   "na5lAIJ2CHI"
   ]
  },
  "The Whorleater": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "wt8mA6j7IZU",
-   "rHXc7IzzHLg",
-   "kfU-6LWZ81g",
-   "B-tDrYUaAns"
+   "C6qXjfP7bt8"
   ]
  },
  "Bowl of Embers": {
   "rating": 4,
   "misfits": [
-   "VJzGhi2bR5c",
-   "af0A1UpSGPI"
+   "8aK5ZWBc40Y"
   ]
  },
  "The Navel": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "9kdfMPbwi-o",
-   "L8HK7hNJGRE"
+   "83XIWIhVXto",
+   "AQ0p6ZHgwW8",
+   "dS_-C4nneT4"
   ]
  },
  "The Howling Eye": {
   "rating": 4,
   "misfits": [
-   "LblXQFDEj28"
+   "4oR9r40PHX8",
+   "RQMDkx1jZAk"
   ]
  },
  "The Lavender Beds": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "SXdK5hrOwRc",
-   "jRLPcxQsEpM",
-   "SFA3XvMlkXI",
-   "fPaqiLZ7mlg",
-   "Cfdv3vkulwU",
+   "6_D0l1SlMdI",
    "arbdFt1x3A4"
   ]
  },
  "The Goblet": {
-  "rating": 2,
+  "rating": 4,
   "misfits": [
-   "_4bwGSx6ZZc",
-   "V8COREpn0gc",
-   "SXdK5hrOwRc",
-   "XdyTAX8swFI",
-   "JmBHxYxYnvo",
-   "GzkVQxK0Q88",
-   "fPaqiLZ7mlg",
-   "KyJpb_65Y44"
+   "tM6Ie7p_v5U",
+   "6_D0l1SlMdI"
   ]
  },
  "Porta Decumana": {
   "rating": 4,
   "misfits": [
-   "stdX6Uv06sw",
-   "prTA77ZJNCI"
+   "zuLsvPkKIdc",
+   "XuFZiIYZzdk"
   ]
  },
  "Copperbell Mines": {
   "rating": 4,
   "misfits": [
-   "XsQTAX9vT3s"
+   "rtJIIQs-gaw"
   ]
  },
  "Haukke Manor": {
   "rating": 4,
   "misfits": [
-   "z9s1YgcygzU",
-   "dH8Ktr6Rej4"
+   "AFsUhlvcup8"
   ]
  },
  "Kugane Ohashi": {
   "rating": 3,
   "misfits": [
-   "9A9d2xDIML0",
-   "yowXa09Q8Jg",
-   "ubzzMNnjRYg",
-   "8vSY0BpDR40",
-   "YRDQtFuF9_4"
+   "WI0HZsTKi5U",
+   "lK2R0ODlnaE"
   ]
  },
  "The Dancing Plague": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
    "jwsNewKWNQs",
-   "5iGDeFa97Zc"
+   "GbOeg6aGS9A",
+   "XkD4jnvvV5A"
   ]
  },
  "Dalamud's Shadow": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "x5TCoRnNmjg",
-   "jGzBMDDBl5Q",
-   "RQMDkx1jZAk",
-   "ywnji91nTE8"
+   "xpavufUoCm8",
+   "HUb6wzFIzbM"
   ]
  },
  "The Outer Coil": {
   "rating": 4,
   "misfits": [
-   "XuFZiIYZzdk",
-   "HUb6wzFIzbM",
-   "-cWRS0kRpds"
+   "HUb6wzFIzbM"
   ]
  },
  "Central Decks": {
   "rating": 4,
   "misfits": [
-   "JHc9VthwCbw",
-   "XuFZiIYZzdk",
-   "prTA77ZJNCI"
+   "HUb6wzFIzbM"
   ]
  },
  "The Holocharts": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "9evzpqfSdHg",
-   "8aK5ZWBc40Y",
-   "Rz1ey_ruzFw",
-   "JHc9VthwCbw"
+   "HUb6wzFIzbM"
   ]
  },
  "Hullbreaker Isle": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Y7bCQbQ-tjA",
-   "mXHnzyA0dUE",
    "WI0HZsTKi5U",
-   "oE_F72I5xDI",
-   "8vSY0BpDR40",
-   "fTYGPBJT60Q"
+   "Y_ujurU0wOg"
   ]
  },
  "Brayflox's Longstop": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "iUXj3Pgda3o",
+   "L3WWShvrIDo",
    "5n6EZ7hgpQw"
   ]
  },
  "The Lost City of Amdapor": {
   "rating": 4,
   "misfits": [
-   "CFr86vf_2UU",
-   "LmXmAs-0ha0"
+   "2Rlec-O5L6o"
   ]
  },
  "Thornmarch": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "iUXj3Pgda3o",
-   "jwsNewKWNQs"
+   "Mm72C7ZF7T8",
+   "5Y2XOWfzcmM",
+   "0roq4tX_l5I"
   ]
  },
  "Stone Vigil": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "ucVOapKwFvM",
-   "Ui7mx17OHrw",
-   "Qv-XeV24O_E",
-   "z9s1YgcygzU"
+   "NPt4ScYLuYo"
   ]
  },
  "Griffin Crossing": {
   "rating": 3,
   "misfits": [
-   "prTA77ZJNCI",
-   "pJYQqB6VqHQ",
-   "6bpB-Hv9hQs",
-   "msjwMjuaS_Q"
+   "HUb6wzFIzbM",
+   "8aK5ZWBc40Y"
   ]
  },
  "The Sunken Temple of Qarn": {
-  "rating": 5,
-  "misfits": []
+  "rating": 4,
+  "misfits": [
+   "z_MmNAIMIpQ"
+  ]
  },
  "The Weeping Saint": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "CFr86vf_2UU",
-   "NPt4ScYLuYo",
-   "vmZx7bpaWOU",
-   "nXDizLvkL_c"
+   "9kdfMPbwi-o",
+   "FZkN5dQ1jiE"
   ]
  },
  "Hall of the Bestiarii": {
   "rating": 3,
   "misfits": [
-   "V1AACvkUDYo",
-   "rSRb0fHdiIA",
-   "LQCUZeSLQeQ",
-   "pJYQqB6VqHQ",
-   "gY_WDGiB4Js"
+   "j91ZDQWDQjY",
+   "MyQWSBSz2dY"
   ]
  },
  "Syrcus Tower": {
   "rating": 3,
   "misfits": [
-   "j91ZDQWDQjY",
    "FZkN5dQ1jiE",
-   "NPt4ScYLuYo",
-   "LmXmAs-0ha0"
+   "_JFkoMUp6yg",
+   "9kdfMPbwi-o"
   ]
  },
  "The Tam-Tara Deepcroft": {
   "rating": 4,
   "misfits": [
-   "luWZOiXJSuM",
-   "LmXmAs-0ha0"
+   "p-05SLBwMek",
+   "rtJIIQs-gaw"
   ]
  },
  "The Striking Tree": {
   "rating": 3,
   "misfits": [
-   "08o17IVgv4I",
-   "1r65Q5cK6p4",
-   "PnglLwdpEgs"
+   "WI0HZsTKi5U",
+   "08o17IVgv4I"
   ]
  },
  "Akh Afah Amphitheatre": {
   "rating": 3,
   "misfits": [
-   "IRnTmXE2WHU",
-   "MyQWSBSz2dY",
-   "sRCy3tNUXSo"
+   "pypanzWavJ4",
+   "NI9D6_I2_WY",
+   "khfqA7F9gBA"
   ]
  },
  "Sastasha": {
   "rating": 3,
   "misfits": [
-   "C6qXjfP7bt8",
-   "ydmiQc9Y2ww",
-   "5n6EZ7hgpQw",
-   "d1dGarXAZFc"
+   "whp6AToySME",
+   "ydmiQc9Y2ww"
   ]
  },
  "Coerthas Western Highlands": {
   "rating": 4,
   "misfits": [
-   "pypanzWavJ4",
-   "NI9D6_I2_WY"
+   "VnQ7G90fxiA"
   ]
  },
  "The Dravanian Forelands": {
   "rating": 3,
   "misfits": [
-   "ZUcKCkyYV1o",
-   "TZgq1_bMADo",
-   "S_JqVp-lMzQ",
-   "8vSY0BpDR40",
-   "t20RfxiZd0A"
+   "9q2ylXt04ak",
+   "UYIafOKKo-I",
+   "lLWCyvqgZIs"
   ]
  },
  "The Dravanian Hinterlands": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "S_JqVp-lMzQ",
-   "0roq4tX_l5I",
-   "glm7DS4V-x8"
+   "zLG0hYxzD78"
   ]
  },
  "The Churning Mists": {
   "rating": 4,
-  "misfits": [
-   "pKEJb-OVs_8"
-  ]
+  "misfits": []
  },
  "The Sea of Clouds": {
   "rating": 4,
-  "misfits": [
-   "whB4yTugnUw"
-  ]
+  "misfits": []
  },
  "Azys Lla": {
   "rating": 4,
@@ -611,78 +516,86 @@
   ]
  },
  "Ala Mhigo": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "sVLVAw3NlVs",
-   "nAepj6cKllE",
-   "CFC9YJ6yRng",
-   "OzZgbUEaq0g"
+   "AFsUhlvcup8",
+   "sVLVAw3NlVs"
   ]
  },
  "Foundation": {
   "rating": 3,
   "misfits": [
-   "Griffons Never Die",
-   "Night in the Brume"
+   "Ylll7UiH7PA"
   ]
  },
  "The Pillars": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "Ylll7UiH7PA"
+  ]
  },
  "Neverreap": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "jwsNewKWNQs"
+   "YKJ8nCUjdRc",
+   "gY_WDGiB4Js",
+   "KLnjkQC44Mk",
+   "2Rlec-O5L6o",
+   "ph83TTJr0Sk"
   ]
  },
  "The Fractal Continuum": {
   "rating": 3,
   "misfits": [
-   "gY_WDGiB4Js",
-   "IV611JfkIW4"
+   "T4G5pKsuJ4M",
+   "udh-k7ZDoFo"
   ]
  },
  "Thok ast Thok": {
   "rating": 3,
   "misfits": [
-   "j91ZDQWDQjY",
-   "3hwuOzk99Ig"
+   "t20RfxiZd0A",
+   "PnglLwdpEgs",
+   "JHc9VthwCbw",
+   "vmZx7bpaWOU",
+   "p-05SLBwMek",
+   "M3VAQlt8K8s"
   ]
  },
  "The Limitless Blue": {
   "rating": 4,
   "misfits": [
-   "9A9d2xDIML0"
+   "4oR9r40PHX8"
   ]
  },
  "Singularity Reactor": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds"
+   "PwFaK2YSoxc",
+   "HUb6wzFIzbM"
   ]
  },
  "The Fist of the Father": {
   "rating": 4,
-  "misfits": [
-   "1WVQyTr7qbI"
-  ]
+  "misfits": []
  },
  "The Cuff of the Father": {
   "rating": 4,
   "misfits": [
-   "HUb6wzFIzbM"
+   "prTA77ZJNCI"
   ]
  },
  "The Arm of the Father": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI"
+   "PwFaK2YSoxc"
   ]
  },
  "The Burden of the Father": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "msjwMjuaS_Q"
+  ]
  },
  "Idyllshire": {
   "rating": 4,
@@ -693,35 +606,41 @@
  "Void Ark": {
   "rating": 4,
   "misfits": [
-   "TCYP2kYPPA0"
+   "pXykA0m0f9Q",
+   "_-BjSjUEVfU"
   ]
  },
  "Saint Mocianne's Arboretum": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "5Y2XOWfzcmM"
+   "jwsNewKWNQs",
+   "HUb6wzFIzbM"
   ]
  },
  "The Diadem": {
-  "rating": 5,
-  "misfits": []
- },
- "The Vault": {
   "rating": 4,
   "misfits": [
-   "NPt4ScYLuYo",
+   "PFUY-owuTYw"
+  ]
+ },
+ "The Vault": {
+  "rating": 3,
+  "misfits": [
+   "IqVTDG1aZyM",
+   "Ui7mx17OHrw",
+   "fLV00j1pSag",
    "p4tbkMaeMB8"
   ]
  },
  "Containment Bay S1T7": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "HUb6wzFIzbM"
+  ]
  },
  "The Fist of the Son": {
   "rating": 4,
-  "misfits": [
-   "1WVQyTr7qbI"
-  ]
+  "misfits": []
  },
  "The Cuff of the Son": {
   "rating": 4,
@@ -730,163 +649,120 @@
  "The Arm of the Son": {
   "rating": 4,
   "misfits": [
-   "6Pc8UsbbSZk"
+   "msjwMjuaS_Q"
   ]
  },
  "The Burden of the Son": {
   "rating": 4,
-  "misfits": [
-   "pJYQqB6VqHQ"
-  ]
+  "misfits": []
  },
  "The Weeping City of Mhach": {
   "rating": 3,
   "misfits": [
-   "w8zceKuRE7I",
-   "ZLiCd300sgE",
-   "MyQWSBSz2dY",
-   "VJzGhi2bR5c"
+   "0dBcCOw-ly4"
   ]
  },
  "The Aquapolis": {
   "rating": 4,
-  "misfits": [
-   "WI0HZsTKi5U"
-  ]
+  "misfits": []
  },
  "Steps of Faith": {
   "rating": 3,
   "misfits": [
-   "5Y2XOWfzcmM",
-   "PKz_ApAhTjI",
-   "A7cpHGcWqQ0"
+   "nOITqvdE9aE",
+   "WiGiHa3Yf8g"
   ]
  },
  "Aetherochemical Research Facility": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds"
+   "HUb6wzFIzbM"
   ]
  },
  "The Palace of the Dead": {
   "rating": 4,
-  "misfits": [
-   "s0iPw_uT1yE",
-   "e2scpsCm-tE"
-  ]
+  "misfits": []
  },
  "Containment Bay P1T6": {
   "rating": 4,
-  "misfits": [
-   "1WVQyTr7qbI",
-   "8aK5ZWBc40Y"
-  ]
+  "misfits": []
  },
  "The Great Gubal Library": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "GZ8zoxiV58w",
-   "IV611JfkIW4"
+   "0dBcCOw-ly4"
   ]
  },
  "Eyes of the Creator": {
-  "rating": 3,
-  "misfits": [
-   "sq-4SvGAJsE",
-   "6Pc8UsbbSZk",
-   "x5TCoRnNmjg"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "Breath of the Creator": {
   "rating": 3,
   "misfits": [
-   "h5wQCuGAi-o",
-   "LblXQFDEj28"
+   "HUb6wzFIzbM"
   ]
  },
  "Heart of the Creator": {
-  "rating": 3,
-  "misfits": [
-   "sq-4SvGAJsE",
-   "XuFZiIYZzdk",
-   "1WVQyTr7qbI"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "Soul of the Creator": {
-  "rating": 3,
-  "misfits": [
-   "sq-4SvGAJsE",
-   "8aK5ZWBc40Y",
-   "PwFaK2YSoxc"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "The Fringes": {
   "rating": 4,
-  "misfits": [
-   "FZkN5dQ1jiE"
-  ]
+  "misfits": []
  },
  "The Ruby Sea": {
   "rating": 4,
   "misfits": [
-   "C6qXjfP7bt8"
+   "lplzH2BlCRs"
   ]
  },
  "Yanxia": {
   "rating": 3,
   "misfits": [
-   "2XDbQJN8Mlo",
-   "jH8Uw-gXJCA",
-   "vSWnOg44AlY",
-   "njU_MZey7lk"
+   "LqClZQLY8yI",
+   "MD1uAh2UX7I"
   ]
  },
  "Sohm Al": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "VJzGhi2bR5c",
-   "af0A1UpSGPI"
+   "6IT45ckcZZE",
+   "UVRU8wIAEZU"
   ]
  },
  "The Peaks": {
   "rating": 3,
   "misfits": [
-   "gB4_8bvpGQE",
-   "uA-d3VkV0To",
-   "0oTBGqAKZYI"
+   "9HrjJpRZwP4",
+   "L8HK7hNJGRE"
   ]
  },
  "The Lochs": {
   "rating": 3,
   "misfits": [
-   "Qk5P56YvVFE",
+   "nmg6iavgcvA",
    "59azuM10N_I",
-   "EH0C6a9xtxM",
-   "tbktye3f0oo"
+   "EH0C6a9xtxM"
   ]
  },
  "The Azim Steppe": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "UYIafOKKo-I",
-   "pGon-8yS9xI",
-   "lLWCyvqgZIs",
-   "ZUcKCkyYV1o",
-   "t20RfxiZd0A"
+   "pGon-8yS9xI"
   ]
  },
  "Dun Scaith": {
-  "rating": 4,
-  "misfits": [
-   "BpOqO6hJmK8",
-   "z9s1YgcygzU"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Kugane": {
   "rating": 4,
-  "misfits": [
-   "ooQL3eqgDv8"
-  ]
+  "misfits": []
  },
  "Rhalgr's Reach": {
   "rating": 3,
@@ -897,101 +773,85 @@
  "Containment Bay Z1T9": {
   "rating": 4,
   "misfits": [
-   "6Pc8UsbbSZk"
+   "PwFaK2YSoxc"
   ]
  },
  "Shirogane": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "arbdFt1x3A4",
-   "1omGnKhDyLw",
-   "lAOKk8m3Uro"
+   "9A9d2xDIML0"
   ]
  },
  "The Interdimensional Rift": {
-  "rating": 3,
-  "misfits": [
-   "LblXQFDEj28",
-   "4oR9r40PHX8"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "Kugane Castle": {
   "rating": 3,
   "misfits": [
    "NPt4ScYLuYo",
-   "BpOqO6hJmK8",
+   "AFsUhlvcup8",
    "RMU3zRVEnIk"
   ]
  },
  "The Temple of the Fist": {
   "rating": 3,
   "misfits": [
-   "9kdfMPbwi-o",
-   "ph83TTJr0Sk",
-   "sJWfn71tkLM",
-   "Wlzc_yWIXR8"
+   "FZkN5dQ1jiE",
+   "dS_-C4nneT4"
   ]
  },
  "The Blessed Treasury": {
   "rating": 3,
   "misfits": [
-   "Qv-XeV24O_E",
-   "sVLVAw3NlVs"
+   "GANINrVaM-g",
+   "IqVTDG1aZyM"
   ]
  },
  "The Royal Airship Landing": {
   "rating": 3,
   "misfits": [
-   "_PPVgzKQmy0",
-   "nAepj6cKllE"
+   "sVLVAw3NlVs",
+   "Qv-XeV24O_E"
   ]
  },
  "The Doman Enclave": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "XdyTAX8swFI",
-   "OPyDi2pN6G0",
-   "NByyITBkMWY",
-   "GJ47zTqkYQ0"
+   "tjxRwYU-SOE"
   ]
  },
  "Deltascape V1.0": {
   "rating": 4,
-  "misfits": [
-   "HUb6wzFIzbM"
-  ]
+  "misfits": []
  },
  "Deltascape V2.0": {
   "rating": 4,
-  "misfits": [
-   "stdX6Uv06sw"
-  ]
+  "misfits": []
  },
  "Deltascape V3.0": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds"
+   "Rz1ey_ruzFw"
   ]
  },
  "Deltascape V4.0": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "XuFZiIYZzdk",
-   "KLnjkQC44Mk",
-   "x5TCoRnNmjg"
+   "Rz1ey_ruzFw"
   ]
  },
  "The Lost Canals of Uznair": {
   "rating": 4,
   "misfits": [
-   "PnglLwdpEgs"
+   "UhMxpT1Pt6k"
   ]
  },
  "Bardam's Mettle": {
   "rating": 3,
   "misfits": [
    "nOITqvdE9aE",
-   "FZkN5dQ1jiE"
+   "4TW5pQq9ceE"
   ]
  },
  "Emanation": {
@@ -1003,37 +863,39 @@
  "Transparency": {
   "rating": 3,
   "misfits": [
-   "NPt4ScYLuYo",
-   "I_xam9gxqFQ",
-   "GANINrVaM-g"
+   "BpOqO6hJmK8",
+   "vIr8gtxj5tE"
   ]
  },
  "Eureka Anemos": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "LqClZQLY8yI",
-   "2K_KvugBQpo"
+   "h0aHes0BiaY",
+   "xPxslFuXgfQ",
+   "t20RfxiZd0A"
   ]
  },
  "The Royal City of Rabanastre": {
   "rating": 2,
   "misfits": [
-   "ywnji91nTE8",
-   "Sd8YN5FK1yA",
-   "VOT9y7P5cL4",
-   "vmZx7bpaWOU",
-   "sVLVAw3NlVs"
+   "fLV00j1pSag",
+   "MwwQ1EyRR8U",
+   "kU1DFmKT5LY",
+   "sZTtguGoips",
+   "L41Llt4JbLc"
   ]
  },
  "The Jade Stoa": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "nOITqvdE9aE"
+   "83XIWIhVXto"
   ]
  },
  "Sigmascape V1.0": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "h5wQCuGAi-o"
+  ]
  },
  "Sigmascape V2.0": {
   "rating": 4,
@@ -1052,424 +914,354 @@
   "misfits": []
  },
  "The Great Hunt": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "JHc9VthwCbw"
+   "nOITqvdE9aE",
+   "cNW36LJcXdM"
   ]
  },
  "Eureka Pagos": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "NI9D6_I2_WY"
+   "VnQ7G90fxiA"
   ]
  },
  "The Swallow's Compass": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "rSRb0fHdiIA",
-   "LQCUZeSLQeQ",
-   "T4G5pKsuJ4M"
+   "Wlzc_yWIXR8"
   ]
  },
  "Heaven-on-High": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "jIDS44uhdNg"
+  ]
  },
  "The Ridorana Lighthouse": {
   "rating": 3,
   "misfits": [
-   "CFr86vf_2UU",
-   "V1AACvkUDYo",
-   "M3VAQlt8K8s"
+   "rSRb0fHdiIA",
+   "jwsNewKWNQs",
+   "YKJ8nCUjdRc"
   ]
  },
  "Castrum Fluminis": {
   "rating": 4,
   "misfits": [
-   "x5TCoRnNmjg",
-   "irHiKfXGJeM"
+   "Uc_8E8Ym5x4",
+   "XuFZiIYZzdk"
   ]
  },
  "The Shifting Altars of Uznair": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "CFr86vf_2UU",
-   "nXDizLvkL_c"
+   "gY_WDGiB4Js"
   ]
  },
  "Eureka Pyros": {
   "rating": 4,
   "misfits": [
-   "8aK5ZWBc40Y"
+   "lK2R0ODlnaE"
   ]
  },
  "Psiscape V1.0": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Qv-XeV24O_E",
-   "6Pc8UsbbSZk",
-   "prTA77ZJNCI"
+   "HUb6wzFIzbM",
+   "Rz1ey_ruzFw"
   ]
  },
  "Psiscape V2.0": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Wlzc_yWIXR8",
-   "1WVQyTr7qbI",
-   "LblXQFDEj28"
+   "HUb6wzFIzbM"
   ]
  },
  "Lakeland": {
   "rating": 4,
   "misfits": [
-   "XERfcljUtPg",
-   "Dj99s74smPI",
-   "odnI6kMsvAc",
-   "1YEEdupdrCo"
+   "jH8Uw-gXJCA",
+   "9q2ylXt04ak"
   ]
  },
  "Kholusia": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "uA-d3VkV0To",
-   "dKZ7vVIbK7s",
-   "d1dGarXAZFc"
+   "dKZ7vVIbK7s"
   ]
  },
  "Amh Araeng": {
-  "rating": 5,
-  "misfits": []
+  "rating": 4,
+  "misfits": [
+   "wRYCI3RoVDw"
+  ]
  },
  "Il Mheg": {
   "rating": 4,
   "misfits": [
-   "Hdrr2mQWwlQ",
-   "jIDS44uhdNg",
-   "smJrVboIOjA"
+   "5iGDeFa97Zc"
   ]
  },
  "The Rak'tika Greatwood": {
-  "rating": 3,
-  "misfits": [
-   "0roq4tX_l5I",
-   "S_JqVp-lMzQ",
-   "glm7DS4V-x8",
-   "ra8eSRoMQgI"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "The Tempest": {
   "rating": 3,
-  "misfits": [
-   "Qckn-mew__w"
-  ]
+  "misfits": []
  },
  "The Crystarium": {
-  "rating": 2,
+  "rating": 3,
   "misfits": [
-   "D3dccI0YViE",
-   "mBpZEo0G68I",
-   "ctR4PQ3hnIs",
-   "ooQL3eqgDv8",
-   "sS8xR3n5lTo",
-   "vP4lg2fuVqI"
+   "Yq-NcvBYHO8"
   ]
  },
  "Eulmore": {
-  "rating": 2,
+  "rating": 3,
   "misfits": [
-   "i9loM6ayNmw",
-   "lA90GuBjGQo",
-   "fLV00j1pSag",
-   "ShlJtE6XHh0",
-   "P_HPcjw2Fy0",
-   "na5lAIJ2CHI"
+   "Ylll7UiH7PA",
+   "D3dccI0YViE",
+   "rF4t-x8xN3E"
   ]
  },
  "Dohn Mheg": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
    "jwsNewKWNQs",
-   "WW597fhx0pQ",
-   "KYuHBEmlAyE",
-   "PKz_ApAhTjI"
+   "smJrVboIOjA"
   ]
  },
  "Mt. Gulg": {
   "rating": 3,
   "misfits": [
-   "nOITqvdE9aE"
+   "nOITqvdE9aE",
+   "FZkN5dQ1jiE"
   ]
  },
  "The Qitana Ravel": {
   "rating": 3,
   "misfits": [
-   "j91ZDQWDQjY",
-   "LmXmAs-0ha0",
-   "p-05SLBwMek",
-   "rSRb0fHdiIA",
-   "1r65Q5cK6p4"
+   "ZbrtpYithTE",
+   "mRBXsF31a-U",
+   "2Rlec-O5L6o"
   ]
  },
  "The Wreath of Snakes": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "WI0HZsTKi5U",
-   "sq-4SvGAJsE"
+   "Qk5P56YvVFE"
   ]
  },
  "The Orbonne Monastery": {
   "rating": 3,
   "misfits": [
-   "AFsUhlvcup8",
-   "OzZgbUEaq0g",
-   "z9s1YgcygzU"
+   "nAepj6cKllE"
   ]
  },
  "Eureka Hydatos": {
   "rating": 3,
   "misfits": [
-   "Qk5P56YvVFE",
-   "DYlAGogNqBg",
-   "FtiiyM7y46w",
-   "C6qXjfP7bt8"
+   "jIDS44uhdNg",
+   "CRkNFPSFbCk"
   ]
  },
  "The Ghimlyt Dark": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI",
-   "x5TCoRnNmjg",
-   "-cWRS0kRpds",
-   "Rz1ey_ruzFw",
-   "6Pc8UsbbSZk"
+   "Uc_8E8Ym5x4",
+   "4zxGLZZ2bck",
+   "mBpZEo0G68I"
   ]
  },
  "Malikah's Well": {
   "rating": 3,
   "misfits": [
-   "UX42Yw2xh6c",
-   "MyQWSBSz2dY",
-   "oy5Z3fSVGQQ",
-   "FFQRJHh3VNc",
-   "udh-k7ZDoFo",
-   "M3VAQlt8K8s"
+   "ph83TTJr0Sk",
+   "sRCy3tNUXSo"
   ]
  },
  "Holminster Switch": {
   "rating": 4,
-  "misfits": [
-   "xpavufUoCm8",
-   "RVIhsdTl1XA"
-  ]
+  "misfits": []
  },
  "Amaurot": {
   "rating": 4,
   "misfits": [
-   "2jXCzP71Eo4",
-   "ZbrtpYithTE"
+   "LmXmAs-0ha0"
   ]
  },
  "The Twinning": {
   "rating": 4,
   "misfits": [
-   "LblXQFDEj28",
-   "4W2UVwG55Fs",
-   "prTA77ZJNCI",
-   "025WHfP2NHI"
+   "UX42Yw2xh6c",
+   "RQMDkx1jZAk"
   ]
  },
  "Akadaemia Anyder": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "0dBcCOw-ly4",
-   "NPt4ScYLuYo",
-   "gY_WDGiB4Js",
-   "gsrQGvTCOr4",
-   "IRnTmXE2WHU",
-   "Wlzc_yWIXR8"
+   "udh-k7ZDoFo"
   ]
  },
  "The Crown of the Immaculate": {
   "rating": 3,
   "misfits": [
-   "EzTmuGStDg8",
-   "HKVbdo66rVo",
-   "Wlzc_yWIXR8",
-   "WiGiHa3Yf8g",
-   "4oR9r40PHX8"
+   "Ui7mx17OHrw",
+   "c74j57krmxE",
+   "fLV00j1pSag"
   ]
  },
  "The Dying Gasp": {
   "rating": 4,
   "misfits": [
-   "u3_6hcLqMWw",
-   "RMU3zRVEnIk",
-   "CJ7hWar43TE"
+   "7SrfBWWDOaA"
   ]
  },
  "The Core": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "PKz_ApAhTjI",
-   "h5wQCuGAi-o",
-   "XbVlqVmM0P8"
+   "4oR9r40PHX8"
   ]
  },
  "The Halo": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "9evzpqfSdHg",
-   "sq-4SvGAJsE",
-   "XsQTAX9vT3s"
+   "HKVbdo66rVo",
+   "9evzpqfSdHg"
   ]
  },
  "The Nereus Trench": {
   "rating": 4,
   "misfits": [
-   "Ah7FCB-o070",
-   "08o17IVgv4I"
+   "D2AN1Yx2ThU"
   ]
  },
  "Atlas Peak": {
   "rating": 3,
   "misfits": [
-   "nOITqvdE9aE",
-   "A7cpHGcWqQ0"
+   "dS_-C4nneT4",
+   "pypanzWavJ4"
   ]
  },
  "The Dungeons of Lyhe Ghiah": {
   "rating": 4,
   "misfits": [
-   "s0iPw_uT1yE"
+   "BiDlE_3WnAU"
   ]
  },
  "The Copied Factory": {
   "rating": 4,
-  "misfits": [
-   "prTA77ZJNCI"
-  ]
+  "misfits": []
  },
  "The Grand Cosmos": {
   "rating": 3,
   "misfits": [
-   "dH8Ktr6Rej4",
-   "vIr8gtxj5tE"
+   "Qv-XeV24O_E"
   ]
  },
  "The Firmament": {
   "rating": 4,
   "misfits": [
-   "8-R5bryjbWc"
+   "kU1DFmKT5LY"
   ]
  },
  "Cinder Drift": {
   "rating": 3,
   "misfits": [
-   "1WVQyTr7qbI"
+   "UVRU8wIAEZU",
+   "Uc_8E8Ym5x4",
+   "XuFZiIYZzdk"
   ]
  },
  "Anamnesis Anyder": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Dl7zffFmuR4",
-   "PnglLwdpEgs",
-   "sq-4SvGAJsE"
+   "PnglLwdpEgs"
   ]
  },
  "The Gandof Thunder Plains": {
   "rating": 3,
   "misfits": [
-   "x5TCoRnNmjg",
-   "irHiKfXGJeM",
-   "xpavufUoCm8"
+   "msjwMjuaS_Q"
   ]
  },
  "Ashfall": {
   "rating": 4,
   "misfits": [
-   "8aK5ZWBc40Y"
+   "PKz_ApAhTjI"
   ]
  },
  "Great Glacier": {
   "rating": 4,
   "misfits": [
-   "IqVTDG1aZyM"
+   "cSVh07r_pdY"
   ]
  },
  "Transmission Control": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "HUb6wzFIzbM",
-   "8aK5ZWBc40Y",
-   "x5TCoRnNmjg"
+   "prTA77ZJNCI"
   ]
  },
  "The Heroes' Gauntlet": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "-cWRS0kRpds",
-   "JHc9VthwCbw",
-   "6Pc8UsbbSZk"
+   "x5TCoRnNmjg"
   ]
  },
  "The Puppets' Bunker": {
   "rating": 4,
-  "misfits": [
-   "xpavufUoCm8"
-  ]
+  "misfits": []
  },
  "Bozjan Southern Front": {
   "rating": 3,
   "misfits": [
-   "CFr86vf_2UU",
-   "gY_WDGiB4Js",
-   "dfO5CSZ4qbk"
+   "0-x2llAIDAY",
+   "IZAO6ntwHrE",
+   "0dBcCOw-ly4"
   ]
  },
  "The Seat of Sacrifice": {
   "rating": 3,
   "misfits": [
-   "3hwuOzk99Ig",
-   "jwsNewKWNQs",
-   "Wlzc_yWIXR8",
-   "BLNG96-dXcM"
+   "HKVbdo66rVo"
   ]
  },
  "The Shifting Oubliettes of Lyhe Ghiah": {
   "rating": 4,
   "misfits": [
-   "iUXj3Pgda3o"
+   "wrHM5f02crc"
   ]
  },
  "Matoya's Relict": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "A7cpHGcWqQ0",
-   "s0iPw_uT1yE",
-   "L8HK7hNJGRE"
+   "KyoqaXSd1oQ",
+   "whp6AToySME"
   ]
  },
  "Castrum Marinum Drydocks": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Rz1ey_ruzFw",
-   "oE_F72I5xDI",
-   "XuFZiIYZzdk",
-   "HUb6wzFIzbM",
-   "JHc9VthwCbw"
+   "8aK5ZWBc40Y"
   ]
  },
  "Delubrum Reginae": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "NPt4ScYLuYo",
-   "AFsUhlvcup8"
+   "Ui7mx17OHrw",
+   "SRq67UE40WQ",
+   "rZ5hQEiTxuw"
   ]
  },
  "Paglth'an": {
-  "rating": 4,
+  "rating": 2,
   "misfits": [
-   "rtJIIQs-gaw"
+   "FZkN5dQ1jiE",
+   "AQ0p6ZHgwW8",
+   "j91ZDQWDQjY",
+   "9kdfMPbwi-o"
   ]
  },
  "Sphere of Naught": {
@@ -1477,8 +1269,9 @@
   "misfits": []
  },
  "Laxan Loft": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
+   "jIDS44uhdNg",
    "4oR9r40PHX8"
   ]
  },
@@ -1488,45 +1281,38 @@
  },
  "The Garden of Nowhere": {
   "rating": 4,
-  "misfits": [
-   "PKz_ApAhTjI"
-  ]
+  "misfits": []
  },
  "G-Savior Deck": {
-  "rating": 4,
-  "misfits": []
+  "rating": 3,
+  "misfits": [
+   "sk2iuN1A_Ek"
+  ]
  },
  "The Tower of Zot": {
   "rating": 3,
   "misfits": [
-   "CFr86vf_2UU",
-   "gY_WDGiB4Js",
-   "1r65Q5cK6p4"
+   "jwsNewKWNQs",
+   "mRBXsF31a-U"
   ]
  },
  "Labyrinthos": {
-  "rating": 2,
+  "rating": 3,
   "misfits": [
-   "t20RfxiZd0A",
-   "ZUcKCkyYV1o",
-   "Y2TlsYlOeoE",
-   "1tm-vGawzjQ",
-   "9q2ylXt04ak"
+   "u8Yd3-Q6xmE",
+   "1YEEdupdrCo"
   ]
  },
  "Thavnair": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "2XDbQJN8Mlo",
-   "4lbIw-v2h44"
+   "mXHnzyA0dUE",
+   "MpGBoaW9aow"
   ]
  },
  "Garlemald": {
   "rating": 4,
-  "misfits": [
-   "gB4_8bvpGQE",
-   "NI9D6_I2_WY"
-  ]
+  "misfits": []
  },
  "Mare Lamentorum": {
   "rating": 4,
@@ -1535,749 +1321,696 @@
  "Ultima Thule": {
   "rating": 4,
   "misfits": [
-   "Hdrr2mQWwlQ"
+   "c74j57krmxE"
   ]
  },
  "Elpis": {
-  "rating": 4,
-  "misfits": []
+  "rating": 3,
+  "misfits": [
+   "FlscFPLfPPk",
+   "smJrVboIOjA"
+  ]
  },
  "Old Sharlayan": {
   "rating": 3,
   "misfits": [
    "rHXc7IzzHLg",
-   "wt8mA6j7IZU",
-   "JfbtVpNfQ4A"
+   "na5lAIJ2CHI"
   ]
  },
  "Radz-at-Han": {
   "rating": 3,
   "misfits": [
-   "rHXc7IzzHLg",
-   "wt8mA6j7IZU",
-   "na5lAIJ2CHI"
+   "na5lAIJ2CHI",
+   "rHXc7IzzHLg"
   ]
  },
  "The Tower at Paradigm's Breach": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "WiGiHa3Yf8g"
+   "4oR9r40PHX8",
+   "PKz_ApAhTjI"
   ]
  },
  "The Tower of Babil": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "HUb6wzFIzbM",
-   "025WHfP2NHI"
+   "prTA77ZJNCI",
+   "8aK5ZWBc40Y"
   ]
  },
  "Vanaspati": {
   "rating": 3,
   "misfits": [
-   "VE6ivyYzBdk",
    "SmtYRLsb0Hs",
-   "vMPGnuOmvCM"
+   "VE6ivyYzBdk"
   ]
  },
  "The Dead Ends": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "sORvPKrf93E",
-   "1r65Q5cK6p4"
+   "0dBcCOw-ly4",
+   "X15ESjpZTng"
   ]
  },
  "Ktisis Hyperboreia": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "V1AACvkUDYo",
-   "w8zceKuRE7I",
-   "FFQRJHh3VNc",
-   "ShirDoancBU"
+   "UX42Yw2xh6c"
   ]
  },
  "Zadnor": {
   "rating": 3,
   "misfits": [
-   "0oTBGqAKZYI",
-   "L48PLPCQxHI"
+   "FZkN5dQ1jiE",
+   "dS_-C4nneT4"
   ]
  },
  "Smileton": {
-  "rating": 3,
-  "misfits": [
-   "J1X3u_k4Wik",
-   "xpavufUoCm8"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "The Aitiascope": {
   "rating": 4,
   "misfits": [
-   "luWZOiXJSuM",
-   "oy5Z3fSVGQQ"
+   "UX42Yw2xh6c"
   ]
  },
  "Empyreum": {
   "rating": 3,
   "misfits": [
-   "zhbnFofbbb8",
-   "9A9d2xDIML0",
-   "xBevRVNSNeE",
-   "Cfdv3vkulwU"
+   "f6bJkrSyZSY",
+   "Vds0lW3lFEw",
+   "tM6Ie7p_v5U"
   ]
  },
  "The Stigma Dreamscape": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "XuFZiIYZzdk",
-   "RQMDkx1jZAk"
+   "Iq0ntBagBQY",
+   "6bpB-Hv9hQs"
   ]
  },
  "The Dark Inside": {
   "rating": 4,
   "misfits": [
-   "sq-4SvGAJsE"
+   "YERChDDR4bM"
   ]
  },
  "The Mothercrystal": {
   "rating": 4,
   "misfits": [
-   "HKVbdo66rVo",
    "WiGiHa3Yf8g"
   ]
  },
  "The Final Day": {
   "rating": 4,
-  "misfits": [
-   "Ah7FCB-o070",
-   "jwsNewKWNQs"
-  ]
+  "misfits": []
  },
  "The Excitatron 6000": {
-  "rating": 2,
+  "rating": 3,
   "misfits": [
-   "HUb6wzFIzbM",
+   "1WVQyTr7qbI",
    "-cWRS0kRpds",
-   "JHc9VthwCbw",
-   "8aK5ZWBc40Y",
-   "6Pc8UsbbSZk"
+   "8aK5ZWBc40Y"
   ]
  },
  "The Gates of Pandæmonium": {
   "rating": 4,
   "misfits": [
-   "luWZOiXJSuM",
-   "sORvPKrf93E"
+   "T4G5pKsuJ4M"
   ]
  },
  "The Stagnant Limbo": {
   "rating": 4,
   "misfits": [
+   "T4G5pKsuJ4M",
    "sRCy3tNUXSo"
   ]
  },
  "The Fervid Limbo": {
   "rating": 4,
   "misfits": [
-   "IV611JfkIW4",
-   "qyJdmjqMBLY"
+   "T4G5pKsuJ4M",
+   "sdbb_wvx91g"
   ]
  },
  "The Sanguine Limbo": {
   "rating": 4,
-  "misfits": []
+  "misfits": [
+   "M3VAQlt8K8s"
+  ]
  },
  "Dusk Vigil": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "NPt4ScYLuYo",
-   "Qv-XeV24O_E",
-   "dH8Ktr6Rej4"
+   "p4tbkMaeMB8",
+   "NPt4ScYLuYo"
   ]
  },
  "The Thousand Maws of Toto-Rak": {
   "rating": 4,
   "misfits": [
-   "KezSYuvBBwg"
+   "rtJIIQs-gaw"
   ]
  },
  "Castrum Meridianum": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI",
-   "prTA77ZJNCI"
+   "xpavufUoCm8"
   ]
  },
  "The Praetorium": {
   "rating": 4,
   "misfits": [
-   "UX42Yw2xh6c",
-   "-cWRS0kRpds"
+   "Uc_8E8Ym5x4",
+   "PwFaK2YSoxc"
   ]
  },
  "Alzadaal's Legacy": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "ph83TTJr0Sk",
-   "KyoqaXSd1oQ",
-   "I09n9AdhFfs"
+   "whp6AToySME",
+   "UhMxpT1Pt6k"
   ]
  },
  "Aglaia": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "p4tbkMaeMB8",
-   "NPt4ScYLuYo",
-   "z9s1YgcygzU"
+   "Qv-XeV24O_E"
   ]
  },
  "Unnamed Island": {
   "rating": 4,
   "misfits": [
-   "DYlAGogNqBg",
-   "dKZ7vVIbK7s",
-   "t4hPQGyeu3w"
+   "Y7bCQbQ-tjA",
+   "dKZ7vVIbK7s"
   ]
  },
  "Snowcloak": {
   "rating": 4,
   "misfits": [
-   "Ah7FCB-o070"
+   "Vk-fK4lMaoc",
+   "2JIVZ7-cFU4"
   ]
  },
  "The Keeper of the Lake": {
   "rating": 4,
   "misfits": [
-   "ydmiQc9Y2ww"
+   "s0iPw_uT1yE",
+   "8ctyuJx31RU"
   ]
  },
  "The Aery": {
   "rating": 4,
   "misfits": [
-   "dt1qmqsBCVU"
+   "PKz_ApAhTjI"
   ]
  },
  "The Sil'dihn Subterrane": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "e2scpsCm-tE"
+   "KyoqaXSd1oQ"
   ]
  },
  "The Fell Court of Troia": {
-  "rating": 4,
-  "misfits": [
-   "p4tbkMaeMB8"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Storm's Crown": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "6Pc8UsbbSZk"
+   "83XIWIhVXto",
+   "PwFaK2YSoxc",
+   "MPu_ya7QUYg"
   ]
  },
  "Another Sil'dihn Subterrane": {
   "rating": 3,
   "misfits": [
    "5n6EZ7hgpQw",
-   "AQ0p6ZHgwW8"
+   "BiDlE_3WnAU"
   ]
  },
  "The Caustic Purgatory": {
-  "rating": 4,
-  "misfits": [
-   "dH8Ktr6Rej4"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "The Pestilent Purgatory": {
-  "rating": 4,
-  "misfits": [
-   "ucVOapKwFvM",
-   "dH8Ktr6Rej4"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "The Hollow Purgatory": {
-  "rating": 4,
-  "misfits": [
-   "p4tbkMaeMB8"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Stygian Insenescence Cells": {
-  "rating": 4,
-  "misfits": [
-   "NPt4ScYLuYo",
-   "dH8Ktr6Rej4"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Mount Ordeals": {
   "rating": 4,
   "misfits": [
-   "FZkN5dQ1jiE"
+   "pypanzWavJ4",
+   "9kdfMPbwi-o"
   ]
  },
  "Lapis Manalis": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "CFr86vf_2UU",
-   "VJzGhi2bR5c",
-   "9kdfMPbwi-o"
+   "1UHisX1QBHs"
   ]
  },
  "Eureka Orthos": {
   "rating": 4,
   "misfits": [
-   "BLNG96-dXcM"
+   "T4G5pKsuJ4M"
   ]
  },
  "The Antitower": {
-  "rating": 4,
-  "misfits": [
-   "FZkN5dQ1jiE",
-   "luWZOiXJSuM"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Sohr Khai": {
   "rating": 3,
   "misfits": [
-   "9HrjJpRZwP4",
-   "9ISSVI8JW2w",
-   "gq8QRvDV154"
+   "L9xeySvNPUM",
+   "4o05wBcsOCQ",
+   "4oR9r40PHX8",
+   "pypanzWavJ4",
+   "FZkN5dQ1jiE"
   ]
  },
  "Xelphatol": {
   "rating": 3,
   "misfits": [
+   "VJzGhi2bR5c",
    "3hwuOzk99Ig",
-   "pJYQqB6VqHQ",
-   "CFr86vf_2UU",
-   "MyQWSBSz2dY",
-   "2Rlec-O5L6o"
+   "BLNG96-dXcM",
+   "t20RfxiZd0A",
+   "9kdfMPbwi-o",
+   "FZkN5dQ1jiE"
   ]
  },
  "Baelsar's Wall": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI",
-   "-cWRS0kRpds",
-   "jGzBMDDBl5Q"
+   "XuFZiIYZzdk"
   ]
  },
  "Euphrosyne": {
   "rating": 4,
   "misfits": [
-   "PnglLwdpEgs",
-   "ph83TTJr0Sk"
+   "Nwo_SQq2ecE",
+   "KLnjkQC44Mk"
   ]
  },
  "The Shifting Gymnasion Agonon": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "rSRb0fHdiIA",
-   "V1AACvkUDYo",
-   "gY_WDGiB4Js",
-   "3hwuOzk99Ig"
+   "LQCUZeSLQeQ",
+   "gY_WDGiB4Js"
   ]
  },
  "The Aetherfont": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
    "WI0HZsTKi5U",
-   "Dl7zffFmuR4"
+   "oE_F72I5xDI"
   ]
  },
  "Mount Rokkon": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "nOITqvdE9aE"
+   "nOITqvdE9aE",
+   "L8HK7hNJGRE"
   ]
  },
  "The Voidcast Dais": {
   "rating": 4,
   "misfits": [
-   "0oH5dksLgv8"
+   "AjOlylSCYhY",
+   "vsC41TL7y9M"
   ]
  },
  "The Sirensong Sea": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "WI0HZsTKi5U"
+   "Y_ujurU0wOg",
+   "C6qXjfP7bt8",
+   "p32APYX4Jps"
   ]
  },
  "Doma Castle": {
   "rating": 3,
   "misfits": [
-   "n1_xTUR7d0M",
-   "sVLVAw3NlVs",
-   "NPt4ScYLuYo"
+   "OzZgbUEaq0g",
+   "dH8Ktr6Rej4",
+   "GANINrVaM-g"
   ]
  },
  "Castrum Abania": {
   "rating": 4,
   "misfits": [
-   "-cWRS0kRpds"
+   "RQMDkx1jZAk",
+   "msjwMjuaS_Q"
   ]
  },
  "The Aetherial Slough": {
-  "rating": 3,
+  "rating": 2,
   "misfits": [
-   "Qv-XeV24O_E",
-   "EzTmuGStDg8",
-   "Q5y250C3v68"
+   "sZTtguGoips",
+   "83XIWIhVXto",
+   "t3ZStuRmZ44",
+   "rZ5hQEiTxuw",
+   "mxvMEem8UZY",
+   "L41Llt4JbLc",
+   "gQdSMZe0Lms"
   ]
  },
  "The Dæmons' Nest": {
   "rating": 4,
   "misfits": [
    "Qv-XeV24O_E",
-   "EzTmuGStDg8"
+   "z9s1YgcygzU"
   ]
  },
  "The Chamber of Fourteen": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "Qv-XeV24O_E",
-   "NPt4ScYLuYo",
-   "EzTmuGStDg8"
+   "Ylll7UiH7PA",
+   "SRq67UE40WQ",
+   "Ui7mx17OHrw",
+   "fLV00j1pSag"
   ]
  },
  "Ascension": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "Qv-XeV24O_E",
-   "p4tbkMaeMB8"
+   "Ui7mx17OHrw",
+   "gQdSMZe0Lms"
   ]
  },
  "Another Mount Rokkon": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "FZkN5dQ1jiE"
+   "L8HK7hNJGRE"
   ]
  },
  "The Lunar Subterrane": {
   "rating": 3,
   "misfits": [
-   "o4s8rmya19s",
-   "PKz_ApAhTjI",
-   "c74j57krmxE",
-   "mRBXsF31a-U"
+   "ph83TTJr0Sk",
+   "whp6AToySME",
+   "Ah7FCB-o070",
+   "v1jMqxssNRk"
   ]
  },
  "Ihuykatumu": {
   "rating": 4,
   "misfits": [
-   "SmtYRLsb0Hs"
+   "4lbIw-v2h44",
+   "AjOlylSCYhY"
   ]
  },
  "The Abyssal Fracture": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "4oR9r40PHX8"
+   "sk2iuN1A_Ek",
+   "pmSKMKgyRhM",
+   "2J-bPsJUjUw"
   ]
  },
  "The Drowned City of Skalla": {
   "rating": 4,
   "misfits": [
-   "PnglLwdpEgs",
-   "08o17IVgv4I"
+   "1r65Q5cK6p4"
   ]
  },
  "Aloalo Island": {
-  "rating": 3,
+  "rating": 5,
   "misfits": [
-   "whp6AToySME",
-   "MZmY0nB0BTw",
-   "lplzH2BlCRs"
+   "KgSmPSGQh88"
   ]
  },
  "Thaleia": {
   "rating": 3,
   "misfits": [
-   "rSRb0fHdiIA",
-   "ZLiCd300sgE",
-   "InmmiSURH1M",
-   "sRCy3tNUXSo",
-   "2Rlec-O5L6o"
+   "FZkN5dQ1jiE",
+   "sdbb_wvx91g",
+   "VJzGhi2bR5c",
+   "025WHfP2NHI"
   ]
  },
  "Another Aloalo Island": {
-  "rating": 3,
-  "misfits": [
-   "oE_F72I5xDI"
-  ]
+  "rating": 5,
+  "misfits": []
  },
  "Tuliyollal": {
   "rating": 4,
   "misfits": [
-   "wt8mA6j7IZU"
+   "gBKbDygUWso",
+   "JfbtVpNfQ4A"
   ]
  },
  "Solution Nine": {
   "rating": 4,
   "misfits": [
-   "WjH5bOTgtVA",
-   "XdUfWp2kwPg",
-   "Uc_8E8Ym5x4"
+   "kHf_Jck_wZA",
+   "knJn5JOdUGU"
   ]
  },
  "Urqopacha": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "BVfFfms6zUw",
-   "S_JqVp-lMzQ",
-   "khfqA7F9gBA"
+   "Mm72C7ZF7T8",
+   "GbOeg6aGS9A"
   ]
  },
  "Kozama'uka": {
   "rating": 4,
-  "misfits": [
-   "2XDbQJN8Mlo"
-  ]
+  "misfits": []
  },
  "Yak T'el": {
   "rating": 4,
-  "misfits": [
-   "NI3xwa7ZTHc"
-  ]
+  "misfits": []
  },
  "Shaaloani": {
-  "rating": 5,
+  "rating": 4,
   "misfits": []
  },
  "Heritage Found": {
   "rating": 3,
   "misfits": [
-   "prTA77ZJNCI"
+   "prTA77ZJNCI",
+   "tGwHq4-3fuc"
   ]
  },
  "Living Memory": {
   "rating": 4,
   "misfits": [
-   "2jXCzP71Eo4",
-   "BiDlE_3WnAU"
+   "jwsNewKWNQs"
   ]
  },
  "Worqor Zormor": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "PpStsYdLTxQ",
-   "Ah7FCB-o070"
+   "pypanzWavJ4",
+   "VnQ7G90fxiA"
   ]
  },
  "The Skydeep Cenote": {
   "rating": 4,
   "misfits": [
-   "iUXj3Pgda3o"
+   "KyoqaXSd1oQ"
   ]
  },
  "Worqor Lar Dor": {
   "rating": 3,
   "misfits": [
-   "CFr86vf_2UU",
-   "rSRb0fHdiIA",
-   "UX42Yw2xh6c"
+   "9kdfMPbwi-o",
+   "fq_bWhFjoXI",
+   "cWYRdN4xw5Y"
   ]
  },
  "Vanguard": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI"
+   "HUb6wzFIzbM"
   ]
  },
  "Alexandria": {
   "rating": 3,
   "misfits": [
-   "OzZgbUEaq0g",
-   "CFC9YJ6yRng",
-   "p4tbkMaeMB8",
-   "BpOqO6hJmK8",
-   "dH8Ktr6Rej4"
+   "NPt4ScYLuYo",
+   "t3ZStuRmZ44",
+   "AFsUhlvcup8",
+   "GANINrVaM-g",
+   "E5k5jSttSd8"
   ]
  },
  "Summit of Everkeep": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "LQCUZeSLQeQ",
-   "V1AACvkUDYo",
-   "9kdfMPbwi-o",
-   "sdbb_wvx91g"
+   "HKVbdo66rVo"
   ]
  },
  "Interphos": {
   "rating": 4,
   "misfits": [
-   "h5wQCuGAi-o",
-   "uQyf1FBUy5A"
+   "nAepj6cKllE"
   ]
  },
  "Tender Valley": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "xPxslFuXgfQ",
-   "ObccgHQdos0",
-   "79iWS0reUGA"
+   "1YEEdupdrCo"
   ]
  },
  "Strayborough": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "if7gXi2GCiw",
-   "_-BjSjUEVfU"
+   "TXqj7HKQR2E",
+   "FFQRJHh3VNc",
+   "ZbrtpYithTE",
+   "On9lK3KRob4",
+   "BLNG96-dXcM"
   ]
  },
  "Origenics": {
   "rating": 4,
   "misfits": [
-   "pJYQqB6VqHQ"
+   "HUb6wzFIzbM"
   ]
  },
  "Cenote Ja Ja Gural": {
   "rating": 4,
-  "misfits": [
-   "L8HK7hNJGRE"
-  ]
+  "misfits": []
  },
  "Scratching Ring": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "8aK5ZWBc40Y",
-   "6Pc8UsbbSZk"
+   "Uc_8E8Ym5x4",
+   "knJn5JOdUGU",
+   "-cWRS0kRpds"
   ]
  },
  "Lovely Lovering": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "Sd8YN5FK1yA",
-   "prTA77ZJNCI"
+   "-cWRS0kRpds",
+   "knJn5JOdUGU"
   ]
  },
  "Blasting Ring": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "pJYQqB6VqHQ",
-   "6Pc8UsbbSZk"
+   "Uc_8E8Ym5x4",
+   "WjH5bOTgtVA",
+   "8aK5ZWBc40Y"
   ]
  },
  "The Thundering": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "Sd8YN5FK1yA",
-   "irHiKfXGJeM"
+   "-cWRS0kRpds",
+   "6Pc8UsbbSZk"
   ]
  },
  "Yuweyawata": {
   "rating": 4,
   "misfits": [
-   "6Pc8UsbbSZk"
+   "jGzBMDDBl5Q",
+   "RQMDkx1jZAk"
   ]
  },
  "Jeuno: The First Walk": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "IRnTmXE2WHU",
-   "VOT9y7P5cL4",
-   "Q5y250C3v68"
+   "fLV00j1pSag"
   ]
  },
  "South Horn": {
-  "rating": 3,
-  "misfits": [
-   "MD1uAh2UX7I",
-   "FFQRJHh3VNc",
-   "ayazprlxbyk",
-   "Dj99s74smPI",
-   "0dBcCOw-ly4",
-   "T4G5pKsuJ4M"
-  ]
+  "rating": 4,
+  "misfits": []
  },
  "Groovy Ring": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "irHiKfXGJeM",
-   "xpavufUoCm8",
-   "-cWRS0kRpds",
-   "6Pc8UsbbSZk"
+   "1WVQyTr7qbI"
   ]
  },
  "Rebel Ring": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "HUb6wzFIzbM"
+   "knJn5JOdUGU",
+   "zuLsvPkKIdc"
   ]
  },
  "Demolition Site": {
   "rating": 4,
   "misfits": [
-   "HUb6wzFIzbM"
+   "LblXQFDEj28",
+   "af0A1UpSGPI"
   ]
  },
  "Hunter's Ring": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
-   "-cWRS0kRpds"
+   "knJn5JOdUGU",
+   "zuLsvPkKIdc"
   ]
  },
  "The Underkeep": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI",
-   "ph83TTJr0Sk",
    "e2scpsCm-tE"
   ]
  },
  "Recollection": {
   "rating": 4,
   "misfits": [
-   "Nwo_SQq2ecE",
-   "c74j57krmxE"
+   "4oR9r40PHX8"
   ]
  },
  "Vault Oneiron": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI"
+   "ydmiQc9Y2ww"
   ]
  },
  "Pilgrim's Traverse": {
   "rating": 4,
-  "misfits": [
-   "EzTmuGStDg8"
-  ]
+  "misfits": []
  },
  "The Meso Terminal": {
   "rating": 4,
   "misfits": [
-   "1WVQyTr7qbI",
-   "x5TCoRnNmjg"
+   "Sd8YN5FK1yA"
   ]
  },
  "The Ageless Necropolis": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "luWZOiXJSuM",
-   "0dBcCOw-ly4",
-   "sdbb_wvx91g"
+   "On9lK3KRob4"
   ]
  },
  "The Windward Wilds": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "XfFNnfHhMDI",
-   "vSWnOg44AlY",
-   "NI3xwa7ZTHc",
-   "UqbdssEHGik"
+   "ORpKwkq5z-4"
   ]
  },
  "San d'Oria: The Second Walk": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "Q5y250C3v68",
-   "z9s1YgcygzU",
-   "ucVOapKwFvM"
+   "NPt4ScYLuYo"
   ]
  },
  "Hell on Rails": {
   "rating": 4,
   "misfits": [
-   "T4G5pKsuJ4M",
-   "LmXmAs-0ha0"
+   "QNgcCnGR_3E"
   ]
  },
  "Mistwake": {
@@ -2296,39 +2029,43 @@
   "rating": 4,
   "misfits": [
    "NPt4ScYLuYo",
-   "ucVOapKwFvM"
+   "OzZgbUEaq0g"
   ]
  },
  "Ring Noir": {
   "rating": 4,
   "misfits": [
-   "x5TCoRnNmjg"
+   "XuFZiIYZzdk",
+   "irHiKfXGJeM"
   ]
  },
  "The X-Ring": {
-  "rating": 4,
-  "misfits": []
- },
- "The Crown": {
-  "rating": 4,
+  "rating": 3,
   "misfits": [
+   "1WVQyTr7qbI",
    "-cWRS0kRpds"
   ]
  },
- "Arcadia": {
-  "rating": 4,
+ "The Crown": {
+  "rating": 3,
   "misfits": [
-   "1WVQyTr7qbI",
-   "HUb6wzFIzbM"
+   "1WVQyTr7qbI"
+  ]
+ },
+ "Arcadia": {
+  "rating": 3,
+  "misfits": [
+   "Uc_8E8Ym5x4",
+   "knJn5JOdUGU",
+   "-cWRS0kRpds"
   ]
  },
  "The Clyteum": {
   "rating": 3,
   "misfits": [
-   "gY_WDGiB4Js",
-   "ph83TTJr0Sk",
-   "UX42Yw2xh6c",
-   "rSRb0fHdiIA"
+   "FZkN5dQ1jiE",
+   "9kdfMPbwi-o",
+   "j91ZDQWDQjY"
   ]
  },
  "North Horn": {
@@ -2340,24 +2077,23 @@
  "The Unmaking": {
   "rating": 4,
   "misfits": [
-   "Nwo_SQq2ecE"
+   "PaxHDqM7WIU"
   ]
  },
  "Shisui of the Violet Tides": {
-  "rating": 3,
+  "rating": 4,
   "misfits": [
-   "C6qXjfP7bt8",
-   "lplzH2BlCRs",
-   "DYlAGogNqBg"
+   "iIt3rOv2UgE",
+   "C6qXjfP7bt8"
   ]
  },
  "Windurst: The Third Walk": {
-  "rating": 3,
+  "rating": 2,
   "misfits": [
-   "VOT9y7P5cL4",
    "IRnTmXE2WHU",
-   "iUXj3Pgda3o",
-   "5Y2XOWfzcmM"
+   "jwsNewKWNQs",
+   "5Y2XOWfzcmM",
+   "8-R5bryjbWc"
   ]
  }
 }

@@ -32,6 +32,7 @@ public sealed class Controller
     private int retries;
     private string lastLoggedStatus = "";
     private ZoneInfo zone = ZoneInfo.None;
+    private Ambience ambience = Ambience.None;
     private uint playedZoneId;
     private Category lastAreaCategory = Category.Town;
     private Song? areaSong;
@@ -67,9 +68,10 @@ public sealed class Controller
 
     private int FadeMs => (int)(Math.Clamp(config.FadeSeconds, 0f, 8f) * 1000);
 
-    public void Tick(Situation situation, bool loggedIn, ZoneInfo currentZone)
+    public void Tick(Situation situation, bool loggedIn, ZoneInfo currentZone, Ambience currentAmbience = default)
     {
         zone = currentZone;
+        ambience = currentAmbience;
         while (player.Events.TryDequeue(out var ev))
         {
             if (ev.Ends > seenEnds) { seenEnds = ev.Ends; errorsInRow = 0; Advance(); }
@@ -174,7 +176,7 @@ public sealed class Controller
         if (config.Mode != PlayMode.Omakase || !IsArea(want) || Now is null || zone.Tags.Length == 0) return true;
         if (zone.Id == playedZoneId) return true;
         if (!HomeOk(Now)) return false;
-        if (Now.Tags.Intersect(zone.Tags).Any()) { playedZoneId = zone.Id; return true; }
+        if (Now.Tags.Intersect(zone.Tags).Any() && (zone.Moods.Length == 0 || Now.Moods.Length == 0 || Now.Moods.Intersect(zone.Moods).Any())) { playedZoneId = zone.Id; return true; }
         return false;
     }
 
@@ -312,7 +314,8 @@ public sealed class Controller
             Song? chosen = null;
             for (var i = 0; i < top.Count; i++) { r -= weights[i]; if (r < 0) { chosen = top[i].Song; break; } }
             pick = chosen ?? top[0].Song;
-            why = $"{zone.Name}: fits {string.Join(", ", pick.Tags.Intersect(zone.Tags))}";
+            var fit = pick.Tags.Intersect(zone.Tags).Concat(pick.Sub.Intersect(zone.Sub)).Concat(pick.Moods.Take(1)).ToList();
+            why = $"{zone.Name}: fits {string.Join(", ", fit)}" + (zone.Moods.Length > 0 ? $" ({ambience.Label})" : "");
             return true;
         }
         return false;
@@ -322,14 +325,31 @@ public sealed class Controller
 
     private bool IsHomeHere(Song s) => s.Home.Contains(zone.Name, StringComparer.OrdinalIgnoreCase);
 
+    // Place tags count most (earlier zone tags more), finer place tags and a matching mood add to it. A song with the right place but a clashing mood drops to the bottom of the pool.
     private int Score(Song s)
     {
         if (!HomeOk(s)) return 0;
-        if (IsHomeHere(s)) return zone.Tags.Length * (zone.Tags.Length + 1) / 2;
-        var score = 0;
+        if (IsHomeHere(s)) return (zone.Tags.Length * (zone.Tags.Length + 1) / 2) * 3;
+        var coarse = 0;
         for (var i = 0; i < zone.Tags.Length; i++)
-            if (s.Tags.Contains(zone.Tags[i])) score += zone.Tags.Length - i;
-        return score;
+            if (s.Tags.Contains(zone.Tags[i])) coarse += zone.Tags.Length - i;
+        if (coarse == 0) return 0;
+        var score = coarse * 2 + Math.Min(4, 2 * s.Sub.Intersect(zone.Sub).Count());
+        if (zone.Moods.Length > 0 && s.Moods.Length > 0)
+        {
+            var w = MoodWeights();
+            var mood = s.Moods.Select((m, i) => (w.TryGetValue(m, out var v) ? v : 0) - i).DefaultIfEmpty(0).Max();
+            var wanted = w.Where(kv => kv.Value >= 2).Select(kv => kv.Key);
+            score += Math.Max(0, mood) - (s.Moods.Intersect(wanted).Any() ? 0 : 2);
+        }
+        return Math.Max(1, score);
+    }
+
+    private (uint Zone, Ambience Amb, Dictionary<string, int> W) moodCache;
+    private Dictionary<string, int> MoodWeights()
+    {
+        if (moodCache.W is null || moodCache.Zone != zone.Id || moodCache.Amb != ambience) moodCache = (zone.Id, ambience, ambience.MoodWeights(zone.Moods));
+        return moodCache.W;
     }
 
     private void Advance()

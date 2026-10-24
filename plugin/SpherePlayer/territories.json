@@ -5,6 +5,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "129": {
@@ -13,6 +21,13 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "130": {
@@ -21,6 +36,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "131": {
@@ -29,6 +52,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "melancholy"
+  ],
+  "sub": [
+   "market",
+   "slums"
   ]
  },
  "132": {
@@ -37,6 +68,14 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "grove",
+   "market"
   ]
  },
  "133": {
@@ -45,6 +84,13 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "river"
   ]
  },
  "134": {
@@ -53,6 +99,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
   ]
  },
  "135": {
@@ -61,6 +115,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "136": {
@@ -69,6 +132,14 @@
   "tags": [
    "town",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "village"
   ]
  },
  "137": {
@@ -77,6 +148,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "138": {
@@ -85,6 +165,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "139": {
@@ -93,6 +181,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "140": {
@@ -101,6 +197,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "141": {
@@ -109,6 +213,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "142": {
@@ -117,6 +229,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "river"
   ]
  },
  "144": {
@@ -125,13 +245,25 @@
   "tags": [
    "city",
    "desert"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "145": {
   "name": "Eastern Thanalan",
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "146": {
@@ -140,6 +272,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "147": {
@@ -148,6 +289,14 @@
   "tags": [
    "plains",
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "battlefield"
   ]
  },
  "148": {
@@ -155,6 +304,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "151": {
@@ -163,6 +319,13 @@
   "tags": [
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "152": {
@@ -171,6 +334,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "153": {
@@ -179,6 +350,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "154": {
@@ -187,6 +366,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "155": {
@@ -195,6 +382,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "156": {
@@ -203,6 +398,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "159": {
@@ -212,6 +416,14 @@
    "ruins",
    "castle",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
   ]
  },
  "160": {
@@ -220,6 +432,14 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "coast"
   ]
  },
  "167": {
@@ -229,6 +449,14 @@
    "ruins",
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "171": {
@@ -236,6 +464,12 @@
   "kind": "dungeon",
   "tags": [
    "cave"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "172": {
@@ -244,6 +478,14 @@
   "tags": [
    "cave",
    "forest"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "canyon",
+   "mine"
   ]
  },
  "174": {
@@ -252,6 +494,14 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "ruined-city",
+   "tunnels"
   ]
  },
  "180": {
@@ -260,6 +510,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "peaks"
   ]
  },
  "181": {
@@ -268,6 +526,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "182": {
@@ -276,6 +542,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "183": {
@@ -284,6 +558,14 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "grove",
+   "market"
   ]
  },
  "188": {
@@ -293,6 +575,14 @@
    "ruins",
    "castle",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
   ]
  },
  "189": {
@@ -302,6 +592,14 @@
    "ruins",
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "190": {
@@ -309,6 +607,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "191": {
@@ -317,6 +622,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "192": {
@@ -325,6 +638,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "193": {
@@ -332,6 +653,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "194": {
@@ -339,6 +667,12 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "195": {
@@ -346,6 +680,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "196": {
@@ -354,6 +695,14 @@
   "tags": [
    "industrial",
    "volcano"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory",
+   "lava"
   ]
  },
  "214": {
@@ -362,6 +711,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
   ]
  },
  "215": {
@@ -370,6 +727,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "216": {
@@ -378,6 +743,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "219": {
@@ -385,6 +758,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "220": {
@@ -393,6 +773,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "221": {
@@ -401,6 +789,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "222": {
@@ -409,6 +805,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "223": {
@@ -417,6 +822,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "225": {
@@ -424,6 +837,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "226": {
@@ -431,6 +851,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "227": {
@@ -438,6 +865,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "228": {
@@ -446,6 +880,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "229": {
@@ -454,6 +896,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "230": {
@@ -461,6 +911,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "231": {
@@ -469,6 +926,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "232": {
@@ -477,6 +942,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "233": {
@@ -484,6 +957,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "234": {
@@ -492,6 +972,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "235": {
@@ -500,6 +988,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "236": {
@@ -508,6 +1004,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "237": {
@@ -515,6 +1019,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "238": {
@@ -523,6 +1034,13 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "river"
   ]
  },
  "239": {
@@ -530,6 +1048,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "240": {
@@ -538,6 +1063,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "241": {
@@ -546,6 +1079,14 @@
   "tags": [
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "laboratory"
   ]
  },
  "242": {
@@ -554,6 +1095,14 @@
   "tags": [
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "laboratory"
   ]
  },
  "243": {
@@ -561,6 +1110,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "244": {
@@ -568,6 +1124,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "airship",
+   "factory"
   ]
  },
  "245": {
@@ -575,6 +1138,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "248": {
@@ -583,6 +1153,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "249": {
@@ -591,6 +1169,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "250": {
@@ -599,6 +1186,13 @@
   "tags": [
    "seaside",
    "industrial"
+  ],
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "harbor"
   ]
  },
  "251": {
@@ -607,6 +1201,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "252": {
@@ -615,6 +1217,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
   ]
  },
  "253": {
@@ -623,6 +1233,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "254": {
@@ -631,6 +1249,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "255": {
@@ -639,6 +1265,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "256": {
@@ -646,6 +1280,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "257": {
@@ -653,6 +1294,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "258": {
@@ -661,6 +1309,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "259": {
@@ -669,6 +1325,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "260": {
@@ -677,6 +1341,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "261": {
@@ -685,6 +1358,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "262": {
@@ -693,6 +1375,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "263": {
@@ -701,6 +1392,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "264": {
@@ -709,6 +1408,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "265": {
@@ -717,6 +1425,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "266": {
@@ -724,6 +1441,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "267": {
@@ -732,6 +1456,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "268": {
@@ -739,6 +1471,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "269": {
@@ -747,6 +1486,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "270": {
@@ -755,6 +1502,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "271": {
@@ -763,6 +1518,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "272": {
@@ -771,6 +1534,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
   ]
  },
  "273": {
@@ -779,6 +1550,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "274": {
@@ -787,6 +1566,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "275": {
@@ -794,6 +1581,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "277": {
@@ -802,6 +1596,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "278": {
@@ -810,6 +1612,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "279": {
@@ -818,6 +1628,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "280": {
@@ -826,6 +1645,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "281": {
@@ -834,6 +1661,13 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
   ]
  },
  "285": {
@@ -842,6 +1676,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
   ]
  },
  "287": {
@@ -850,6 +1692,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "289": {
@@ -858,6 +1709,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "290": {
@@ -866,6 +1725,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "291": {
@@ -874,6 +1741,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "292": {
@@ -881,6 +1756,13 @@
   "kind": "dungeon",
   "tags": [
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava"
   ]
  },
  "293": {
@@ -889,6 +1771,13 @@
   "tags": [
    "mountain",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "294": {
@@ -896,6 +1785,13 @@
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "295": {
@@ -903,6 +1799,13 @@
   "kind": "dungeon",
   "tags": [
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava"
   ]
  },
  "296": {
@@ -911,6 +1814,13 @@
   "tags": [
    "mountain",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "297": {
@@ -918,6 +1828,13 @@
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "298": {
@@ -926,6 +1843,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "299": {
@@ -934,6 +1859,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "300": {
@@ -942,6 +1876,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "301": {
@@ -950,6 +1893,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "302": {
@@ -958,6 +1909,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "303": {
@@ -966,6 +1925,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "304": {
@@ -974,6 +1941,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "305": {
@@ -982,6 +1957,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "306": {
@@ -990,6 +1974,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "307": {
@@ -998,6 +1991,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "308": {
@@ -1006,6 +2008,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "309": {
@@ -1014,6 +2025,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "310": {
@@ -1022,6 +2042,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "311": {
@@ -1030,6 +2059,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "312": {
@@ -1038,6 +2076,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "313": {
@@ -1046,6 +2093,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "314": {
@@ -1054,6 +2109,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "315": {
@@ -1062,6 +2125,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "316": {
@@ -1070,6 +2142,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "317": {
@@ -1078,6 +2158,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "318": {
@@ -1086,6 +2174,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "319": {
@@ -1093,6 +2190,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "320": {
@@ -1100,6 +2204,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "321": {
@@ -1108,6 +2219,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "322": {
@@ -1116,6 +2235,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "323": {
@@ -1124,6 +2251,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "324": {
@@ -1132,6 +2268,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "325": {
@@ -1140,6 +2284,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "peaks"
   ]
  },
  "326": {
@@ -1148,6 +2300,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "327": {
@@ -1156,6 +2317,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "328": {
@@ -1164,6 +2334,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "329": {
@@ -1173,6 +2351,14 @@
    "ruins",
    "castle",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
   ]
  },
  "330": {
@@ -1181,6 +2367,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "331": {
@@ -1188,6 +2382,13 @@
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "335": {
@@ -1196,6 +2397,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "339": {
@@ -1204,6 +2414,14 @@
   "tags": [
    "town",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "village"
   ]
  },
  "340": {
@@ -1212,6 +2430,13 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "village"
   ]
  },
  "341": {
@@ -1220,6 +2445,14 @@
   "tags": [
    "town",
    "desert"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "canyon",
+   "village"
   ]
  },
  "348": {
@@ -1228,6 +2461,13 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "349": {
@@ -1235,6 +2475,13 @@
   "kind": "dungeon",
   "tags": [
    "cave"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "mine",
+   "tunnels"
   ]
  },
  "350": {
@@ -1243,6 +2490,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "353": {
@@ -1250,6 +2504,13 @@
   "kind": "dungeon",
   "tags": [
    "seaside"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "coast"
   ]
  },
  "354": {
@@ -1258,6 +2519,13 @@
   "tags": [
    "forest",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "355": {
@@ -1266,6 +2534,13 @@
   "tags": [
    "industrial",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "356": {
@@ -1273,6 +2548,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "357": {
@@ -1280,6 +2562,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "358": {
@@ -1288,6 +2577,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "359": {
@@ -1296,6 +2592,13 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
   ]
  },
  "360": {
@@ -1304,6 +2607,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "river"
   ]
  },
  "361": {
@@ -1312,6 +2623,14 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "ruined-city"
   ]
  },
  "362": {
@@ -1320,6 +2639,13 @@
   "tags": [
    "cave",
    "swamp"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "363": {
@@ -1328,6 +2654,14 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "364": {
@@ -1335,6 +2669,13 @@
   "kind": "dungeon",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "365": {
@@ -1344,6 +2685,14 @@
    "castle",
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "366": {
@@ -1352,6 +2701,13 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "367": {
@@ -1361,6 +2717,14 @@
    "ruins",
    "cave",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "temple",
+   "dunes"
   ]
  },
  "368": {
@@ -1368,6 +2732,13 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "369": {
@@ -1375,6 +2746,13 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "372": {
@@ -1383,6 +2761,14 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "tower",
+   "ruined-city"
   ]
  },
  "373": {
@@ -1392,6 +2778,14 @@
    "eerie",
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "374": {
@@ -1400,6 +2794,13 @@
   "tags": [
    "water",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lake"
   ]
  },
  "375": {
@@ -1408,6 +2809,13 @@
   "tags": [
    "water",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lake"
   ]
  },
  "377": {
@@ -1416,6 +2824,13 @@
   "tags": [
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "glacier"
   ]
  },
  "378": {
@@ -1424,6 +2839,13 @@
   "tags": [
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "glacier"
   ]
  },
  "379": {
@@ -1432,6 +2854,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "380": {
@@ -1440,6 +2871,13 @@
   "tags": [
    "industrial",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "381": {
@@ -1447,6 +2885,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "382": {
@@ -1454,6 +2899,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "383": {
@@ -1462,6 +2914,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "387": {
@@ -1471,6 +2930,14 @@
    "cave",
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "tunnels"
   ]
  },
  "394": {
@@ -1479,6 +2946,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "396": {
@@ -1488,6 +2963,14 @@
    "ruins",
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "397": {
@@ -1496,6 +2979,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "398": {
@@ -1504,6 +2996,15 @@
   "tags": [
    "plains",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
   ]
  },
  "399": {
@@ -1512,6 +3013,15 @@
   "tags": [
    "forest",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city",
+   "lake"
   ]
  },
  "400": {
@@ -1520,6 +3030,14 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
   ]
  },
  "401": {
@@ -1527,6 +3045,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "402": {
@@ -1536,6 +3061,15 @@
    "sky",
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "laboratory",
+   "ruined-city"
   ]
  },
  "403": {
@@ -1543,6 +3077,14 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "battlefield"
   ]
  },
  "404": {
@@ -1551,6 +3093,13 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "405": {
@@ -1559,6 +3108,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "406": {
@@ -1567,6 +3124,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "408": {
@@ -1575,6 +3140,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "409": {
@@ -1583,6 +3157,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "410": {
@@ -1591,6 +3173,14 @@
   "tags": [
    "plains",
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "battlefield"
   ]
  },
  "411": {
@@ -1599,6 +3189,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "412": {
@@ -1607,6 +3206,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "413": {
@@ -1615,6 +3222,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "414": {
@@ -1623,6 +3238,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "415": {
@@ -1631,6 +3255,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "418": {
@@ -1640,6 +3273,13 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "market"
   ]
  },
  "419": {
@@ -1649,6 +3289,13 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "calm",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "420": {
@@ -1657,6 +3304,14 @@
   "tags": [
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "floating-isle"
   ]
  },
  "430": {
@@ -1665,6 +3320,13 @@
   "tags": [
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "432": {
@@ -1672,6 +3334,13 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "436": {
@@ -1681,6 +3350,14 @@
    "seaside",
    "sky",
    "water"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "ocean"
   ]
  },
  "437": {
@@ -1688,6 +3365,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "442": {
@@ -1695,6 +3379,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "443": {
@@ -1702,6 +3393,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "444": {
@@ -1709,6 +3407,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "445": {
@@ -1716,6 +3421,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "446": {
@@ -1723,6 +3435,13 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "447": {
@@ -1732,6 +3451,14 @@
    "seaside",
    "sky",
    "water"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "ocean"
   ]
  },
  "448": {
@@ -1739,6 +3466,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "449": {
@@ -1746,6 +3480,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "450": {
@@ -1753,6 +3494,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "451": {
@@ -1760,6 +3508,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "452": {
@@ -1767,6 +3522,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "453": {
@@ -1775,6 +3537,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "454": {
@@ -1783,6 +3553,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "455": {
@@ -1790,6 +3568,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "457": {
@@ -1798,6 +3583,13 @@
   "tags": [
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "glacier"
   ]
  },
  "458": {
@@ -1807,6 +3599,13 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "market"
   ]
  },
  "459": {
@@ -1816,6 +3615,15 @@
    "sky",
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "laboratory",
+   "ruined-city"
   ]
  },
  "460": {
@@ -1824,6 +3632,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "river"
   ]
  },
  "461": {
@@ -1831,6 +3647,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "464": {
@@ -1839,6 +3662,15 @@
   "tags": [
    "plains",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
   ]
  },
  "465": {
@@ -1846,6 +3678,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "466": {
@@ -1854,6 +3693,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
   ]
  },
  "467": {
@@ -1862,6 +3709,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "468": {
@@ -1870,6 +3726,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "469": {
@@ -1878,6 +3742,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "470": {
@@ -1886,6 +3758,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "471": {
@@ -1894,6 +3775,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "472": {
@@ -1902,6 +3792,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "473": {
@@ -1910,6 +3809,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
   ]
  },
  "474": {
@@ -1918,6 +3825,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "475": {
@@ -1926,6 +3841,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "476": {
@@ -1934,6 +3857,15 @@
   "tags": [
    "forest",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city",
+   "lake"
   ]
  },
  "477": {
@@ -1942,6 +3874,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "478": {
@@ -1950,6 +3891,14 @@
   "tags": [
    "town",
    "mountain"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "ruined-city",
+   "village"
   ]
  },
  "479": {
@@ -1958,6 +3907,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "480": {
@@ -1966,6 +3924,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "481": {
@@ -1974,6 +3941,15 @@
   "tags": [
    "plains",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
   ]
  },
  "482": {
@@ -1982,6 +3958,15 @@
   "tags": [
    "plains",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
   ]
  },
  "483": {
@@ -1990,6 +3975,14 @@
   "tags": [
    "plains",
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "battlefield"
   ]
  },
  "484": {
@@ -1998,6 +3991,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "485": {
@@ -2006,6 +4008,15 @@
   "tags": [
    "forest",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city",
+   "lake"
   ]
  },
  "486": {
@@ -2014,6 +4025,14 @@
   "tags": [
    "plains",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "peaks"
   ]
  },
  "487": {
@@ -2022,6 +4041,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "488": {
@@ -2030,6 +4057,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "489": {
@@ -2038,6 +4073,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "490": {
@@ -2046,6 +4090,14 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "ruined-city"
   ]
  },
  "491": {
@@ -2054,6 +4106,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "492": {
@@ -2061,6 +4122,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "493": {
@@ -2069,6 +4137,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "494": {
@@ -2076,6 +4153,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "495": {
@@ -2084,6 +4168,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
   ]
  },
  "496": {
@@ -2092,6 +4185,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "497": {
@@ -2100,6 +4201,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "498": {
@@ -2108,6 +4218,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "499": {
@@ -2117,6 +4236,13 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "calm",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "500": {
@@ -2125,6 +4251,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "501": {
@@ -2133,6 +4267,14 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
   ]
  },
  "503": {
@@ -2141,6 +4283,15 @@
   "tags": [
    "forest",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city",
+   "lake"
   ]
  },
  "508": {
@@ -2149,6 +4300,13 @@
   "tags": [
    "eerie",
    "sky"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "510": {
@@ -2157,6 +4315,14 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "coast"
   ]
  },
  "511": {
@@ -2165,6 +4331,14 @@
   "tags": [
    "forest",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "grove",
+   "laboratory"
   ]
  },
  "512": {
@@ -2172,6 +4346,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "513": {
@@ -2180,6 +4361,14 @@
   "tags": [
    "castle",
    "snow"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum",
+   "temple"
   ]
  },
  "514": {
@@ -2187,6 +4376,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "515": {
@@ -2194,6 +4390,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "517": {
@@ -2201,6 +4404,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "519": {
@@ -2209,6 +4419,14 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "520": {
@@ -2216,6 +4434,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "521": {
@@ -2223,6 +4448,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "522": {
@@ -2230,6 +4462,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "523": {
@@ -2237,6 +4476,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "524": {
@@ -2244,6 +4490,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "529": {
@@ -2251,6 +4504,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "530": {
@@ -2258,6 +4518,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "531": {
@@ -2265,6 +4532,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "532": {
@@ -2272,6 +4546,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "533": {
@@ -2280,6 +4561,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "552": {
@@ -2288,6 +4577,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "556": {
@@ -2296,6 +4593,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "557": {
@@ -2304,6 +4608,14 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "ruined-city"
   ]
  },
  "558": {
@@ -2312,6 +4624,13 @@
   "tags": [
    "water",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "559": {
@@ -2321,6 +4640,13 @@
    "mountain",
    "sky",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "560": {
@@ -2328,6 +4654,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "floating-isle"
   ]
  },
  "561": {
@@ -2336,6 +4670,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "562": {
@@ -2344,6 +4686,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "563": {
@@ -2352,6 +4702,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "564": {
@@ -2360,6 +4718,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "565": {
@@ -2368,6 +4734,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "566": {
@@ -2377,6 +4751,13 @@
    "mountain",
    "sky",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "569": {
@@ -2386,6 +4767,13 @@
    "mountain",
    "sky",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "570": {
@@ -2394,6 +4782,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "576": {
@@ -2401,6 +4797,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "577": {
@@ -2408,6 +4811,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "578": {
@@ -2416,6 +4826,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "580": {
@@ -2424,6 +4841,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "581": {
@@ -2432,6 +4856,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "582": {
@@ -2440,6 +4871,14 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "583": {
@@ -2448,6 +4887,14 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "584": {
@@ -2456,6 +4903,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "585": {
@@ -2464,6 +4918,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "586": {
@@ -2472,6 +4933,14 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "587": {
@@ -2480,6 +4949,14 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "588": {
@@ -2488,6 +4965,14 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "592": {
@@ -2495,6 +4980,13 @@
   "kind": "dungeon",
   "tags": [
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava"
   ]
  },
  "593": {
@@ -2503,6 +4995,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "594": {
@@ -2511,6 +5011,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "595": {
@@ -2519,6 +5027,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "596": {
@@ -2527,6 +5043,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "597": {
@@ -2535,6 +5059,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "598": {
@@ -2543,6 +5075,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "599": {
@@ -2551,6 +5091,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "600": {
@@ -2559,6 +5107,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "601": {
@@ -2567,6 +5123,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "602": {
@@ -2575,6 +5139,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "603": {
@@ -2583,6 +5155,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "604": {
@@ -2591,6 +5171,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "605": {
@@ -2599,6 +5187,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "606": {
@@ -2607,6 +5203,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "607": {
@@ -2615,6 +5219,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "612": {
@@ -2624,6 +5236,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "613": {
@@ -2632,6 +5253,15 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
   ]
  },
  "614": {
@@ -2640,6 +5270,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "river",
+   "farmland",
+   "village"
   ]
  },
  "617": {
@@ -2648,6 +5287,14 @@
   "tags": [
    "volcano",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "620": {
@@ -2656,6 +5303,15 @@
   "tags": [
    "mountain",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "peaks",
+   "canyon",
+   "factory"
   ]
  },
  "621": {
@@ -2664,6 +5320,15 @@
   "tags": [
    "water",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "palace",
+   "highlands"
   ]
  },
  "622": {
@@ -2671,6 +5336,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "624": {
@@ -2678,6 +5351,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "625": {
@@ -2685,6 +5365,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "627": {
@@ -2693,6 +5380,14 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "tower"
   ]
  },
  "628": {
@@ -2701,6 +5396,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "634": {
@@ -2709,6 +5412,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "river",
+   "farmland",
+   "village"
   ]
  },
  "635": {
@@ -2718,6 +5430,14 @@
    "town",
    "castle",
    "mountain"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "highlands"
   ]
  },
  "637": {
@@ -2725,6 +5445,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "638": {
@@ -2732,6 +5459,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "640": {
@@ -2741,6 +5475,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "641": {
@@ -2749,6 +5492,14 @@
   "tags": [
    "town",
    "seaside"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "beach"
   ]
  },
  "647": {
@@ -2758,6 +5509,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "648": {
@@ -2767,6 +5527,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "656": {
@@ -2774,6 +5543,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "657": {
@@ -2782,6 +5558,15 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
   ]
  },
  "658": {
@@ -2790,6 +5575,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "659": {
@@ -2799,6 +5591,14 @@
    "town",
    "castle",
    "mountain"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "highlands"
   ]
  },
  "662": {
@@ -2807,6 +5607,13 @@
   "tags": [
    "castle",
    "seaside"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "663": {
@@ -2815,6 +5622,14 @@
   "tags": [
    "ruins",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "temple",
+   "peaks"
   ]
  },
  "664": {
@@ -2823,6 +5638,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "665": {
@@ -2831,6 +5654,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "666": {
@@ -2839,6 +5670,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "melancholy"
+  ],
+  "sub": [
+   "market",
+   "slums"
   ]
  },
  "667": {
@@ -2847,6 +5686,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "668": {
@@ -2854,6 +5701,13 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
   ]
  },
  "669": {
@@ -2862,6 +5716,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "670": {
@@ -2871,6 +5734,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "671": {
@@ -2880,6 +5752,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "672": {
@@ -2888,6 +5769,15 @@
   "tags": [
    "crystal",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
   ]
  },
  "673": {
@@ -2896,6 +5786,14 @@
   "tags": [
    "volcano",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "674": {
@@ -2903,6 +5801,13 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "675": {
@@ -2911,6 +5816,14 @@
   "tags": [
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
   ]
  },
  "676": {
@@ -2919,6 +5832,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "677": {
@@ -2926,6 +5846,13 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "678": {
@@ -2935,6 +5862,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "679": {
@@ -2943,6 +5879,14 @@
   "tags": [
    "castle",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "airship"
   ]
  },
  "682": {
@@ -2951,6 +5895,14 @@
   "tags": [
    "town",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "farmland"
   ]
  },
  "684": {
@@ -2959,6 +5911,15 @@
   "tags": [
    "water",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "palace",
+   "highlands"
   ]
  },
  "685": {
@@ -2967,6 +5928,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "river",
+   "farmland",
+   "village"
   ]
  },
  "686": {
@@ -2975,6 +5945,15 @@
   "tags": [
    "water",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "palace",
+   "highlands"
   ]
  },
  "687": {
@@ -2983,6 +5962,15 @@
   "tags": [
    "water",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "palace",
+   "highlands"
   ]
  },
  "688": {
@@ -2990,6 +5978,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "690": {
@@ -2998,6 +5994,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "691": {
@@ -3006,6 +6009,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "692": {
@@ -3014,6 +6024,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "693": {
@@ -3022,6 +6039,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "694": {
@@ -3030,6 +6054,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "695": {
@@ -3038,6 +6069,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "696": {
@@ -3046,6 +6084,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "697": {
@@ -3054,6 +6099,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "698": {
@@ -3062,6 +6114,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "699": {
@@ -3070,6 +6129,14 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "700": {
@@ -3079,6 +6146,13 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "market"
   ]
  },
  "702": {
@@ -3086,6 +6160,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "floating-isle"
   ]
  },
  "703": {
@@ -3095,6 +6177,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "704": {
@@ -3103,6 +6194,13 @@
   "tags": [
    "industrial",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "705": {
@@ -3111,6 +6209,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "melancholy"
+  ],
+  "sub": [
+   "market",
+   "slums"
   ]
  },
  "706": {
@@ -3119,6 +6225,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "melancholy"
+  ],
+  "sub": [
+   "market",
+   "slums"
   ]
  },
  "707": {
@@ -3127,6 +6241,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "709": {
@@ -3135,6 +6256,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "710": {
@@ -3143,6 +6273,14 @@
   "tags": [
    "city",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "711": {
@@ -3151,6 +6289,15 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
   ]
  },
  "712": {
@@ -3159,6 +6306,14 @@
   "tags": [
    "water",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
   ]
  },
  "713": {
@@ -3166,6 +6321,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "714": {
@@ -3174,6 +6337,15 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "canyon",
+   "graveyard"
   ]
  },
  "715": {
@@ -3182,6 +6354,14 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
   ]
  },
  "716": {
@@ -3190,6 +6370,15 @@
   "tags": [
    "mountain",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "peaks",
+   "canyon",
+   "factory"
   ]
  },
  "717": {
@@ -3198,6 +6387,13 @@
   "tags": [
    "seaside",
    "industrial"
+  ],
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "harbor"
   ]
  },
  "718": {
@@ -3205,6 +6401,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "719": {
@@ -3212,6 +6416,14 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "lake"
   ]
  },
  "720": {
@@ -3219,6 +6431,14 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "lake"
   ]
  },
  "721": {
@@ -3228,6 +6448,14 @@
    "ruins",
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "722": {
@@ -3236,6 +6464,14 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
   ]
  },
  "723": {
@@ -3243,6 +6479,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "724": {
@@ -3251,6 +6495,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "725": {
@@ -3259,6 +6510,14 @@
   "tags": [
    "water",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
   ]
  },
  "726": {
@@ -3267,6 +6526,15 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
   ]
  },
  "730": {
@@ -3274,6 +6542,13 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "732": {
@@ -3281,6 +6556,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "meadow"
   ]
  },
  "734": {
@@ -3289,6 +6572,14 @@
   "tags": [
    "city",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
   ]
  },
  "739": {
@@ -3297,6 +6588,14 @@
   "tags": [
    "town",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "farmland"
   ]
  },
  "743": {
@@ -3305,6 +6604,13 @@
   "tags": [
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "746": {
@@ -3313,6 +6619,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "748": {
@@ -3322,6 +6636,14 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ship",
+   "factory"
   ]
  },
  "749": {
@@ -3331,6 +6653,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "750": {
@@ -3340,6 +6669,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "751": {
@@ -3349,6 +6685,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "752": {
@@ -3358,6 +6701,14 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ship",
+   "factory"
   ]
  },
  "753": {
@@ -3367,6 +6718,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "754": {
@@ -3376,6 +6734,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "755": {
@@ -3385,6 +6750,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "756": {
@@ -3393,6 +6765,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "757": {
@@ -3401,6 +6780,15 @@
   "tags": [
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
   ]
  },
  "758": {
@@ -3409,6 +6797,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "759": {
@@ -3417,6 +6813,14 @@
   "tags": [
    "town",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "farmland"
   ]
  },
  "760": {
@@ -3426,6 +6830,15 @@
    "mountain",
    "forest",
    "ruins"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
   ]
  },
  "761": {
@@ -3434,6 +6847,13 @@
   "tags": [
    "mountain",
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "steppe"
   ]
  },
  "762": {
@@ -3442,6 +6862,13 @@
   "tags": [
    "mountain",
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "steppe"
   ]
  },
  "763": {
@@ -3449,6 +6876,14 @@
   "kind": "field",
   "tags": [
    "snow"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "tundra",
+   "glacier"
   ]
  },
  "768": {
@@ -3457,6 +6892,14 @@
   "tags": [
    "ruins",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "temple",
+   "grove"
   ]
  },
  "770": {
@@ -3465,6 +6908,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "771": {
@@ -3473,6 +6924,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "772": {
@@ -3481,6 +6940,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "773": {
@@ -3489,6 +6956,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "774": {
@@ -3497,6 +6972,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "775": {
@@ -3505,6 +6988,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "776": {
@@ -3513,6 +7004,14 @@
   "tags": [
    "ruins",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "tower",
+   "ruined-city"
   ]
  },
  "778": {
@@ -3521,6 +7020,14 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
   ]
  },
  "779": {
@@ -3529,6 +7036,14 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
   ]
  },
  "780": {
@@ -3537,6 +7052,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "782": {
@@ -3545,6 +7068,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "783": {
@@ -3553,6 +7084,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "784": {
@@ -3561,6 +7100,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "785": {
@@ -3569,6 +7116,14 @@
   "tags": [
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
   ]
  },
  "786": {
@@ -3577,6 +7132,14 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
   ]
  },
  "788": {
@@ -3585,6 +7148,14 @@
   "tags": [
    "forest",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "grove",
+   "laboratory"
   ]
  },
  "790": {
@@ -3593,6 +7164,14 @@
   "tags": [
    "city",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
   ]
  },
  "794": {
@@ -3601,6 +7180,14 @@
   "tags": [
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "temple",
+   "tunnels"
   ]
  },
  "795": {
@@ -3608,6 +7195,14 @@
   "kind": "field",
   "tags": [
    "volcano"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "lava",
+   "peaks"
   ]
  },
  "797": {
@@ -3615,6 +7210,14 @@
   "kind": "field",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
   ]
  },
  "798": {
@@ -3623,6 +7226,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "799": {
@@ -3631,6 +7241,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "800": {
@@ -3639,6 +7256,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "801": {
@@ -3647,6 +7271,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "802": {
@@ -3655,6 +7286,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "803": {
@@ -3663,6 +7301,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "804": {
@@ -3671,6 +7316,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "805": {
@@ -3679,6 +7331,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "806": {
@@ -3686,6 +7345,13 @@
   "kind": "dungeon",
   "tags": [
    "seaside"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "coast"
   ]
  },
  "807": {
@@ -3694,6 +7360,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "808": {
@@ -3702,6 +7375,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "812": {
@@ -3710,6 +7390,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "813": {
@@ -3718,6 +7405,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "meadow",
+   "village"
   ]
  },
  "814": {
@@ -3726,6 +7422,15 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "highlands",
+   "mine"
   ]
  },
  "815": {
@@ -3733,6 +7438,15 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "dunes",
+   "wasteland",
+   "mine"
   ]
  },
  "816": {
@@ -3741,6 +7455,15 @@
   "tags": [
    "crystal",
    "forest"
+  ],
+  "mood": [
+   "cheerful",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "palace",
+   "lake"
   ]
  },
  "817": {
@@ -3749,6 +7472,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "818": {
@@ -3757,6 +7488,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
   ]
  },
  "819": {
@@ -3765,6 +7504,14 @@
   "tags": [
    "city",
    "crystal"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "tower",
+   "market"
   ]
  },
  "820": {
@@ -3773,6 +7520,15 @@
   "tags": [
    "city",
    "castle"
+  ],
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "slums",
+   "tower"
   ]
  },
  "821": {
@@ -3781,6 +7537,15 @@
   "tags": [
    "crystal",
    "forest"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "grove",
+   "lake",
+   "palace"
   ]
  },
  "822": {
@@ -3789,6 +7554,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "823": {
@@ -3797,6 +7570,15 @@
   "tags": [
    "ruins",
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "temple",
+   "ruined-city"
   ]
  },
  "824": {
@@ -3805,6 +7587,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "ocean",
+   "temple"
   ]
  },
  "825": {
@@ -3813,6 +7603,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "ocean",
+   "temple"
   ]
  },
  "826": {
@@ -3821,6 +7619,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "temple"
   ]
  },
  "827": {
@@ -3829,6 +7634,14 @@
   "tags": [
    "water",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "glacier",
+   "floating-isle"
   ]
  },
  "830": {
@@ -3837,6 +7650,14 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "battlefield",
+   "factory"
   ]
  },
  "832": {
@@ -3845,13 +7666,25 @@
   "tags": [
    "city",
    "desert"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "833": {
   "name": "The Howling Eye",
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "834": {
@@ -3859,6 +7692,13 @@
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "836": {
@@ -3867,6 +7707,15 @@
   "tags": [
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "tunnels",
+   "ruined-city"
   ]
  },
  "837": {
@@ -3875,6 +7724,14 @@
   "tags": [
    "eerie",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "temple"
   ]
  },
  "838": {
@@ -3884,6 +7741,14 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "ruined-city",
+   "ocean"
   ]
  },
  "839": {
@@ -3892,6 +7757,14 @@
   "tags": [
    "forest",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
   ]
  },
  "840": {
@@ -3899,6 +7772,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
   ]
  },
  "841": {
@@ -3907,6 +7788,14 @@
   "tags": [
    "ruins",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "ocean"
   ]
  },
  "845": {
@@ -3915,6 +7804,13 @@
   "tags": [
    "forest",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "846": {
@@ -3923,6 +7819,14 @@
   "tags": [
    "crystal",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "palace"
   ]
  },
  "847": {
@@ -3931,6 +7835,13 @@
   "tags": [
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "848": {
@@ -3939,6 +7850,14 @@
   "tags": [
    "crystal",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "palace"
   ]
  },
  "849": {
@@ -3946,6 +7865,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "850": {
@@ -3953,6 +7879,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "851": {
@@ -3961,6 +7894,13 @@
   "tags": [
    "water",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
   ]
  },
  "852": {
@@ -3969,6 +7909,13 @@
   "tags": [
    "mountain",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "853": {
@@ -3976,6 +7923,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "854": {
@@ -3983,6 +7937,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "855": {
@@ -3991,6 +7952,13 @@
   "tags": [
    "water",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
   ]
  },
  "856": {
@@ -3999,6 +7967,13 @@
   "tags": [
    "mountain",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "857": {
@@ -4006,6 +7981,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "858": {
@@ -4014,6 +7996,13 @@
   "tags": [
    "forest",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "860": {
@@ -4021,6 +8010,15 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "dunes",
+   "wasteland",
+   "mine"
   ]
  },
  "861": {
@@ -4029,6 +8027,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "meadow",
+   "village"
   ]
  },
  "862": {
@@ -4037,6 +8044,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "meadow",
+   "village"
   ]
  },
  "863": {
@@ -4045,6 +8061,15 @@
   "tags": [
    "city",
    "castle"
+  ],
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "slums",
+   "tower"
   ]
  },
  "864": {
@@ -4053,6 +8078,15 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "highlands",
+   "mine"
   ]
  },
  "865": {
@@ -4061,6 +8095,13 @@
   "tags": [
    "town",
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "river"
   ]
  },
  "866": {
@@ -4069,6 +8110,15 @@
   "tags": [
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
   ]
  },
  "867": {
@@ -4077,6 +8127,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
   ]
  },
  "868": {
@@ -4085,6 +8144,15 @@
   "tags": [
    "mountain",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "peaks",
+   "canyon",
+   "factory"
   ]
  },
  "869": {
@@ -4093,6 +8161,15 @@
   "tags": [
    "crystal",
    "forest"
+  ],
+  "mood": [
+   "cheerful",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "palace",
+   "lake"
   ]
  },
  "870": {
@@ -4101,6 +8178,15 @@
   "tags": [
    "seaside",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "highlands",
+   "mine"
   ]
  },
  "871": {
@@ -4109,6 +8195,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "872": {
@@ -4116,6 +8210,15 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "dunes",
+   "wasteland",
+   "mine"
   ]
  },
  "873": {
@@ -4124,6 +8227,13 @@
   "tags": [
    "forest",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "874": {
@@ -4132,6 +8242,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "875": {
@@ -4140,6 +8258,14 @@
   "tags": [
    "forest",
    "swamp"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "877": {
@@ -4148,6 +8274,15 @@
   "tags": [
    "plains",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "meadow",
+   "village"
   ]
  },
  "879": {
@@ -4156,6 +8291,14 @@
   "tags": [
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "palace"
   ]
  },
  "880": {
@@ -4164,6 +8307,14 @@
   "tags": [
    "crystal",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "palace"
   ]
  },
  "881": {
@@ -4172,6 +8323,13 @@
   "tags": [
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "882": {
@@ -4179,6 +8337,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
   ]
  },
  "884": {
@@ -4187,6 +8353,14 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "deep-forest"
   ]
  },
  "885": {
@@ -4195,6 +8369,13 @@
   "tags": [
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "886": {
@@ -4204,6 +8385,14 @@
    "city",
    "snow",
    "castle"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "palace",
+   "highlands"
   ]
  },
  "896": {
@@ -4211,6 +8400,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
   ]
  },
  "897": {
@@ -4219,6 +8416,14 @@
   "tags": [
    "industrial",
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
   ]
  },
  "898": {
@@ -4227,6 +8432,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
   ]
  },
  "901": {
@@ -4234,6 +8447,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "902": {
@@ -4242,6 +8462,14 @@
   "tags": [
    "industrial",
    "plains"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "battlefield"
   ]
  },
  "903": {
@@ -4250,6 +8478,14 @@
   "tags": [
    "volcano",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
   ]
  },
  "904": {
@@ -4257,6 +8493,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "905": {
@@ -4265,6 +8508,14 @@
   "tags": [
    "snow",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "glacier",
+   "tundra"
   ]
  },
  "906": {
@@ -4273,6 +8524,14 @@
   "tags": [
    "industrial",
    "plains"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "battlefield"
   ]
  },
  "907": {
@@ -4281,6 +8540,14 @@
   "tags": [
    "volcano",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
   ]
  },
  "908": {
@@ -4288,6 +8555,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "909": {
@@ -4296,6 +8570,14 @@
   "tags": [
    "snow",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "glacier",
+   "tundra"
   ]
  },
  "912": {
@@ -4304,6 +8586,14 @@
   "tags": [
    "industrial",
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
   ]
  },
  "913": {
@@ -4311,6 +8601,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "tower"
   ]
  },
  "916": {
@@ -4318,6 +8615,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "battlefield"
   ]
  },
  "917": {
@@ -4325,6 +8630,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
   ]
  },
  "918": {
@@ -4333,6 +8646,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
   ]
  },
  "920": {
@@ -4341,6 +8662,14 @@
   "tags": [
    "ruins",
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield",
+   "steppe"
   ]
  },
  "922": {
@@ -4349,6 +8678,13 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "923": {
@@ -4357,6 +8693,13 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "924": {
@@ -4364,6 +8707,13 @@
   "kind": "dungeon",
   "tags": [
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "928": {
@@ -4371,6 +8721,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
   ]
  },
  "929": {
@@ -4378,6 +8736,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "931": {
@@ -4386,6 +8751,13 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "932": {
@@ -4394,6 +8766,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
   ]
  },
  "933": {
@@ -4402,6 +8782,14 @@
   "tags": [
    "cave",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
   ]
  },
  "934": {
@@ -4410,6 +8798,14 @@
   "tags": [
    "industrial",
    "seaside"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "harbor",
+   "factory"
   ]
  },
  "935": {
@@ -4418,6 +8814,14 @@
   "tags": [
    "industrial",
    "seaside"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "harbor",
+   "factory"
   ]
  },
  "936": {
@@ -4426,6 +8830,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "temple"
   ]
  },
  "937": {
@@ -4434,6 +8846,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "temple"
   ]
  },
  "938": {
@@ -4442,6 +8862,14 @@
   "tags": [
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "canyon",
+   "ruined-city"
   ]
  },
  "939": {
@@ -4449,6 +8877,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "942": {
@@ -4456,6 +8891,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "943": {
@@ -4464,6 +8906,14 @@
   "tags": [
    "crystal",
    "sky"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "floating-isle",
+   "sanctum"
   ]
  },
  "944": {
@@ -4472,6 +8922,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "945": {
@@ -4479,6 +8936,14 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum",
+   "meadow"
   ]
  },
  "946": {
@@ -4486,6 +8951,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "947": {
@@ -4494,6 +8966,14 @@
   "tags": [
    "crystal",
    "sky"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "floating-isle",
+   "sanctum"
   ]
  },
  "948": {
@@ -4502,6 +8982,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "949": {
@@ -4509,6 +8996,14 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum",
+   "meadow"
   ]
  },
  "950": {
@@ -4517,6 +9012,13 @@
   "tags": [
    "industrial",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "951": {
@@ -4525,6 +9027,13 @@
   "tags": [
    "industrial",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "952": {
@@ -4533,6 +9042,13 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tower"
   ]
  },
  "954": {
@@ -4541,6 +9057,13 @@
   "tags": [
    "mountain",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "956": {
@@ -4549,6 +9072,14 @@
   "tags": [
    "plains",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "laboratory",
+   "meadow"
   ]
  },
  "957": {
@@ -4557,6 +9088,14 @@
   "tags": [
    "jungle",
    "seaside"
+  ],
+  "mood": [
+   "cheerful",
+   "lively"
+  ],
+  "sub": [
+   "coast",
+   "deep-forest"
   ]
  },
  "958": {
@@ -4565,6 +9104,14 @@
   "tags": [
    "snow",
    "industrial"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "tundra",
+   "ruined-city"
   ]
  },
  "959": {
@@ -4574,6 +9121,13 @@
    "eerie",
    "crystal",
    "industrial"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland"
   ]
  },
  "960": {
@@ -4582,6 +9136,14 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city"
   ]
  },
  "961": {
@@ -4591,6 +9153,15 @@
    "forest",
    "crystal",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "grove",
+   "laboratory"
   ]
  },
  "962": {
@@ -4600,6 +9171,13 @@
    "city",
    "seaside",
    "mountain"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "963": {
@@ -4609,6 +9187,14 @@
    "city",
    "seaside",
    "desert"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "market",
+   "harbor"
   ]
  },
  "966": {
@@ -4617,6 +9203,13 @@
   "tags": [
    "crystal",
    "sky"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower"
   ]
  },
  "967": {
@@ -4625,6 +9218,14 @@
   "tags": [
    "industrial",
    "seaside"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "harbor",
+   "factory"
   ]
  },
  "969": {
@@ -4632,6 +9233,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower",
+   "factory"
   ]
  },
  "970": {
@@ -4640,6 +9249,14 @@
   "tags": [
    "jungle",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "973": {
@@ -4648,6 +9265,14 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "wasteland"
   ]
  },
  "974": {
@@ -4656,6 +9281,14 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "laboratory",
+   "tower"
   ]
  },
  "975": {
@@ -4664,6 +9297,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "battlefield"
   ]
  },
  "976": {
@@ -4672,6 +9313,13 @@
   "tags": [
    "industrial",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "978": {
@@ -4680,6 +9328,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "979": {
@@ -4689,6 +9344,13 @@
    "town",
    "snow",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "986": {
@@ -4697,6 +9359,14 @@
   "tags": [
    "industrial",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
   ]
  },
  "991": {
@@ -4705,6 +9375,13 @@
   "tags": [
    "industrial",
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
   ]
  },
  "992": {
@@ -4713,6 +9390,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "993": {
@@ -4721,6 +9405,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "995": {
@@ -4729,6 +9420,13 @@
   "tags": [
    "crystal",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "996": {
@@ -4737,6 +9435,13 @@
   "tags": [
    "crystal",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "997": {
@@ -4744,6 +9449,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "998": {
@@ -4751,6 +9463,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1000": {
@@ -4758,6 +9477,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1002": {
@@ -4767,6 +9493,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1003": {
@@ -4776,6 +9509,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1004": {
@@ -4785,6 +9525,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1005": {
@@ -4794,6 +9541,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1006": {
@@ -4803,6 +9557,14 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "lava"
   ]
  },
  "1007": {
@@ -4812,6 +9574,14 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "lava"
   ]
  },
  "1008": {
@@ -4821,6 +9591,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1009": {
@@ -4830,6 +9607,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1011": {
@@ -4838,6 +9622,14 @@
   "tags": [
    "snow",
    "industrial"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "tundra",
+   "ruined-city"
   ]
  },
  "1014": {
@@ -4847,6 +9639,15 @@
    "forest",
    "crystal",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "grove",
+   "laboratory"
   ]
  },
  "1015": {
@@ -4854,6 +9655,13 @@
   "kind": "field",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
   ]
  },
  "1016": {
@@ -4863,6 +9671,14 @@
    "cave",
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "tunnels"
   ]
  },
  "1017": {
@@ -4871,6 +9687,14 @@
   "tags": [
    "ruins",
    "mountain"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "temple",
+   "grove"
   ]
  },
  "1018": {
@@ -4879,6 +9703,14 @@
   "tags": [
    "castle",
    "snow"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum",
+   "temple"
   ]
  },
  "1019": {
@@ -4887,6 +9719,15 @@
   "tags": [
    "mountain",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "peaks",
+   "canyon",
+   "factory"
   ]
  },
  "1021": {
@@ -4895,6 +9736,14 @@
   "tags": [
    "castle",
    "snow"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "ruined-city"
   ]
  },
  "1022": {
@@ -4903,6 +9752,14 @@
   "tags": [
    "forest",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "grove",
+   "laboratory"
   ]
  },
  "1023": {
@@ -4911,6 +9768,15 @@
   "tags": [
    "plains",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
   ]
  },
  "1025": {
@@ -4920,6 +9786,13 @@
    "ruins",
    "eerie",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1027": {
@@ -4928,6 +9801,14 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city"
   ]
  },
  "1028": {
@@ -4936,6 +9817,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1029": {
@@ -4943,6 +9831,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1030": {
@@ -4951,6 +9846,13 @@
   "tags": [
    "crystal",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1036": {
@@ -4960,6 +9862,14 @@
    "cave",
    "seaside",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "tunnels"
   ]
  },
  "1037": {
@@ -4969,6 +9879,14 @@
    "eerie",
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
   ]
  },
  "1038": {
@@ -4976,6 +9894,13 @@
   "kind": "dungeon",
   "tags": [
    "cave"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "mine",
+   "tunnels"
   ]
  },
  "1039": {
@@ -4984,6 +9909,13 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1040": {
@@ -4992,6 +9924,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1041": {
@@ -5000,6 +9939,13 @@
   "tags": [
    "cave",
    "swamp"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1042": {
@@ -5009,6 +9955,14 @@
    "castle",
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
   ]
  },
  "1043": {
@@ -5017,6 +9971,13 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1044": {
@@ -5025,6 +9986,13 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1045": {
@@ -5032,6 +10000,13 @@
   "kind": "dungeon",
   "tags": [
    "volcano"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava"
   ]
  },
  "1046": {
@@ -5040,6 +10015,13 @@
   "tags": [
    "mountain",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "1047": {
@@ -5047,6 +10029,13 @@
   "kind": "dungeon",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
   ]
  },
  "1048": {
@@ -5055,6 +10044,13 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "1049": {
@@ -5063,6 +10059,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
   ]
  },
  "1050": {
@@ -5071,6 +10075,13 @@
   "tags": [
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
   ]
  },
  "1051": {
@@ -5078,6 +10089,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower",
+   "factory"
   ]
  },
  "1054": {
@@ -5086,6 +10105,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "sanctum"
   ]
  },
  "1055": {
@@ -5094,6 +10121,15 @@
   "tags": [
    "seaside",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "beach",
+   "meadow",
+   "farmland"
   ]
  },
  "1056": {
@@ -5102,6 +10138,13 @@
   "tags": [
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
   ]
  },
  "1062": {
@@ -5110,6 +10153,14 @@
   "tags": [
    "snow",
    "cave"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "glacier",
+   "tunnels"
   ]
  },
  "1063": {
@@ -5118,6 +10169,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "lake",
+   "airship"
   ]
  },
  "1064": {
@@ -5126,6 +10185,14 @@
   "tags": [
    "volcano",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "1065": {
@@ -5134,6 +10201,14 @@
   "tags": [
    "mountain",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "1066": {
@@ -5142,6 +10217,14 @@
   "tags": [
    "castle",
    "snow"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum",
+   "temple"
   ]
  },
  "1067": {
@@ -5149,6 +10232,13 @@
   "kind": "dungeon",
   "tags": [
    "forest"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
   ]
  },
  "1068": {
@@ -5158,6 +10248,13 @@
    "mountain",
    "sky",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "1069": {
@@ -5167,6 +10264,13 @@
    "cave",
    "ruins",
    "desert"
+  ],
+  "mood": [
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
   ]
  },
  "1070": {
@@ -5175,6 +10279,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1071": {
@@ -5183,6 +10294,13 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "1072": {
@@ -5191,6 +10309,13 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "1075": {
@@ -5200,6 +10325,14 @@
    "cave",
    "ruins",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
   ]
  },
  "1076": {
@@ -5209,6 +10342,14 @@
    "cave",
    "ruins",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
   ]
  },
  "1079": {
@@ -5217,6 +10358,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1081": {
@@ -5225,6 +10373,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1082": {
@@ -5233,6 +10388,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1083": {
@@ -5241,6 +10403,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1084": {
@@ -5249,6 +10418,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1085": {
@@ -5257,6 +10433,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1086": {
@@ -5265,6 +10448,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1087": {
@@ -5273,6 +10463,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1088": {
@@ -5281,6 +10478,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1089": {
@@ -5289,6 +10493,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1091": {
@@ -5297,6 +10508,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1092": {
@@ -5305,6 +10523,13 @@
   "tags": [
    "sky",
    "mountain"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
   ]
  },
  "1093": {
@@ -5313,6 +10538,13 @@
   "tags": [
    "castle",
    "eerie"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1095": {
@@ -5321,6 +10553,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "1096": {
@@ -5329,6 +10569,14 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
   ]
  },
  "1097": {
@@ -5337,6 +10585,14 @@
   "tags": [
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "tunnels"
   ]
  },
  "1099": {
@@ -5346,6 +10602,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1100": {
@@ -5355,6 +10618,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1101": {
@@ -5364,6 +10634,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1102": {
@@ -5373,6 +10650,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1103": {
@@ -5382,6 +10666,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1104": {
@@ -5391,6 +10682,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1105": {
@@ -5400,6 +10698,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1106": {
@@ -5409,6 +10714,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1107": {
@@ -5418,6 +10730,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1108": {
@@ -5427,6 +10746,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1109": {
@@ -5435,6 +10761,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "1110": {
@@ -5442,6 +10775,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "floating-isle"
   ]
  },
  "1111": {
@@ -5450,6 +10791,13 @@
   "tags": [
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower"
   ]
  },
  "1112": {
@@ -5459,6 +10807,14 @@
    "mountain",
    "sky",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "floating-isle",
+   "temple"
   ]
  },
  "1113": {
@@ -5467,6 +10823,13 @@
   "tags": [
    "ruins",
    "sky"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
   ]
  },
  "1114": {
@@ -5474,6 +10837,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "battlefield"
   ]
  },
  "1115": {
@@ -5481,6 +10851,14 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower",
+   "factory"
   ]
  },
  "1118": {
@@ -5489,6 +10867,14 @@
   "tags": [
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum",
+   "palace"
   ]
  },
  "1119": {
@@ -5497,6 +10883,14 @@
   "tags": [
    "ruins",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "tunnels"
   ]
  },
  "1120": {
@@ -5505,6 +10899,14 @@
   "tags": [
    "snow",
    "industrial"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "tundra",
+   "ruined-city"
   ]
  },
  "1122": {
@@ -5513,6 +10915,13 @@
   "tags": [
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1123": {
@@ -5520,6 +10929,13 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "1124": {
@@ -5529,6 +10945,13 @@
    "ruins",
    "eerie",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1126": {
@@ -5537,6 +10960,13 @@
   "tags": [
    "water",
    "seaside"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "coast"
   ]
  },
  "1137": {
@@ -5545,6 +10975,14 @@
   "tags": [
    "mountain",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "1140": {
@@ -5552,14 +10990,24 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
-  ]
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": []
  },
  "1141": {
   "name": "The Voidcast Dais",
   "kind": "dungeon",
   "tags": [
    "eerie"
-  ]
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": []
  },
  "1142": {
   "name": "The Sirensong Sea",
@@ -5568,6 +11016,14 @@
    "seaside",
    "water",
    "eerie"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ship",
+   "coast"
   ]
  },
  "1143": {
@@ -5576,6 +11032,15 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "canyon",
+   "graveyard"
   ]
  },
  "1144": {
@@ -5583,6 +11048,13 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1145": {
@@ -5591,6 +11063,12 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1146": {
@@ -5598,6 +11076,14 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "battlefield"
   ]
  },
  "1147": {
@@ -5606,6 +11092,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1148": {
@@ -5614,6 +11107,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1149": {
@@ -5622,6 +11122,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1150": {
@@ -5630,6 +11137,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1151": {
@@ -5638,6 +11152,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1152": {
@@ -5646,6 +11167,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1153": {
@@ -5654,6 +11182,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1154": {
@@ -5662,6 +11197,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1155": {
@@ -5670,6 +11212,14 @@
   "tags": [
    "mountain",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "1156": {
@@ -5678,6 +11228,14 @@
   "tags": [
    "mountain",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "1158": {
@@ -5686,6 +11244,13 @@
   "tags": [
    "castle",
    "crystal"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1159": {
@@ -5693,7 +11258,12 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
-  ]
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": []
  },
  "1164": {
   "name": "The Lunar Subterrane",
@@ -5701,6 +11271,13 @@
   "tags": [
    "crystal",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1167": {
@@ -5709,6 +11286,15 @@
   "tags": [
    "jungle",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "river",
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "1168": {
@@ -5717,7 +11303,12 @@
   "tags": [
    "sky",
    "crystal"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": []
  },
  "1169": {
   "name": "The Abyssal Fracture",
@@ -5725,7 +11316,12 @@
   "tags": [
    "sky",
    "crystal"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": []
  },
  "1172": {
   "name": "The Drowned City of Skalla",
@@ -5733,6 +11329,14 @@
   "tags": [
    "water",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "ocean"
   ]
  },
  "1174": {
@@ -5741,6 +11345,14 @@
   "tags": [
    "industrial",
    "castle"
+  ],
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "battlefield",
+   "factory"
   ]
  },
  "1176": {
@@ -5749,6 +11361,14 @@
   "tags": [
    "seaside",
    "jungle"
+  ],
+  "mood": [
+   "cheerful",
+   "mysterious"
+  ],
+  "sub": [
+   "beach",
+   "deep-forest"
   ]
  },
  "1177": {
@@ -5757,6 +11377,13 @@
   "tags": [
    "water",
    "seaside"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "coast"
   ]
  },
  "1178": {
@@ -5764,6 +11391,14 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "sanctum"
   ]
  },
  "1179": {
@@ -5772,6 +11407,14 @@
   "tags": [
    "seaside",
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "beach",
+   "temple"
   ]
  },
  "1180": {
@@ -5780,6 +11423,14 @@
   "tags": [
    "seaside",
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "beach",
+   "temple"
   ]
  },
  "1181": {
@@ -5788,13 +11439,26 @@
   "tags": [
    "sky",
    "crystal"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": []
  },
  "1182": {
   "name": "Thaleia",
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "sanctum"
   ]
  },
  "1184": {
@@ -5803,6 +11467,13 @@
   "tags": [
    "crystal",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1185": {
@@ -5812,6 +11483,14 @@
    "city",
    "jungle",
    "seaside"
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
   ]
  },
  "1186": {
@@ -5821,6 +11500,13 @@
    "city",
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "lively",
+   "mysterious"
+  ],
+  "sub": [
+   "tower"
   ]
  },
  "1187": {
@@ -5829,6 +11515,15 @@
   "tags": [
    "forest",
    "mountain"
+  ],
+  "mood": [
+   "calm",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "peaks",
+   "village"
   ]
  },
  "1188": {
@@ -5837,6 +11532,15 @@
   "tags": [
    "jungle",
    "water"
+  ],
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "river",
+   "lake",
+   "village"
   ]
  },
  "1189": {
@@ -5844,6 +11548,14 @@
   "kind": "field",
   "tags": [
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "canyon"
   ]
  },
  "1190": {
@@ -5851,6 +11563,15 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "wasteland",
+   "canyon"
   ]
  },
  "1191": {
@@ -5860,6 +11581,14 @@
    "desert",
    "ruins",
    "industrial"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "factory"
   ]
  },
  "1192": {
@@ -5869,6 +11598,14 @@
    "crystal",
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "meadow"
   ]
  },
  "1193": {
@@ -5877,6 +11614,15 @@
   "tags": [
    "snow",
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "glacier",
+   "temple"
   ]
  },
  "1194": {
@@ -5885,6 +11631,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
   ]
  },
  "1195": {
@@ -5892,6 +11646,14 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "1196": {
@@ -5899,6 +11661,14 @@
   "kind": "dungeon",
   "tags": [
    "ruins"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
   ]
  },
  "1198": {
@@ -5906,6 +11676,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
   ]
  },
  "1199": {
@@ -5914,6 +11691,14 @@
   "tags": [
    "castle",
    "industrial"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "factory"
   ]
  },
  "1200": {
@@ -5922,6 +11707,14 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum",
+   "peaks"
   ]
  },
  "1201": {
@@ -5930,6 +11723,14 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum",
+   "peaks"
   ]
  },
  "1202": {
@@ -5937,6 +11738,13 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1203": {
@@ -5945,6 +11753,14 @@
   "tags": [
    "plains",
    "forest"
+  ],
+  "mood": [
+   "calm",
+   "tense"
+  ],
+  "sub": [
+   "meadow",
+   "grove"
   ]
  },
  "1204": {
@@ -5952,6 +11768,13 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city"
   ]
  },
  "1208": {
@@ -5959,6 +11782,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1209": {
@@ -5967,6 +11797,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
   ]
  },
  "1211": {
@@ -5974,6 +11812,14 @@
   "kind": "field",
   "tags": [
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "canyon"
   ]
  },
  "1212": {
@@ -5981,6 +11827,14 @@
   "kind": "field",
   "tags": [
    "jungle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "canyon"
   ]
  },
  "1213": {
@@ -5990,6 +11844,13 @@
    "city",
    "industrial",
    "crystal"
+  ],
+  "mood": [
+   "lively",
+   "mysterious"
+  ],
+  "sub": [
+   "tower"
   ]
  },
  "1214": {
@@ -5997,6 +11858,13 @@
   "kind": "field",
   "tags": [
    "sky"
+  ],
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
   ]
  },
  "1215": {
@@ -6005,6 +11873,13 @@
   "tags": [
    "cave",
    "swamp"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1216": {
@@ -6013,6 +11888,15 @@
   "tags": [
    "mountain",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "canyon",
+   "graveyard"
   ]
  },
  "1217": {
@@ -6020,6 +11904,14 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "battlefield"
   ]
  },
  "1219": {
@@ -6027,6 +11919,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
   ]
  },
  "1220": {
@@ -6035,6 +11934,14 @@
   "tags": [
    "ruins",
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum",
+   "peaks"
   ]
  },
  "1221": {
@@ -6042,6 +11949,13 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1225": {
@@ -6049,56 +11963,96 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1226": {
   "name": "Scratching Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1227": {
   "name": "Lovely Lovering",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1228": {
   "name": "Lovely Lovering",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1229": {
   "name": "Blasting Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1230": {
   "name": "Blasting Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1231": {
   "name": "The Thundering",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1232": {
   "name": "The Thundering",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1235": {
   "name": "Central Thanalan",
@@ -6106,6 +12060,14 @@
   "tags": [
    "desert",
    "plains"
+  ],
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
   ]
  },
  "1236": {
@@ -6114,6 +12076,15 @@
   "tags": [
    "desert",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
   ]
  },
  "1241": {
@@ -6121,6 +12092,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1242": {
@@ -6129,6 +12107,14 @@
   "tags": [
    "industrial",
    "jungle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "deep-forest"
   ]
  },
  "1243": {
@@ -6136,6 +12122,13 @@
   "kind": "dungeon",
   "tags": [
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1244": {
@@ -6143,6 +12136,15 @@
   "kind": "field",
   "tags": [
    "desert"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "wasteland",
+   "canyon"
   ]
  },
  "1245": {
@@ -6151,6 +12153,14 @@
   "tags": [
    "cave",
    "water"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "river"
   ]
  },
  "1248": {
@@ -6159,6 +12169,14 @@
   "tags": [
    "city",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
   ]
  },
  "1252": {
@@ -6168,6 +12186,14 @@
    "plains",
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "meadow",
+   "ruined-city"
   ]
  },
  "1254": {
@@ -6176,6 +12202,14 @@
   "tags": [
    "industrial",
    "jungle"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "deep-forest"
   ]
  },
  "1256": {
@@ -6183,34 +12217,61 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1257": {
   "name": "Groovy Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1258": {
   "name": "Rebel Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1259": {
   "name": "Rebel Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1260": {
   "name": "Demolition Site",
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1261": {
@@ -6218,6 +12279,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1262": {
@@ -6225,14 +12293,24 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1263": {
   "name": "Hunter's Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1266": {
   "name": "The Underkeep",
@@ -6240,6 +12318,14 @@
   "tags": [
    "cave",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
   ]
  },
  "1267": {
@@ -6249,6 +12335,14 @@
    "ruins",
    "cave",
    "desert"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "temple",
+   "dunes"
   ]
  },
  "1270": {
@@ -6256,6 +12350,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1271": {
@@ -6263,6 +12364,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1275": {
@@ -6270,6 +12378,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1276": {
@@ -6277,6 +12392,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": [
+   "factory"
   ]
  },
  "1279": {
@@ -6285,6 +12407,14 @@
   "tags": [
    "cave",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sanctum"
   ]
  },
  "1280": {
@@ -6293,6 +12423,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1281": {
@@ -6301,6 +12438,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1282": {
@@ -6309,6 +12453,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1283": {
@@ -6317,6 +12468,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1284": {
@@ -6325,6 +12483,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1285": {
@@ -6333,6 +12498,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1286": {
@@ -6341,6 +12513,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1287": {
@@ -6349,6 +12528,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1288": {
@@ -6357,6 +12543,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1289": {
@@ -6365,6 +12558,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1290": {
@@ -6373,6 +12573,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1292": {
@@ -6380,6 +12587,13 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1295": {
@@ -6388,6 +12602,14 @@
   "tags": [
    "eerie",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "graveyard",
+   "ruined-city"
   ]
  },
  "1296": {
@@ -6396,6 +12618,14 @@
   "tags": [
    "eerie",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "graveyard",
+   "ruined-city"
   ]
  },
  "1300": {
@@ -6403,6 +12633,14 @@
   "kind": "dungeon",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "meadow",
+   "steppe"
   ]
  },
  "1301": {
@@ -6410,6 +12648,14 @@
   "kind": "dungeon",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "meadow",
+   "steppe"
   ]
  },
  "1304": {
@@ -6417,6 +12663,14 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
   ]
  },
  "1306": {
@@ -6424,6 +12678,14 @@
   "kind": "dungeon",
   "tags": [
    "plains"
+  ],
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "meadow",
+   "steppe"
   ]
  },
  "1307": {
@@ -6432,6 +12694,13 @@
   "tags": [
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1308": {
@@ -6440,6 +12709,13 @@
   "tags": [
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1311": {
@@ -6448,6 +12724,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1312": {
@@ -6456,6 +12739,14 @@
   "tags": [
    "eerie",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "graveyard",
+   "ruined-city"
   ]
  },
  "1314": {
@@ -6464,6 +12755,14 @@
   "tags": [
    "jungle",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "1315": {
@@ -6472,6 +12771,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
   ]
  },
  "1316": {
@@ -6480,6 +12787,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
   ]
  },
  "1317": {
@@ -6488,6 +12803,14 @@
   "tags": [
    "castle",
    "ruins"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
   ]
  },
  "1320": {
@@ -6495,62 +12818,108 @@
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": []
  },
  "1321": {
   "name": "Ring Noir",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": []
  },
  "1322": {
   "name": "The X-Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1323": {
   "name": "The X-Ring",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1324": {
   "name": "The Crown",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1325": {
   "name": "The Crown",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
  },
  "1326": {
   "name": "Arcadia",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1327": {
   "name": "Arcadia",
   "kind": "dungeon",
   "tags": [
    "industrial"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
  },
  "1330": {
   "name": "Dzemael Darkhold",
   "kind": "dungeon",
   "tags": [
    "cave"
+  ],
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "tunnels"
   ]
  },
  "1331": {
@@ -6559,6 +12928,14 @@
   "tags": [
    "cave",
    "forest"
+  ],
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "canyon",
+   "mine"
   ]
  },
  "1333": {
@@ -6567,6 +12944,13 @@
   "tags": [
    "crystal",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1335": {
@@ -6575,7 +12959,12 @@
   "tags": [
    "city",
    "desert"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1345": {
   "name": "The Clyteum",
@@ -6583,6 +12972,14 @@
   "tags": [
    "ruins",
    "castle"
+  ],
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
   ]
  },
  "1346": {
@@ -6592,6 +12989,14 @@
    "cave",
    "ruins",
    "eerie"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
   ]
  },
  "1359": {
@@ -6600,13 +13005,25 @@
   "tags": [
    "city",
    "desert"
-  ]
+  ],
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
  },
  "1361": {
   "name": "The Unmaking",
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1362": {
@@ -6614,6 +13031,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  },
  "1363": {
@@ -6623,6 +13047,13 @@
    "crystal",
    "eerie",
    "industrial"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
   ]
  },
  "1366": {
@@ -6631,6 +13062,14 @@
   "tags": [
    "castle",
    "snow"
+  ],
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "ruined-city"
   ]
  },
  "1367": {
@@ -6640,6 +13079,14 @@
    "seaside",
    "water",
    "cave"
+  ],
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "palace"
   ]
  },
  "1368": {
@@ -6648,6 +13095,14 @@
   "tags": [
    "forest",
    "city"
+  ],
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
   ]
  },
  "1372": {
@@ -6655,6 +13110,13 @@
   "kind": "dungeon",
   "tags": [
    "castle"
+  ],
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
   ]
  },
  "1373": {
@@ -6662,6 +13124,13 @@
   "kind": "dungeon",
   "tags": [
    "crystal"
+  ],
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
   ]
  }
 }

@@ -458,6 +458,11 @@ def main():
         out[tid] = {"name": name, "kind": kind, "tags": tags}
         uses[kind][use] += 1
 
+    zm_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ost", "zone-moods.json")   # label-moods.py zones
+    if os.path.exists(zm_file):
+        zm = json.load(open(zm_file))
+        for v in out.values():
+            if v["name"] in zm: v["mood"], v["sub"] = zm[v["name"]]["mood"], zm[v["name"]]["sub"]
     os.makedirs(os.path.dirname(os.path.abspath(OUT)), exist_ok=True)
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump(dict(sorted(out.items(), key=lambda kv: int(kv[0]))), f, ensure_ascii=False, indent=1)

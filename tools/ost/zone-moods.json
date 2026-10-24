@@ -1,0 +1,3132 @@
+{
+ "Limsa Lominsa Upper Decks": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "Limsa Lominsa Lower Decks": {
+  "mood": [
+   "lively"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "Ul'dah - Steps of Nald": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "market",
+   "palace"
+  ]
+ },
+ "Ul'dah - Steps of Thal": {
+  "mood": [
+   "lively",
+   "melancholy"
+  ],
+  "sub": [
+   "market",
+   "slums"
+  ]
+ },
+ "New Gridania": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "grove",
+   "market"
+  ]
+ },
+ "Old Gridania": {
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "river"
+  ]
+ },
+ "Middle La Noscea": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "farmland",
+   "coast"
+  ]
+ },
+ "Lower La Noscea": {
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "beach",
+   "farmland"
+  ]
+ },
+ "Mist": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "village"
+  ]
+ },
+ "Eastern La Noscea": {
+  "mood": [
+   "cheerful",
+   "calm"
+  ],
+  "sub": [
+   "beach",
+   "coast",
+   "lake"
+  ]
+ },
+ "Western La Noscea": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "peaks"
+  ]
+ },
+ "Upper La Noscea": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "farmland",
+   "lake"
+  ]
+ },
+ "Western Thanalan": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "dunes",
+   "oasis"
+  ]
+ },
+ "Central Thanalan": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "slums"
+  ]
+ },
+ "Halatali": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "river"
+  ]
+ },
+ "The Gold Saucer": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
+ },
+ "Eastern Thanalan": {
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "oasis",
+   "dunes"
+  ]
+ },
+ "Southern Thanalan": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city",
+   "dunes"
+  ]
+ },
+ "Northern Thanalan": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "battlefield"
+  ]
+ },
+ "Central Shroud": {
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "grove"
+  ]
+ },
+ "The World of Darkness": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "East Shroud": {
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
+  ]
+ },
+ "South Shroud": {
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "lake"
+  ]
+ },
+ "North Shroud": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "river"
+  ]
+ },
+ "Coerthas Central Highlands": {
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
+  ]
+ },
+ "Mor Dhona": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland",
+   "lake",
+   "battlefield"
+  ]
+ },
+ "The Wanderer's Palace": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
+  ]
+ },
+ "Pharos Sirius": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "coast"
+  ]
+ },
+ "Amdapor Keep": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
+  ]
+ },
+ "Dzemael Darkhold": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Aurum Vale": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "canyon",
+   "mine"
+  ]
+ },
+ "Labyrinth of the Ancients": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "ruined-city",
+   "tunnels"
+  ]
+ },
+ "Outer La Noscea": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "peaks"
+  ]
+ },
+ "Limsa Lominsa": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "IC-06 Central Decks": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
+  ]
+ },
+ "IC-06 Regeneration Grid": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "IC-06 Main Bridge": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Burning Heart": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory",
+   "lava"
+  ]
+ },
+ "Upper Aetheroacoustic Exploratory Site": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "laboratory"
+  ]
+ },
+ "Lower Aetheroacoustic Exploratory Site": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "laboratory"
+  ]
+ },
+ "The Ragnarok": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "airship"
+  ]
+ },
+ "Ragnarok Drive Cylinder": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "airship",
+   "factory"
+  ]
+ },
+ "Ragnarok Central Core": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
+  ]
+ },
+ "Wolves' Den Pier": {
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "harbor"
+  ]
+ },
+ "The Whorleater": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
+  ]
+ },
+ "Bowl of Embers": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava"
+  ]
+ },
+ "The Navel": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
+  ]
+ },
+ "The Howling Eye": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands"
+  ]
+ },
+ "The Lavender Beds": {
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "grove",
+   "village"
+  ]
+ },
+ "The Goblet": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "canyon",
+   "village"
+  ]
+ },
+ "Porta Decumana": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
+  ]
+ },
+ "Copperbell Mines": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "mine",
+   "tunnels"
+  ]
+ },
+ "Haukke Manor": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Kugane Ohashi": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "coast"
+  ]
+ },
+ "The Dancing Plague": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
+  ]
+ },
+ "Dalamud's Shadow": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Outer Coil": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Central Decks": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Holocharts": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Hullbreaker Isle": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "ruined-city"
+  ]
+ },
+ "Brayflox's Longstop": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "The Lost City of Amdapor": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "temple"
+  ]
+ },
+ "Thornmarch": {
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest"
+  ]
+ },
+ "Stone Vigil": {
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "tundra"
+  ]
+ },
+ "Griffin Crossing": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
+  ]
+ },
+ "The Sunken Temple of Qarn": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "temple",
+   "dunes"
+  ]
+ },
+ "The Weeping Saint": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Hall of the Bestiarii": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Syrcus Tower": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "tower",
+   "ruined-city"
+  ]
+ },
+ "The Tam-Tara Deepcroft": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
+  ]
+ },
+ "The Striking Tree": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lake"
+  ]
+ },
+ "Akh Afah Amphitheatre": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "glacier"
+  ]
+ },
+ "Sastasha": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "coast",
+   "tunnels"
+  ]
+ },
+ "Coerthas Western Highlands": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "tundra",
+   "glacier"
+  ]
+ },
+ "The Dravanian Forelands": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "meadow"
+  ]
+ },
+ "The Dravanian Hinterlands": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city",
+   "lake"
+  ]
+ },
+ "The Churning Mists": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
+  ]
+ },
+ "The Sea of Clouds": {
+  "mood": [
+   "cheerful",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
+  ]
+ },
+ "Azys Lla": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "laboratory",
+   "ruined-city"
+  ]
+ },
+ "Ala Mhigo": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "battlefield"
+  ]
+ },
+ "Foundation": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "market"
+  ]
+ },
+ "The Pillars": {
+  "mood": [
+   "calm",
+   "epic"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Neverreap": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "floating-isle"
+  ]
+ },
+ "The Fractal Continuum": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Thok ast Thok": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "floating-isle"
+  ]
+ },
+ "The Limitless Blue": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "ocean"
+  ]
+ },
+ "Singularity Reactor": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Fist of the Father": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Cuff of the Father": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Arm of the Father": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Burden of the Father": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "Idyllshire": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "ruined-city",
+   "village"
+  ]
+ },
+ "Void Ark": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "airship"
+  ]
+ },
+ "Saint Mocianne's Arboretum": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "grove",
+   "laboratory"
+  ]
+ },
+ "The Diadem": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "floating-isle"
+  ]
+ },
+ "The Vault": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum",
+   "temple"
+  ]
+ },
+ "Containment Bay S1T7": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Fist of the Son": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Cuff of the Son": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Arm of the Son": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Burden of the Son": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Weeping City of Mhach": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
+  ]
+ },
+ "The Aquapolis": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Steps of Faith": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield"
+  ]
+ },
+ "Aetherochemical Research Facility": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "floating-isle"
+  ]
+ },
+ "The Palace of the Dead": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "graveyard",
+   "tunnels"
+  ]
+ },
+ "Containment Bay P1T6": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Great Gubal Library": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
+  ]
+ },
+ "Eyes of the Creator": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Breath of the Creator": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Heart of the Creator": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
+  ]
+ },
+ "Soul of the Creator": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
+  ]
+ },
+ "The Fringes": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "highlands",
+   "canyon",
+   "ruined-city"
+  ]
+ },
+ "The Ruby Sea": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "coast",
+   "village"
+  ]
+ },
+ "Yanxia": {
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "river",
+   "farmland",
+   "village"
+  ]
+ },
+ "Sohm Al": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
+  ]
+ },
+ "The Peaks": {
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "peaks",
+   "canyon",
+   "factory"
+  ]
+ },
+ "The Lochs": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "palace",
+   "highlands"
+  ]
+ },
+ "The Azim Steppe": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "meadow"
+  ]
+ },
+ "Dun Scaith": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "tower"
+  ]
+ },
+ "Kugane": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "Rhalgr's Reach": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "highlands"
+  ]
+ },
+ "Containment Bay Z1T9": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Shirogane": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "coast",
+   "beach"
+  ]
+ },
+ "The Interdimensional Rift": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Kugane Castle": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Temple of the Fist": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "temple",
+   "peaks"
+  ]
+ },
+ "The Blessed Treasury": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Royal Airship Landing": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "airship"
+  ]
+ },
+ "The Doman Enclave": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "farmland"
+  ]
+ },
+ "Deltascape V1.0": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Deltascape V2.0": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Deltascape V3.0": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Deltascape V4.0": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Lost Canals of Uznair": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
+  ]
+ },
+ "Bardam's Mettle": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "canyon",
+   "graveyard"
+  ]
+ },
+ "Emanation": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "temple",
+   "lake"
+  ]
+ },
+ "Transparency": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Eureka Anemos": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "floating-isle",
+   "meadow"
+  ]
+ },
+ "The Royal City of Rabanastre": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
+  ]
+ },
+ "The Jade Stoa": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
+  ]
+ },
+ "Sigmascape V1.0": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ship",
+   "factory"
+  ]
+ },
+ "Sigmascape V2.0": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Sigmascape V3.0": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Sigmascape V4.0": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Great Hunt": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "steppe"
+  ]
+ },
+ "Eureka Pagos": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "tundra",
+   "glacier"
+  ]
+ },
+ "The Swallow's Compass": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "temple",
+   "grove"
+  ]
+ },
+ "Heaven-on-High": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "temple"
+  ]
+ },
+ "The Ridorana Lighthouse": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "tower",
+   "ruined-city"
+  ]
+ },
+ "Castrum Fluminis": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
+  ]
+ },
+ "The Shifting Altars of Uznair": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "temple",
+   "tunnels"
+  ]
+ },
+ "Eureka Pyros": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "lava",
+   "peaks"
+  ]
+ },
+ "Psiscape V1.0": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Psiscape V2.0": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Lakeland": {
+  "mood": [
+   "calm",
+   "melancholy"
+  ],
+  "sub": [
+   "lake",
+   "meadow",
+   "village"
+  ]
+ },
+ "Kholusia": {
+  "mood": [
+   "melancholy",
+   "calm"
+  ],
+  "sub": [
+   "coast",
+   "highlands",
+   "mine"
+  ]
+ },
+ "Amh Araeng": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "dunes",
+   "wasteland",
+   "mine"
+  ]
+ },
+ "Il Mheg": {
+  "mood": [
+   "cheerful",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "palace",
+   "lake"
+  ]
+ },
+ "The Rak'tika Greatwood": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
+  ]
+ },
+ "The Tempest": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
+  ]
+ },
+ "The Crystarium": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "tower",
+   "market"
+  ]
+ },
+ "Eulmore": {
+  "mood": [
+   "lively",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "slums",
+   "tower"
+  ]
+ },
+ "Dohn Mheg": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "grove",
+   "lake",
+   "palace"
+  ]
+ },
+ "Mt. Gulg": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
+  ]
+ },
+ "The Qitana Ravel": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "temple",
+   "ruined-city"
+  ]
+ },
+ "The Wreath of Snakes": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "ocean",
+   "temple"
+  ]
+ },
+ "The Orbonne Monastery": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "temple"
+  ]
+ },
+ "Eureka Hydatos": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "glacier",
+   "floating-isle"
+  ]
+ },
+ "The Ghimlyt Dark": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "battlefield",
+   "factory"
+  ]
+ },
+ "Malikah's Well": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "dunes",
+   "tunnels",
+   "ruined-city"
+  ]
+ },
+ "Holminster Switch": {
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "village",
+   "temple"
+  ]
+ },
+ "Amaurot": {
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "ruined-city",
+   "ocean"
+  ]
+ },
+ "The Twinning": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "factory"
+  ]
+ },
+ "Akadaemia Anyder": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory",
+   "ocean"
+  ]
+ },
+ "The Crown of the Immaculate": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "tower",
+   "palace"
+  ]
+ },
+ "The Dying Gasp": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Core": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Halo": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Nereus Trench": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean"
+  ]
+ },
+ "Atlas Peak": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
+  ]
+ },
+ "The Dungeons of Lyhe Ghiah": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "palace"
+  ]
+ },
+ "The Copied Factory": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
+  ]
+ },
+ "The Grand Cosmos": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "deep-forest"
+  ]
+ },
+ "The Firmament": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "palace",
+   "highlands"
+  ]
+ },
+ "Cinder Drift": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
+  ]
+ },
+ "Anamnesis Anyder": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ocean",
+   "ruined-city"
+  ]
+ },
+ "The Gandof Thunder Plains": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "steppe",
+   "battlefield"
+  ]
+ },
+ "Ashfall": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "lava",
+   "battlefield"
+  ]
+ },
+ "Great Glacier": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "glacier",
+   "tundra"
+  ]
+ },
+ "Transmission Control": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "tower"
+  ]
+ },
+ "The Heroes' Gauntlet": {
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "battlefield"
+  ]
+ },
+ "The Puppets' Bunker": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "battlefield"
+  ]
+ },
+ "Bozjan Southern Front": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "battlefield",
+   "steppe"
+  ]
+ },
+ "The Seat of Sacrifice": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Shifting Oubliettes of Lyhe Ghiah": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Matoya's Relict": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
+  ]
+ },
+ "Castrum Marinum Drydocks": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "harbor",
+   "factory"
+  ]
+ },
+ "Delubrum Reginae": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "temple"
+  ]
+ },
+ "Paglth'an": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "canyon",
+   "ruined-city"
+  ]
+ },
+ "Sphere of Naught": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Laxan Loft": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "floating-isle",
+   "sanctum"
+  ]
+ },
+ "Bygone Gaol": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Garden of Nowhere": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum",
+   "meadow"
+  ]
+ },
+ "G-Savior Deck": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "airship"
+  ]
+ },
+ "The Tower of Zot": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tower"
+  ]
+ },
+ "Labyrinthos": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "laboratory",
+   "meadow"
+  ]
+ },
+ "Thavnair": {
+  "mood": [
+   "cheerful",
+   "lively"
+  ],
+  "sub": [
+   "coast",
+   "deep-forest"
+  ]
+ },
+ "Garlemald": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "tundra",
+   "ruined-city"
+  ]
+ },
+ "Mare Lamentorum": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "wasteland"
+  ]
+ },
+ "Ultima Thule": {
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "wasteland",
+   "ruined-city"
+  ]
+ },
+ "Elpis": {
+  "mood": [
+   "calm",
+   "mysterious"
+  ],
+  "sub": [
+   "meadow",
+   "grove",
+   "laboratory"
+  ]
+ },
+ "Old Sharlayan": {
+  "mood": [
+   "calm"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "Radz-at-Han": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "market",
+   "harbor"
+  ]
+ },
+ "The Tower at Paradigm's Breach": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower"
+  ]
+ },
+ "The Tower of Babil": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "tower",
+   "factory"
+  ]
+ },
+ "Vanaspati": {
+  "mood": [
+   "tense",
+   "melancholy"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
+  ]
+ },
+ "The Dead Ends": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city",
+   "wasteland"
+  ]
+ },
+ "Ktisis Hyperboreia": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "laboratory",
+   "tower"
+  ]
+ },
+ "Zadnor": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "highlands",
+   "battlefield"
+  ]
+ },
+ "Smileton": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Aitiascope": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Empyreum": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "highlands"
+  ]
+ },
+ "The Stigma Dreamscape": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
+  ]
+ },
+ "The Dark Inside": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Mothercrystal": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Final Day": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Excitatron 6000": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "The Gates of Pandæmonium": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Stagnant Limbo": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Fervid Limbo": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory",
+   "lava"
+  ]
+ },
+ "The Sanguine Limbo": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Dusk Vigil": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "ruined-city"
+  ]
+ },
+ "The Thousand Maws of Toto-Rak": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Castrum Meridianum": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Praetorium": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "Alzadaal's Legacy": {
+  "mood": [
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
+  ]
+ },
+ "Aglaia": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "sanctum"
+  ]
+ },
+ "Unnamed Island": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "beach",
+   "meadow",
+   "farmland"
+  ]
+ },
+ "Snowcloak": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "glacier",
+   "tunnels"
+  ]
+ },
+ "The Keeper of the Lake": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "lake",
+   "airship"
+  ]
+ },
+ "The Aery": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
+  ]
+ },
+ "The Sil'dihn Subterrane": {
+  "mood": [
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
+  ]
+ },
+ "The Fell Court of Troia": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Storm's Crown": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks"
+  ]
+ },
+ "Another Sil'dihn Subterrane": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sewer"
+  ]
+ },
+ "The Caustic Purgatory": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Pestilent Purgatory": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Hollow Purgatory": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Stygian Insenescence Cells": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Mount Ordeals": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "lava"
+  ]
+ },
+ "Lapis Manalis": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "tunnels"
+  ]
+ },
+ "Eureka Orthos": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Antitower": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tower"
+  ]
+ },
+ "Sohr Khai": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "floating-isle",
+   "temple"
+  ]
+ },
+ "Xelphatol": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "floating-isle"
+  ]
+ },
+ "Baelsar's Wall": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "battlefield"
+  ]
+ },
+ "Euphrosyne": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "sanctum",
+   "palace"
+  ]
+ },
+ "The Shifting Gymnasion Agonon": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "ruined-city"
+  ]
+ },
+ "The Aetherfont": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "coast"
+  ]
+ },
+ "Mount Rokkon": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
+  ]
+ },
+ "The Voidcast Dais": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": []
+ },
+ "The Sirensong Sea": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ship",
+   "coast"
+  ]
+ },
+ "Doma Castle": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Castrum Abania": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "The Aetherial Slough": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Dæmons' Nest": {
+  "mood": [
+   "tense",
+   "epic"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "The Chamber of Fourteen": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Ascension": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "palace"
+  ]
+ },
+ "Another Mount Rokkon": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
+  ]
+ },
+ "The Lunar Subterrane": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Ihuykatumu": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "river",
+   "deep-forest",
+   "ruined-city"
+  ]
+ },
+ "The Abyssal Fracture": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": []
+ },
+ "The Drowned City of Skalla": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city",
+   "ocean"
+  ]
+ },
+ "Aloalo Island": {
+  "mood": [
+   "cheerful",
+   "mysterious"
+  ],
+  "sub": [
+   "beach",
+   "deep-forest"
+  ]
+ },
+ "Thaleia": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "sanctum"
+  ]
+ },
+ "Another Aloalo Island": {
+  "mood": [
+   "mysterious",
+   "cheerful"
+  ],
+  "sub": [
+   "beach",
+   "temple"
+  ]
+ },
+ "Tuliyollal": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": [
+   "harbor",
+   "market"
+  ]
+ },
+ "Solution Nine": {
+  "mood": [
+   "lively",
+   "mysterious"
+  ],
+  "sub": [
+   "tower"
+  ]
+ },
+ "Urqopacha": {
+  "mood": [
+   "calm",
+   "epic"
+  ],
+  "sub": [
+   "highlands",
+   "peaks",
+   "village"
+  ]
+ },
+ "Kozama'uka": {
+  "mood": [
+   "calm",
+   "cheerful"
+  ],
+  "sub": [
+   "river",
+   "lake",
+   "village"
+  ]
+ },
+ "Yak T'el": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "canyon"
+  ]
+ },
+ "Shaaloani": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "steppe",
+   "wasteland",
+   "canyon"
+  ]
+ },
+ "Heritage Found": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "wasteland",
+   "factory"
+  ]
+ },
+ "Living Memory": {
+  "mood": [
+   "melancholy",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "meadow"
+  ]
+ },
+ "Worqor Zormor": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "peaks",
+   "glacier",
+   "temple"
+  ]
+ },
+ "The Skydeep Cenote": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
+  ]
+ },
+ "Worqor Lar Dor": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "peaks",
+   "temple"
+  ]
+ },
+ "Vanguard": {
+  "mood": [
+   "tense"
+  ],
+  "sub": [
+   "factory",
+   "laboratory"
+  ]
+ },
+ "Alexandria": {
+  "mood": [
+   "melancholy",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "factory"
+  ]
+ },
+ "Summit of Everkeep": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum",
+   "peaks"
+  ]
+ },
+ "Interphos": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Tender Valley": {
+  "mood": [
+   "calm",
+   "tense"
+  ],
+  "sub": [
+   "meadow",
+   "grove"
+  ]
+ },
+ "Strayborough": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "ruined-city"
+  ]
+ },
+ "Origenics": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "Cenote Ja Ja Gural": {
+  "mood": [
+   "mysterious",
+   "epic"
+  ],
+  "sub": [
+   "tunnels",
+   "lake"
+  ]
+ },
+ "Scratching Ring": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
+ },
+ "Lovely Lovering": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
+ },
+ "Blasting Ring": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
+ },
+ "The Thundering": {
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
+ },
+ "Yuweyawata": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "factory",
+   "deep-forest"
+  ]
+ },
+ "Jeuno: The First Walk": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
+  ]
+ },
+ "South Horn": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "meadow",
+   "ruined-city"
+  ]
+ },
+ "Groovy Ring": {
+  "mood": [
+   "lively",
+   "cheerful"
+  ],
+  "sub": []
+ },
+ "Rebel Ring": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
+ },
+ "Demolition Site": {
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": [
+   "factory"
+  ]
+ },
+ "Hunter's Ring": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
+ },
+ "The Underkeep": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
+  ]
+ },
+ "Recollection": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Vault Oneiron": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "sanctum"
+  ]
+ },
+ "Pilgrim's Traverse": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "The Meso Terminal": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "laboratory"
+  ]
+ },
+ "The Ageless Necropolis": {
+  "mood": [
+   "mysterious",
+   "melancholy"
+  ],
+  "sub": [
+   "graveyard",
+   "ruined-city"
+  ]
+ },
+ "The Windward Wilds": {
+  "mood": [
+   "epic",
+   "calm"
+  ],
+  "sub": [
+   "meadow",
+   "steppe"
+  ]
+ },
+ "San d'Oria: The Second Walk": {
+  "mood": [
+   "epic",
+   "melancholy"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
+  ]
+ },
+ "Hell on Rails": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "tunnels"
+  ]
+ },
+ "Mistwake": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
+  ]
+ },
+ "The Merchant's Tale": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
+  ]
+ },
+ "Another Merchant's Tale": {
+  "mood": [
+   "tense",
+   "mysterious"
+  ],
+  "sub": [
+   "palace",
+   "ruined-city"
+  ]
+ },
+ "Ring Noir": {
+  "mood": [
+   "tense",
+   "lively"
+  ],
+  "sub": []
+ },
+ "The X-Ring": {
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
+ },
+ "The Crown": {
+  "mood": [
+   "epic",
+   "lively"
+  ],
+  "sub": []
+ },
+ "Arcadia": {
+  "mood": [
+   "lively",
+   "epic"
+  ],
+  "sub": []
+ },
+ "The Clyteum": {
+  "mood": [
+   "epic",
+   "mysterious"
+  ],
+  "sub": [
+   "ruined-city",
+   "palace"
+  ]
+ },
+ "North Horn": {
+  "mood": [
+   "mysterious",
+   "tense"
+  ],
+  "sub": [
+   "tunnels",
+   "ruined-city"
+  ]
+ },
+ "The Unmaking": {
+  "mood": [
+   "epic",
+   "tense"
+  ],
+  "sub": [
+   "sanctum"
+  ]
+ },
+ "Shisui of the Violet Tides": {
+  "mood": [
+   "mysterious",
+   "calm"
+  ],
+  "sub": [
+   "ocean",
+   "palace"
+  ]
+ },
+ "Windurst: The Third Walk": {
+  "mood": [
+   "melancholy",
+   "epic"
+  ],
+  "sub": [
+   "deep-forest",
+   "ruined-city"
+  ]
+ }
+}

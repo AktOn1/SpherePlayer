@@ -28,6 +28,10 @@ for g in GAMES:
 for tag, ids in load("sparse-tags.json").items():   # retag-sparse.py: thinly covered tags
     for a in area:
         if a["id"] in ids and tag not in a["tags"]: a["tags"] = a["tags"] + [tag]
+moods = load("moods.json")
+for a in area:   # label-moods.py songs: mood and finer place tags
+    m = moods.get(a["id"])
+    if m: a["mood"], a["sub"] = m["mood"], m["sub"]
 json.dump(songs, open(os.path.join(ROOT, "library", "songs.json"), "w"), indent=1, ensure_ascii=False)
 json.dump(area, open(os.path.join(ROOT, "library", "area.json"), "w"), indent=1, ensure_ascii=False)
 from collections import Counter
