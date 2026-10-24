@@ -17,6 +17,35 @@ public sealed class SettingsWindow : Window
         PositionCondition = ImGuiCond.FirstUseEver;
     }
 
+    private static readonly bool IsWine = DetectWine();
+
+    private const string BridgeCommand =
+        "mkdir -p ~/.local/share/sphere-player && cd ~/.local/share/sphere-player && " +
+        "curl -fsSL -O https://raw.githubusercontent.com/AktOn1/SpherePlayer/main/tools/mpris-bridge/sphere-player-mpris " +
+        "-O https://raw.githubusercontent.com/AktOn1/SpherePlayer/main/tools/mpris-bridge/install.sh && " +
+        "chmod +x sphere-player-mpris install.sh && ./install.sh";
+
+    private static bool DetectWine()
+    {
+        try { using var k = Microsoft.Win32.Registry.CurrentUser.OpenSubKey(@"Software\Wine"); return k != null; }
+        catch { return false; }
+    }
+
+    private void DrawLinuxKeys()
+    {
+        ImGui.TextDisabled("Linux: the desktop usually swallows media keys before the game sees them.");
+        ImGui.TextDisabled("Optional: a small helper outside the game passes them on. Nothing is installed by this plugin.");
+        var connected = p.Control?.HasClients == true;
+        ImGui.TextColored(connected ? new Vector4(0.5f, 1, 0.5f, 1) : new Vector4(1, 0.8f, 0.4f, 1),
+            connected ? "Helper connected: keys reach Sphere Player." : "Helper not running.");
+        if (!connected)
+        {
+            if (ImGui.Button("Copy install command")) ImGui.SetClipboardText(BridgeCommand);
+            ImGui.SameLine();
+            ImGui.TextDisabled("Paste it into a terminal. Needs python3-dbus. Remove: systemctl --user disable --now sphere-player-mpris");
+        }
+    }
+
     public override void Draw()
     {
         var cfg = p.Config;
@@ -55,7 +84,7 @@ public sealed class SettingsWindow : Window
         if (ImGui.Checkbox("Video is clickable (click to pause, seek bar, links)", ref click)) { cfg.ClickableVideo = click; p.SaveConfig(); }
         var keys = cfg.MediaKeys;
         if (ImGui.Checkbox("Hardware media keys (next, previous, play/pause)", ref keys)) { cfg.MediaKeys = keys; p.SaveConfig(); }
-        ImGui.TextDisabled("On Linux the keys come through the media bridge, see the README.");
+        if (IsWine) DrawLinuxKeys();
         ImGui.SetNextItemWidth(200);
         var a = cfg.WindowAlpha;
         if (ImGui.SliderFloat("Window opacity", ref a, 0.2f, 1f)) { cfg.WindowAlpha = a; p.SaveConfig(); }
