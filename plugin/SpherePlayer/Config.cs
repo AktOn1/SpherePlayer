@@ -20,6 +20,7 @@ public sealed class Config : IPluginConfiguration
     public bool MediaKeys { get; set; } = true;
     public bool ClickableVideo { get; set; } = true;
     public int VideoWidth { get; set; } = 356;
+    public bool AlwaysMini { get; set; } = true;
     public HashSet<string> DisabledGames { get; set; } = new();
     public HashSet<string> BannedSongs { get; set; } = new();
     public Dictionary<Category, string> ForcedSongs { get; set; } = new();

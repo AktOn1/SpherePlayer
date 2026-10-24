@@ -49,7 +49,7 @@ public sealed class MainWindow : Window
         var host = p.Player.Installer;
         if (!host.Ready) { DrawInstall(host); return; }
         // In battle the window shrinks to the smallest size YouTube allows (video at least 200x200) instead of disappearing.
-        var compact = p.Current is Situation.Battle or Situation.Boss;
+        var compact = cfg.AlwaysMini || p.Current is Situation.Battle or Situation.Boss;
         var (vw, vh) = VideoGuard.VideoSize(compact, cfg.VideoWidth);
         if (p.Controller.Now is not null && p.Video.Texture is { } tex)
         {

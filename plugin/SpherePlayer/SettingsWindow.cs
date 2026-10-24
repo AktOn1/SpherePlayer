@@ -44,6 +44,9 @@ public sealed class SettingsWindow : Window
         ImGui.SetNextItemWidth(200);
         var vw = cfg.VideoWidth;
         if (ImGui.SliderInt("Video width", ref vw, VideoGuard.MinWidth, 480)) { cfg.VideoWidth = vw; p.SaveConfig(); }
+        var mini = cfg.AlwaysMini;
+        if (ImGui.Checkbox("Always use the small window", ref mini)) { cfg.AlwaysMini = mini; p.SaveConfig(); }
+        ImGui.TextDisabled("Video plus one line; the controls open while the mouse is over it. Off = small only in battle.");
         ImGui.TextDisabled("YouTube wants the video visible while music plays: in battle the window shrinks to the smallest size instead of hiding.");
         var keep = cfg.KeepPlayingHidden;
         if (ImGui.Checkbox("Keep playing when the window is collapsed or closed", ref keep)) { cfg.KeepPlayingHidden = keep; p.SaveConfig(); }
