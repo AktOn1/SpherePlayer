@@ -76,12 +76,7 @@ public sealed class MainWindow : Window
             // Keep the controls open while dragging (volume slider) and for a moment after the mouse leaves, so the window does not flicker at its edge.
             if (hovered || (miniOpen && ImGui.IsMouseDown(ImGuiMouseButton.Left))) miniHoverAt = DateTime.UtcNow;
             miniOpen = DateTime.UtcNow - miniHoverAt < TimeSpan.FromMilliseconds(400);
-            if (!miniOpen)
-            {
-                var t = p.Controller.Now is { } n ? (string.IsNullOrEmpty(p.Player.State.Title) ? n.Title : p.Player.State.Title) : "-";
-                ImGui.TextUnformatted($"{p.Current}: {Trim(t, 44)}");
-                return;
-            }
+            if (!miniOpen) return;
         }
         else miniOpen = false;
         var enabled = cfg.Enabled;
