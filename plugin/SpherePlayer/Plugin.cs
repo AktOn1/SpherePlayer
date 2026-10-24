@@ -273,7 +273,7 @@ public sealed class Plugin : IDalamudPlugin
         {
             var bc = t as Dalamud.Game.ClientState.Objects.Types.IBattleChara;
             var rank = Data.GetExcelSheet<BNpcBase>().GetRowOrDefault(t.BaseId)?.Rank ?? 255;
-            bossTarget = inDuty && t.ObjectKind == Dalamud.Game.ClientState.Objects.Enums.ObjectKind.BattleNpc && (rank == 2 || (bc?.MaxHp ?? 0) >= 30_000_000);
+            bossTarget = inDuty && t.ObjectKind == Dalamud.Game.ClientState.Objects.Enums.ObjectKind.BattleNpc && (rank == 2 || (rank == 6 && contentType == 2) || (bc?.MaxHp ?? 0) >= 30_000_000);
             targetInfo = $"{t.ObjectKind} name=\"{t.Name}\" baseId={t.BaseId} rank={rank} level={bc?.Level} maxHp={bc?.MaxHp}";
         }
         var place = row?.PlaceName.ValueNullable?.Name.ToString() ?? "?";
