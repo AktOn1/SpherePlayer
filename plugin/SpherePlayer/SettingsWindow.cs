@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Numerics;
 using Dalamud.Bindings.ImGui;
 using Dalamud.Interface.Windowing;
@@ -19,11 +20,24 @@ public sealed class SettingsWindow : Window
 
     private static readonly bool IsWine = DetectWine();
 
-    private const string BridgeCommand =
-        "mkdir -p ~/.local/share/sphere-player && cd ~/.local/share/sphere-player && " +
-        "curl -fsSL -O https://raw.githubusercontent.com/AktOn1/SpherePlayer/main/tools/mpris-bridge/sphere-player-mpris " +
-        "-O https://raw.githubusercontent.com/AktOn1/SpherePlayer/main/tools/mpris-bridge/install.sh && " +
-        "chmod +x sphere-player-mpris install.sh && ./install.sh";
+    // Fetches the helper from this release's tag (not the moving main branch) and refuses to install it unless both files match the hashes built into this plugin.
+    private static readonly string BridgeCommand = BuildBridgeCommand();
+
+    private static string BuildBridgeCommand()
+    {
+        var asm = typeof(SettingsWindow).Assembly;
+        string? Meta(string key) => asm.GetCustomAttributes(typeof(System.Reflection.AssemblyMetadataAttribute), false)
+            .Cast<System.Reflection.AssemblyMetadataAttribute>().FirstOrDefault(m => m.Key == key)?.Value;
+        var script = Meta("BridgeSha256.sphere-player-mpris")?.ToLowerInvariant();
+        var installer = Meta("BridgeSha256.install.sh")?.ToLowerInvariant();
+        var v = asm.GetName().Version;
+        if (script == null || installer == null || v == null) return "";
+        var baseUrl = $"https://raw.githubusercontent.com/AktOn1/SpherePlayer/v{v.Major}.{v.Minor}.{v.Build}/tools/mpris-bridge/";
+        return "mkdir -p ~/.local/share/sphere-player && cd ~/.local/share/sphere-player && " +
+               $"curl --proto '=https' -fsSL -O {baseUrl}sphere-player-mpris -O {baseUrl}install.sh && " +
+               $"printf '%s\\n' '{script}  sphere-player-mpris' '{installer}  install.sh' | sha256sum -c - && " +
+               "chmod +x sphere-player-mpris install.sh && ./install.sh";
+    }
 
     private static bool DetectWine()
     {
@@ -38,7 +52,7 @@ public sealed class SettingsWindow : Window
         var connected = p.Control?.HasClients == true;
         ImGui.TextColored(connected ? new Vector4(0.5f, 1, 0.5f, 1) : new Vector4(1, 0.8f, 0.4f, 1),
             connected ? "Helper connected: keys reach Sphere Player." : "Helper not running.");
-        if (!connected)
+        if (!connected && BridgeCommand.Length > 0)
         {
             if (ImGui.Button("Copy install command")) ImGui.SetClipboardText(BridgeCommand);
             ImGui.SameLine();

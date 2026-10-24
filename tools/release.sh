@@ -7,6 +7,8 @@ set -euo pipefail
 repo=$1 version=$2 changelog=${3:-}
 cd "$(dirname "$0")/.."
 if [ -x "$PWD/.tools/dotnet/dotnet" ]; then export DOTNET_ROOT="$PWD/.tools/dotnet" PATH="$PWD/.tools/dotnet:$PATH"; fi
+# The plugin embeds the SHA-256 of the media-key helper files and its install command fetches them from the tag v$version, so they must be committed and the tag must point at this commit.
+git diff --quiet HEAD -- tools/mpris-bridge || { echo "tools/mpris-bridge has uncommitted changes: commit them first (the install command checks their hashes against tag v$version)." >&2; exit 1; }
 export DOTNET_NOLOGO=1 DOTNET_CLI_TELEMETRY_OPTOUT=1
 export DALAMUD_HOME="${DALAMUD_HOME:-${XLCORE:-$HOME/.xlcore}/dalamud/Hooks/dev}"
 dotnet build plugin/SpherePlayer -c Release -p:Version="$version"

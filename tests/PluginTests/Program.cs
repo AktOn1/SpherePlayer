@@ -368,6 +368,38 @@ internal static class Program
     }
 
     // Under Wine the fake host (a shell script) cannot run, so "installer" runs only the download checks; "tls" also fetches a https page.
+    private static async Task ControlServerTests()
+    {
+        Console.WriteLine("ControlServer");
+        var dir = Tmp("control");
+        using var srv = new ControlServer(Path.Combine(dir, "control.port"), Log);
+        var port = int.Parse(File.ReadAllText(Path.Combine(dir, "control.port")));
+
+        async Task<bool> Dropped(byte[] payload)
+        {
+            using var c = new System.Net.Sockets.TcpClient();
+            await c.ConnectAsync(IPAddress.Loopback, port);
+            var st = c.GetStream();
+            await st.WriteAsync(payload);
+            var b = new byte[16];
+            try { return await st.ReadAsync(b, 0, 16).WaitAsync(TimeSpan.FromSeconds(2)) == 0; } catch (TimeoutException) { return false; } catch { return true; }
+        }
+
+        using (var good = new System.Net.Sockets.TcpClient())
+        {
+            await good.ConnectAsync(IPAddress.Loopback, port);
+            await good.GetStream().WriteAsync(System.Text.Encoding.ASCII.GetBytes("next\r\n\nPAUSE\nbogus-never-sent"));
+            await Task.Delay(300);
+            srv.Commands.TryDequeue(out var c1); srv.Commands.TryDequeue(out var c2);
+            Check(c1 == "next" && c2 == "pause", "fixed command words are accepted, case and CRLF tolerated");
+        }
+        while (srv.Commands.TryDequeue(out _)) { }
+        Check(await Dropped(System.Text.Encoding.ASCII.GetBytes("POST / HTTP/1.1\r\nHost: 127.0.0.1\r\n\r\nnext\n")), "an HTTP request closes the connection");
+        Check(await Dropped(System.Text.Encoding.ASCII.GetBytes(new string('a', 5000))), "a long line without newline closes the connection");
+        Check(await Dropped(new byte[] { 0x16, 0x03, 0x01, 0x02, 0x00 }), "binary junk closes the connection");
+        Check(srv.Commands.IsEmpty, "rejected clients queued no command");
+    }
+
     public static async Task<int> Main(string[] args)
     {
         await InstallerTests();
@@ -384,6 +416,7 @@ internal static class Program
         }
         if (args.Contains("installer")) { Console.WriteLine($"\n{passed} passed, {failed} failed"); return failed == 0 ? 0 : 1; }
         await GuardTests();
+        await ControlServerTests();
         Console.WriteLine($"\n{passed} passed, {failed} failed");
         return failed == 0 ? 0 : 1;
     }

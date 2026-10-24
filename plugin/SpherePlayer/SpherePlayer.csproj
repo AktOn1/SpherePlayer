@@ -10,4 +10,19 @@
     <EmbeddedResource Include="..\..\host-manifest.json" LogicalName="host-manifest.json" />
     <EmbeddedResource Include="territories.json" LogicalName="territories.json" Condition="Exists('territories.json')" />
   </ItemGroup>
+  <!-- The Linux helper install command checks these hashes, so a changed helper in the repo cannot reach players unnoticed. -->
+  <Target Name="BridgeHashes" BeforeTargets="GenerateAdditionalSources;CoreCompile">
+    <ItemGroup>
+      <_BridgeFile Include="..\..\tools\mpris-bridge\sphere-player-mpris;..\..\tools\mpris-bridge\install.sh" />
+    </ItemGroup>
+    <GetFileHash Files="@(_BridgeFile)" Algorithm="SHA256" HashEncoding="hex">
+      <Output TaskParameter="Items" ItemName="_BridgeHashed" />
+    </GetFileHash>
+    <ItemGroup>
+      <AssemblyAttribute Include="System.Reflection.AssemblyMetadataAttribute">
+        <_Parameter1>BridgeSha256.%(_BridgeHashed.Filename)%(_BridgeHashed.Extension)</_Parameter1>
+        <_Parameter2>%(_BridgeHashed.FileHash)</_Parameter2>
+      </AssemblyAttribute>
+    </ItemGroup>
+  </Target>
 </Project>

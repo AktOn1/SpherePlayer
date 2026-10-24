@@ -14,6 +14,8 @@ namespace SpherePlayer;
 public sealed class ControlServer : IDisposable
 {
     private static readonly HashSet<string> Allowed = new() { "next", "prev", "playpause", "play", "pause", "stop" };
+    private const int MaxLine = 16;
+    private const int MaxClients = 4;
     private readonly string portFile;
     private readonly IPluginLog log;
     private readonly TcpListener listener;
@@ -41,25 +43,48 @@ public sealed class ControlServer : IDisposable
         {
             TcpClient c;
             try { c = await listener.AcceptTcpClientAsync(); } catch { return; }
-            lock (clients) clients.Add(c);
+            lock (clients)
+            {
+                if (clients.Count >= MaxClients) { try { c.Dispose(); } catch { } continue; }
+                clients.Add(c);
+            }
             _ = Task.Run(() => ReadLoop(c));
             Send(c, lastStatus);
         }
     }
 
+    // Clients may only send the fixed command words. Anything else (an HTTP request from a web page, an over-long line, binary junk) closes the connection.
     private async Task ReadLoop(TcpClient c)
     {
         try
         {
-            using var reader = new StreamReader(c.GetStream(), Encoding.UTF8);
-            string? line;
-            while ((line = await reader.ReadLineAsync()) != null)
+            var stream = c.GetStream();
+            var buf = new byte[256];
+            var line = new StringBuilder();
+            int n;
+            while ((n = await stream.ReadAsync(buf, 0, buf.Length)) > 0)
             {
-                var cmd = line.Trim().ToLowerInvariant();
-                if (Allowed.Contains(cmd)) Commands.Enqueue(cmd);
+                for (var i = 0; i < n; i++)
+                {
+                    var b = buf[i];
+                    if (b == (byte)'\n')
+                    {
+                        var cmd = line.ToString().Trim().ToLowerInvariant();
+                        line.Clear();
+                        if (cmd.Length == 0) continue;
+                        if (!Allowed.Contains(cmd)) { log.Warning("Control port: dropped a client that sent something other than a command"); goto done; }
+                        Commands.Enqueue(cmd);
+                    }
+                    else
+                    {
+                        if (line.Length >= MaxLine || b < 0x09 || b > 0x7e) { log.Warning("Control port: dropped a client that sent an invalid line"); goto done; }
+                        line.Append((char)b);
+                    }
+                }
             }
         }
         catch { }
+        done:
         lock (clients) clients.Remove(c);
         try { c.Dispose(); } catch { }
     }

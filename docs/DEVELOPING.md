@@ -25,5 +25,5 @@ Needs the .NET 10 SDK and a Dalamud build (default `~/.xlcore/dalamud/Hooks/dev`
 - `./build.sh` builds the plugin and the player host.
 - `tests/run.sh` runs the logic tests (installer download, checksum, retries, video rules). `tests/run.sh installer` runs just the installer tests, which also work under Wine.
 - Player host: `tools/pack-host.sh OWNER/REPO` zips the host, writes its SHA-256 into `host-manifest.json` (embedded in the plugin), and prints the release to create (`host-<version>` with the zip as asset). Do this only when the player changes.
-- Plugin: `tools/release.sh OWNER/REPO 1.0.1 "what changed"` builds `dist/latest.zip` and rewrites `pluginmaster.json`. Upload the zip to the GitHub release `v1.0.1` (pushing the tag does this through `.github/workflows/release.yml`) and commit `pluginmaster.json`.
+- Plugin: `tools/release.sh OWNER/REPO 1.0.1 "what changed"` builds `dist/latest.zip` and rewrites `pluginmaster.json`. Upload the zip to the GitHub release `v1.0.1` (pushing the tag does this through `.github/workflows/release.yml`) and commit `pluginmaster.json`. The Settings install command for the Linux media-key helper downloads `tools/mpris-bridge/` from the tag `v<version>` and checks the SHA-256 that the build embeds, so create the tag on the commit the plugin was built from (an edited helper without a rebuild fails the check).
 
