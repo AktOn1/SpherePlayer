@@ -6,8 +6,11 @@ loopback port instead (port number in ~/.xlcore/pluginConfigs/SpherePlayer/contr
 connects to it and shows up on the D-Bus session bus as the MPRIS player "Sphere Player", so the
 hardware next / previous / play-pause keys (and playerctl, the shell media widget, KDE/GNOME
 widgets) control the plugin. It appears only while the game plugin is running.
+
+If the plugin and the game folder are gone (checked every 10 minutes, 3 times in a row, never while
+connected), the helper disables itself and deletes its systemd unit.
 """
-import json, os, socket, sys, threading, time
+import json, os, socket, subprocess, sys, threading, time
 
 import dbus, dbus.service
 from dbus.mainloop.glib import DBusGMainLoop
@@ -19,6 +22,12 @@ PATH = "/org/mpris/MediaPlayer2"
 ROOT = "org.mpris.MediaPlayer2"
 PLAYER = "org.mpris.MediaPlayer2.Player"
 PROPS = "org.freedesktop.DBus.Properties"
+
+XLCORE = os.path.expanduser("~/.xlcore")
+UNIT = os.path.expanduser("~/.config/systemd/user/sphere-player-mpris.service")
+CHECK_SECONDS = int(os.environ.get("SPHEREPLAYER_CHECK_SECONDS", "600"))
+STRIKES_TO_REMOVE = 3   # consecutive "plugin not installed" checks before the helper removes itself
+absent_checks = 0
 
 state = {}          # last status object from the plugin
 sock = None
@@ -229,12 +238,56 @@ def reader():
         time.sleep(2)
 
 
+def plugin_installed():
+    """True if the plugin looks installed, or if we cannot tell (never remove on doubt)."""
+    if not os.path.isdir(XLCORE):
+        return False                                    # XIVLauncher/game folder is gone
+    if os.path.isdir(os.path.join(XLCORE, "installedPlugins", "SpherePlayer")):
+        return True
+    try:
+        cfg = json.load(open(os.path.join(XLCORE, "dalamudConfig.json"), encoding="utf-8-sig"))
+        locs = cfg.get("DevPluginLoadLocations", {}).get("$values", [])
+    except (OSError, ValueError, AttributeError):
+        return True
+    for loc in locs:
+        path = str(loc.get("Path", ""))
+        if path.replace("\\", "/").rsplit("/", 1)[-1].lower() == "sphereplayer.dll":
+            drive, rest = path[:2].lower(), path[2:].replace("\\", "/")
+            root = os.path.join(XLCORE, "wineprefix", "drive_c") if drive == "c:" else "/" if drive == "z:" else None
+            if root is None or os.path.exists(root.rstrip("/") + rest):
+                return True
+    return False
+
+
+def self_remove():
+    print("plugin and game no longer installed, removing this helper", flush=True)
+    subprocess.run(["systemctl", "--user", "disable", "sphere-player-mpris.service"], check=False)
+    try:
+        os.remove(UNIT)
+    except OSError:
+        pass
+    subprocess.run(["systemctl", "--user", "daemon-reload"], check=False)
+    os._exit(0)
+
+
+def check_installed():
+    global absent_checks
+    if sock is not None or not os.environ.get("INVOCATION_ID"):
+        absent_checks = 0                               # connected, or not started by systemd
+        return True
+    absent_checks = 0 if plugin_installed() else absent_checks + 1
+    if absent_checks >= STRIKES_TO_REMOVE:
+        self_remove()
+    return True
+
+
 def main():
     global bus
     DBusGMainLoop(set_as_default=True)
     bus = dbus.SessionBus()
     threading.Thread(target=reader, daemon=True).start()
     GLib.timeout_add_seconds(1, lambda: (player.refresh() if player else None) or True)
+    GLib.timeout_add_seconds(CHECK_SECONDS, check_installed)
     GLib.MainLoop().run()
 
 
