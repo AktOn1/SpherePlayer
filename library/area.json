@@ -126,6 +126,17 @@
   "track": "[Video Soundtrack] Flying Fortress [FINAL FANTASY I]"
  },
  {
+  "game": "Final Fantasy",
+  "kind": "dungeon",
+  "tags": [
+   "ruins",
+   "eerie"
+  ],
+  "id": "X15ESjpZTng",
+  "title": "Derelict Keep",
+  "track": "FF1 PR - Derelict Keep"
+ },
+ {
   "game": "Final Fantasy II",
   "kind": "town",
   "tags": [

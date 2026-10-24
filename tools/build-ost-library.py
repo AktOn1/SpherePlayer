@@ -13,10 +13,13 @@ def load(name):
     return json.load(open(f)) if os.path.exists(f) else {}
 overrides, homes = load("overrides.json"), load("homes.json")   # audit corrections (arbitrate-ost.py) and FFXIV place ties (assign-homes.py)
 songs, area, other = [], [], []
+extra = load("extra-tracks.json") or []   # hand-picked tracks the playlists lack (MusicBrainz gap check); classified by hand, not by classify-ost.py
 for g in GAMES:
     p = os.path.join(HERE, "ost", "classified", g + ".json")
     if not os.path.exists(p): continue
-    for t in json.load(open(p)):
+    have = json.load(open(p))
+    known = {t["id"] for t in have}
+    for t in have + [{"id": e["id"], "orig": e["orig"], "title": e["title"], "seconds": e["seconds"], "kind": e["kind"], "tags": e["tags"]} for e in extra if e["game"] == g and e["id"] not in known]:
         title = CLEAN.sub(" ", t["title"]).strip()
         if t["id"] in overrides: t = {**t, "kind": overrides[t["id"]]["kind"], "tags": overrides[t["id"]]["tags"]}
         if t["kind"] in ("battle", "boss"): songs.append({"game": g, "category": t["kind"], "id": t["id"], "title": title})

@@ -36,6 +36,42 @@
   "title": "Game Over"
  },
  {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "MleQxnNPxuY",
+  "title": "Opening Demo"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "boss",
+  "id": "wNfmMa3q0dg",
+  "title": "Miniboss Battle"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "boss",
+  "id": "5H6z_8Mow-U",
+  "title": "Boss Battle A"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "boss",
+  "id": "eh4dKyg3LhU",
+  "title": "Boss Battle B"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "lzDiIQFIXqw",
+  "title": "End Theme"
+ },
+ {
+  "game": "Final Fantasy",
+  "category": "other",
+  "id": "b75PYiJpGuU",
+  "title": "Building the Bridge"
+ },
+ {
   "game": "Final Fantasy II",
   "category": "other",
   "id": "7_ztaHxLIQI",
@@ -88,6 +124,12 @@
   "category": "boss",
   "id": "9BjkwYAhb2Q",
   "title": "Battle Theme 3"
+ },
+ {
+  "game": "Final Fantasy II",
+  "category": "other",
+  "id": "Jo688Sxm110",
+  "title": "Finale"
  },
  {
   "game": "Final Fantasy III",
@@ -160,6 +202,12 @@
   "category": "boss",
   "id": "0mCNpo0EkNo",
   "title": "This Is the Last Battle"
+ },
+ {
+  "game": "Final Fantasy III",
+  "category": "other",
+  "id": "Oo-2yMRzsas",
+  "title": "Ending Theme"
  },
  {
   "game": "Final Fantasy IV",
@@ -286,6 +334,12 @@
   "category": "boss",
   "id": "Fd_FyPn6SuQ",
   "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy IV",
+  "category": "other",
+  "id": "WbJvr3kRuDs",
+  "title": "Epilogue -2-"
  },
  {
   "game": "Final Fantasy V",
@@ -418,6 +472,30 @@
   "category": "boss",
   "id": "oyzsRJW3Xxw",
   "title": "The Final Battle"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "RRHR9Yma39s",
+  "title": "The Silent Beyond"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "8ZGVxaPmGQQ",
+  "title": "Dear Friends"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "45L0Rua-jLc",
+  "title": "The Prelude"
+ },
+ {
+  "game": "Final Fantasy V",
+  "category": "other",
+  "id": "0JKo3PRInzQ",
+  "title": "Piano Lesson 4"
  },
  {
   "game": "Final Fantasy VI",
@@ -610,6 +688,18 @@
   "category": "boss",
   "id": "sJ0HeCZYAhI",
   "title": "Dancing Mad"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "EoHsNo-ns0M",
+  "title": "Balance Is Restored (Ending Theme)"
+ },
+ {
+  "game": "Final Fantasy VI",
+  "category": "other",
+  "id": "2ZA0hyz4CjI",
+  "title": "Prelude"
  },
  {
   "game": "Final Fantasy VII",
@@ -892,6 +982,18 @@
   "category": "other",
   "id": "lX-HzYKFFoA",
   "title": "Staff Roll"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "n0H6kTppjP8",
+  "title": "Aerith's Theme"
+ },
+ {
+  "game": "Final Fantasy VII",
+  "category": "other",
+  "id": "7Pulm8JS1qA",
+  "title": "The Planet's Crisis"
  },
  {
   "game": "Final Fantasy VIII",
@@ -1180,6 +1282,18 @@
   "category": "other",
   "id": "bWA635zt9nM",
   "title": "Overture"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "HNefNLOHVYk",
+  "title": "Eyes On Me"
+ },
+ {
+  "game": "Final Fantasy VIII",
+  "category": "other",
+  "id": "wa3jMCj4R_k",
+  "title": "Ending Theme"
  },
  {
   "game": "Final Fantasy IX",
@@ -1588,6 +1702,18 @@
   "category": "other",
   "id": "LSz-WtATsL8",
   "title": "Melodies of Life (The Layers of Harmony)"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "mwdbvP2JHZ8",
+  "title": "Behind the Door"
+ },
+ {
+  "game": "Final Fantasy IX",
+  "category": "other",
+  "id": "DW4C4RVmN9s",
+  "title": "Melodies of Life ~Final Fantasy~"
  },
  {
   "game": "Final Fantasy X",
@@ -3096,6 +3222,18 @@
   "title": "Rhapsodies of Vana'diel"
  },
  {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "kPUrgpbAHaA",
+  "title": "Opening Theme (Legend / Memory of the People)"
+ },
+ {
+  "game": "Final Fantasy XI",
+  "category": "other",
+  "id": "0xdIYJ9p8Nc",
+  "title": "Moongate (Memoro de la Ŝtono)"
+ },
+ {
   "game": "Final Fantasy XII",
   "category": "other",
   "id": "nYITru9U-bM",
@@ -3424,6 +3562,12 @@
   "category": "other",
   "id": "gNjaY7NmWJQ",
   "title": "Theme of Final Fantasy XII (Press Conference Version)"
+ },
+ {
+  "game": "Final Fantasy XII",
+  "category": "other",
+  "id": "FfRl9c_mkbk",
+  "title": "Symphonic Poem \"Hope\" (PV ver.)"
  },
  {
   "game": "Final Fantasy XIII",

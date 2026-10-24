@@ -73,7 +73,7 @@ Timing: a new zone starts its music at once, calm music after a fight waits 4 s,
 
 ## Song library
 
-2144 tracks from the original soundtracks of Final Fantasy I to XVI, from official Square Enix Music and YouTube Music playlists, all checked for embedding. "Other" tracks (cutscenes, fanfares, character scenes) are never played automatically, only from the song window, which has a game filter, a search box and pages of 40.
+2169 tracks from the original soundtracks of Final Fantasy I to XVI, from official Square Enix Music and YouTube Music playlists, all checked for embedding. "Other" tracks (cutscenes, fanfares, character scenes) are never played automatically, only from the song window, which has a game filter, a search box and pages of 40.
 
 ## Building it yourself
 
